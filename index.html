@@ -7,12 +7,19 @@
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 40px auto; padding: 20px; background: #f0f2f5; color: #333; }
         header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #ddd; padding-bottom: 15px; margin-bottom: 25px; }
-        .news-card { background: white; padding: 20px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.2s ease; }
-        .news-card:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(0,0,0,0.1); }
-        .news-title { display: block; color: #1a1a1a; text-decoration: none; font-size: 1.25rem; font-weight: 700; margin-top: 10px; line-height: 1.4; }
+        
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+        .news-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.2s ease; display: flex; flex-direction: column; }
+        .news-card:hover { transform: translateY(-4px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); }
+        
+        .news-image { width: 100%; height: 180px; object-fit: cover; background: #e9ecef; border-bottom: 1px solid #eee; }
+        .news-content { padding: 20px; display: flex; flex-direction: column; flex-grow: 1; }
+        
+        .news-title { display: block; color: #1a1a1a; text-decoration: none; font-size: 1.15rem; font-weight: 700; margin: 12px 0; line-height: 1.4; }
         .news-title:hover { color: #0056b3; }
-        .meta { color: #666; font-size: 0.85rem; margin-top: 10px; display: flex; justify-content: space-between; }
-        .category-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+        
+        .meta { color: #666; font-size: 0.85rem; margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
+        .category-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; width: fit-content; }
     </style>
 </head>
 <body>
@@ -21,7 +28,7 @@
         <div id="updated-at" style="font-size: 0.9rem; color: #666;">Syncing...</div>
     </header>
 
-    <div id="news-container"></div>
+    <div id="news-container" class="news-grid"></div>
 
     <script>
         async function fetchNews() {
@@ -34,15 +41,22 @@
                 container.innerHTML = ''; 
 
                 data.news.forEach(item => {
-                    // We dynamically apply the colors from your JSON feed here
+                    // Check if an image exists. If not, use a blank placeholder or skip it.
+                    const imageHtml = item.image 
+                        ? `<img src="${item.image}" alt="News thumbnail" class="news-image" loading="lazy">` 
+                        : `<div class="news-image" style="display: flex; align-items: center; justify-content: center; color: #aaa; font-size: 0.8rem;">No Image</div>`;
+
                     container.innerHTML += `
                         <div class="news-card">
-                            <span class="category-badge" style="background-color: ${item.bg}; color: ${item.color};">
-                                ${item.icon} ${item.category}
-                            </span>
-                            <a class="news-title" href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
-                            <div class="meta">
-                                <span>${new Date(item.pubDate).toLocaleString()}</span>
+                            ${imageHtml}
+                            <div class="news-content">
+                                <span class="category-badge" style="background-color: ${item.bg}; color: ${item.color};">
+                                    ${item.icon} ${item.category}
+                                </span>
+                                <a class="news-title" href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                                <div class="meta">
+                                    <span>${new Date(item.pubDate).toLocaleDateString()}</span>
+                                </div>
                             </div>
                         </div>
                     `;
