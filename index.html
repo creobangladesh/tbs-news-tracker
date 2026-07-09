@@ -2,44 +2,58 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>TBS Live News Feed</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TBS News Aggregator</title>
     <style>
-        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
-        .news-card { background: white; padding: 20px; border-radius: 8px; margin-top: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        a { color: #0066cc; text-decoration: none; font-size: 1.2rem; font-weight: bold; }
-        .meta { color: #888; font-size: 0.9rem; margin-top: 5px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 40px auto; padding: 20px; background: #f0f2f5; color: #333; }
+        header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #ddd; padding-bottom: 15px; margin-bottom: 25px; }
+        .news-card { background: white; padding: 20px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.2s ease; }
+        .news-card:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(0,0,0,0.1); }
+        .news-title { display: block; color: #1a1a1a; text-decoration: none; font-size: 1.25rem; font-weight: 700; margin-top: 10px; line-height: 1.4; }
+        .news-title:hover { color: #0056b3; }
+        .meta { color: #666; font-size: 0.85rem; margin-top: 10px; display: flex; justify-content: space-between; }
+        .category-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
     </style>
 </head>
 <body>
-    <h1>TBS News Tracker</h1>
-    <p id="updated-at">Loading latest news...</p>
+    <header>
+        <h1>TBS News Explorer</h1>
+        <div id="updated-at" style="font-size: 0.9rem; color: #666;">Syncing...</div>
+    </header>
+
     <div id="news-container"></div>
 
     <script>
         async function fetchNews() {
             try {
-                // We add a timestamp to the URL to force the browser to get the newest data
                 const response = await fetch('./data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
-                document.getElementById('updated-at').innerText = `Last updated: ${new Date(data.updatedAt).toLocaleTimeString()}`;
+                document.getElementById('updated-at').innerText = `Last sync: ${new Date(data.updatedAt).toLocaleTimeString()}`;
                 const container = document.getElementById('news-container');
                 container.innerHTML = ''; 
 
                 data.news.forEach(item => {
+                    // We dynamically apply the colors from your JSON feed here
                     container.innerHTML += `
                         <div class="news-card">
-                            <a href="${item.link}" target="_blank">${item.title}</a>
-                            <div class="meta">${new Date(item.pubDate).toLocaleString()}</div>
+                            <span class="category-badge" style="background-color: ${item.bg}; color: ${item.color};">
+                                ${item.icon} ${item.category}
+                            </span>
+                            <a class="news-title" href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                            <div class="meta">
+                                <span>${new Date(item.pubDate).toLocaleString()}</span>
+                            </div>
                         </div>
                     `;
                 });
             } catch (error) {
-                console.log("No data yet, or error fetching.");
+                document.getElementById('news-container').innerHTML = '<p>Loading feeds...</p>';
             }
         }
+        
         fetchNews();
-        setInterval(fetchNews, 30 * 60 * 1000); // Reload every 30 mins
+        setInterval(fetchNews, 30 * 60 * 1000); 
     </script>
 </body>
 </html>
