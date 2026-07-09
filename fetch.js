@@ -1,7 +1,6 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 
-// Configure parser to look for hidden description and media tags
 const parser = new Parser({
     customFields: {
         item: [
@@ -26,8 +25,8 @@ const feeds = [
     { id: 'Analysis', url: 'https://www.tbsnews.net/analysis/rss.xml', color: '#5d4037', bg: '#efebe9', icon: '🔍' }
 ];
 
-// Replicating your n8n variables: 30 hours maximum age
-const FRESHNESS_HOURS = 30; 
+// UPDATED: 120 hours (5 days)
+const FRESHNESS_HOURS = 120; 
 const TIME_LIMIT = Date.now() - (FRESHNESS_HOURS * 60 * 60 * 1000);
 const seenLinks = new Set(); 
 
@@ -40,20 +39,16 @@ async function fetchAllNews() {
             let feedItemCount = 0; 
             
             for (const item of parsedFeed.items) {
-                // Replicating your n8n "Limit to 7" node
-                if (feedItemCount >= 7) break; 
-
-                // Deduplication check
+                // UPDATED: Allow up to 25 items per category so we have plenty of history
+                if (feedItemCount >= 25) break; 
                 if (seenLinks.has(item.link)) continue;
                 
-                // Freshness check (30 hours)
                 const itemDate = new Date(item.pubDate || item.isoDate).getTime();
                 if (itemDate < TIME_LIMIT) continue;
 
                 seenLinks.add(item.link);
                 feedItemCount++; 
 
-                // 1. Try to find the image in the RSS data
                 let imageUrl = null;
                 if (item.enclosure && item.enclosure.url) imageUrl = item.enclosure.url;
                 else if (item.mediaContent && item.mediaContent['$'] && item.mediaContent['$'].url) imageUrl = item.mediaContent['$'].url;
@@ -65,7 +60,6 @@ async function fetchAllNews() {
                     if (imgMatch) imageUrl = imgMatch[1];
                 }
 
-                // 2. Replicating your n8n "Fetch HTML" scrape logic if RSS fails
                 if (!imageUrl) {
                     try {
                         const response = await fetch(item.link);
@@ -73,7 +67,7 @@ async function fetchAllNews() {
                         const ogMatch = html.match(/<meta[^>]+property=['"]og:image['"][^>]+content=['"]([^'"]+)['"]/i);
                         if (ogMatch) imageUrl = ogMatch[1];
                     } catch (e) {
-                        console.log(`Could not scrape image for: ${item.link}`);
+                        // ignore fetch errors
                     }
                 }
 
@@ -93,9 +87,7 @@ async function fetchAllNews() {
         }
     }
 
-    // Sort everything by newest time
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
     const output = { news: allNews, updatedAt: new Date().toISOString() };
     fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
 }
