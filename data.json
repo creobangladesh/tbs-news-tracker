@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "title": "Osmani Hospital interns conditionally withdraw strike, to return to work on 11 July",
+      "link": "https://www.tbsnews.net/bangladesh/osmani-hospital-interns-conditionally-withdraw-strike-return-work-11-july-1484366",
+      "pubDate": "Fri, 10 Jul 2026 02:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/25/mag_osmani_hospital.png"
+    },
+    {
+      "title": "Heavy rain disrupts Chattogram port, trade movement",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-disrupts-chattogram-port-trade-movement-1484356",
+      "pubDate": "Fri, 10 Jul 2026 02:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/ctg_port_container_photo_4_1.jpg"
+    },
+    {
       "title": "Bangladeshi expat wins over Tk3cr in Abu Dhabi Big Ticket draw",
       "link": "https://www.tbsnews.net/bangladesh/bangladeshi-expat-wins-over-tk3cr-abu-dhabi-big-ticket-draw-1484351",
       "pubDate": "Fri, 10 Jul 2026 01:45:00 +0600",
@@ -71,16 +91,6 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/cabinet_meeting.jpg"
     },
     {
-      "title": "Sarwar Alamgir takes oath as Chattogram-2 MP after five-month legal battle",
-      "link": "https://www.tbsnews.net/bangladesh/sarwar-alamgir-takes-oath-chattogram-2-mp-after-five-month-legal-battle-1484296",
-      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/hafiz_sarwar.jpg"
-    },
-    {
       "title": "UGC to provide soft skills training for university students",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-provide-soft-skills-training-university-students-1484301",
       "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
@@ -89,6 +99,16 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png"
+    },
+    {
+      "title": "Sarwar Alamgir takes oath as Chattogram-2 MP after five-month legal battle",
+      "link": "https://www.tbsnews.net/bangladesh/sarwar-alamgir-takes-oath-chattogram-2-mp-after-five-month-legal-battle-1484296",
+      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/hafiz_sarwar.jpg"
     },
     {
       "title": "Govt appoints new Sylhet DC in fresh reshuffle",
@@ -191,23 +211,13 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/gambling_alcohol.jpg"
     },
     {
-      "title": "EC to publish updated voter list for local polls on 31 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/ec-publish-updated-voter-list-local-polls-31-aug-1484211",
-      "pubDate": "Thu, 09 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_6.jpg"
-    },
-    {
       "title": "Bangladesh needs swift reforms to stay competitive after LDC graduation: ICCB",
       "link": "https://www.tbsnews.net/economy/bangladesh-needs-swift-reforms-stay-competitive-after-ldc-graduation-iccb-1484216",
       "pubDate": "Thu, 09 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png"
     },
     {
@@ -1121,5 +1131,5 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/11/bloomberg.png"
     }
   ],
-  "updatedAt": "2026-07-09T20:18:57.597Z"
+  "updatedAt": "2026-07-09T21:57:37.440Z"
 }
