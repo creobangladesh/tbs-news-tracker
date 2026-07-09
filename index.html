@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TBS Live News Feed</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
+        .news-card { background: white; padding: 20px; border-radius: 8px; margin-top: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        a { color: #0066cc; text-decoration: none; font-size: 1.2rem; font-weight: bold; }
+        .meta { color: #888; font-size: 0.9rem; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <h1>TBS News Tracker</h1>
+    <p id="updated-at">Loading latest news...</p>
+    <div id="news-container"></div>
+
+    <script>
+        async function fetchNews() {
+            try {
+                // We add a timestamp to the URL to force the browser to get the newest data
+                const response = await fetch('./data.json?t=' + new Date().getTime());
+                const data = await response.json();
+                
+                document.getElementById('updated-at').innerText = `Last updated: ${new Date(data.updatedAt).toLocaleTimeString()}`;
+                const container = document.getElementById('news-container');
+                container.innerHTML = ''; 
+
+                data.news.forEach(item => {
+                    container.innerHTML += `
+                        <div class="news-card">
+                            <a href="${item.link}" target="_blank">${item.title}</a>
+                            <div class="meta">${new Date(item.pubDate).toLocaleString()}</div>
+                        </div>
+                    `;
+                });
+            } catch (error) {
+                console.log("No data yet, or error fetching.");
+            }
+        }
+        fetchNews();
+        setInterval(fetchNews, 30 * 60 * 1000); // Reload every 30 mins
+    </script>
+</body>
+</html>
