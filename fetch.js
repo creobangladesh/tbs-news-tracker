@@ -1,12 +1,14 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 
-// We configure the parser to look for hidden media tags
+// Configure parser to look for hidden description and media tags
 const parser = new Parser({
     customFields: {
         item: [
             ['media:content', 'mediaContent'],
-            ['content:encoded', 'contentEncoded']
+            ['media:thumbnail', 'mediaThumbnail'],
+            ['content:encoded', 'contentEncoded'],
+            ['description', 'description']
         ]
     }
 });
@@ -24,32 +26,58 @@ const feeds = [
     { id: 'Analysis', url: 'https://www.tbsnews.net/analysis/rss.xml', color: '#5d4037', bg: '#efebe9', icon: '🔍' }
 ];
 
+// Replicating your n8n variables: 30 hours maximum age
+const FRESHNESS_HOURS = 30; 
+const TIME_LIMIT = Date.now() - (FRESHNESS_HOURS * 60 * 60 * 1000);
+const seenLinks = new Set(); 
+
 async function fetchAllNews() {
     let allNews = [];
 
     for (const feed of feeds) {
         try {
             const parsedFeed = await parser.parseURL(feed.url);
+            let feedItemCount = 0; 
             
-            const items = parsedFeed.items.map(item => {
-                let imageUrl = null;
+            for (const item of parsedFeed.items) {
+                // Replicating your n8n "Limit to 7" node
+                if (feedItemCount >= 7) break; 
 
-                // Hunt 1: Check standard enclosure
-                if (item.enclosure && item.enclosure.url) {
-                    imageUrl = item.enclosure.url;
-                } 
-                // Hunt 2: Check media:content
-                else if (item.mediaContent && item.mediaContent['$'] && item.mediaContent['$'].url) {
-                    imageUrl = item.mediaContent['$'].url;
-                }
-                // Hunt 3: Dig into the article text with Regex to find an embedded image
-                else if (item.content || item.contentEncoded) {
-                    const htmlContent = item.content || item.contentEncoded;
-                    const imgMatch = htmlContent.match(/<img[^>]+src="([^">]+)"/);
+                // Deduplication check
+                if (seenLinks.has(item.link)) continue;
+                
+                // Freshness check (30 hours)
+                const itemDate = new Date(item.pubDate || item.isoDate).getTime();
+                if (itemDate < TIME_LIMIT) continue;
+
+                seenLinks.add(item.link);
+                feedItemCount++; 
+
+                // 1. Try to find the image in the RSS data
+                let imageUrl = null;
+                if (item.enclosure && item.enclosure.url) imageUrl = item.enclosure.url;
+                else if (item.mediaContent && item.mediaContent['$'] && item.mediaContent['$'].url) imageUrl = item.mediaContent['$'].url;
+                else if (item.mediaThumbnail && item.mediaThumbnail['$'] && item.mediaThumbnail['$'].url) imageUrl = item.mediaThumbnail['$'].url;
+                
+                if (!imageUrl) {
+                    const combinedText = (item.content || '') + ' ' + (item.contentEncoded || '') + ' ' + (item.description || '');
+                    const imgMatch = combinedText.match(/<img[^>]+src=['"]([^'"]+)['"]/i);
                     if (imgMatch) imageUrl = imgMatch[1];
                 }
 
-                return {
+                // 2. Replicating your n8n "Fetch HTML" scrape logic if RSS fails
+                if (!imageUrl) {
+                    try {
+                        const response = await fetch(item.link);
+                        const html = await response.text();
+                        const ogMatch = html.match(/<meta[^>]+property=['"]og:image['"][^>]+content=['"]([^'"]+)['"]/i);
+                        if (ogMatch) imageUrl = ogMatch[1];
+                    } catch (e) {
+                        console.log(`Could not scrape image for: ${item.link}`);
+                    }
+                }
+
+                allNews.push({
                     title: item.title,
                     link: item.link,
                     pubDate: item.pubDate || item.isoDate,
@@ -57,23 +85,18 @@ async function fetchAllNews() {
                     color: feed.color,
                     bg: feed.bg,
                     icon: feed.icon,
-                    image: imageUrl // Attach the image we found!
-                };
-            });
-            
-            allNews = allNews.concat(items);
+                    image: imageUrl 
+                });
+            }
         } catch (error) {
             console.error(`Error fetching ${feed.id}:`, error.message);
         }
     }
 
+    // Sort everything by newest time
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-    const output = {
-        news: allNews,
-        updatedAt: new Date().toISOString()
-    };
-
+    const output = { news: allNews, updatedAt: new Date().toISOString() };
     fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
 }
 
