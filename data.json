@@ -91,16 +91,6 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/cabinet_meeting.jpg"
     },
     {
-      "title": "UGC to provide soft skills training for university students",
-      "link": "https://www.tbsnews.net/bangladesh/education/ugc-provide-soft-skills-training-university-students-1484301",
-      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png"
-    },
-    {
       "title": "Sarwar Alamgir takes oath as Chattogram-2 MP after five-month legal battle",
       "link": "https://www.tbsnews.net/bangladesh/sarwar-alamgir-takes-oath-chattogram-2-mp-after-five-month-legal-battle-1484296",
       "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
@@ -109,6 +99,16 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/hafiz_sarwar.jpg"
+    },
+    {
+      "title": "UGC to provide soft skills training for university students",
+      "link": "https://www.tbsnews.net/bangladesh/education/ugc-provide-soft-skills-training-university-students-1484301",
+      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png"
     },
     {
       "title": "Govt appoints new Sylhet DC in fresh reshuffle",
@@ -1131,5 +1131,5 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/11/bloomberg.png"
     }
   ],
-  "updatedAt": "2026-07-09T21:57:37.440Z"
+  "updatedAt": "2026-07-09T23:18:09.987Z"
 }
