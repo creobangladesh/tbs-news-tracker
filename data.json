@@ -1,6 +1,76 @@
 {
   "news": [
     {
+      "title": "Bangladeshi expat wins over Tk3cr in Abu Dhabi Big Ticket draw",
+      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-expat-wins-over-tk3cr-abu-dhabi-big-ticket-draw-1484351",
+      "pubDate": "Fri, 10 Jul 2026 01:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/usa_big_draw_lottery.jpg"
+    },
+    {
+      "title": "Govt in trade talks with 15 countries, blocs to ease post-LDC export challenges",
+      "link": "https://www.tbsnews.net/economy/govt-trade-talks-15-countries-blocs-ease-post-ldc-export-challenges-1484346",
+      "pubDate": "Fri, 10 Jul 2026 01:25:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png"
+    },
+    {
+      "title": "Will Bangladesh economy gain momentum in FY27? ADB hints not yet",
+      "link": "https://www.tbsnews.net/economy/will-bangladesh-economy-gain-momentum-fy27-adb-hints-not-yet-1484341",
+      "pubDate": "Fri, 10 Jul 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/15/adb.jpg"
+    },
+    {
+      "title": "EU keen on FTA with Bangladesh; technical team to visit soon",
+      "link": "https://www.tbsnews.net/bangladesh/eu-keen-fta-bangladesh-technical-team-visit-soon-1484331",
+      "pubDate": "Fri, 10 Jul 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/30/ldc_copy.png"
+    },
+    {
+      "title": "Fresh FDI in Bangladesh plunges 70% in Q1",
+      "link": "https://www.tbsnews.net/economy/fresh-fdi-bangladesh-plunges-70-q1-1484326",
+      "pubDate": "Fri, 10 Jul 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png"
+    },
+    {
+      "title": "Army rescues tourists, restores roads as floods and landslides batter CHT",
+      "link": "https://www.tbsnews.net/bangladesh/army-rescues-tourists-restores-roads-floods-and-landslides-batter-cht-1484321",
+      "pubDate": "Fri, 10 Jul 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/army_flood.jpg"
+    },
+    {
+      "title": "Cabinet approves draft Invest Bangladesh Act to unify investment agencies",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-approves-draft-invest-bangladesh-act-unify-investment-agencies-1484316",
+      "pubDate": "Fri, 10 Jul 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/cabinet_meeting.jpg"
+    },
+    {
       "title": "Sarwar Alamgir takes oath as Chattogram-2 MP after five-month legal battle",
       "link": "https://www.tbsnews.net/bangladesh/sarwar-alamgir-takes-oath-chattogram-2-mp-after-five-month-legal-battle-1484296",
       "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
@@ -111,16 +181,6 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/verdict.png"
     },
     {
-      "title": "EC to publish updated voter list for local polls on 31 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/ec-publish-updated-voter-list-local-polls-31-aug-1484211",
-      "pubDate": "Thu, 09 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_6.jpg"
-    },
-    {
       "title": "Bills to ban alcohol and gambling withdrawn moments after being tabled in parliament  ",
       "link": "https://www.tbsnews.net/bangladesh/bills-ban-alcohol-and-gambling-withdrawn-moments-after-being-tabled-parliament-1484206",
       "pubDate": "Thu, 09 Jul 2026 20:55:00 +0600",
@@ -131,6 +191,16 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/gambling_alcohol.jpg"
     },
     {
+      "title": "EC to publish updated voter list for local polls on 31 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/ec-publish-updated-voter-list-local-polls-31-aug-1484211",
+      "pubDate": "Thu, 09 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_6.jpg"
+    },
+    {
       "title": "Bangladesh needs swift reforms to stay competitive after LDC graduation: ICCB",
       "link": "https://www.tbsnews.net/economy/bangladesh-needs-swift-reforms-stay-competitive-after-ldc-graduation-iccb-1484216",
       "pubDate": "Thu, 09 Jul 2026 20:50:00 +0600",
@@ -139,66 +209,6 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png"
-    },
-    {
-      "title": "Shama stresses manpower cooperation with Algeria",
-      "link": "https://www.tbsnews.net/bangladesh/shama-stresses-manpower-cooperation-algeria-1484186",
-      "pubDate": "Thu, 09 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/shama_obaed.png"
-    },
-    {
-      "title": "Korean EPZ wins national tree plantation award",
-      "link": "https://www.tbsnews.net/bangladesh/environment/korean-epz-wins-national-tree-plantation-award-1484156",
-      "pubDate": "Thu, 09 Jul 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/kepz.jpg"
-    },
-    {
-      "title": "Bangladesh, Indonesia eye stronger economic relations",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-indonesia-eye-stronger-economic-relations-1484161",
-      "pubDate": "Thu, 09 Jul 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/the_d-8_halal_expo_2026_.png"
-    },
-    {
-      "title": "PM presents national awards for environment, wildlife conservation and tree plantation",
-      "link": "https://www.tbsnews.net/bangladesh/pm-presents-national-awards-environment-wildlife-conservation-and-tree-plantation-1484146",
-      "pubDate": "Thu, 09 Jul 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/national_environment_award.jpg"
-    },
-    {
-      "title": "Sitakunda child killing: Accused Babu Sheikh sentenced to death",
-      "link": "https://www.tbsnews.net/bangladesh/crime/sitakunda-child-killing-accused-babu-sheikh-sentenced-death-1484131",
-      "pubDate": "Thu, 09 Jul 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/03/sitakunda.png"
-    },
-    {
-      "title": "172 deputy secretaries promoted to joint secretary  ",
-      "link": "https://www.tbsnews.net/bangladesh/172-deputy-secretaries-promoted-joint-secretary-1484121",
-      "pubDate": "Thu, 09 Jul 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/01/ministry_of_public_administration.jpg"
     },
     {
       "title": "Soaring NPLs: Who will stem the tide?",
@@ -721,16 +731,6 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fifa_feature.jpg"
     },
     {
-      "title": "Steel industry faces upgrade pressure as infrastructure, high-rises demand stronger materials",
-      "link": "https://www.tbsnews.net/economy/industry/steel-industry-faces-upgrade-pressure-infrastructure-high-rises-demand-stronger",
-      "pubDate": "Tue, 07 Jul 2026 13:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/17/china_steel_pipes.jpg"
-    },
-    {
       "title": "The compound social capital behind South America’s football dominance",
       "link": "https://www.tbsnews.net/thoughts/compound-social-capital-behind-south-americas-football-dominance-1481831",
       "pubDate": "Tue, 07 Jul 2026 13:00:00 +0600",
@@ -739,6 +739,16 @@
       "bg": "#eceff1",
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/brazil.jpg"
+    },
+    {
+      "title": "Steel industry faces upgrade pressure as infrastructure, high-rises demand stronger materials",
+      "link": "https://www.tbsnews.net/economy/industry/steel-industry-faces-upgrade-pressure-infrastructure-high-rises-demand-stronger",
+      "pubDate": "Tue, 07 Jul 2026 13:00:00 +0600",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/17/china_steel_pipes.jpg"
     },
     {
       "title": "Joining Regional Comprehensive Economic Partnership: A strategic necessity for Bangladesh in the post-LDC era",
@@ -764,20 +774,20 @@
       "title": "Sheltech unveils Tk1,500cr investment plan to boost exports, diversify business",
       "link": "https://www.tbsnews.net/economy/industry/sheltech-unveils-tk1500cr-investment-plan-boost-exports-diversify-business-1481676",
       "pubDate": "Tue, 07 Jul 2026 11:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/sheltech.png"
     },
     {
       "title": "Cenbank pushes for unified QR payment – what it means for customers",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-pushes-unified-qr-payment-what-it-means-customers-1481661",
       "pubDate": "Tue, 07 Jul 2026 11:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/p3_bangla_qr_rajibdhar.jpg"
     },
     {
@@ -1111,5 +1121,5 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/11/bloomberg.png"
     }
   ],
-  "updatedAt": "2026-07-09T18:19:07.384Z"
+  "updatedAt": "2026-07-09T20:18:57.597Z"
 }
