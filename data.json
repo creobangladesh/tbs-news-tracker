@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "172 deputy secretaries promoted to joint secretary  ",
+      "link": "https://www.tbsnews.net/bangladesh/172-deputy-secretaries-promoted-joint-secretary-1484121",
+      "pubDate": "Thu, 09 Jul 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/01/ministry_of_public_administration.jpg"
+    },
+    {
+      "title": "EU launches new project on regional energy connectivity in South Asia",
+      "link": "https://www.tbsnews.net/bangladesh/eu-launches-new-project-regional-energy-connectivity-south-asia-1484126",
+      "pubDate": "Thu, 09 Jul 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/eu.png"
+    },
+    {
+      "title": "Man placed on 2-day remand over arson, vandalism at Daily Star office",
+      "link": "https://www.tbsnews.net/bangladesh/court/man-placed-2-day-remand-over-arson-vandalism-daily-star-office-1484096",
+      "pubDate": "Thu, 09 Jul 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/saiful_islam.jpg"
+    },
+    {
+      "title": "FM Khalilur Rahman to visit New York 10 July-29 ahead of UNGA 81 Presidency",
+      "link": "https://www.tbsnews.net/bangladesh/fm-khalilur-rahman-visit-new-york-10-july-29-ahead-unga-81-presidency-1484091",
+      "pubDate": "Thu, 09 Jul 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/24/untitled_design_15.png"
+    },
+    {
+      "title": "Drugs are unadulterated, but food is not: Jamaat MP raises food safety concerns in parliament",
+      "link": "https://www.tbsnews.net/bangladesh/drugs-are-unadulterated-food-not-jamaat-mp-raises-food-safety-concerns-parliament-1484076",
+      "pubDate": "Thu, 09 Jul 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/01/bd_parliament.jpg"
+    },
+    {
       "title": "Bangladesh, China's Fujian forge G2G partnership to modernise agriculture",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-chinas-fujian-forge-g2g-partnership-modernise-agriculture-1484071",
       "pubDate": "Thu, 09 Jul 2026 18:50:00 +0600",
@@ -21,7 +71,7 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/accused.jpg"
     },
     {
-      "title": "EV industry policy likely to be finalised in 3 months: Industries ministry",
+      "title": "EV industry policy draft likely to be finalised in 3 months: Industries ministry",
       "link": "https://www.tbsnews.net/bangladesh/ev-industry-policy-likely-be-finalised-3-months-industries-ministry-1484056",
       "pubDate": "Thu, 09 Jul 2026 18:30:00 +0600",
       "category": "Bangladesh",
@@ -41,16 +91,6 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/18/home_ministry.jpg"
     },
     {
-      "title": "Riyadh Air starts selling tickets for daily Dhaka-Riyadh flights from 7 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/riyadh-air-starts-selling-tickets-daily-dhaka-riyadh-flights-7-aug-1484031",
-      "pubDate": "Thu, 09 Jul 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/12/riyadh-air-logo.png"
-    },
-    {
       "title": "Govt will build homes in safe areas for families at risk of landslides: Disaster minister",
       "link": "https://www.tbsnews.net/bangladesh/govt-will-build-homes-safe-areas-families-risk-landslides-disaster-minister-1484026",
       "pubDate": "Thu, 09 Jul 2026 18:10:00 +0600",
@@ -59,6 +99,16 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/landslide.jpg"
+    },
+    {
+      "title": "Riyadh Air starts selling tickets for daily Dhaka-Riyadh flights from 7 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/riyadh-air-starts-selling-tickets-daily-dhaka-riyadh-flights-7-aug-1484031",
+      "pubDate": "Thu, 09 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/12/riyadh-air-logo.png"
     },
     {
       "title": "12 Bangladeshis killed in Middle East conflict, 186 repatriated from Iran: Expat minister",
@@ -111,16 +161,6 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/default_loan_cartoon.png"
     },
     {
-      "title": "Foreign investors to get one-page licence to establish factories in Bangladesh: Ctg Chamber president",
-      "link": "https://www.tbsnews.net/bangladesh/foreign-investors-get-one-page-licence-establish-factories-bangladesh-ctg-chamber",
-      "pubDate": "Thu, 09 Jul 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/ctg_chamber_president.jpg"
-    },
-    {
       "title": "Legal notice seeks information on those killed in ‘crossfire’ during Awami League rule",
       "link": "https://www.tbsnews.net/bangladesh/court/legal-notice-seeks-information-those-killed-crossfire-during-awami-league-rule",
       "pubDate": "Thu, 09 Jul 2026 17:10:00 +0600",
@@ -129,6 +169,16 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/15/gun_representational.png"
+    },
+    {
+      "title": "Foreign investors to get one-page licence to establish factories in Bangladesh: Ctg Chamber president",
+      "link": "https://www.tbsnews.net/bangladesh/foreign-investors-get-one-page-licence-establish-factories-bangladesh-ctg-chamber",
+      "pubDate": "Thu, 09 Jul 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/ctg_chamber_president.jpg"
     },
     {
       "title": "Gold prices fall again as Bajus slashes rates",
@@ -161,54 +211,14 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/maksudur_rahman.jpg"
     },
     {
-      "title": "Govt takes steps to boost tea production amid rising demand: Commerce minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-takes-steps-boost-tea-production-amid-rising-demand-commerce-minister-1483911",
-      "pubDate": "Thu, 09 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/22/tea_garden__0.jpg"
-    },
-    {
-      "title": "No lack of diplomatic efforts to bring back Hasina, says Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/no-lack-diplomatic-efforts-bring-back-hasina-says-shama-obaed-1483901",
-      "pubDate": "Thu, 09 Jul 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/shama.png"
-    },
-    {
-      "title": "Italian firms eye deeper investment, technology partnerships in Bangladesh's textile sector: Envoy",
-      "link": "https://www.tbsnews.net/bangladesh/italian-firms-eye-deeper-investment-technology-partnerships-bangladeshs-textile-sector",
-      "pubDate": "Thu, 09 Jul 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/italian_envoy.jpeg"
-    },
-    {
       "title": "Dengue: 2 patients die, 190 hospitalised in 24 hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-2-patients-die-190-hospitalised-24-hrs-1483896",
       "pubDate": "Thu, 09 Jul 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_8.jpg"
-    },
-    {
-      "title": "Beyond Middle East, govt eyes new labour markets in Thailand, Japan, South Korea",
-      "link": "https://www.tbsnews.net/bangladesh/govt-eyes-new-labour-markets-beyond-middle-east-eyes-thailand-japan-south-korea-1483886",
-      "pubDate": "Thu, 09 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/09/labour.jpg"
     },
     {
       "title": "Measles: Death toll rises to 747 as 2 more children die",
@@ -1109,17 +1119,7 @@
       "bg": "#fff3e0",
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/04/chattogram_university.jpeg"
-    },
-    {
-      "title": "Sirajganj school head teacher suspended, MPO halted over viral 'obscene' video",
-      "link": "https://www.tbsnews.net/bangladesh/education/sirajganj-school-head-teacher-suspended-mpo-halted-over-viral-obscene-video",
-      "pubDate": "Sat, 04 Jul 2026 19:25:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/31/sirajganj_map.jpg"
     }
   ],
-  "updatedAt": "2026-07-09T13:10:23.712Z"
+  "updatedAt": "2026-07-09T13:50:05.986Z"
 }
