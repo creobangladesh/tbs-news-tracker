@@ -2,210 +2,434 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
-    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amer's News</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
     
+    <script>
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+    </script>
+
     <style>
-        /* Global & Dark Mode Styles */
-        body { 
-            font-family: 'Inter', sans-serif; 
-            background: #121212; 
-            color: #e0e0e0; 
-            margin: 0; 
-            padding: 20px 0; 
+        /* Light Theme (Default CSS variables) */
+        :root {
+            --bg-main: #f4f6f8;
+            --bg-card: #ffffff;
+            --text-main: #1a202c;
+            --text-dim: #718096;
+            --border: #e2e8f0;
+            --capsule: #e2e8f0;
+            --capsule-hover: #cbd5e0;
+            --accent: #2b6cb0;
         }
+
+        /* Dark Theme */
+        [data-theme="dark"] {
+            --bg-main: #121212;
+            --bg-card: #1e1e1e;
+            --text-main: #f7fafc;
+            --text-dim: #a0aec0;
+            --border: #333333;
+            --capsule: #2d3748;
+            --capsule-hover: #4a5568;
+            --accent: #63b3ed;
+        }
+
+        body { font-family: 'Inter', sans-serif; background: var(--bg-main); color: var(--text-main); margin: 0; padding: 0; transition: background 0.3s, color 0.3s; }
         
-        /* Layout Widths */
-        .container { margin: 0 auto; width: 95%; }
+        .container { margin: 0 auto; width: 95%; padding: 20px 0; max-width: 1400px; }
         @media (min-width: 1024px) { .container { width: 80%; } }
-        
-        /* Header & Logo */
-        header { text-align: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
-        .header-top { display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px; }
-        .logo { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; }
-        h1 { margin: 0; font-size: 2.2rem; color: #ffffff; font-weight: 700; }
-        
-        .sync-row { display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 20px; }
-        .sync-status { font-size: 0.85rem; color: #888; }
-        
-        /* Flat Buttons */
-        .btn { 
-            background: #222; color: #e0e0e0; border: 1px solid #444; 
-            padding: 6px 16px; cursor: pointer; font-weight: 600; font-size: 0.85rem; 
-            font-family: 'Inter', sans-serif; transition: background 0.2s; 
-        }
-        .btn:hover { background: #333; }
-        .btn.active { background: #e0e0e0; color: #121212; border-color: #e0e0e0; }
-        
-        .filter-bar { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px; }
 
-        /* Grid Layout (Phone 1, Tablet 3, PC 4) */
-        .news-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
-        @media (min-width: 768px) { .news-grid { grid-template-columns: repeat(3, 1fr); } }
-        @media (min-width: 1024px) { .news-grid { grid-template-columns: repeat(4, 1fr); } }
+        /* Top Header Area */
+        .top-bar { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 20px; font-size: 0.9rem; font-weight: 600; color: var(--text-dim); }
+        .theme-toggle { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-main); }
+        .live-clock { text-transform: uppercase; letter-spacing: 0.5px; }
 
-        /* Flat Cards */
-        .news-card { 
-            background: #1a1a1a; border: 1px solid #333; 
-            display: flex; flex-direction: column; 
-            /* No rounded corners, no hover animations, no shadows */
-        }
+        /* Brand Header */
+        .brand-header { text-align: center; margin-bottom: 30px; }
+        .logo { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; }
+        h1 { margin: 0; font-size: 2.5rem; font-weight: 800; letter-spacing: -1px; }
+        .sync-row { display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 10px; }
         
-        /* Images */
-        .news-image { width: 100%; height: 200px; object-fit: cover; background: #222; border-bottom: 1px solid #333; }
+        /* Controls (Search, Sort, View) */
+        .controls-row { display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between; align-items: center; background: var(--bg-card); padding: 15px; margin-bottom: 20px; border: 1px solid var(--border); }
+        .search-box { flex: 1; min-width: 200px; padding: 10px 15px; border: 1px solid var(--border); background: var(--bg-main); color: var(--text-main); font-family: 'Inter'; outline: none; }
+        .view-sort { display: flex; gap: 15px; align-items: center; }
+        .select-box { padding: 9px; border: 1px solid var(--border); background: var(--bg-main); color: var(--text-main); outline: none; cursor: pointer; }
+        .icon-btn { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-dim); opacity: 0.5; transition: opacity 0.2s; }
+        .icon-btn.active { opacity: 1; color: var(--text-main); }
+
+        /* Filter Capsules & Accordion */
+        .filter-accordion { background: var(--bg-card); border: 1px solid var(--border); margin-bottom: 25px; }
+        .filter-accordion summary { padding: 15px; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; }
+        .filter-accordion summary::-webkit-details-marker { display: none; }
+        .filter-accordion summary:after { content: "▼"; font-size: 0.8rem; }
+        .filter-accordion[open] summary:after { content: "▲"; }
+        .filter-bar { display: flex; gap: 10px; flex-wrap: wrap; padding: 0 15px 15px 15px; }
+        
+        .capsule { background: var(--capsule); color: var(--text-main); border: none; padding: 6px 16px; border-radius: 999px; cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: background 0.2s; }
+        .capsule:hover { background: var(--capsule-hover); }
+        .capsule.active { background: var(--text-main); color: var(--bg-main); }
+
+        /* News Layouts */
+        .layout-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
+        @media (min-width: 768px) { .layout-grid { grid-template-columns: repeat(3, 1fr); } }
+        @media (min-width: 1024px) { .layout-grid { grid-template-columns: repeat(4, 1fr); } }
+        
+        .layout-masonry { column-count: 1; column-gap: 20px; }
+        @media (min-width: 768px) { .layout-masonry { column-count: 3; } }
+        @media (min-width: 1024px) { .layout-masonry { column-count: 4; } }
+        .layout-masonry .news-card { break-inside: avoid; margin-bottom: 20px; }
+
+        .layout-list { display: flex; flex-direction: column; gap: 20px; }
+
+        /* Card Styles (Flat) */
+        .news-card { background: var(--bg-card); border: 1px solid var(--border); display: flex; flex-direction: column; transition: opacity 0.3s; position: relative; }
+        .news-card.read { opacity: 0.55; }
+        .news-image { width: 100%; height: 200px; object-fit: cover; background: var(--bg-main); border-bottom: 1px solid var(--border); display: block; }
         .news-content { padding: 20px; display: flex; flex-direction: column; flex-grow: 1; }
         
-        /* Typography */
-        .news-title { display: block; color: #ffffff; text-decoration: none; font-size: 1.1rem; font-weight: 600; line-height: 1.4; margin: 0 0 15px 0; }
-        .news-title:hover { text-decoration: underline; color: #bbb; }
-        
-        .meta { color: #888; font-size: 0.8rem; margin-top: auto; padding-top: 15px; border-top: 1px solid #333; }
-        
-        /* Tags (Dark Mode adjusted) */
-        .category-badge { 
-            display: inline-flex; align-items: center; gap: 6px; 
-            padding: 4px 8px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; 
-            width: fit-content; cursor: pointer; margin-bottom: 12px; border: 1px solid rgba(255,255,255,0.1);
+        /* List Mode Adjustments */
+        @media (min-width: 768px) {
+            .layout-list .news-card { flex-direction: row; }
+            .layout-list .news-image { width: 300px; height: auto; min-height: 200px; border-bottom: none; border-right: 1px solid var(--border); }
         }
-        .category-badge:hover { filter: brightness(1.2); }
+
+        /* Hero Article (Only applies in Grid view) */
+        .layout-grid .hero-card { grid-column: 1 / -1; display: flex; flex-direction: column; }
+        @media (min-width: 768px) {
+            .layout-grid .hero-card { flex-direction: row; align-items: stretch; }
+            .layout-grid .hero-card .news-image { width: 60%; height: 400px; border-bottom: none; border-right: 1px solid var(--border); }
+            .layout-grid .hero-card .news-content { width: 40%; justify-content: center; padding: 40px; }
+            .layout-grid .hero-card .news-title { font-size: 2rem; }
+        }
+
+        /* Typography & Utilities inside cards */
+        .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
+        .tag { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; padding: 4px 10px; border-radius: 999px; cursor: pointer; border: 1px solid rgba(150,150,150,0.2); }
+        .tag:hover { filter: brightness(1.2); }
+        .bookmark-btn { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-dim); }
+        .bookmark-btn.saved { color: #f6ad55; }
+
+        .news-title { display: block; color: var(--text-main); text-decoration: none; font-size: 1.1rem; font-weight: 700; line-height: 1.4; margin-bottom: 15px; }
+        .news-title:hover { text-decoration: underline; color: var(--accent); }
+        
+        .meta { color: var(--text-dim); font-size: 0.8rem; margin-top: auto; padding-top: 15px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
+        
+        /* Social Share */
+        .social-row { display: flex; gap: 10px; }
+        .social-row a { color: var(--text-dim); text-decoration: none; font-size: 1rem; transition: color 0.2s; }
+        .social-row a:hover { color: var(--accent); }
+
+        /* Pagination & Footer */
+        .load-more { display: block; width: 100%; padding: 15px; margin-top: 30px; background: var(--bg-card); color: var(--text-main); border: 1px solid var(--border); font-weight: 700; cursor: pointer; transition: background 0.2s; }
+        .load-more:hover { background: var(--capsule); }
+        
+        footer { text-align: center; padding: 40px 0; margin-top: 40px; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 0.9rem; }
+        footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
     </style>
 </head>
 <body>
     <div class="container">
-        <header>
-            <div class="header-top">
-                <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
-                <h1>Amer's News</h1>
-            </div>
-            
+        
+        <div class="top-bar">
+            <button id="theme-btn" class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark/Light Mode"></button>
+            <div id="live-datetime" class="live-clock"></div>
+        </div>
+
+        <div class="brand-header">
+            <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Amer Habib Logo" class="logo">
+            <h1>Amer's News</h1>
             <div class="sync-row">
-                <div id="updated-at" class="sync-status">Fetching latest updates...</div>
-                <button class="btn" onclick="init()">↻ Refresh Now</button>
+                <span id="sync-status" style="font-size: 0.85rem; color: var(--text-dim);">Fetching latest data...</span>
+                <button class="capsule" style="padding: 4px 10px; font-size: 0.75rem;" onclick="init()">↻ Force Sync</button>
             </div>
+        </div>
+
+        <div class="controls-row">
+            <input type="text" id="search-box" class="search-box" placeholder="Search articles, keywords..." oninput="handleSearch()">
             
+            <div class="view-sort">
+                <select id="sort-box" class="select-box" onchange="handleSort()">
+                    <option value="newest">Sort: Newest First</option>
+                    <option value="oldest">Sort: Oldest First</option>
+                    <option value="alpha">Sort: A-Z</option>
+                    <option value="bookmarks">View Bookmarks Only</option>
+                </select>
+                
+                <button class="icon-btn active" id="view-grid" onclick="setView('grid')" title="Grid View">⊞</button>
+                <button class="icon-btn" id="view-masonry" onclick="setView('masonry')" title="Masonry View">⚏</button>
+                <button class="icon-btn" id="view-list" onclick="setView('list')" title="List View">☰</button>
+            </div>
+        </div>
+
+        <details class="filter-accordion" id="filter-details">
+            <summary>Filter Categories</summary>
             <div id="filter-container" class="filter-bar">
                 </div>
-        </header>
+        </details>
 
-        <div id="news-container" class="news-grid"></div>
+        <div id="news-container" class="layout-grid"></div>
+        
+        <button id="load-more-btn" class="load-more" onclick="loadMore()" style="display: none;">Load Older Articles ↓</button>
+
+        <footer>
+            Built with ♥ by <a href="https://amerhabib.com/" target="_blank" rel="noopener">Amer Habib</a>
+        </footer>
+
     </div>
 
     <script>
-        let globalNewsData = [];
+        // State Management
+        let globalData = [];
+        let filteredData = [];
+        let itemsPerPage = 13; // 1 Hero + 12 Cards
+        let currentDisplayed = itemsPerPage;
+        let currentView = 'grid';
+        
+        // Local Storage State
+        let readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
+        let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
 
-        // Time Calculator 
-        function getRelativeTime(dateString) {
+        // Initialize Live Clock
+        function updateClock() {
             const now = new Date();
-            const pubDate = new Date(dateString);
-            const diffSecs = Math.floor((now - pubDate) / 1000);
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' };
+            document.getElementById('live-datetime').innerText = now.toLocaleDateString('en-US', options);
+        }
+        setInterval(updateClock, 60000); updateClock();
+
+        // Theme Setup
+        function setupThemeIcon() {
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            document.getElementById('theme-btn').innerText = isDark ? '☀️ Light' : '🌙 Dark';
+        }
+        setupThemeIcon();
+
+        window.toggleTheme = function() {
+            const current = document.documentElement.getAttribute('data-theme');
+            const target = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', target);
+            localStorage.setItem('theme', target);
+            setupThemeIcon();
+        }
+
+        // Relative Time logic
+        function getRelativeTime(dateStr) {
+            const diffSecs = Math.floor((new Date() - new Date(dateStr)) / 1000);
             const diffMins = Math.floor(diffSecs / 60);
             const diffHours = Math.floor(diffMins / 60);
             const diffDays = Math.floor(diffHours / 24);
 
             if (diffSecs < 60) return "Just now";
-            if (diffMins < 60) return `${diffMins} minute${diffMins > 1 ? 's' : ''} ago`;
-            if (diffHours < 24) return `${diffHours} hour${diffHours > 1 ? 's' : ''} ago`;
+            if (diffMins < 60) return `${diffMins} min ago`;
+            if (diffHours < 24) return `${diffHours} hr ago`;
             if (diffDays === 1) return "Yesterday";
             return `${diffDays} days ago`;
         }
 
-        function setupFilters() {
-            const container = document.getElementById('filter-container');
-            container.innerHTML = `<button class="btn active" onclick="filterNews('All', this)">All News</button>`;
+        // Set View mode
+        window.setView = function(viewType) {
+            currentView = viewType;
+            document.getElementById('news-container').className = `layout-${viewType}`;
             
-            const categories = [...new Set(globalNewsData.map(item => item.category))];
+            // Update Icon opacities
+            document.querySelectorAll('.icon-btn').forEach(btn => btn.classList.remove('active'));
+            document.getElementById(`view-${viewType}`).classList.add('active');
             
-            categories.forEach(cat => {
-                const sample = globalNewsData.find(item => item.category === cat);
-                // We add the icon manually here to ensure it displays
-                const icon = sample.icon || '';
-                container.innerHTML += `<button class="btn" onclick="filterNews('${cat}', this)">${icon} ${cat}</button>`;
-            });
+            renderArticles(); // Re-render to handle Hero logic
         }
 
-        function renderNews(filterCategory = 'All') {
-            const container = document.getElementById('news-container');
-            container.innerHTML = ''; 
+        // Setup the filter capsules
+        function setupFilters() {
+            const container = document.getElementById('filter-container');
+            container.innerHTML = `<button class="capsule active" onclick="filterCategory('All', this)">All News</button>`;
+            
+            const categories = [...new Set(globalData.map(item => item.category))];
+            categories.forEach(cat => {
+                const sample = globalData.find(item => item.category === cat);
+                container.innerHTML += `<button class="capsule" onclick="filterCategory('${cat}', this)">${sample.icon} ${cat}</button>`;
+            });
+            
+            // Auto-open accordion on Desktop
+            if (window.innerWidth >= 1024) document.getElementById('filter-details').open = true;
+        }
 
-            const filteredData = filterCategory === 'All' 
-                ? globalNewsData 
-                : globalNewsData.filter(item => item.category === filterCategory);
-
-            if (filteredData.length === 0) {
-                container.innerHTML = '<p style="color: #888;">No recent news in this category.</p>';
-                return;
+        window.filterCategory = function(category, btnElement) {
+            // Update Active Buttons
+            document.querySelectorAll('.capsule').forEach(b => b.classList.remove('active'));
+            if(btnElement) btnElement.classList.add('active');
+            else {
+                document.querySelectorAll('.capsule').forEach(b => {
+                    if (b.innerText.includes(category) || (category === 'All' && b.innerText === 'All News')) b.classList.add('active');
+                });
             }
 
-            filteredData.forEach(item => {
-                const imageHtml = item.image 
-                    ? `<a href="${item.link}" target="_blank"><img src="${item.image}" alt="Article image" class="news-image" loading="lazy"></a>` 
-                    : `<div class="news-image" style="display: flex; align-items: center; justify-content: center; color: #555;">No Image</div>`;
+            // Reset search box when clicking a category
+            document.getElementById('search-box').value = '';
+            
+            applyFiltersAndSort();
+        }
 
-                const relativeTime = getRelativeTime(item.pubDate);
-                const icon = item.icon || '';
+        window.handleSearch = function() { applyFiltersAndSort(); }
+        window.handleSort = function() { applyFiltersAndSort(); }
 
-                container.innerHTML += `
-                    <div class="news-card">
-                        ${imageHtml}
-                        <div class="news-content">
-                            <span class="category-badge" 
-                                  style="background-color: ${item.bg}; color: ${item.color};" 
-                                  onclick="filterNews('${item.category}')">
-                                ${icon} ${item.category}
+        // Core logic: Filters data based on Category, Search, and Sort state
+        function applyFiltersAndSort() {
+            const activeBtn = document.querySelector('.capsule.active');
+            const category = activeBtn ? activeBtn.innerText.replace(/[^\w\s]/gi, '').trim() : 'All';
+            const searchTerm = document.getElementById('search-box').value.toLowerCase();
+            const sortMode = document.getElementById('sort-box').value;
+
+            // 1. Filter Category & Bookmarks
+            filteredData = globalData;
+            if (sortMode === 'bookmarks') {
+                filteredData = filteredData.filter(item => bookmarks.includes(item.link));
+            } else if (category !== 'All' && category !== 'All News') {
+                filteredData = filteredData.filter(item => item.category === category);
+            }
+
+            // 2. Filter Search
+            if (searchTerm) {
+                filteredData = filteredData.filter(item => item.title.toLowerCase().includes(searchTerm));
+            }
+
+            // 3. Sort
+            if (sortMode === 'newest' || sortMode === 'bookmarks') {
+                filteredData.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+            } else if (sortMode === 'oldest') {
+                filteredData.sort((a, b) => new Date(a.pubDate) - new Date(b.pubDate));
+            } else if (sortMode === 'alpha') {
+                filteredData.sort((a, b) => a.title.localeCompare(b.title));
+            }
+
+            currentDisplayed = itemsPerPage;
+            renderArticles();
+        }
+
+        window.loadMore = function() {
+            currentDisplayed += 12;
+            renderArticles();
+        }
+
+        window.markRead = function(link) {
+            if (!readArticles.includes(link)) {
+                readArticles.push(link);
+                localStorage.setItem('readArticles', JSON.stringify(readArticles));
+                // Find and dim the card visually without a full re-render
+                document.getElementById(`card-${btoa(link).replace(/=/g,'')}`).classList.add('read');
+            }
+        }
+
+        window.toggleBookmark = function(event, link) {
+            event.preventDefault(); // Stop link from opening
+            
+            if (bookmarks.includes(link)) {
+                bookmarks = bookmarks.filter(l => l !== link);
+                event.target.innerHTML = '☆';
+                event.target.classList.remove('saved');
+            } else {
+                bookmarks.push(link);
+                event.target.innerHTML = '★';
+                event.target.classList.add('saved');
+            }
+            localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+            
+            // If currently in bookmark view, re-filter
+            if (document.getElementById('sort-box').value === 'bookmarks') applyFiltersAndSort();
+        }
+
+        // HTML Generator for a single card
+        function buildCardHtml(item, isHero = false) {
+            const isRead = readArticles.includes(item.link);
+            const isBookmarked = bookmarks.includes(item.link);
+            const cardId = `card-${btoa(item.link).replace(/=/g,'')}`;
+            
+            const imageHtml = item.image 
+                ? `<a href="${item.link}" target="_blank" onclick="markRead('${item.link}')"><img src="${item.image}" alt="News thumbnail" class="news-image" loading="lazy"></a>` 
+                : `<div class="news-image" style="display:flex;align-items:center;justify-content:center;color:var(--text-dim);">No Image</div>`;
+
+            // Social Share URLs
+            const encodedUrl = encodeURIComponent(item.link);
+            const encodedTitle = encodeURIComponent(item.title);
+
+            return `
+                <div id="${cardId}" class="news-card ${isHero ? 'hero-card' : ''} ${isRead ? 'read' : ''}">
+                    ${imageHtml}
+                    <div class="news-content">
+                        <div class="card-header">
+                            <span class="tag" style="background-color: ${item.bg}; color: ${item.color};" onclick="filterCategory('${item.category}')">
+                                ${item.icon} ${item.category}
                             </span>
-                            <a class="news-title" href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
-                            <div class="meta">
-                                <span title="${new Date(item.pubDate).toLocaleString()}">${relativeTime}</span>
+                            <button class="bookmark-btn ${isBookmarked ? 'saved' : ''}" onclick="toggleBookmark(event, '${item.link}')" title="Bookmark Article">
+                                ${isBookmarked ? '★' : '☆'}
+                            </button>
+                        </div>
+                        
+                        <a class="news-title" href="${item.link}" target="_blank" rel="noopener" onclick="markRead('${item.link}')">${item.title}</a>
+                        
+                        <div class="meta">
+                            <span title="${new Date(item.pubDate).toLocaleString()}">${getRelativeTime(item.pubDate)}</span>
+                            <div class="social-row">
+                                <a href="https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}" target="_blank" title="Share on Twitter">𝕏</a>
+                                <a href="https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}" target="_blank" title="Share on LinkedIn">in</a>
+                                <a href="mailto:?subject=${encodedTitle}&body=Check out this article: ${encodedUrl}" title="Email this">✉</a>
                             </div>
                         </div>
                     </div>
-                `;
-            });
+                </div>
+            `;
         }
 
-        window.filterNews = function(category, buttonElement = null) {
-            if (buttonElement) {
-                document.querySelectorAll('.filter-bar .btn').forEach(btn => btn.classList.remove('active'));
-                buttonElement.classList.add('active');
-            } else {
-                document.querySelectorAll('.filter-bar .btn').forEach(btn => {
-                    btn.classList.remove('active');
-                    if(btn.innerText.includes(category)) btn.classList.add('active');
-                    if(category === 'All' && btn.innerText.includes('All News')) btn.classList.add('active');
-                });
+        function renderArticles() {
+            const container = document.getElementById('news-container');
+            container.innerHTML = '';
+
+            if (filteredData.length === 0) {
+                container.innerHTML = '<p style="color: var(--text-dim); padding: 20px;">No articles found matching this criteria.</p>';
+                document.getElementById('load-more-btn').style.display = 'none';
+                return;
             }
-            renderNews(category);
+
+            const itemsToRender = filteredData.slice(0, currentDisplayed);
+            let html = '';
+
+            // Apply Hero Logic: Only if sorted by newest, grid view, no search, and 'All' category
+            const isDefaultState = (currentView === 'grid' && document.getElementById('search-box').value === '' && document.getElementById('sort-box').value === 'newest');
+
+            if (isDefaultState && itemsToRender.length > 0) {
+                html += buildCardHtml(itemsToRender[0], true); // First item is Hero
+                itemsToRender.slice(1).forEach(item => html += buildCardHtml(item, false));
+            } else {
+                itemsToRender.forEach(item => html += buildCardHtml(item, false));
+            }
+
+            container.innerHTML = html;
+
+            // Load More button visibility
+            document.getElementById('load-more-btn').style.display = (currentDisplayed < filteredData.length) ? 'block' : 'none';
         }
 
         async function init() {
             try {
-                document.getElementById('updated-at').innerText = "Fetching latest updates...";
+                document.getElementById('sync-status').innerText = "Fetching latest data...";
                 const response = await fetch('./data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
-                globalNewsData = data.news;
-                document.getElementById('updated-at').innerText = `Data synced: ${new Date(data.updatedAt).toLocaleTimeString()}`;
+                globalData = data.news;
+                document.getElementById('sync-status').innerText = `Synced: ${new Date(data.updatedAt).toLocaleTimeString()}`;
                 
-                // Only setup filters on the very first load to prevent buttons from resetting
                 if(document.getElementById('filter-container').innerHTML.trim() === "") {
                     setupFilters();
                 }
                 
-                // Re-render based on whatever category is currently active
-                const activeBtn = document.querySelector('.filter-bar .btn.active');
-                const activeCat = activeBtn ? activeBtn.innerText.replace(/[^\w\s]/gi, '').trim() : 'All';
-                renderNews(activeCat === 'All News' ? 'All' : activeCat);
-                
+                applyFiltersAndSort(); // Trigger initial render
             } catch (error) {
-                document.getElementById('news-container').innerHTML = '<p style="color: #ff6b6b;">Failed to load data. Please check your GitHub Actions.</p>';
+                document.getElementById('sync-status').innerText = 'Failed to load data. Waiting for GitHub Action...';
             }
         }
         
