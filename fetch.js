@@ -80,7 +80,6 @@ async function fetchAllNews() {
                     bg: feed.bg,
                     icon: feed.icon,
                     image: imageUrl 
-                    snippet: item.contentSnippet || item.description || '' // Add this line
                 });
             }
         } catch (error) {
