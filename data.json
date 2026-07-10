@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Flood fears loom for more low-lying areas as upstream deluge intensifies",
+      "link": "https://www.tbsnews.net/bangladesh/flood-fears-loom-more-low-lying-areas-upstream-deluge-intensifies-1484796",
+      "pubDate": "Fri, 10 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_mirsharai_flood.jpg",
+      "snippet": "Heavy rainfall in upstream India and a low-pressure system over the northwestern Bay have kept flood conditions active across parts of Bangladesh, with authorities warning that rising river levels could inundate new low-lying areas over the next 24 t..."
+    },
+    {
+      "title": "Downpour leaves parts of Dhaka waterlogged",
+      "link": "https://www.tbsnews.net/bangladesh/downpour-leaves-parts-dhaka-waterlogged-1484791",
+      "pubDate": "Fri, 10 Jul 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/dhaka_waterlogged1.jpg",
+      "snippet": "A spell of heavy rain around noon submerged roads in several areas of the capital, disrupting traffic and making movement difficult for commuters."
+    },
+    {
+      "title": "Eleven killed, 19 missing in one of Spain's deadliest wildfires",
+      "link": "https://www.tbsnews.net/worldbiz/europe/eleven-killed-19-missing-one-spains-deadliest-wildfires-1484781",
+      "pubDate": "Fri, 10 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/spain_wildfire_9_july.jpg",
+      "snippet": "Most of the victims appeared to be foreign nationals who ignored instructions to shelter in place and decided to try to flee in their cars, an official said."
+    },
+    {
+      "title": "30,000 marooned as Khowai embankment collapse floods 25 villages in Habiganj",
+      "link": "https://www.tbsnews.net/bangladesh/30000-marooned-khowai-embankment-collapse-floods-25-villages-habiganj-1484771",
+      "pubDate": "Fri, 10 Jul 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/habiganj_flood.jpg",
+      "snippet": "The breach in the Khowai River protection embankment followed days of heavy rain and upstream runoff, flooding villages in Habiganj Sadar, Bahubal and Baniachong upazilas."
+    },
+    {
+      "title": "2 children swept away, killed by onrush of upstream water in Ctg's Banshkhali ",
+      "link": "https://www.tbsnews.net/bangladesh/2-children-swept-away-killed-onrush-upstream-water-ctgs-banshkhali-1484761",
+      "pubDate": "Fri, 10 Jul 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_mirsharai_flood.jpg",
+      "snippet": "Both children were in the yards of their respective homes when strong currents flowing down from the east swept them away."
+    },
+    {
+      "title": "PM orders prompt measures to support flood victims",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-prompt-measures-support-flood-victims-1484766",
+      "pubDate": "Fri, 10 Jul 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/food_safety_pm.jpeg",
+      "snippet": "The Prime Minister has directed leaders and activists of the ruling BNP and its affiliated and associate bodies to stand by the flood victims."
+    },
+    {
+      "title": "Measles: Death toll reaches 750 as 3 more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-750-3-more-children-die-24-hours-1484756",
+      "pubDate": "Fri, 10 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/07/whatsapp_image_2026-05-07_at_2.56.49_pm.jpeg",
+      "snippet": "A total of 901 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 1,09,899."
+    },
+    {
       "title": "Chattogram Board postpones tomorrow's HSC exam amid worsening floods",
       "link": "https://www.tbsnews.net/bangladesh/education/chattogram-board-postpones-tomorrows-hsc-exam-amid-worsening-floods-1484741",
       "pubDate": "Fri, 10 Jul 2026 16:25:00 +0600",
@@ -188,39 +265,6 @@
       "snippet": "Officials said the Bangladesh Forest Research Institute has also developed more than 100 sustainable technologies, including bamboo cultivation through tissue culture."
     },
     {
-      "title": "Netherlands keen to deepen defence cooperation with Bangladesh: Envoy",
-      "link": "https://www.tbsnews.net/bangladesh/netherlands-keen-deepen-defence-cooperation-bangladesh-envoy-1484391",
-      "pubDate": "Fri, 10 Jul 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/bangladesh_netherlands_flag.jpg",
-      "snippet": "During the meeting held at the Armed Forces Division headquarters in Dhaka Cantonment, the two sides exchanged views on strengthening the longstanding friendly relations between Bangladesh and the Netherlands, with a particular focus on expanding def..."
-    },
-    {
-      "title": "PM expresses interest in visiting Pitachhara conservation forest in Khagrachhari",
-      "link": "https://www.tbsnews.net/bangladesh/pm-expresses-interest-visiting-pitachhara-conservation-forest-khagrachhari-1484406",
-      "pubDate": "Fri, 10 Jul 2026 09:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/9f44a24bb962b1ae4efec5b5cf47d98b.jpeg",
-      "snippet": "A brief conversation with Prime Minister Tarique Rahman at the National Tree Plantation Award ceremony has raised hopes of greater national attention for the privately led Pitachhara forest conservation initiative in Khagrachhari"
-    },
-    {
-      "title": "Bar Council-style journalist registration under consideration: Info minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-considering-bar-council-style-registration-journalists-info-minister-1484401",
-      "pubDate": "Fri, 10 Jul 2026 09:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/image-392941-1780730776.jpg",
-      "snippet": "The government has proposed amending the Press Council Act, 1974, to transform the Press Council into a stronger, more effective and media-friendly institution"
-    },
-    {
       "title": "Islami Bank remains remittance leader in FY26 as Krishi, BRAC banks post strong gains",
       "link": "https://www.tbsnews.net/economy/banking/islami-bank-remains-remittance-leader-fy26-krishi-brac-banks-post-strong-gains",
       "pubDate": "Fri, 10 Jul 2026 07:40:00 +0600",
@@ -230,39 +274,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/27/ashiyan-citys-fraud_2.jpg",
       "snippet": "Islami Bank maintained its dominance in remittance despite challenges faced by Shariah-based lenders, collecting $6.88 billion in FY26, according to Bangladesh Bank data."
-    },
-    {
-      "title": "Osmani Hospital interns conditionally withdraw strike, to return to work on 11 July",
-      "link": "https://www.tbsnews.net/bangladesh/osmani-hospital-interns-conditionally-withdraw-strike-return-work-11-july-1484366",
-      "pubDate": "Fri, 10 Jul 2026 02:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/25/mag_osmani_hospital.png",
-      "snippet": "Interns suspend work stoppage after five-hour meeting with hospital authorities but say strike will resume if security demands are not visibly implemented."
-    },
-    {
-      "title": "Heavy rain disrupts Chattogram port, trade movement",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-disrupts-chattogram-port-trade-movement-1484356",
-      "pubDate": "Fri, 10 Jul 2026 02:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/ctg_port_container_photo_4_1.jpg",
-      "snippet": "RMG exporters face city waterlogging hurdle."
-    },
-    {
-      "title": "Bangladeshi expat wins over Tk3cr in Abu Dhabi Big Ticket draw",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-expat-wins-over-tk3cr-abu-dhabi-big-ticket-draw-1484351",
-      "pubDate": "Fri, 10 Jul 2026 01:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/usa_big_draw_lottery.jpg",
-      "snippet": "Mohammad Atik Hasan was among five expatriates who each won 1 million dirham (more than Tk3 crore) in Big Ticket's Series 288 consolation draw."
     },
     {
       "title": "Govt in trade talks with 15 countries, blocs to ease post-LDC export challenges",
@@ -279,10 +290,10 @@
       "title": "Will Bangladesh economy gain momentum in FY27? ADB hints not yet",
       "link": "https://www.tbsnews.net/economy/will-bangladesh-economy-gain-momentum-fy27-adb-hints-not-yet-1484341",
       "pubDate": "Fri, 10 Jul 2026 01:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/15/adb.jpg",
       "snippet": "Growth forecast cut to 4.5% over energy, banking sector concerns"
     },
@@ -1264,51 +1275,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/subodh_photo.jpg",
       "snippet": "An anonymous graffiti figure carrying a caged sun became one of South Asia's most enduring symbols of uncertainty, hope and dissent."
-    },
-    {
-      "title": "TikTok eyes the super app future",
-      "link": "https://www.tbsnews.net/tech/tiktok-eyes-super-app-future-1480231",
-      "pubDate": "Sun, 05 Jul 2026 18:10:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/27/tiktok_logo.jpg",
-      "snippet": "The platform appears to be transforming into a super app, offering users a unified ecosystem that extends well beyond video viewing and sharing to include a wide range of digital services within a single application, reports TechCrunch."
-    },
-    {
-      "title": "The geography of low-cost medicine",
-      "link": "https://www.tbsnews.net/features/panorama/geography-low-cost-medicine-1480226",
-      "pubDate": "Sun, 05 Jul 2026 18:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/pharma-1.png",
-      "snippet": "The unique geography and demography of Bangladesh have helped price deregulation deliver some of the world's most affordable medicines"
-    },
-    {
-      "title": "Tarique Rahman’s China visit balances opportunity, sovereignty and reshapes Bangladesh’s future",
-      "link": "https://www.tbsnews.net/analysis/tarique-rahmans-china-visit-balances-opportunity-sovereignty-and-reshapes-bangladeshs",
-      "pubDate": "Sun, 05 Jul 2026 17:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/pm-visits-china_0_0.png",
-      "snippet": "Prime Minister Tarique Rahman’s recent China visit has opened new opportunities for Bangladesh, but success will depend on implementation, balance and strategic autonomy"
-    },
-    {
-      "title": "A suitcase, a dream, and a city that doesn't wait ",
-      "link": "https://www.tbsnews.net/thoughts/suitcase-dream-and-city-doesnt-wait-1480186",
-      "pubDate": "Sun, 05 Jul 2026 17:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/img_1269.jpeg",
-      "snippet": "You leave home once. Home leaves you slowly."
     }
   ],
-  "updatedAt": "2026-07-10T10:41:16.759Z"
+  "updatedAt": "2026-07-10T12:25:35.058Z"
 }
