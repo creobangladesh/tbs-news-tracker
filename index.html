@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amer's News</title>
+    <title>Amer Habib's News</title>
+    
+    <!-- Synced Favicon -->
+    <link rel="icon" type="image/jpeg" href="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg">
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -50,7 +54,6 @@
         .brand-zone { display: flex; align-items: center; gap: 12px; }
         .logo { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; }
         h1 { font-size: 1.25rem; font-weight: 800; letter-spacing: -0.02em; }
-        .brand-meta { font-size: 0.75rem; color: var(--muted-foreground); margin-top: 2px; }
 
         .utility-zone { display: flex; align-items: center; gap: 10px; font-size: 0.8rem; font-weight: 500; color: var(--muted-foreground); }
         .live-clock { display: none; text-transform: uppercase; letter-spacing: 0.05em; margin-right: 10px; }
@@ -65,19 +68,17 @@
         
         /* Controls Area */
         .controls-row { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center; margin-bottom: 20px; font-size: 0.85rem; }
-        .select-box { padding: 6px 10px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); border-radius: var(--radius); outline: none; cursor: pointer; font-family: inherit; }
-        
-        .view-toggles { display: flex; gap: 5px; background: var(--muted); padding: 4px; border-radius: var(--radius); flex-wrap: wrap; }
-        .view-btn { background: transparent; border: none; padding: 4px 8px; border-radius: var(--radius); cursor: pointer; color: var(--muted-foreground); font-size: 0.8rem; font-weight: 600; transition: all 0.2s; }
-        .view-btn.active { background: var(--background); color: var(--foreground); box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+        .select-box { padding: 6px 10px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); border-radius: var(--radius); outline: none; cursor: pointer; font-family: inherit; font-weight: 500; }
+        .select-box:hover { background: var(--muted); }
 
-        /* Filter Accordion */
-        .filter-accordion { border: 1px solid var(--border); border-radius: var(--radius); margin-bottom: 20px; font-size: 0.85rem; }
-        .filter-accordion summary { padding: 10px 15px; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background: var(--muted); }
+        /* Filter Accordion (Clean, No Outline) */
+        .filter-accordion { border: none; margin-bottom: 20px; font-size: 0.85rem; }
+        .filter-accordion summary { padding: 10px 0; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background: transparent; outline: none; border-bottom: 1px solid transparent; }
         .filter-accordion summary::-webkit-details-marker { display: none; }
         .filter-accordion summary:after { content: "+ Expand Filters"; font-size: 0.75rem; color: var(--muted-foreground); }
+        .filter-accordion[open] summary { border-bottom-color: var(--border); margin-bottom: 10px; }
         .filter-accordion[open] summary:after { content: "- Collapse"; }
-        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; padding: 12px 15px; background: var(--background); }
+        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; padding-bottom: 12px; }
         
         .capsule { background: var(--muted); color: var(--foreground); border: 1px solid transparent; padding: 4px 12px; border-radius: 99px; cursor: pointer; font-size: 0.8rem; font-weight: 500; transition: all 0.2s; }
         .capsule:hover { border-color: var(--border); }
@@ -115,7 +116,7 @@
         .news-title { display: block; color: var(--foreground); text-decoration: none; font-size: 1.05rem; font-weight: 700; line-height: 1.3; margin-bottom: 8px; }
         .news-title:hover { text-decoration: underline; }
         
-        .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.4; }
         .meta { color: var(--muted-foreground); font-size: 0.75rem; display: flex; justify-content: space-between; align-items: center; }
         
         /* List Mode Adjustments */
@@ -125,12 +126,12 @@
         }
 
         /* Text Mode Adjustments */
-        .layout-text .news-card { flex-direction: column; padding: 10px 0; border-bottom: 1px solid var(--border); gap: 4px; }
+        .layout-text .news-card { flex-direction: column; padding: 12px 0; border-bottom: 1px solid var(--border); gap: 6px; }
         .layout-text .card-image-wrap { display: none; }
         .layout-text .card-header { display: none; }
-        .layout-text .news-title { font-size: 1rem; font-weight: 500; display: inline; margin: 0; }
-        .layout-text .snippet { font-size: 0.8rem; margin: 4px 0 0 0; -webkit-line-clamp: 2; }
-        .layout-text .meta { font-size: 0.7rem; margin-top: 4px; }
+        .layout-text .news-title { font-size: 1rem; font-weight: 600; display: inline; margin: 0; }
+        .layout-text .snippet { font-size: 0.85rem; margin: 0; -webkit-line-clamp: 2; }
+        .layout-text .meta { font-size: 0.75rem; margin-top: 4px; }
 
         /* --- HERO CARD --- */
         .hero-card { grid-column: 1 / -1; position: relative; height: 450px; border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: flex-end; padding: 0; }
@@ -169,10 +170,7 @@
             <div class="header-top">
                 <div class="brand-zone">
                     <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
-                    <div>
-                        <h1>Amer's News</h1>
-                        <div class="brand-meta" id="sync-status">Fetching latest data...</div>
-                    </div>
+                    <h1>Amer Habib's News</h1>
                 </div>
                 
                 <div class="utility-zone">
@@ -184,7 +182,8 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
                     </button>
                     <button id="theme-btn" class="icon-btn" onclick="toggleTheme()" title="Toggle Theme">
-                        </button>
+                        <!-- JS injects icon -->
+                    </button>
                 </div>
             </div>
         </header>
@@ -200,19 +199,14 @@
                 <option value="bookmarks">View Saved</option>
             </select>
             
-            <div class="view-toggles">
-                <button class="view-btn active" id="view-grid-4" onclick="setView('grid-4')">Grid 4</button>
-                <button class="view-btn" id="view-grid-3" onclick="setView('grid-3')">Grid 3</button>
-                <button class="view-btn" id="view-grid-5" onclick="setView('grid-5')">Grid 5</button>
-                <button class="view-btn" id="view-list" onclick="setView('list')">List</button>
-                <button class="view-btn" id="view-text" onclick="setView('text')">Text</button>
-            </div>
+            <button id="cycle-layout-btn" class="select-box" onclick="cycleLayout()">Layout: Grid (4)</button>
         </div>
 
         <details class="filter-accordion" id="filter-details">
             <summary>Categories & Topics</summary>
             <div id="filter-container" class="filter-bar">
-                </div>
+                <!-- Javascript injects capsules here -->
+            </div>
         </details>
 
         <div id="news-container" class="layout-grid-4"></div>
@@ -225,19 +219,31 @@
 
     </div>
 
+    <!-- Back to top button -->
     <button id="back-to-top" class="back-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Back to top">
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
     </button>
 
     <script>
+        // State Management (Rewritten to fix initial load bug)
         let globalData = [];
         let filteredData = [];
         let itemsPerPage = 13; 
         let currentDisplayed = itemsPerPage;
-        let currentView = 'grid-4'; 
+        let activeCategory = 'All'; // Track category safely in memory
         
         let readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
         let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+
+        // Layout Cycler Array
+        const layoutModes = [
+            { id: 'grid-4', label: 'Layout: Grid (4)' },
+            { id: 'grid-3', label: 'Layout: Grid (3)' },
+            { id: 'grid-5', label: 'Layout: Grid (5)' },
+            { id: 'list', label: 'Layout: List' },
+            { id: 'text', label: 'Layout: Text' }
+        ];
+        let currentLayoutIndex = 0;
 
         const svgSun = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`;
         const svgMoon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`;
@@ -271,7 +277,6 @@
             if(el.style.display === 'block') document.getElementById('search-box').focus();
         }
 
-        // Back to top scroll listener
         window.addEventListener('scroll', () => {
             const btn = document.getElementById('back-to-top');
             btn.style.display = window.scrollY > 400 ? 'flex' : 'none';
@@ -290,12 +295,13 @@
             return `${diffDays} days ago`;
         }
 
-        window.setView = function(viewType) {
-            currentView = viewType;
-            document.getElementById('news-container').className = `layout-${viewType}`;
-            document.querySelectorAll('.view-btn').forEach(btn => btn.classList.remove('active'));
-            document.getElementById(`view-${viewType}`).classList.add('active');
-            renderArticles(); 
+        window.cycleLayout = function() {
+            currentLayoutIndex = (currentLayoutIndex + 1) % layoutModes.length;
+            const mode = layoutModes[currentLayoutIndex];
+            
+            document.getElementById('cycle-layout-btn').innerText = mode.label;
+            document.getElementById('news-container').className = `layout-${mode.id}`;
+            renderArticles();
         }
 
         function setupFilters() {
@@ -308,14 +314,17 @@
             });
         }
 
-        window.filterCategory = function(category, btnElement) {
+        window.filterCategory = function(categoryName, btnElement) {
+            activeCategory = categoryName; 
+            
             document.querySelectorAll('.capsule').forEach(b => b.classList.remove('active'));
             if(btnElement) btnElement.classList.add('active');
             else {
                 document.querySelectorAll('.capsule').forEach(b => {
-                    if (b.innerText.includes(category) || (category === 'All' && b.innerText === 'All')) b.classList.add('active');
+                    if (b.innerText === activeCategory) b.classList.add('active');
                 });
             }
+            
             document.getElementById('search-box').value = '';
             applyFiltersAndSort();
         }
@@ -324,16 +333,16 @@
         window.handleSort = function() { applyFiltersAndSort(); }
 
         function applyFiltersAndSort() {
-            const activeBtn = document.querySelector('.capsule.active');
-            const category = activeBtn ? activeBtn.innerText.replace(/[^\w\s]/gi, '').trim() : 'All';
             const searchTerm = document.getElementById('search-box').value.toLowerCase();
-            const sortMode = document.getElementById('sort-box').value;
+            const sortMode = document.getElementById('sort-box').value || 'newest';
 
-            filteredData = globalData;
+            // Create a fresh copy of the array so we don't accidentally mutate globalData
+            filteredData = [...globalData];
+
             if (sortMode === 'bookmarks') {
                 filteredData = filteredData.filter(item => bookmarks.includes(item.link));
-            } else if (category !== 'All') {
-                filteredData = filteredData.filter(item => item.category === category);
+            } else if (activeCategory !== 'All') {
+                filteredData = filteredData.filter(item => item.category === activeCategory);
             }
 
             if (searchTerm) {
@@ -456,8 +465,9 @@
             const itemsToRender = filteredData.slice(0, currentDisplayed);
             let html = '';
 
-            // Apply Hero Logic only if using a Grid view, newest sort, and All category
-            const isGrid = currentView.includes('grid');
+            // Hero Logic: Only apply if currently on a Grid view, Newest Sort, and All Category
+            const currentLayoutMode = layoutModes[currentLayoutIndex].id;
+            const isGrid = currentLayoutMode.includes('grid');
             const isDefaultState = (isGrid && document.getElementById('search-box').value === '' && document.getElementById('sort-box').value === 'newest');
 
             if (isDefaultState && itemsToRender.length > 0) {
@@ -473,22 +483,19 @@
 
         async function init() {
             try {
-                document.getElementById('sync-status').innerText = "Fetching latest data...";
                 const response = await fetch('./data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
-                globalData = data.news;
-                
-                const syncTime = new Date(data.updatedAt).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
-                document.getElementById('sync-status').innerText = `Updated ${syncTime}`;
+                globalData = data.news || [];
                 
                 if(document.getElementById('filter-container').innerHTML.trim() === "") {
                     setupFilters();
                 }
                 
-                applyFiltersAndSort(); 
+                applyFiltersAndSort(); // This now correctly fires on first load
+                
             } catch (error) {
-                document.getElementById('sync-status').innerText = 'Sync failed. Check connection.';
+                document.getElementById('news-container').innerHTML = '<p style="padding: 20px; color: var(--muted-foreground);">Feed syncing... Please refresh shortly.</p>';
             }
         }
         
