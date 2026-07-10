@@ -1,7 +1,6 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 
-// 1. Tell the robot to read your new configuration file!
 const feeds = require('./feeds.json');
 
 const parser = new Parser({
@@ -18,6 +17,20 @@ const parser = new Parser({
 const FRESHNESS_HOURS = 120; 
 const TIME_LIMIT = Date.now() - (FRESHNESS_HOURS * 60 * 60 * 1000);
 const seenLinks = new Set(); 
+
+// Forcefully strips HTML tags to guarantee a clean excerpt
+function getCleanSnippet(item) {
+    let raw = item.contentSnippet || item.description || item.contentEncoded || '';
+    let cleanText = raw.replace(/<[^>]*>?/gm, '').trim();
+    
+    // Remove extra spaces and newlines
+    cleanText = cleanText.replace(/\s+/g, ' ');
+    
+    if (cleanText.length > 250) {
+        return cleanText.substring(0, 250) + '...';
+    }
+    return cleanText;
+}
 
 async function fetchAllNews() {
     let allNews = [];
@@ -68,7 +81,7 @@ async function fetchAllNews() {
                     bg: feed.bg,
                     icon: feed.icon,
                     image: imageUrl,
-                    snippet: item.contentSnippet || item.description || ''
+                    snippet: getCleanSnippet(item)
                 });
             }
         } catch (error) {
@@ -76,7 +89,9 @@ async function fetchAllNews() {
         }
     }
 
+    // Sort newest first
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    
     const output = { news: allNews, updatedAt: new Date().toISOString() };
     fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
 }
