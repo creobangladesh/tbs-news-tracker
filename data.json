@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Chattogram Board postpones tomorrow's HSC exam amid worsening floods",
+      "link": "https://www.tbsnews.net/bangladesh/education/chattogram-board-postpones-tomorrows-hsc-exam-amid-worsening-floods-1484741",
+      "pubDate": "Fri, 10 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/02/hsc_22_tbs.jpg",
+      "snippet": "The board said a revised schedule for the postponed examination will be announced later."
+    },
+    {
+      "title": "July Memorial Museum to open soon: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/july-memorial-museum-open-soon-minister-1484716",
+      "pubDate": "Fri, 10 Jul 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/img_6618.jpeg",
+      "snippet": "Cultural Affairs Minister Nitai Roy Chowdhury said the erstwhile Awami League government had destroyed the country’s cultural heritage."
+    },
+    {
       "title": "Is gold a good investment?",
       "link": "https://www.tbsnews.net/thoughts/gold-good-investment-1484706",
       "pubDate": "Fri, 10 Jul 2026 15:15:00 +0600",
@@ -8,7 +30,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/gold_unb_img.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/gold_unb_img.jpg",
+      "snippet": "Not the way a stock is. It is insurance against a debasement already under way, and this year's crash has only cut the premium. In this article, I assess the case, the risks, and provide a verdict."
     },
     {
       "title": "Ministry suspends official following premature publication of scholarship results",
@@ -18,7 +41,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/16/mopme_0.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/16/mopme_0.jpg",
+      "snippet": "The Ministry of Primary and Mass Education issued a notification today (10 July) saying the action was taken against Md Mehtab Kayes, the official in question."
     },
     {
       "title": "Hasina plans December return with party colleagues to surrender",
@@ -28,7 +52,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/05/hasina_2.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/05/hasina_2.jpg",
+      "snippet": "Sheikh Hasina, facing a death sentence back in Bangladesh, told Reuters that she and members of her Awami League aim to return voluntarily to the country they fled two years ago ‌and present themselves in court."
     },
     {
       "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
@@ -38,7 +63,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
+      "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
     },
     {
       "title": "The hidden cost of being a woman in Bangladesh",
@@ -48,7 +74,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png",
+      "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
     },
     {
       "title": "SK Hynix set for marquee US debut in test for AI appetite",
@@ -58,7 +85,8 @@
       "color": "#1976d2",
       "bg": "#e3f2fd",
       "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/jhh47rj3afln5hvwo2cl6vyqjy.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/jhh47rj3afln5hvwo2cl6vyqjy.jpg",
+      "snippet": "The South Korean chipmaker is the latest to ride a frenzy of investor interest in ​firms perceived as reaping big gains from the AI revolution that has spawned hundreds of billions of dollars in capital spending."
     },
     {
       "title": "461 stranded tourists evacuated from Sajek Valley",
@@ -68,7 +96,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/29/sajek_valley_d.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/29/sajek_valley_d.jpg",
+      "snippet": "A total of 561 tourists had been stranded in Sajek Valley following days of continuous rainfall, landslides, and severed road links."
     },
     {
       "title": "Jamaat-led alliance to hold rally in Rangpur tomorrow demanding implementation of Teesta master plan ",
@@ -78,7 +107,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/jamaat_alliance.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/jamaat_alliance.jpg",
+      "snippet": "Opposition Leader and Ameer of Bangladesh Jamaat-e-Islami Dr Shafiqur Rahman will attend the rally as the chief guest. The event will be chaired by Leader of the Opposition Chief Whip and National Citizen Party (NCP) Convener Nahid Islam MP."
     },
     {
       "title": "BMD forecasts heavy to very heavy rain, warns of landslides",
@@ -88,7 +118,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/aaa7e518-d5d6-4fc4-90fb-60d4737d5622.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/aaa7e518-d5d6-4fc4-90fb-60d4737d5622.jpg",
+      "snippet": "According to the BMD, heavy rainfall refers to precipitation between 44mm and 88mm, while very heavy rainfall means more than 88mm within the forecast period."
     },
     {
       "title": "Five  rivers above danger level; 4 seaports advised cautionary signal no 3",
@@ -98,7 +129,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/29/cautionary_signal.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/29/cautionary_signal.jpg",
+      "snippet": "Water levels are rising at 79 of the country's 127 river monitoring stations, falling at 43 and remaining unchanged at five, the FFWC said."
     },
     {
       "title": "6 arrested over assault, robbery that killed elderly railway cleaner in Narsingdi",
@@ -108,7 +140,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/photo-output.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/photo-output.jpeg",
+      "snippet": "RAB-11 Commanding Officer Lt Col Mohammad Masud Parvez confirmed the development today (10 July)."
     },
     {
       "title": "People want to see visible progress on Teesta master plan: Shafiqur",
@@ -118,7 +151,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/740400041_1342255014039148_2493573710677534591_n.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/740400041_1342255014039148_2493573710677534591_n.jpg",
+      "snippet": "'We know this is a massive project and that it will take time to complete, but if the work is carried out sincerely, people should be able to see visible progress,' says Jamaat-e-Islami Ameer Dr Shafiqur Rahman."
     },
     {
       "title": "Undertrial prisoner escapes Khulna jail by scaling prison wall",
@@ -128,7 +162,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/14/condemned_cell.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/14/condemned_cell.jpg",
+      "snippet": "The incident was captured on the prison's CCTV cameras."
     },
     {
       "title": "Another alleged FCS member detained in Jashore over extremist links",
@@ -138,7 +173,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/1d94c14651b3bfc7f47a20e845feeb31.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/1d94c14651b3bfc7f47a20e845feeb31.jpeg",
+      "snippet": "The detainee identified as Tahsin Islam, 19."
     },
     {
       "title": "National Herbarium identifies 442 new plant species",
@@ -148,7 +184,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/plants_representational.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/plants_representational.jpg",
+      "snippet": "Officials said the Bangladesh Forest Research Institute has also developed more than 100 sustainable technologies, including bamboo cultivation through tissue culture."
     },
     {
       "title": "Netherlands keen to deepen defence cooperation with Bangladesh: Envoy",
@@ -158,7 +195,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/bangladesh_netherlands_flag.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/bangladesh_netherlands_flag.jpg",
+      "snippet": "During the meeting held at the Armed Forces Division headquarters in Dhaka Cantonment, the two sides exchanged views on strengthening the longstanding friendly relations between Bangladesh and the Netherlands, with a particular focus on expanding def..."
     },
     {
       "title": "PM expresses interest in visiting Pitachhara conservation forest in Khagrachhari",
@@ -168,7 +206,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/9f44a24bb962b1ae4efec5b5cf47d98b.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/9f44a24bb962b1ae4efec5b5cf47d98b.jpeg",
+      "snippet": "A brief conversation with Prime Minister Tarique Rahman at the National Tree Plantation Award ceremony has raised hopes of greater national attention for the privately led Pitachhara forest conservation initiative in Khagrachhari"
     },
     {
       "title": "Bar Council-style journalist registration under consideration: Info minister",
@@ -178,7 +217,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/image-392941-1780730776.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/image-392941-1780730776.jpg",
+      "snippet": "The government has proposed amending the Press Council Act, 1974, to transform the Press Council into a stronger, more effective and media-friendly institution"
     },
     {
       "title": "Islami Bank remains remittance leader in FY26 as Krishi, BRAC banks post strong gains",
@@ -188,7 +228,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/27/ashiyan-citys-fraud_2.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/27/ashiyan-citys-fraud_2.jpg",
+      "snippet": "Islami Bank maintained its dominance in remittance despite challenges faced by Shariah-based lenders, collecting $6.88 billion in FY26, according to Bangladesh Bank data."
     },
     {
       "title": "Osmani Hospital interns conditionally withdraw strike, to return to work on 11 July",
@@ -198,7 +239,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/25/mag_osmani_hospital.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/25/mag_osmani_hospital.png",
+      "snippet": "Interns suspend work stoppage after five-hour meeting with hospital authorities but say strike will resume if security demands are not visibly implemented."
     },
     {
       "title": "Heavy rain disrupts Chattogram port, trade movement",
@@ -208,7 +250,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/ctg_port_container_photo_4_1.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/ctg_port_container_photo_4_1.jpg",
+      "snippet": "RMG exporters face city waterlogging hurdle."
     },
     {
       "title": "Bangladeshi expat wins over Tk3cr in Abu Dhabi Big Ticket draw",
@@ -218,7 +261,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/usa_big_draw_lottery.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/usa_big_draw_lottery.jpg",
+      "snippet": "Mohammad Atik Hasan was among five expatriates who each won 1 million dirham (more than Tk3 crore) in Big Ticket's Series 288 consolation draw."
     },
     {
       "title": "Govt in trade talks with 15 countries, blocs to ease post-LDC export challenges",
@@ -228,7 +272,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png",
+      "snippet": "The government is also moving forward with efforts to join the Regional Comprehensive Economic Partnership, the world’s largest free trade bloc."
     },
     {
       "title": "Will Bangladesh economy gain momentum in FY27? ADB hints not yet",
@@ -238,27 +283,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/15/adb.jpg"
-    },
-    {
-      "title": "EU keen on FTA with Bangladesh; technical team to visit soon",
-      "link": "https://www.tbsnews.net/bangladesh/eu-keen-fta-bangladesh-technical-team-visit-soon-1484331",
-      "pubDate": "Fri, 10 Jul 2026 01:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/30/ldc_copy.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/15/adb.jpg",
+      "snippet": "Growth forecast cut to 4.5% over energy, banking sector concerns"
     },
     {
       "title": "Fresh FDI in Bangladesh plunges 70% in Q1",
       "link": "https://www.tbsnews.net/economy/fresh-fdi-bangladesh-plunges-70-q1-1484326",
       "pubDate": "Fri, 10 Jul 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png"
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
+      "snippet": "Economists attribute slowdown to political uncertainty over election, weaker investment climate, mounting economic risks"
     },
     {
       "title": "How football carried war, empire and power over the last century",
@@ -268,7 +305,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/169_1.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/169_1.png",
+      "snippet": "Football has never been sealed off from power. On the contrary, history shows how the world’s game became a tool of recruitment, propaganda, morale, and political pressure"
     },
     {
       "title": "UGC to provide soft skills training for university students",
@@ -278,7 +316,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png",
+      "snippet": "The commission has also planned to launch a \"Professional Knowledge Sharing Programme\" for university vice-chancellors, pro-vice-chancellors and treasurers."
     },
     {
       "title": "Bangladesh needs swift reforms to stay competitive after LDC graduation: ICCB",
@@ -288,7 +327,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png",
+      "snippet": "ICCB President Mahbubur Rahman urges faster reforms to strengthen the economy, improve competitiveness and secure new trade deals ahead of Bangladesh's post-LDC transition."
     },
     {
       "title": "Soaring NPLs: Who will stem the tide?",
@@ -298,7 +338,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/default_loan_cartoon.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/default_loan_cartoon.png",
+      "snippet": "The structural weaknesses accumulated over many years cannot be reversed overnight. Rebuilding confidence in Bangladesh’s banking system will likely require sustained reforms over the next five to 10 years"
     },
     {
       "title": "Dengue: 2 patients die, 190 hospitalised in 24 hrs",
@@ -308,7 +349,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_8.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_8.jpg",
+      "snippet": "According to DGHS data, a total of 102,861 dengue cases and 413 dengue-related deaths were recorded in 2025."
     },
     {
       "title": "Measles: Death toll rises to 747 as 2 more children die",
@@ -318,7 +360,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "With the latest fatalities, the number of suspected measles deaths has risen to 654, while laboratory-confirmed measles deaths remain at 93, DGHS said in its daily update."
     },
     {
       "title": "BSEC chief unveils reform agenda to strengthen capital market",
@@ -328,7 +371,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/masud_khan.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/masud_khan.jpg",
+      "snippet": "BSEC Chairman Masud Khan has unveiled a sweeping reform roadmap focused on boosting investor confidence, improving market transparency and strengthening regulatory institutions to drive sustainable growth in Bangladesh's capital market."
     },
     {
       "title": "Govt considers expanding Alo Clinics to improve urban healthcare access",
@@ -338,7 +382,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/740152557_1497266288384040_6910875284400301137_n.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/740152557_1497266288384040_6910875284400301137_n.jpg",
+      "snippet": "Four clinics also operate 24-hour midwife-led normal delivery centers, which have conducted more than 1,000 safe deliveries since January this year."
     },
     {
       "title": "OECD warns of shrinking dev finance as Bangladesh urges stronger multilateral support",
@@ -348,7 +393,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/21/oecd.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/21/oecd.png",
+      "snippet": "The session brought together experts from South Asia and the OECD to discuss how declining aid, geopolitical fragmentation, and changing donor priorities are reshaping development finance."
     },
     {
       "title": "ADB cuts Bangladesh FY27 growth forecast to 4.5% over energy, banking sector concerns",
@@ -358,7 +404,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/04/adb_16x9.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/04/adb_16x9.png",
+      "snippet": "In its Asian Development Outlook (ADO) July 2026, released yesterday (8 July), the Manila-based lender revised down its FY27 growth projection from 4.7% forecast in April, citing ongoing energy constraints and weaknesses in the financial sector."
     },
     {
       "title": "Low awareness, poverty delay breast cancer diagnosis and treatment in Bangladesh: Study",
@@ -368,7 +415,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/breast_cancer.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/breast_cancer.jpg",
+      "snippet": "Study says 56% start treatment four months after first symptoms"
     },
     {
       "title": "Benapole Customs misses revenue target by Tk4,731 crore",
@@ -378,7 +426,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/03/benapole_customs_house.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/03/benapole_customs_house.jpg",
+      "snippet": "A sharp fall in imports, coupled with allegations of weighbridge manipulation, duty evasion, undeclared imports and theft of goods."
     },
     {
       "title": "Financial account rebounds to over $4b surplus in 11 months",
@@ -388,7 +437,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/14/online_banking_0.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/14/online_banking_0.jpg",
+      "snippet": "Trade deficit widens to $24b as exports drop"
     },
     {
       "title": "Tarique Rahman: The making of a 'Green Prime Minister'",
@@ -398,7 +448,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/tarique_rahman.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/tarique_rahman.png",
+      "snippet": "Planting 250 million trees, restoring 20,000 kilometres of waterways, and placing climate finance at the core of Bangladesh’s diplomacy, Tarique Rahman is trying to make environmental action a defining feature of his premiership"
     },
     {
       "title": "Structural bottlenecks and import costs keep inflation elevated in Bangladesh",
@@ -408,7 +459,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/inflation_0.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/inflation_0.png",
+      "snippet": "Economic Update says supply chain weaknesses, imported energy costs and global price volatility are driving broad-based inflation, with headline inflation rising to 9.42% in May."
     },
     {
       "title": "Intech sinks to junk category as losses wipe out paid-up capital",
@@ -418,7 +470,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "The regulatory move, effective from today (8 July), follows a mandatory policy by the Bangladesh Securities and Exchange Commission requiring companies with negative retained earnings exceeding their total paid-up capital to be shifted to the lowest ..."
     },
     {
       "title": "Govt to adopt roadmap this month to make leather sector globally competitive: Minister",
@@ -428,7 +481,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/leather_1.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/leather_1.jpg",
+      "snippet": "The roadmap will focus on improving waste management, meeting international standards, and making Bangladesh’s leather sector more competitive in the global market, the industries minister says."
     },
     {
       "title": "Full repayment with interest, no haircut for troubled banks' depositors: FinMin",
@@ -438,7 +492,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/amir_khosru_budget.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/amir_khosru_budget.jpeg",
+      "snippet": "Khosru said the government was implementing a multi-dimensional resolution framework under the 'Bank Resolution Act, 2026' to address the banking sector crisis."
     },
     {
       "title": "Three die from dengue, 251 hospitalised in 24 hours",
@@ -448,7 +503,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
+      "snippet": "In the capital, 24 new patients were admitted to hospitals under Dhaka North City Corporation, while 33 were admitted under Dhaka South City Corporation."
     },
     {
       "title": "From promises to performance: Why Bangladesh needs a delivery state",
@@ -458,7 +514,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/growth_story_supplement.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/growth_story_supplement.jpg",
+      "snippet": "As Bangladesh prepares for life after LDC graduation, the country's biggest governance challenge may no longer be designing ambitious policies but ensuring that public institutions have the capacity, coordination and accountability to turn them into ..."
     },
     {
       "title": "How drones transformed Iran’s relationships with its proxies",
@@ -468,7 +525,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/77862456_1004.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/77862456_1004.jpg",
+      "snippet": "Drone production, technology transfer and training have enabled Iran’s regional allies to operate with far greater independence. Has this network become too resilient to be dismantled through military strikes?"
     },
     {
       "title": "The river will outlive maps: Teesta’s journey through geopolitics, myth and memory",
@@ -478,7 +536,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/teesta_river_view_from_sikkim_1.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/teesta_river_view_from_sikkim_1.jpg",
+      "snippet": "The Teesta is running dry. But its crisis is more than a story of climate change or a failed water-sharing agreement"
     },
     {
       "title": "Govt suspends vehicle buying, foreign trips on public funds for FY27",
@@ -488,7 +547,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/govt_suspends.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/govt_suspends.jpg",
+      "snippet": "The restrictions, aimed at ensuring prudent use of public funds and maintaining macroeconomic stability, will apply to all government, autonomous and state-owned entities during FY27."
     },
     {
       "title": "Fandom morphs into misogyny in Bangladesh's unsporting spectacles",
@@ -498,7 +558,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/fandom.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/fandom.png",
+      "snippet": "Here, the beautiful game, regrettably, becomes a grotesque stage for the public humiliation and objectification of women."
     },
     {
       "title": "How Cristiano Ronaldo changed the direction of my life",
@@ -508,7 +569,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/r1447415_1296x729_16-9.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/r1447415_1296x729_16-9.jpg",
+      "snippet": "Cristiano Ronaldo has never been just a footballer to me. He has been a source of inspiration, a role model, and, in many ways, a life coach. His influence has shaped my mindset, my values, and the way I approach life’s challenges"
     },
     {
       "title": "Argentina's comeback, the controversy, and the debate that divided football",
@@ -518,7 +580,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/739408248_1055093156851400_2641977566997425382_n_0.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/739408248_1055093156851400_2641977566997425382_n_0.jpg",
+      "snippet": "A two-goal deficit. A missed penalty. A captain dragging his team back into the game. Then came the controversy."
     },
     {
       "title": "Measles: Death toll reaches 745 as three more die",
@@ -528,7 +591,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
+      "snippet": "With the latest update, the number of suspected measles deaths has risen to 652, while the number of laboratory-confirmed measles deaths has reached 93."
     },
     {
       "title": "Ctg customs to auction 168 containers online amid missing cargo row with port authority",
@@ -538,7 +602,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/18/ctg_port_container_congestion.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/18/ctg_port_container_congestion.jpg",
+      "snippet": "Prospective buyers can register and bid via the official e-auction portal after a physical inspection of the goods"
     },
     {
       "title": "June PMI drops to 52.9 amid manufacturing, construction contractions",
@@ -548,7 +613,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/pmi.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/pmi.jpg",
+      "snippet": "Despite challenges, the respondents hope that improvements in the overall business environment, stable energy supplies, and supportive government policies would help strengthen business confidence and economic activity."
     },
     {
       "title": "Current AI isn't truly intelligent, say experts, as focus shifts to next-generation systems",
@@ -558,7 +624,8 @@
       "color": "#1976d2",
       "bg": "#e3f2fd",
       "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/9611665.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/9611665.jpg",
+      "snippet": "LeCun, who left Meta in 2025 to establish Advanced Machine Intelligence Labs (AMI Labs), said existing AI systems are not designed to deal with the complexity of the real world."
     },
     {
       "title": "CU suspends classes, exams amid bad weather",
@@ -568,7 +635,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/cuu.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/cuu.jpg",
+      "snippet": "Earlier, on Tuesday morning, train services on the Chittagong-Cox's Bazar route were temporarily suspended after rainwater inundated the railway tracks."
     },
     {
       "title": "Why France has so many players of African heritage, but Argentina doesn't",
@@ -578,7 +646,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/rsz_2026-06-30t210426z_966328701_up1em6u1mjcc8_rtrmadp_3_soccer-worldcup-fra-swe.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/rsz_2026-06-30t210426z_966328701_up1em6u1mjcc8_rtrmadp_3_soccer-worldcup-fra-swe.jpg",
+      "snippet": "Colonialism shaped the movement of people across continents. Today, that legacy continues to influence who represents whom on football's biggest stage, exposing enduring questions about migration, identity, race and Europe's continuing influence over..."
     },
     {
       "title": "Why Dhaka must improve its liveability",
@@ -588,7 +657,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/print-popup/p5_standalone_mehedi_hasan-7.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/print-popup/p5_standalone_mehedi_hasan-7.jpg",
+      "snippet": "Dhaka remains world’s 3rd least liveable city for two years, only ahead of Tripoli, Damascus."
     },
     {
       "title": "Bangladesh has world's second-highest NPL rate after war-hit Ukraine",
@@ -598,7 +668,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/npl.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/npl.png",
+      "snippet": "Bankers say politically influenced lending decisions weaken credit standards"
     },
     {
       "title": "Distressed Asset Management Act: A bold reform that must get the institutions right",
@@ -608,7 +679,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/27/zahid_hussain_0.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/27/zahid_hussain_0.png",
+      "snippet": "Bangladesh’s proposed Distressed Asset Management Act offers a bold solution to a long-standing banking problem, but only strong institutions, transparent governance and effective implementation can deliver lasting reform"
     },
     {
       "title": "Govt okays $1b stringent IsDB loan for Eastern Refinery expansion",
@@ -618,7 +690,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/29/eastern.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/29/eastern.jpg",
+      "snippet": "As per an ERD working paper, the loan carries a relatively high financing cost compared with prevailing rates in the international market."
     },
     {
       "title": "HSC exams postponed in Chattogram, Rangamati, Cox's Bazar on Wednesday due to floods",
@@ -628,7 +701,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/03/hsc_logo.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/03/hsc_logo.jpg",
+      "snippet": "A revised schedule for the postponed examinations will be announced later."
     },
     {
       "title": "Garment workers besiege BGMEA office over unpaid wages  ",
@@ -638,7 +712,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bgmea.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bgmea.jpeg",
+      "snippet": "According to workers and senior BGMEA officials, the factory employed around 2,000 workers."
     },
     {
       "title": "Why the raise comes only after ‘I resign’ and another job offer ",
@@ -648,7 +723,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/tata_bye_bye.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/tata_bye_bye.jpg",
+      "snippet": "For many professionals in Bangladesh, the quickest route to a higher salary begins with two words: \"I resign.\""
     },
     {
       "title": "East Delta University launches campus-wide thalassaemia screening initiative  ",
@@ -658,7 +734,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/edu.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/edu.jpg",
+      "snippet": "Under the programme, all students will receive awareness sessions and information on the inherited blood disorder, while those interested will be offered free thalassaemia screening funded by the university."
     },
     {
       "title": "Parliament passes law introducing up to 5 years' jail for digital fraud in public exams ",
@@ -668,7 +745,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/29/untitled_design_38.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/29/untitled_design_38.jpg",
+      "snippet": "Up to 2 years' jail for examiners who deliberately inflate or cut marks,"
     },
     {
       "title": "Cenbank mandates anti-money laundering certification for Tk20,000cr refinance fund",
@@ -678,7 +756,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
+      "snippet": "Banks must verify that borrowers have no record of money laundering, fraud or loan misuse before extending financing under the government's industry revival scheme."
     },
     {
       "title": "An untapped tool: Why Bangladesh must fix its SDG Tracker before COP31",
@@ -688,7 +767,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/climate_sdg_tracker.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/climate_sdg_tracker.png",
+      "snippet": ""
     },
     {
       "title": "School feeding irregularities: State Minister orders swift probe, stern action",
@@ -698,7 +778,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
+      "snippet": "Following the minister's instruction, the ministry directed the Director General (DG) of the Primary Education to conduct a swift investigation into the allegations, take action against those responsible in accordance with the law and submit the inve..."
     },
     {
       "title": "Bill placed in parliament to establish full-fledged public university in Bogura",
@@ -708,7 +789,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bogura_university.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bogura_university.jpg",
+      "snippet": "The proposed law seeks to replace the unimplemented 2001 legislation for a science and technology university with a full-fledged public university."
     },
     {
       "title": "Forex reserves stand at $27.93b",
@@ -718,7 +800,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
+      "snippet": "Latest figures released after $1.48b ACU payments."
     },
     {
       "title": "China's DeepSeek developing its own AI chip, sources say",
@@ -728,7 +811,8 @@
       "color": "#1976d2",
       "bg": "#e3f2fd",
       "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/deepseek.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/deepseek.jpg",
+      "snippet": "DeepSeek rose to ​global fame more than a year ago after releasing two highly efficient AI models that went viral worldwide, surprising many in Silicon Valley and Washington."
     },
     {
       "title": "3,800 Bangladeshis seek higher education in Pakistan this year; envoy pledges stronger academic cooperation",
@@ -738,7 +822,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/24/pakistan-bangladesh-flags.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/24/pakistan-bangladesh-flags.jpg",
+      "snippet": "The two sides agreed in principle to sign a memorandum of understanding (MoU) to strengthen institutional collaboration between universities in the two countries."
     },
     {
       "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say",
@@ -748,7 +833,8 @@
       "color": "#1976d2",
       "bg": "#e3f2fd",
       "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/ai.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/ai.jpg",
+      "snippet": "Since the emergence of DeepSeek's R1 model last year, Chinese AI models have made big inroads globally ​thanks to their low costs and increasing capabilities."
     },
     {
       "title": "Public-private collaboration key to affordable healthcare: Finance minister",
@@ -758,7 +844,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/amir_khosru.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/amir_khosru.jpg",
+      "snippet": "The government's development strategy is centred on private-sector-led economic growth, he says."
     },
     {
       "title": "Measles: Death toll reaches 742 as 1 more child dies",
@@ -768,7 +855,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg",
+      "snippet": "Bangladesh has recorded more than 107,000 suspected measles cases and nearly 13,000 laboratory-confirmed infections."
     },
     {
       "title": "At 250, the US is at a crossroads at home and abroad",
@@ -778,7 +866,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/01-2026-06-25t013806z-171248057-rc2p0maa6pf3-rtrmadp-3-usa-250-trump.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/01-2026-06-25t013806z-171248057-rc2p0maa6pf3-rtrmadp-3-usa-250-trump.png",
+      "snippet": "Such a landmark anniversary would normally be celebrated as a reaffirmation of a great power’s standing in the world. But for the US, this is a time of doubts amid talk of ‘imperial decline’"
     },
     {
       "title": "The Prime Minister’s carbon credit push must build a community-led climate economy",
@@ -788,7 +877,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/08_panorama_copy_2.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/08_panorama_copy_2.png",
+      "snippet": "Carbon markets could unlock vital climate finance for Bangladesh, but their success will depend on transparency, local participation and equitable benefit-sharing"
     },
     {
       "title": "At 250, the US is at a crossroads at home and abroad",
@@ -798,7 +888,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/sabir_mustafa.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/sabir_mustafa.jpg",
+      "snippet": "Such a landmark anniversary would normally be celebrated as a reaffirmation of a great power’s standing in the world. But for the US, this is a time of doubts amid talk of ‘imperial decline’"
     },
     {
       "title": "Bangladesh FDI climbs to $1.8b in 2025 but trails smaller economies: Unctad",
@@ -808,7 +899,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
+      "snippet": "The report shows Bangladesh drew just $1.8 billion in FDI in 2025, compared with $3.4 billion by Uganda and $1.9 billion each by Ghana and DR Congo."
     },
     {
       "title": "World Cup as a proxy for conflict and Fifa's convenient neutrality",
@@ -818,7 +910,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fifa_feature.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fifa_feature.jpg",
+      "snippet": "Fifa’s willingness to separate football from politics has always depended on which politics are involved."
     },
     {
       "title": "The compound social capital behind South America’s football dominance",
@@ -828,7 +921,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/brazil.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/brazil.jpg",
+      "snippet": "South America’s success is not primarily about talent or money; it is about history. It is about what economists call ‘path dependence’ – the idea that early advantages become self-reinforcing over time"
     },
     {
       "title": "Steel industry faces upgrade pressure as infrastructure, high-rises demand stronger materials",
@@ -838,7 +932,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/17/china_steel_pipes.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/17/china_steel_pipes.jpg",
+      "snippet": "Major producers like Abul Khair, GPH shift towards quality"
     },
     {
       "title": "Joining Regional Comprehensive Economic Partnership: A strategic necessity for Bangladesh in the post-LDC era",
@@ -848,7 +943,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/06/panoarama_ldc_garudation_copy.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/06/panoarama_ldc_garudation_copy.png",
+      "snippet": "By entering the RCEP, Bangladesh may secure its trajectory toward becoming a highly competitive, industrialised middle-income economy"
     },
     {
       "title": "What impact investors really want from Bangladesh",
@@ -858,7 +954,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/01/lead_panorama.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/01/lead_panorama.png",
+      "snippet": "Global investors remain interested in Bangladesh, but weak research, broad risk perceptions, and regulatory hurdles continue to keep much-needed foreign capital on the sidelines"
     },
     {
       "title": "Sheltech unveils Tk1,500cr investment plan to boost exports, diversify business",
@@ -868,7 +965,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/sheltech.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/sheltech.png",
+      "snippet": "The group also aims to create around 45,000 jobs through the new investments."
     },
     {
       "title": "Cenbank pushes for unified QR payment – what it means for customers",
@@ -878,7 +976,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/p3_bangla_qr_rajibdhar.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/p3_bangla_qr_rajibdhar.jpg",
+      "snippet": "The directive, which took effect on 1 July, requires financial institutions to replace their individual quick-response (QR) codes with the standardised Bangla QR specification"
     },
     {
       "title": "Recovering laundered assets hinges on US Treasury, global cooperation",
@@ -888,7 +987,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/28/ahsan_mansur.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/28/ahsan_mansur.jpg",
+      "snippet": "A dual approach is required: simultaneously gathering international intelligence while pursuing criminal cases to secure the arrest of the accused."
     },
     {
       "title": "Bangladesh's plastic market loses Tk15,000cr as Mideast crisis hits supply chain",
@@ -898,7 +998,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/plastic.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/plastic.png",
+      "snippet": "Manufacturers say delays in importing raw materials, rising production costs and sluggish domestic demand have forced many factories to cut output, while hundreds of small and medium-sized enterprises are struggling to survive"
     },
     {
       "title": "FY27 budget marks a strategic shift towards energy security",
@@ -908,7 +1009,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/energy-budget.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/energy-budget.png",
+      "snippet": "While the reduction in sectoral allocation has drawn attention, the more important story may be the budget’s attempt to align energy security, domestic resource development, renewable energy expansion, fiscal discipline, and long-term economic resili..."
     },
     {
       "title": "Anis Ur Rahman appointed BB deputy governor",
@@ -918,7 +1020,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/anis_ur_rahman.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/anis_ur_rahman.jpg",
+      "snippet": "The notification further said the other terms of the appointment would be determined through a contract."
     },
     {
       "title": "Ctg Port, customs locked in blame game over 'missing' containers, compensation claims",
@@ -928,7 +1031,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/02/ctg_port_container_photo_4_0.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/02/ctg_port_container_photo_4_0.jpg",
+      "snippet": "The dispute intensified after customs demanded Tk1.06 crore from the port authority over an auctioned container that could not be delivered to the successful bidder."
     },
     {
       "title": "Govt revokes directive to keep Zia, Khaleda, Tarique books in primary school libraries",
@@ -938,7 +1042,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/22/dpe-logo.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/22/dpe-logo.jpg",
+      "snippet": "The director general of the Directorate of Primary Education has been instructed to take the necessary measures in this regard."
     },
     {
       "title": "Govt extends free dengue NS1 tests at public hospitals until 31 Dec",
@@ -948,7 +1053,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
+      "snippet": "The move aims to encourage early testing and treatment as dengue infections continue to rise, with more than 7,100 cases and 19 deaths reported so far this year."
     },
     {
       "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts",
@@ -958,7 +1064,8 @@
       "color": "#1976d2",
       "bg": "#e3f2fd",
       "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/25/2023-05-24t222222z_5_lynxmpej4n0s0_rtroptp_4_microsoft-workers.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/25/2023-05-24t222222z_5_lynxmpej4n0s0_rtroptp_4_microsoft-workers.jpg",
+      "snippet": "The company's shares were down 1.5% in early trading."
     },
     {
       "title": "PM orders new textbooks ready by 30 November, aims December distribution",
@@ -968,7 +1075,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/pm-orders-new-textbooks-ready-by-30-november.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/pm-orders-new-textbooks-ready-by-30-november.jpg",
+      "snippet": "The government plans to distribute next year's textbooks to students during their annual examinations in December to ensure timely delivery before the new academic year begins."
     },
     {
       "title": "IUB launches alumni mentorship programme for accounting students",
@@ -978,7 +1086,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/career_bridge_alumni_and_mentorship_initiatives_16x9.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/career_bridge_alumni_and_mentorship_initiatives_16x9.png",
+      "snippet": ""
     },
     {
       "title": "Islami Bank customer forum announces fresh protests demanding restoration of previous ownership",
@@ -988,7 +1097,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/islami_bank_customers_protest.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/islami_bank_customers_protest.jpeg",
+      "snippet": "The forum also demanded the recovery of looted funds from Islami Bank Bangladesh PLC"
     },
     {
       "title": "Revenue falls at Akhaura land port amid import slump",
@@ -998,7 +1108,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/30/pic_akhaura_land_port_1.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/30/pic_akhaura_land_port_1.jpg",
+      "snippet": "Traders say the diplomatic strain between Bangladesh and India following the July uprising and New Delhi’s subsequent restrictions on importing several high-demand Bangladeshi products through land ports prevented exports from growing as expected."
     },
     {
       "title": "Private clinics must set up labour rooms by Saturday or face closure: Health minister  ",
@@ -1008,7 +1119,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/health_minister_sardar_shakhawat.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/health_minister_sardar_shakhawat.jpg",
+      "snippet": "He said the rate of unnecessary Caesarean sections in the country had risen alarmingly and that labour rooms must be ensured in every private clinic to promote normal deliveries."
     },
     {
       "title": "BB allows default-linked Abdul Monem Sugar to open 100% margin LCs",
@@ -1018,7 +1130,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/abdul_momen_sugar_refinery_ltd_.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/abdul_momen_sugar_refinery_ltd_.jpg",
+      "snippet": "The special facility will remain in force until 30 June 2027, despite the company's links to hundreds of crores of defaulted loans."
     },
     {
       "title": "Measles death toll reaches 741 as 3 more children die in 24 hours",
@@ -1028,7 +1141,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/07/whatsapp_image_2026-05-07_at_2.56.49_pm.jpeg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/07/whatsapp_image_2026-05-07_at_2.56.49_pm.jpeg",
+      "snippet": "With the latest update, the number of suspected measles deaths has risen to 648."
     },
     {
       "title": "Govt plans new curriculum, teacher policy for primary education: Bobby Hajjaj",
@@ -1038,7 +1152,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
+      "snippet": "The state minister said the government is implementing a long-term action plan to encourage students to attend school, address learning gaps and ensure quality primary education."
     },
     {
       "title": "Many measles survivors developing eye complications",
@@ -1048,7 +1163,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "Experts call for immediate screening as seven more children die from measles-like symptoms"
     },
     {
       "title": "Production halted at three Ctg apparel factories over structural safety risks",
@@ -1058,7 +1174,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/rmg_1.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/rmg_1.jpg",
+      "snippet": "The factories – HB Fashions Ltd, HKTG Garments Ltd, and Chumki Apparels Ltd – operate from a six-storey building on Colonel Jones Road in North Kattali under Pahartali Police Station."
     },
     {
       "title": "Banks turn to govt securities as private credit growth still sluggish at 4.98%",
@@ -1068,7 +1185,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/private_sector_credit_growth.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/private_sector_credit_growth.jpg",
+      "snippet": "Bankers and analysts attribute the shift to sluggish private investment, rising non-performing loans (NPLs) and weak loan recovery from several large business groups."
     },
     {
       "title": "PM to inaugurate second unit of neurosciences hospital on 15 Aug: Health minister",
@@ -1078,7 +1196,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/health_minsiter_nnsh.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/health_minsiter_nnsh.jpg",
+      "snippet": "The minister says the health system will be decentralised so that people from Chattogram and other districts no longer have to travel to Dhaka for treatment."
     },
     {
       "title": "BRAC Bank eyes retail expansion, aims to become ‘Amazon of banks’",
@@ -1088,7 +1207,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/p1_brac_img_9806.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/p1_brac_img_9806.jpg",
+      "snippet": "The bank honours 25 organisations for their exceptional contribution to Bangladesh’s socio-economic development"
     },
     {
       "title": "Govt targets raising CMSME’s contribution to 60% of economy: Industries minister",
@@ -1098,7 +1218,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/commerce_minister.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/commerce_minister.jpg",
+      "snippet": "He says although the Tk65,000 crore contribution appears substantial, it is not satisfactory considering Bangladesh's economic potential."
     },
     {
       "title": "12 JU students suspended over ragging",
@@ -1108,7 +1229,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/04/jahangirnagar-university_0.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/04/jahangirnagar-university_0.jpg",
+      "snippet": "The decision was announced in an office order signed by acting registrar ABM Azizur Rahman"
     },
     {
       "title": "Bangladesh needs to make medical device locally to cut import dependence: Health minister",
@@ -1118,7 +1240,8 @@
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/health_minister_du.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/health_minister_du.jpg",
+      "snippet": "Sardar Md Sakhawat Husain says local production of medical devices could save foreign currency, create jobs and position Bangladesh as a regional hub for health technology."
     },
     {
       "title": "DU move to merge eight departments into three draws faculty objections",
@@ -1128,7 +1251,8 @@
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
+      "snippet": "Teachers say the affected disciplines have distinct academic identities and accuse the university of moving ahead without prior consultation, as deans seek recommendations on the proposal."
     },
     {
       "title": "Subodh: The man who carried the Sun abroad",
@@ -1138,7 +1262,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/subodh_photo.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/subodh_photo.jpg",
+      "snippet": "An anonymous graffiti figure carrying a caged sun became one of South Asia's most enduring symbols of uncertainty, hope and dissent."
     },
     {
       "title": "TikTok eyes the super app future",
@@ -1148,7 +1273,8 @@
       "color": "#1976d2",
       "bg": "#e3f2fd",
       "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/27/tiktok_logo.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/27/tiktok_logo.jpg",
+      "snippet": "The platform appears to be transforming into a super app, offering users a unified ecosystem that extends well beyond video viewing and sharing to include a wide range of digital services within a single application, reports TechCrunch."
     },
     {
       "title": "The geography of low-cost medicine",
@@ -1158,7 +1284,8 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/pharma-1.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/pharma-1.png",
+      "snippet": "The unique geography and demography of Bangladesh have helped price deregulation deliver some of the world's most affordable medicines"
     },
     {
       "title": "Tarique Rahman’s China visit balances opportunity, sovereignty and reshapes Bangladesh’s future",
@@ -1168,7 +1295,8 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/pm-visits-china_0_0.png"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/pm-visits-china_0_0.png",
+      "snippet": "Prime Minister Tarique Rahman’s recent China visit has opened new opportunities for Bangladesh, but success will depend on implementation, balance and strategic autonomy"
     },
     {
       "title": "A suitcase, a dream, and a city that doesn't wait ",
@@ -1178,28 +1306,9 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/img_1269.jpeg"
-    },
-    {
-      "title": "Measles death toll rises to 738 as 7 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-738-7-more-children-die-24hrs-1480141",
-      "pubDate": "Sun, 05 Jul 2026 16:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg"
-    },
-    {
-      "title": "From crisis to capability: Rethinking Bangladesh’s energy strategy",
-      "link": "https://www.tbsnews.net/thoughts/crisis-capability-rethinking-bangladeshs-energy-strategy-1480151",
-      "pubDate": "Sun, 05 Jul 2026 16:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/energy_0_0.jpg"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/img_1269.jpeg",
+      "snippet": "You leave home once. Home leaves you slowly."
     }
   ],
-  "updatedAt": "2026-07-10T09:35:22.398Z"
+  "updatedAt": "2026-07-10T10:41:16.759Z"
 }
