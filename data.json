@@ -1,6 +1,146 @@
 {
   "news": [
     {
+      "title": "Is gold a good investment?",
+      "link": "https://www.tbsnews.net/thoughts/gold-good-investment-1484706",
+      "pubDate": "Fri, 10 Jul 2026 15:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/gold_unb_img.jpg"
+    },
+    {
+      "title": "Ministry suspends official following premature publication of scholarship results",
+      "link": "https://www.tbsnews.net/bangladesh/education/ministry-suspends-official-following-premature-publication-scholarship-results",
+      "pubDate": "Fri, 10 Jul 2026 14:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/16/mopme_0.jpg"
+    },
+    {
+      "title": "Hasina plans December return with party colleagues to surrender",
+      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-hasina-plans-december-return-party-colleagues-surrender-1484636",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/05/hasina_2.jpg"
+    },
+    {
+      "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
+      "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg"
+    },
+    {
+      "title": "The hidden cost of being a woman in Bangladesh",
+      "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png"
+    },
+    {
+      "title": "SK Hynix set for marquee US debut in test for AI appetite",
+      "link": "https://www.tbsnews.net/tech/sk-hynix-set-marquee-us-debut-test-ai-appetite-1484646",
+      "pubDate": "Fri, 10 Jul 2026 14:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/jhh47rj3afln5hvwo2cl6vyqjy.jpg"
+    },
+    {
+      "title": "461 stranded tourists evacuated from Sajek Valley",
+      "link": "https://www.tbsnews.net/bangladesh/461-stranded-tourists-evacuated-sajek-valley-1484626",
+      "pubDate": "Fri, 10 Jul 2026 14:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/29/sajek_valley_d.jpg"
+    },
+    {
+      "title": "Jamaat-led alliance to hold rally in Rangpur tomorrow demanding implementation of Teesta master plan ",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-led-alliance-hold-rally-rangpur-tomorrow-demanding-implementation-teesta-master",
+      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/jamaat_alliance.jpg"
+    },
+    {
+      "title": "BMD forecasts heavy to very heavy rain, warns of landslides",
+      "link": "https://www.tbsnews.net/bangladesh/bmd-forecasts-heavy-very-heavy-rain-warns-landslides-1484611",
+      "pubDate": "Fri, 10 Jul 2026 13:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/aaa7e518-d5d6-4fc4-90fb-60d4737d5622.jpg"
+    },
+    {
+      "title": "Five  rivers above danger level; 4 seaports advised cautionary signal no 3",
+      "link": "https://www.tbsnews.net/bangladesh/5-rivers-remain-above-danger-level-cautionary-signal-no-3-1484596",
+      "pubDate": "Fri, 10 Jul 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/29/cautionary_signal.jpg"
+    },
+    {
+      "title": "6 arrested over assault, robbery that killed elderly railway cleaner in Narsingdi",
+      "link": "https://www.tbsnews.net/bangladesh/6-arrested-over-assault-robbery-killed-elderly-railway-cleaner-narsingdi-1484591",
+      "pubDate": "Fri, 10 Jul 2026 13:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/photo-output.jpeg"
+    },
+    {
+      "title": "People want to see visible progress on Teesta master plan: Shafiqur",
+      "link": "https://www.tbsnews.net/bangladesh/people-want-see-visible-progress-teesta-master-plan-shafiqur-1484556",
+      "pubDate": "Fri, 10 Jul 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/740400041_1342255014039148_2493573710677534591_n.jpg"
+    },
+    {
+      "title": "Undertrial prisoner escapes Khulna jail by scaling prison wall",
+      "link": "https://www.tbsnews.net/bangladesh/undertrial-prisoner-escapes-khulna-jail-scaling-prison-wall-1484516",
+      "pubDate": "Fri, 10 Jul 2026 12:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/14/condemned_cell.jpg"
+    },
+    {
+      "title": "Another alleged FCS member detained in Jashore over extremist links",
+      "link": "https://www.tbsnews.net/bangladesh/crime/another-alleged-fcs-member-detained-jashore-over-extremist-links-1484501",
+      "pubDate": "Fri, 10 Jul 2026 11:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/1d94c14651b3bfc7f47a20e845feeb31.jpeg"
+    },
+    {
       "title": "National Herbarium identifies 442 new plant species",
       "link": "https://www.tbsnews.net/bangladesh/environment/national-herbarium-identifies-442-new-plant-species-1484396",
       "pubDate": "Fri, 10 Jul 2026 11:00:00 +0600",
@@ -121,104 +261,24 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png"
     },
     {
-      "title": "Army rescues tourists, restores roads as floods and landslides batter CHT",
-      "link": "https://www.tbsnews.net/bangladesh/army-rescues-tourists-restores-roads-floods-and-landslides-batter-cht-1484321",
-      "pubDate": "Fri, 10 Jul 2026 00:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/army_flood.jpg"
-    },
-    {
-      "title": "Cabinet approves draft Invest Bangladesh Act to unify investment agencies",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-approves-draft-invest-bangladesh-act-unify-investment-agencies-1484316",
-      "pubDate": "Fri, 10 Jul 2026 00:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/cabinet_meeting.jpg"
+      "title": "How football carried war, empire and power over the last century",
+      "link": "https://www.tbsnews.net/features/big-picture/how-football-carried-war-empire-and-power-over-last-century-1484661",
+      "pubDate": "Thu, 09 Jul 2026 22:45:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/169_1.png"
     },
     {
       "title": "UGC to provide soft skills training for university students",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-provide-soft-skills-training-university-students-1484301",
       "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png"
-    },
-    {
-      "title": "Sarwar Alamgir takes oath as Chattogram-2 MP after five-month legal battle",
-      "link": "https://www.tbsnews.net/bangladesh/sarwar-alamgir-takes-oath-chattogram-2-mp-after-five-month-legal-battle-1484296",
-      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/hafiz_sarwar.jpg"
-    },
-    {
-      "title": "Govt appoints new Sylhet DC in fresh reshuffle",
-      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-new-sylhet-dc-fresh-reshuffle-1484286",
-      "pubDate": "Thu, 09 Jul 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/ministry_of_public_administration.jpg"
-    },
-    {
-      "title": "25 cleantech innovators honoured as Unido-backed programme promotes green entrepreneurship",
-      "link": "https://www.tbsnews.net/bangladesh/25-cleantech-innovators-honoured-unido-backed-programme-promotes-green-entrepreneurship",
-      "pubDate": "Thu, 09 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/unido.jpeg"
-    },
-    {
-      "title": "4,50,000 marooned in Ctg as worst rains in four decades trigger flooding; all official leave cancelled",
-      "link": "https://www.tbsnews.net/bangladesh/450000-marooned-ctg-worst-rains-four-decades-trigger-flooding-all-official-leave",
-      "pubDate": "Thu, 09 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/29/1777458688252.jpg"
-    },
-    {
-      "title": "Police, locals clash in Barishal's Agailjhara over rumour of detainee's death in custody; 12 injured",
-      "link": "https://www.tbsnews.net/bangladesh/police-locals-clash-barishals-agailjhara-over-rumour-detainees-death-custody-12-injured",
-      "pubDate": "Thu, 09 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/clash_barishal.jpg"
-    },
-    {
-      "title": "Food grains stock hit all-time high; tough action against food adulteration: State Minister",
-      "link": "https://www.tbsnews.net/bangladesh/food-grains-stock-hit-all-time-high-tough-action-against-food-adulteration-state-minister",
-      "pubDate": "Thu, 09 Jul 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/22/md_abdul_bari.jpg"
-    },
-    {
-      "title": "3 members of 'Boro Jahangir' pirate gang surrender to Coast Guard; hostage fisherman rescued",
-      "link": "https://www.tbsnews.net/bangladesh/3-members-boro-jahangir-pirate-gang-surrender-coast-guard-hostage-fisherman-rescued",
-      "pubDate": "Thu, 09 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/coast_guard_pirate_gang.jpg"
     },
     {
       "title": "Bangladesh needs swift reforms to stay competitive after LDC graduation: ICCB",
@@ -711,6 +771,16 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg"
     },
     {
+      "title": "At 250, the US is at a crossroads at home and abroad",
+      "link": "https://www.tbsnews.net/thoughts/250-us-crossroads-home-and-abroad-1484701",
+      "pubDate": "Tue, 07 Jul 2026 17:05:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/01-2026-06-25t013806z-171248057-rc2p0maa6pf3-rtrmadp-3-usa-250-trump.png"
+    },
+    {
       "title": "The Prime Minister’s carbon credit push must build a community-led climate economy",
       "link": "https://www.tbsnews.net/thoughts/prime-ministers-carbon-credit-push-must-build-community-led-climate-economy-1482071",
       "pubDate": "Tue, 07 Jul 2026 16:05:00 +0600",
@@ -1131,5 +1201,5 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/energy_0_0.jpg"
     }
   ],
-  "updatedAt": "2026-07-10T05:35:13.390Z"
+  "updatedAt": "2026-07-10T09:35:22.398Z"
 }
