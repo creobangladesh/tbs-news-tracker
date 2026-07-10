@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <meta property="og:title" content="Amer Habib's News">
     <meta property="og:description" content="The latest daily news curated and delivered in real-time.">
     <meta property="og:image" content="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg">
@@ -46,11 +45,14 @@
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: 'Inter', sans-serif; background: var(--background); color: var(--foreground); transition: background 0.2s, color 0.2s; line-height: 1.5; }
         
+        /* Sticky Header */
+        .sticky-header { position: sticky; top: 0; background: var(--background); z-index: 1000; border-bottom: 1px solid var(--border); padding-top: 10px; }
+        
         .container { margin: 0 auto; width: 95%; padding: 15px 0; max-width: 1600px; }
         @media (min-width: 1024px) { .container { width: 85%; } }
 
         /* Minimal Header */
-        header { border-bottom: 1px solid var(--border); padding-bottom: 10px; margin-bottom: 15px; }
+        header { padding-bottom: 10px; margin-bottom: 15px; }
         .header-top { display: flex; justify-content: space-between; align-items: center; }
         
         .brand-zone { display: flex; align-items: center; gap: 12px; }
@@ -132,52 +134,6 @@
         .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.4; flex-grow: 1; }
         .meta { color: var(--muted-foreground); font-size: 0.75rem; display: flex; align-items: center; gap: 10px; margin-top: auto; }
         
-        .text-only-tag { display: none; } /* Tag meant to sit beside time */
-
-        /* Override for List Layout */
-        .layout-list .news-card { flex-direction: row; gap: 20px; align-items: flex-start; padding-bottom: 15px; border-bottom: 1px solid var(--border); }
-        .layout-list .card-image-wrap { width: 280px; height: 160px; flex-shrink: 0; margin-bottom: 0; }
-        @media (max-width: 767px) {
-            .layout-list .news-card { flex-direction: column; gap: 0; }
-            .layout-list .card-image-wrap { width: 100%; height: 200px; margin-bottom: 12px; }
-        }
-        .layout-list .news-content { flex-direction: row; justify-content: space-between; width: 100%; }
-        .layout-list .card-header .bookmark-btn { display: none; } /* Hide grid bookmark */
-        .layout-list .bookmark-wrap { display: block; flex-shrink: 0; margin-left: 15px; } /* Show side bookmark */
-
-        /* Override for Text Layout */
-        .layout-text .news-card { flex-direction: row; padding: 12px 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
-        .layout-text .card-image-wrap { display: none; }
-        .layout-text .news-content { flex-direction: row; justify-content: space-between; width: 100%; }
-        .layout-text .card-header { display: none; } /* Hide grid top bar completely */
-        .layout-text .news-title { font-size: 1rem; font-weight: 600; display: block; margin: 0 0 4px 0; }
-        .layout-text .snippet { font-size: 0.85rem; margin: 0 0 6px 0; -webkit-line-clamp: 2; flex-grow: 0; }
-        .layout-text .meta { font-size: 0.75rem; margin-top: 0; }
-        .layout-text .text-only-tag { display: inline-flex; } /* Reveal side tag */
-        .layout-text .bookmark-wrap { display: block; flex-shrink: 0; margin-left: 15px; } /* Show side bookmark */
-
-        /* --- HERO CARD (Fully Clickable) --- */
-        .hero-card { grid-column: 1 / -1; position: relative; height: 450px; border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: flex-end; padding: 0; }
-        .hero-full-link { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; }
-        .hero-card .card-image-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0; border-radius: 0; z-index: 1; }
-        .hero-card .hero-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, transparent 20%, rgba(0,0,0,0.85) 100%); z-index: 2; }
-        
-        .hero-card .news-content { position: relative; z-index: 11; padding: 25px; display: flex; flex-direction: column; gap: 10px; pointer-events: none; }
-        .hero-card .news-content a, .hero-card .news-content button, .hero-card .news-content span { pointer-events: auto; }
-        .hero-card .tag { background: rgba(255,255,255,0.2); border: none; color: white; width: fit-content; }
-        .hero-card .news-title { color: #ffffff; font-size: 1.5rem; font-weight: 800; }
-        .hero-card .snippet { color: #d4d4d8; font-size: 0.95rem; -webkit-line-clamp: 2; }
-        .hero-card .meta, .hero-card .bookmark-btn { color: #a1a1aa; }
-        
-        @media (min-width: 768px) {
-            .hero-card .news-content { flex-direction: row; align-items: flex-end; justify-content: space-between; padding: 35px; gap: 30px; }
-            .hero-card .content-main { flex: 1; max-width: 65%; display: flex; flex-direction: column; gap: 10px;}
-            .hero-card .news-title { font-size: 2.2rem; margin:0;}
-            .hero-card .snippet { margin:0; }
-            .hero-card .bookmark-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 15px; margin-left: 0; }
-            .hero-card .card-header .bookmark-btn { display: none; } /* move bookmark down in hero */
-        }
-
         /* Load More & Footer */
         .load-more { display: block; width: 100%; padding: 12px; margin-top: 30px; background: var(--background); color: var(--foreground); border: 1px solid var(--border); border-radius: var(--radius); font-weight: 600; cursor: pointer; transition: background 0.2s; font-size: 0.9rem; }
         .load-more:hover { background: var(--muted); }
@@ -190,33 +146,35 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        
-        <header>
-            <div class="header-top">
-                <div class="brand-zone">
-                    <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
-                    <h1>Amer Habib's News</h1>
-                </div>
-                
-                <div class="utility-zone">
-                    <div id="live-datetime" class="live-clock"></div>
-                    <button class="icon-btn" onclick="toggleSearch()" title="Search">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-                    </button>
-                    <button class="icon-btn" onclick="init()" title="Refresh Feed">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
-                    </button>
-                    <button id="theme-btn" class="icon-btn" onclick="toggleTheme()" title="Toggle Theme">
+    <div class="sticky-header">
+        <div class="container">
+            <header>
+                <div class="header-top">
+                    <div class="brand-zone">
+                        <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
+                        <h1>Amer Habib's News</h1>
+                    </div>
+                    
+                    <div class="utility-zone">
+                        <div id="live-datetime" class="live-clock"></div>
+                        <button class="icon-btn" onclick="toggleSearch()" title="Search">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
                         </button>
+                        <button class="icon-btn" onclick="init()" title="Refresh Feed">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+                        </button>
+                        <button id="theme-btn" class="icon-btn" onclick="toggleTheme()" title="Toggle Theme">
+                            </button>
+                    </div>
                 </div>
-            </div>
-        </header>
-
-        <div id="search-container">
-            <input type="text" id="search-box" class="search-box" placeholder="Search articles, keywords..." oninput="handleSearch()">
+                <div id="search-container">
+                    <input type="text" id="search-box" class="search-box" placeholder="Search articles, keywords..." oninput="handleSearch()">
+                </div>
+            </header>
         </div>
+    </div>
 
+    <div class="container">
         <div class="controls-row">
             <select id="sort-box" class="select-box" onchange="handleSort()">
                 <option value="newest">Sort: Newest</option>
@@ -229,10 +187,10 @@
                 <button class="seg-btn" onclick="setView('grid-2', this)" title="2 Columns">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="18" rx="1"/><rect x="14" y="3" width="7" height="18" rx="1"/></svg>
                 </button>
-                <button class="seg-btn" onclick="setView('grid-3', this)" title="3 Columns">
+                <button class="seg-btn active" onclick="setView('grid-3', this)" title="3 Columns">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="5" height="18" rx="1"/><rect x="9.5" y="3" width="5" height="18" rx="1"/><rect x="17" y="3" width="5" height="18" rx="1"/></svg>
                 </button>
-                <button class="seg-btn active" onclick="setView('grid-4', this)" title="4 Columns">
+                <button class="seg-btn" onclick="setView('grid-4', this)" title="4 Columns">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="3.5" height="18" rx="1"/><rect x="7.5" y="3" width="3.5" height="18" rx="1"/><rect x="13" y="3" width="3.5" height="18" rx="1"/><rect x="18.5" y="3" width="3.5" height="18" rx="1"/></svg>
                 </button>
                 <button class="seg-btn" onclick="setView('list', this)" title="List View">
