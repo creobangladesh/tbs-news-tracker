@@ -1,4 +1,4 @@
-name: Update TBS Feed
+name: Update News Feed
 on:
   schedule:
     - cron: '*/30 * * * *' 
