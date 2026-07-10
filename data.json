@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "Bandarban extends tourist site closure until 15 July amid adverse weather",
+      "link": "https://www.tbsnews.net/bangladesh/bandarban-extends-tourist-site-closure-until-15-july-amid-adverse-weather-1484891",
+      "pubDate": "Fri, 10 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/bandarban.jpg",
+      "snippet": "During this period, all tourist spots, waterfalls, hill trails, waterways, remote areas and other high-risk locations will remain off-limits to tourists, tour operators and the general public."
+    },
+    {
+      "title": "BRAC Bank, Tarupallab honour environmental heroes with ‘Dwijen Sharma Poribesh Padak’ ",
+      "link": "https://www.tbsnews.net/bangladesh/brac-bank-tarupallab-honour-environmental-heroes-dwijen-sharma-poribesh-padak-1484881",
+      "pubDate": "Fri, 10 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/780c549221d212d91fd36df4f4294cc8_0.jpeg",
+      "snippet": "The awards were given at a ceremony held today (10 July) at the Bangla Academy."
+    },
+    {
+      "title": "Floods leave over 500,000 stranded in Cox's Bazar amid drinking water crisis",
+      "link": "https://www.tbsnews.net/bangladesh/floods-leave-over-500000-stranded-coxs-bazar-amid-drinking-water-crisis-1484876",
+      "pubDate": "Fri, 10 Jul 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/coxs_bazaar_flood_2.jpeg",
+      "snippet": "Days of relentless rainfall and upstream hill runoff have worsened flooding across Cox's Bazar, leaving more than half a million people stranded as shortages of safe drinking water, food and medicines deepen and authorities warn the situation could d..."
+    },
+    {
+      "title": "Man sent to jail over burning Tafhimul Quran at DU",
+      "link": "https://www.tbsnews.net/bangladesh/court/man-sent-jail-over-burning-tafhimul-quran-du-1484866",
+      "pubDate": "Fri, 10 Jul 2026 20:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/06/cmm_court.jpg",
+      "snippet": "Police arrested the accused after three volumes of Tafhimul Quran were allegedly set on fire at Dhaka University early today."
+    },
+    {
+      "title": "Nahid calls for execution of Hasina's death sentence if she returns",
+      "link": "https://www.tbsnews.net/bangladesh/politics/nahid-calls-execution-hasinas-death-sentence-if-she-returns-1484846",
+      "pubDate": "Fri, 10 Jul 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/nahid_10_jul.png",
+      "snippet": "Those who participated in the 2024 July Uprising are prepared to respond to any untoward political developments, says the NCP chief."
+    },
+    {
+      "title": "Extremist links: Tahseen lands in jail as court wants probe report by 26 July",
+      "link": "https://www.tbsnews.net/bangladesh/court/extremist-links-tahseen-lands-jail-court-wants-probe-report-26-july-1484861",
+      "pubDate": "Fri, 10 Jul 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/tahseen_islam_was_produced_before_a_dhaka_court_today_10_july.jpg",
+      "snippet": "The court has also rejected a seven-day remand plea from police."
+    },
+    {
+      "title": "Realising the hopes and aspirations of young people: Bangladesh's path to a demographic future of choice and opportunity",
+      "link": "https://www.tbsnews.net/thoughts/realising-hopes-and-aspirations-young-people-bangladeshs-path-demographic-future-choice-and",
+      "pubDate": "Fri, 10 Jul 2026 18:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/for_thoughts.jpeg",
+      "snippet": "The true measure of demographic success is not simply the size of a population. It is whether every young woman and man can make informed decisions about education, employment, marriage and parenthood, and whether society provides the opportunities t..."
+    },
+    {
+      "title": "EU tells Instagram, Facebook to change addictive features or risk fines",
+      "link": "https://www.tbsnews.net/tech/eu-tells-instagram-facebook-change-addictive-features-or-risk-fines-1484826",
+      "pubDate": "Fri, 10 Jul 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/facebook_insta.jpg",
+      "snippet": "The European Commission's preliminary findings follow a two-year investigation under the European Union's landmark Digital Services Act, which requires large online platforms to do more to tackle illegal and harmful content."
+    },
+    {
+      "title": "Funding the unfundable: What Bangladesh's banks still cannot see",
+      "link": "https://www.tbsnews.net/thoughts/funding-unfundable-what-bangladeshs-banks-still-cannot-see-1484816",
+      "pubDate": "Fri, 10 Jul 2026 18:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_5.33.13_pm.jpeg",
+      "snippet": "Bangladesh has millions of functioning small businesses — machines running, orders coming in, workers paid — that banks still refuse to finance because they cannot produce a land title. With LDC graduation looming and global competition intensifying,..."
+    },
+    {
+      "title": "18 arrested in Barishal over Agailjhara Police Station attack after custody death rumour",
+      "link": "https://www.tbsnews.net/bangladesh/crime/18-arrested-barishal-over-agailjhara-police-station-attack-after-custody-death",
+      "pubDate": "Fri, 10 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/clash_barishal.jpg",
+      "snippet": "Police made the arrests a day after a clash broke out at the police station over rumours that a theft case accused had died in custody."
+    },
+    {
+      "title": "OpenAI unveils long-awaited 'super app' as rivalry with Anthropic intensifies",
+      "link": "https://www.tbsnews.net/tech/openai-unveils-long-awaited-super-app-rivalry-anthropic-intensifies-1484806",
+      "pubDate": "Fri, 10 Jul 2026 18:25:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/12/chatgpt.jpg",
+      "snippet": "ChatGPT Work is a direct answer to Anthropic's Claude Cowork, an ⁠agent it launched in January that is capable of planning and executing multi-step tasks autonomously."
+    },
+    {
       "title": "Flood fears loom for more low-lying areas as upstream deluge intensifies",
       "link": "https://www.tbsnews.net/bangladesh/flood-fears-loom-more-low-lying-areas-upstream-deluge-intensifies-1484796",
       "pubDate": "Fri, 10 Jul 2026 18:10:00 +0600",
@@ -8,7 +129,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_mirsharai_flood.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/flood_in-ctg.jpg",
       "snippet": "Heavy rainfall in upstream India and a low-pressure system over the northwestern Bay have kept flood conditions active across parts of Bangladesh, with authorities warning that rising river levels could inundate new low-lying areas over the next 24 t..."
     },
     {
@@ -23,7 +144,7 @@
       "snippet": "A spell of heavy rain around noon submerged roads in several areas of the capital, disrupting traffic and making movement difficult for commuters."
     },
     {
-      "title": "Eleven killed, 19 missing in one of Spain's deadliest wildfires",
+      "title": "12 killed, 23 missing in one of Spain's deadliest wildfires",
       "link": "https://www.tbsnews.net/worldbiz/europe/eleven-killed-19-missing-one-spains-deadliest-wildfires-1484781",
       "pubDate": "Fri, 10 Jul 2026 17:15:00 +0600",
       "category": "Bangladesh",
@@ -133,17 +254,6 @@
       "snippet": "Sheikh Hasina, facing a death sentence back in Bangladesh, told Reuters that she and members of her Awami League aim to return voluntarily to the country they fled two years ago ‌and present themselves in court."
     },
     {
-      "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
-      "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
-      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
-      "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
-    },
-    {
       "title": "The hidden cost of being a woman in Bangladesh",
       "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
       "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
@@ -153,6 +263,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png",
       "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
+    },
+    {
+      "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
+      "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
+      "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
     },
     {
       "title": "SK Hynix set for marquee US debut in test for AI appetite",
@@ -175,94 +296,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/29/sajek_valley_d.jpg",
       "snippet": "A total of 561 tourists had been stranded in Sajek Valley following days of continuous rainfall, landslides, and severed road links."
-    },
-    {
-      "title": "Jamaat-led alliance to hold rally in Rangpur tomorrow demanding implementation of Teesta master plan ",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-led-alliance-hold-rally-rangpur-tomorrow-demanding-implementation-teesta-master",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/jamaat_alliance.jpg",
-      "snippet": "Opposition Leader and Ameer of Bangladesh Jamaat-e-Islami Dr Shafiqur Rahman will attend the rally as the chief guest. The event will be chaired by Leader of the Opposition Chief Whip and National Citizen Party (NCP) Convener Nahid Islam MP."
-    },
-    {
-      "title": "BMD forecasts heavy to very heavy rain, warns of landslides",
-      "link": "https://www.tbsnews.net/bangladesh/bmd-forecasts-heavy-very-heavy-rain-warns-landslides-1484611",
-      "pubDate": "Fri, 10 Jul 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/aaa7e518-d5d6-4fc4-90fb-60d4737d5622.jpg",
-      "snippet": "According to the BMD, heavy rainfall refers to precipitation between 44mm and 88mm, while very heavy rainfall means more than 88mm within the forecast period."
-    },
-    {
-      "title": "Five  rivers above danger level; 4 seaports advised cautionary signal no 3",
-      "link": "https://www.tbsnews.net/bangladesh/5-rivers-remain-above-danger-level-cautionary-signal-no-3-1484596",
-      "pubDate": "Fri, 10 Jul 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/29/cautionary_signal.jpg",
-      "snippet": "Water levels are rising at 79 of the country's 127 river monitoring stations, falling at 43 and remaining unchanged at five, the FFWC said."
-    },
-    {
-      "title": "6 arrested over assault, robbery that killed elderly railway cleaner in Narsingdi",
-      "link": "https://www.tbsnews.net/bangladesh/6-arrested-over-assault-robbery-killed-elderly-railway-cleaner-narsingdi-1484591",
-      "pubDate": "Fri, 10 Jul 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/photo-output.jpeg",
-      "snippet": "RAB-11 Commanding Officer Lt Col Mohammad Masud Parvez confirmed the development today (10 July)."
-    },
-    {
-      "title": "People want to see visible progress on Teesta master plan: Shafiqur",
-      "link": "https://www.tbsnews.net/bangladesh/people-want-see-visible-progress-teesta-master-plan-shafiqur-1484556",
-      "pubDate": "Fri, 10 Jul 2026 12:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/740400041_1342255014039148_2493573710677534591_n.jpg",
-      "snippet": "'We know this is a massive project and that it will take time to complete, but if the work is carried out sincerely, people should be able to see visible progress,' says Jamaat-e-Islami Ameer Dr Shafiqur Rahman."
-    },
-    {
-      "title": "Undertrial prisoner escapes Khulna jail by scaling prison wall",
-      "link": "https://www.tbsnews.net/bangladesh/undertrial-prisoner-escapes-khulna-jail-scaling-prison-wall-1484516",
-      "pubDate": "Fri, 10 Jul 2026 12:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/14/condemned_cell.jpg",
-      "snippet": "The incident was captured on the prison's CCTV cameras."
-    },
-    {
-      "title": "Another alleged FCS member detained in Jashore over extremist links",
-      "link": "https://www.tbsnews.net/bangladesh/crime/another-alleged-fcs-member-detained-jashore-over-extremist-links-1484501",
-      "pubDate": "Fri, 10 Jul 2026 11:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/1d94c14651b3bfc7f47a20e845feeb31.jpeg",
-      "snippet": "The detainee identified as Tahsin Islam, 19."
-    },
-    {
-      "title": "National Herbarium identifies 442 new plant species",
-      "link": "https://www.tbsnews.net/bangladesh/environment/national-herbarium-identifies-442-new-plant-species-1484396",
-      "pubDate": "Fri, 10 Jul 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/plants_representational.jpg",
-      "snippet": "Officials said the Bangladesh Forest Research Institute has also developed more than 100 sustainable technologies, including bamboo cultivation through tissue culture."
     },
     {
       "title": "Islami Bank remains remittance leader in FY26 as Krishi, BRAC banks post strong gains",
@@ -1220,62 +1253,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/p1_brac_img_9806.jpg",
       "snippet": "The bank honours 25 organisations for their exceptional contribution to Bangladesh’s socio-economic development"
-    },
-    {
-      "title": "Govt targets raising CMSME’s contribution to 60% of economy: Industries minister",
-      "link": "https://www.tbsnews.net/economy/industry/govt-working-raise-cmsme-sectors-contribution-60-economy-industries-minister",
-      "pubDate": "Sun, 05 Jul 2026 19:45:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/commerce_minister.jpg",
-      "snippet": "He says although the Tk65,000 crore contribution appears substantial, it is not satisfactory considering Bangladesh's economic potential."
-    },
-    {
-      "title": "12 JU students suspended over ragging",
-      "link": "https://www.tbsnews.net/bangladesh/education/12-ju-students-suspended-over-ragging-1480331",
-      "pubDate": "Sun, 05 Jul 2026 19:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/04/jahangirnagar-university_0.jpg",
-      "snippet": "The decision was announced in an office order signed by acting registrar ABM Azizur Rahman"
-    },
-    {
-      "title": "Bangladesh needs to make medical device locally to cut import dependence: Health minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-needs-local-medical-device-manufacturing-cut-import-dependence-health",
-      "pubDate": "Sun, 05 Jul 2026 19:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/health_minister_du.jpg",
-      "snippet": "Sardar Md Sakhawat Husain says local production of medical devices could save foreign currency, create jobs and position Bangladesh as a regional hub for health technology."
-    },
-    {
-      "title": "DU move to merge eight departments into three draws faculty objections",
-      "link": "https://www.tbsnews.net/bangladesh/education/du-weighs-merging-8-depts-3-teachers-oppose-move-over-lack-consultation-1480286",
-      "pubDate": "Sun, 05 Jul 2026 19:20:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
-      "snippet": "Teachers say the affected disciplines have distinct academic identities and accuse the university of moving ahead without prior consultation, as deans seek recommendations on the proposal."
-    },
-    {
-      "title": "Subodh: The man who carried the Sun abroad",
-      "link": "https://www.tbsnews.net/thoughts/subodh-man-who-carried-sun-abroad-1480261",
-      "pubDate": "Sun, 05 Jul 2026 19:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/subodh_photo.jpg",
-      "snippet": "An anonymous graffiti figure carrying a caged sun became one of South Asia's most enduring symbols of uncertainty, hope and dissent."
     }
   ],
-  "updatedAt": "2026-07-10T12:25:35.058Z"
+  "updatedAt": "2026-07-10T15:12:12.163Z"
 }
