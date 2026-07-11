@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "SME owners demand policy reforms to ease business",
+      "link": "https://www.tbsnews.net/economy/industry/sme-owners-demand-policy-reforms-ease-business-1485766",
+      "pubDate": "Sat, 11 Jul 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/02/sme_foundation_logo.jpg",
+      "snippet": "Entrepreneurs called for longer trade licence validity, lower real estate taxes and easier import procedures"
+    },
+    {
       "title": "Shahjalal shrine donation boxes yield Tk47 lakh in 18 days, gold and foreign currency also found",
       "link": "https://www.tbsnews.net/bangladesh/shahjalal-shrine-donation-boxes-yield-tk47-lakh-18-days-gold-and-foreign-currency-also",
       "pubDate": "Sat, 11 Jul 2026 21:55:00 +0600",
@@ -235,10 +246,10 @@
       "title": "Chattogram Board suspends HSC, equivalent exams until 16 July due to floods",
       "link": "https://www.tbsnews.net/bangladesh/education/chattogram-board-suspends-hsc-equivalent-exams-until-16-july-due-floods-1485531",
       "pubDate": "Sat, 11 Jul 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/10.hsc_results.jpeg",
       "snippet": "The announcement came as the government stepped up its flood response, with authorities saying relief efforts are being closely monitored."
     },
@@ -276,7 +287,7 @@
       "snippet": "So far, 93 people have died with confirmed measles infections, while 702 have died with measles-like symptoms, the data showed."
     },
     {
-      "title": "Creative economy needs policy, tax reforms to unlock Tk800cr plan: Stakeholders",
+      "title": "Creative economy needs policy reforms to thrive on Tk800cr support in FY27: Stakeholders",
       "link": "https://www.tbsnews.net/economy/creative-economy-needs-policy-tax-reforms-unlock-tk800cr-plan-stakeholders-1485346",
       "pubDate": "Sat, 11 Jul 2026 16:30:00 +0600",
       "category": "Economy",
@@ -284,7 +295,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/08/pprc-logo.jpg",
-      "snippet": "The initiative includes a direct allocation of Tk300 crore and plans to mobilise another Tk500 crore."
+      "snippet": "Stakeholders also warn that tax, copyright and licensing reforms are essential to unlock the sector's growth and employment potential."
     },
     {
       "title": "PKSF to borrow Tk5,000cr from cenbank to expand finance for small entrepreneurs ",
@@ -430,17 +441,6 @@
       "snippet": "The Ministry of Primary and Mass Education issued a notification today (10 July) saying the action was taken against Md Mehtab Kayes, the official in question."
     },
     {
-      "title": "The hidden cost of being a woman in Bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
-      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png",
-      "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
-    },
-    {
       "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
       "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
       "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
@@ -450,6 +450,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
       "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
+    },
+    {
+      "title": "The hidden cost of being a woman in Bangladesh",
+      "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png",
+      "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
     },
     {
       "title": "SK Hynix set for marquee US debut in test for AI appetite",
@@ -626,40 +637,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/breast_cancer.jpg",
       "snippet": "Study says 56% start treatment four months after first symptoms"
-    },
-    {
-      "title": "Benapole Customs misses revenue target by Tk4,731 crore",
-      "link": "https://www.tbsnews.net/economy/benapole-customs-misses-revenue-target-tk4731-crore-1483511",
-      "pubDate": "Thu, 09 Jul 2026 00:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/03/benapole_customs_house.jpg",
-      "snippet": "A sharp fall in imports, coupled with allegations of weighbridge manipulation, duty evasion, undeclared imports and theft of goods."
-    },
-    {
-      "title": "Financial account rebounds to over $4b surplus in 11 months",
-      "link": "https://www.tbsnews.net/economy/financial-account-rebounds-over-4b-surplus-11-months-1483506",
-      "pubDate": "Thu, 09 Jul 2026 00:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/14/online_banking_0.jpg",
-      "snippet": "Trade deficit widens to $24b as exports drop"
-    },
-    {
-      "title": "Tarique Rahman: The making of a 'Green Prime Minister'",
-      "link": "https://www.tbsnews.net/thoughts/tarique-rahman-making-green-prime-minister-1483531",
-      "pubDate": "Wed, 08 Jul 2026 23:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/tarique_rahman.png",
-      "snippet": "Planting 250 million trees, restoring 20,000 kilometres of waterways, and placing climate finance at the core of Bangladesh’s diplomacy, Tarique Rahman is trying to make environmental action a defining feature of his premiership"
     }
   ],
-  "updatedAt": "2026-07-11T17:00:42.238Z"
+  "updatedAt": "2026-07-11T18:26:25.406Z"
 }
