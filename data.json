@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Shahjalal shrine donation boxes yield Tk47 lakh in 18 days, gold and foreign currency also found",
+      "link": "https://www.tbsnews.net/bangladesh/shahjalal-shrine-donation-boxes-yield-tk47-lakh-18-days-gold-and-foreign-currency-also",
+      "pubDate": "Sat, 11 Jul 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/shahjalal_shrine_money.png",
+      "snippet": "The foreign currencies found in the donation boxes included 135 Saudi riyals, 20 US dollars, 2,532 Indian rupees, 22 Qatari dirhams, 6 Malaysian ringgit, 20 Hong Kong dollars, 20 euros, 1.450 Omani dinars, 54.20 UAE dirhams, 4,000 Indonesian rupiah, ..."
+    },
+    {
+      "title": "PM chairs BNP Standing Committee meeting on flood situation",
+      "link": "https://www.tbsnews.net/bangladesh/politics/pm-chairs-bnp-standing-committee-meeting-flood-situation-1485741",
+      "pubDate": "Sat, 11 Jul 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bnp_meeting.jpg",
+      "snippet": "The party’s top policymaking body is discussing the flood situation, organisational issues and other political matters, according to BNP sources."
+    },
+    {
       "title": "Most landslide shelters in Ctg, Bandarban need major upgrades: Study",
       "link": "https://www.tbsnews.net/bangladesh/most-landslide-shelters-ctg-bandarban-need-major-upgrades-study-1485706",
       "pubDate": "Sat, 11 Jul 2026 21:45:00 +0600",
@@ -31,7 +53,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/faridpur_accident.jpg",
-      "snippet": "The accident occurred while locals were gathered at the roadside during a rescue operation after a pickup van fell off the road in Faridpur’s Bhanga."
+      "snippet": "The accident occurred while locals were gathered beside the road during a rescue operation after a pickup van had fallen off the road earlier in the day in Faridpur’s Bhanga."
     },
     {
       "title": "DSE finds AFC Agro’s factory closed, adding to growing list of non-operational firms",
@@ -221,24 +243,13 @@
       "snippet": "The announcement came as the government stepped up its flood response, with authorities saying relief efforts are being closely monitored."
     },
     {
-      "title": "Diplomatic efforts underway to bring back fugitives from abroad: Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/diplomatic-efforts-underway-bring-back-fugitives-abroad-shama-obaed-1485536",
-      "pubDate": "Sat, 11 Jul 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/1000456811.jpg",
-      "snippet": "The government has given its highest-ever budgetary allocation to education, with undergraduate education for women made free under this year's budget, says the state minister."
-    },
-    {
       "title": "DGHS orders medical teams, medicine and anti-snake venom stockpiles in flood-hit areas",
       "link": "https://www.tbsnews.net/bangladesh/health/dghs-orders-medical-teams-medicine-and-anti-snake-venom-stockpiles-flood-hit-areas",
       "pubDate": "Sat, 11 Jul 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/30/dghs-tbs.jpeg",
       "snippet": "Flood-hit areas have also been instructed to appoint focal persons for round-the-clock coordination with the DGHS control room."
     },
@@ -419,17 +430,6 @@
       "snippet": "The Ministry of Primary and Mass Education issued a notification today (10 July) saying the action was taken against Md Mehtab Kayes, the official in question."
     },
     {
-      "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
-      "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
-      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
-      "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
-    },
-    {
       "title": "The hidden cost of being a woman in Bangladesh",
       "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
       "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
@@ -439,6 +439,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png",
       "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
+    },
+    {
+      "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
+      "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
+      "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
     },
     {
       "title": "SK Hynix set for marquee US debut in test for AI appetite",
@@ -648,29 +659,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/tarique_rahman.png",
       "snippet": "Planting 250 million trees, restoring 20,000 kilometres of waterways, and placing climate finance at the core of Bangladesh’s diplomacy, Tarique Rahman is trying to make environmental action a defining feature of his premiership"
-    },
-    {
-      "title": "Structural bottlenecks and import costs keep inflation elevated in Bangladesh",
-      "link": "https://www.tbsnews.net/economy/structural-bottlenecks-import-costs-keep-inflation-elevated-bangladesh-ged-1483466",
-      "pubDate": "Wed, 08 Jul 2026 22:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/inflation_0.png",
-      "snippet": "Economic Update says supply chain weaknesses, imported energy costs and global price volatility are driving broad-based inflation, with headline inflation rising to 9.42% in May."
-    },
-    {
-      "title": "Intech sinks to junk category as losses wipe out paid-up capital",
-      "link": "https://www.tbsnews.net/economy/stocks/intech-sinks-junk-category-losses-wipe-out-paid-capital-1483456",
-      "pubDate": "Wed, 08 Jul 2026 22:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "The regulatory move, effective from today (8 July), follows a mandatory policy by the Bangladesh Securities and Exchange Commission requiring companies with negative retained earnings exceeding their total paid-up capital to be shifted to the lowest ..."
     }
   ],
-  "updatedAt": "2026-07-11T15:56:17.024Z"
+  "updatedAt": "2026-07-11T17:00:42.238Z"
 }
