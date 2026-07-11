@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Kashimpur jailbreak: RAB arrests escaped death row convict in Dhaka",
+      "link": "https://www.tbsnews.net/bangladesh/crime/kashimpur-jailbreak-rab-arrests-escaped-death-row-convict-dhaka-1485166",
+      "pubDate": "Sat, 11 Jul 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/741196538_1218099774718515_6409476345420985099_n.jpg",
+      "snippet": "Acting on a tip-off, a RAB-4 team conducted a raid in the Darus Salam area of Dhaka yesterday afternoon and arrested Md Abdullah Sikdar, 24, a death row convict in a murder case"
+    },
+    {
+      "title": "Embankments in Khulna's Batiaghata face breach risk amid rising water levels",
+      "link": "https://www.tbsnews.net/bangladesh/embankments-khulnas-batiaghata-face-breach-risk-amid-rising-water-levels-1485156",
+      "pubDate": "Sat, 11 Jul 2026 12:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/9703923.jpg",
+      "snippet": "A low-pressure system over the Bay of Bengal coupled with continuous rainfall and increased upstream water has pushed river water levels above the danger mark."
+    },
+    {
+      "title": "PKSF to borrow Tk5,000cr from cenbank to expand finance for small entrepreneurs ",
+      "link": "https://www.tbsnews.net/economy/pksf-borrow-tk5000cr-cenbank-expand-finance-small-entrepreneurs-1485021",
+      "pubDate": "Sat, 11 Jul 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/startup_1.png",
+      "snippet": "The funds will be released once the finance ministry provides a sovereign guarantee, which PKSF has formally requested. On 27 June, PKSF Managing Director Md Fazlul Kader wrote to the secretary of the Financial Institutions Division, seeking a govern..."
+    },
+    {
+      "title": "Humans versus human resources",
+      "link": "https://www.tbsnews.net/analysis/humans-versus-human-resources-1485146",
+      "pubDate": "Sat, 11 Jul 2026 12:00:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/population.jpg",
+      "snippet": "People can be both an asset and, under certain circumstances, a liability for a country"
+    },
+    {
+      "title": "PM inaugurates DMC Day as Dhaka Medical College celebrates 80 years",
+      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-dmc-day-2026-dhaka-medical-college-celebrates-80-years-1485131",
+      "pubDate": "Sat, 11 Jul 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/pm.jpeg",
+      "snippet": "Chief Engineer of the Health Engineering Department briefed the Prime Minister on the construction of two female dormitories."
+    },
+    {
+      "title": "Heavy rains inundate parts of Khulna; effectiveness of Tk823cr drainage project questioned",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rains-inundate-parts-khulna-effectiveness-tk823cr-drainage-project-questioned",
+      "pubDate": "Sat, 11 Jul 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/9574137.jpg",
+      "snippet": "According to the Khulna Meteorological Office, the city received 184 millimetres of rainfall over the past 51 hours."
+    },
+    {
+      "title": "How conflicting policy signals are keeping private investment on hold",
+      "link": "https://www.tbsnews.net/economy/how-conflicting-policy-signals-are-keeping-private-investment-hold-1485086",
+      "pubDate": "Sat, 11 Jul 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/09/investment.jpg",
+      "snippet": "Economists argue that lower taxes alone are not enough to drive private investment when financing and business conditions remain challenging."
+    },
+    {
+      "title": "Fiscal policy says spend, monetary policy says stop: Can investment gain pace amid this policy standoff?",
+      "link": "https://www.tbsnews.net/analysis/fiscal-policy-says-spend-monetary-policy-says-stop-can-investment-gain-pace-amid-policy",
+      "pubDate": "Sat, 11 Jul 2026 11:05:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/monetary_policy_1.png",
+      "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
+    },
+    {
+      "title": "Dhaka's air quality 'moderate' this morning",
+      "link": "https://www.tbsnews.net/bangladesh/environment/dhakas-air-quality-moderate-morning-1485061",
+      "pubDate": "Sat, 11 Jul 2026 10:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/03/475685954_965240508465427_5000090421525970151_n.jpg",
+      "snippet": "With an air quality index (AQI) score of 86 at 9:29am, Dhaka ranked 16th on the list of world cities with the worst air quality."
+    },
+    {
       "title": "Bangladesh highlights Teesta, skills and innovation at UN SDG forum",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-highlights-teesta-skills-and-innovation-un-sdg-forum-1485051",
       "pubDate": "Sat, 11 Jul 2026 10:35:00 +0600",
@@ -12,7 +111,7 @@
       "snippet": "Dr Awal also stressed the importance of international cooperation on transboundary water sharing including support for the Teesta Barrage Project in northern Bangladesh, said a press release of Permanent Mission of Bangladesh to the United Nations, N..."
     },
     {
-      "title": "Scams, smuggling, battlefields: How flawed vetting sent our workers into harm’s way",
+      "title": "Scams, smuggling, battlefields: How flawed vetting sent our workers into harm's way",
       "link": "https://www.tbsnews.net/bangladesh/migration/scams-smuggling-battlefields-how-flawed-vetting-sent-our-workers-harms-way",
       "pubDate": "Sat, 11 Jul 2026 10:30:00 +0600",
       "category": "Bangladesh",
@@ -144,61 +243,6 @@
       "snippet": "Alongside the joint venture drone manufacturing factory, a new Bangladesh Air Force base will be built in Bogura, State Minister for Local Government Mir Shahe Alam has said."
     },
     {
-      "title": "Bandarban extends tourist site closure until 15 July amid adverse weather",
-      "link": "https://www.tbsnews.net/bangladesh/bandarban-extends-tourist-site-closure-until-15-july-amid-adverse-weather-1484891",
-      "pubDate": "Fri, 10 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/bandarban.jpg",
-      "snippet": "During this period, all tourist spots, waterfalls, hill trails, waterways, remote areas and other high-risk locations will remain off-limits to tourists, tour operators and the general public."
-    },
-    {
-      "title": "BRAC Bank, Tarupallab honour environmental heroes with 'Dwijen Sharma Poribesh Padak'",
-      "link": "https://www.tbsnews.net/bangladesh/brac-bank-tarupallab-honour-environmental-heroes-dwijen-sharma-poribesh-padak-1484881",
-      "pubDate": "Fri, 10 Jul 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/780c549221d212d91fd36df4f4294cc8_0.jpeg",
-      "snippet": "The award honours the legacy of the late Professor Dwijen Sharma, a prominent naturalist and botanist whose work has inspired countless individuals to protect nature."
-    },
-    {
-      "title": "Floods leave over 5 lakh stranded in Cox's Bazar amid drinking water crisis",
-      "link": "https://www.tbsnews.net/bangladesh/floods-leave-over-500000-stranded-coxs-bazar-amid-drinking-water-crisis-1484876",
-      "pubDate": "Fri, 10 Jul 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/coxs_bazaar_flood_2.jpeg",
-      "snippet": "Days of relentless rainfall and upstream hill runoff have worsened flooding across Cox's Bazar, leaving more than half a million people stranded as shortages of safe drinking water, food and medicines deepen and authorities warn the situation could d..."
-    },
-    {
-      "title": "Man sent to jail over burning Tafhimul Quran at DU",
-      "link": "https://www.tbsnews.net/bangladesh/court/man-sent-jail-over-burning-tafhimul-quran-du-1484866",
-      "pubDate": "Fri, 10 Jul 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/06/cmm_court.jpg",
-      "snippet": "Police arrested the accused after three volumes of Tafhimul Quran were allegedly set on fire at Dhaka University early today."
-    },
-    {
-      "title": "Extremist links: Tahseen lands in jail as court wants probe report by 26 July",
-      "link": "https://www.tbsnews.net/bangladesh/court/extremist-links-tahseen-lands-jail-court-wants-probe-report-26-july-1484861",
-      "pubDate": "Fri, 10 Jul 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/tahseen_islam_was_produced_before_a_dhaka_court_today_10_july.jpg",
-      "snippet": "The court has also rejected a seven-day remand plea from police."
-    },
-    {
       "title": "Realising the hopes and aspirations of young people: Bangladesh's path to a demographic future of choice and opportunity",
       "link": "https://www.tbsnews.net/thoughts/realising-hopes-and-aspirations-young-people-bangladeshs-path-demographic-future-choice-and",
       "pubDate": "Fri, 10 Jul 2026 18:55:00 +0600",
@@ -213,10 +257,10 @@
       "title": "EU tells Instagram, Facebook to change addictive features or risk fines",
       "link": "https://www.tbsnews.net/tech/eu-tells-instagram-facebook-change-addictive-features-or-risk-fines-1484826",
       "pubDate": "Fri, 10 Jul 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/facebook_insta.jpg",
       "snippet": "The European Commission's preliminary findings follow a two-year investigation under the European Union's landmark Digital Services Act, which requires large online platforms to do more to tackle illegal and harmful content."
     },
@@ -230,17 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_5.33.13_pm.jpeg",
       "snippet": "Bangladesh has millions of functioning small businesses — machines running, orders coming in, workers paid — that banks still refuse to finance because they cannot produce a land title. With LDC graduation looming and global competition intensifying,..."
-    },
-    {
-      "title": "18 arrested in Barishal over Agailjhara Police Station attack after custody death rumour",
-      "link": "https://www.tbsnews.net/bangladesh/crime/18-arrested-barishal-over-agailjhara-police-station-attack-after-custody-death",
-      "pubDate": "Fri, 10 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/clash_barishal.jpg",
-      "snippet": "Police made the arrests a day after a clash broke out at the police station over rumours that a theft case accused had died in custody."
     },
     {
       "title": "OpenAI unveils long-awaited 'super app' as rivalry with Anthropic intensifies",
@@ -760,17 +793,6 @@
       "snippet": "Bangladesh’s proposed Distressed Asset Management Act offers a bold solution to a long-standing banking problem, but only strong institutions, transparent governance and effective implementation can deliver lasting reform"
     },
     {
-      "title": "Govt okays $1b stringent IsDB loan for Eastern Refinery expansion",
-      "link": "https://www.tbsnews.net/economy/govt-okays-1b-stringent-isdb-loan-eastern-refinery-expansion-1482561",
-      "pubDate": "Wed, 08 Jul 2026 00:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/29/eastern.jpg",
-      "snippet": "As per an ERD working paper, the loan carries a relatively high financing cost compared with prevailing rates in the international market."
-    },
-    {
       "title": "HSC exams postponed in Chattogram, Rangamati, Cox's Bazar on Wednesday due to floods",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-postponed-chattogram-rangamati-wednesday-due-floods-1482546",
       "pubDate": "Wed, 08 Jul 2026 00:05:00 +0600",
@@ -785,10 +807,10 @@
       "title": "Garment workers besiege BGMEA office over unpaid wages  ",
       "link": "https://www.tbsnews.net/economy/industry/garment-workers-besiege-bgmea-office-over-unpaid-wages-1482501",
       "pubDate": "Tue, 07 Jul 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bgmea.jpeg",
       "snippet": "According to workers and senior BGMEA officials, the factory employed around 2,000 workers."
     },
@@ -829,10 +851,10 @@
       "title": "Cenbank mandates anti-money laundering certification for Tk20,000cr refinance fund",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-issues-guidelines-tk20000cr-pre-finance-scheme-revive-closed-industries",
       "pubDate": "Tue, 07 Jul 2026 19:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
       "snippet": "Banks must verify that borrowers have no record of money laundering, fraud or loan misuse before extending financing under the government's industry revival scheme."
     },
@@ -1220,18 +1242,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
       "snippet": "The state minister said the government is implementing a long-term action plan to encourage students to attend school, address learning gaps and ensure quality primary education."
-    },
-    {
-      "title": "Many measles survivors developing eye complications",
-      "link": "https://www.tbsnews.net/bangladesh/health/many-measles-survivors-developing-eye-complications-1480696",
-      "pubDate": "Mon, 06 Jul 2026 12:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "Experts call for immediate screening as seven more children die from measles-like symptoms"
     }
   ],
-  "updatedAt": "2026-07-11T04:41:18.277Z"
+  "updatedAt": "2026-07-11T07:11:32.964Z"
 }
