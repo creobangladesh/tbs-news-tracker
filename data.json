@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Bangladesh highlights Teesta, skills and innovation at UN SDG forum",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-highlights-teesta-skills-and-innovation-un-sdg-forum-1485051",
+      "pubDate": "Sat, 11 Jul 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/2784523.jpg",
+      "snippet": "Dr Awal also stressed the importance of international cooperation on transboundary water sharing including support for the Teesta Barrage Project in northern Bangladesh, said a press release of Permanent Mission of Bangladesh to the United Nations, N..."
+    },
+    {
+      "title": "Scams, smuggling, battlefields: How flawed vetting sent our workers into harm’s way",
+      "link": "https://www.tbsnews.net/bangladesh/migration/scams-smuggling-battlefields-how-flawed-vetting-sent-our-workers-harms-way",
+      "pubDate": "Sat, 11 Jul 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/migrant-workers-journey.jpg",
+      "snippet": "Over the past 18 months, the Bureau of Manpower, Employment and Training (BMET) granted official emigration clearance to 15,921 Bangladeshis to travel to Cambodia."
+    },
+    {
+      "title": "Vegetable exports fail to grow due to weak diversification of basket and market",
+      "link": "https://www.tbsnews.net/economy/vegetable-exports-fail-grow-due-weak-diversification-basket-and-market-1484971",
+      "pubDate": "Sat, 11 Jul 2026 06:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/29/image-336845-1764394010.jpg",
+      "snippet": "Export Promotion Bureau data show that vegetable exports earned $88.88 million in FY26, up 9.57% from $81.12 million a year earlier. But this is $14.36 million below the $103.24 million earned in FY15"
+    },
+    {
       "title": "Flood toll climbs to 39 as 9.28 lakh affected across five districts in Ctg",
       "link": "https://www.tbsnews.net/bangladesh/flood-toll-climbs-39-928-lakh-affected-across-five-districts-chattogram-1484966",
       "pubDate": "Sat, 11 Jul 2026 00:15:00 +0600",
@@ -219,39 +252,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/12/chatgpt.jpg",
       "snippet": "ChatGPT Work is a direct answer to Anthropic's Claude Cowork, an ⁠agent it launched in January that is capable of planning and executing multi-step tasks autonomously."
-    },
-    {
-      "title": "River levels rising as flood threat looms over several districts",
-      "link": "https://www.tbsnews.net/bangladesh/flood-fears-loom-more-low-lying-areas-upstream-deluge-intensifies-1484796",
-      "pubDate": "Fri, 10 Jul 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/flood_in-ctg.jpg",
-      "snippet": "The Khowai River at Balla point in Habiganj remained the worst affected, flowing 192cm above the danger level."
-    },
-    {
-      "title": "Downpour leaves parts of Dhaka waterlogged",
-      "link": "https://www.tbsnews.net/bangladesh/downpour-leaves-parts-dhaka-waterlogged-1484791",
-      "pubDate": "Fri, 10 Jul 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/dhaka_waterlogged1.jpg",
-      "snippet": "A spell of heavy rain around noon submerged roads in several areas of the capital, disrupting traffic and making movement difficult for commuters."
-    },
-    {
-      "title": "12 killed, 23 missing in one of Spain's deadliest wildfires",
-      "link": "https://www.tbsnews.net/worldbiz/europe/eleven-killed-19-missing-one-spains-deadliest-wildfires-1484781",
-      "pubDate": "Fri, 10 Jul 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/spain_wildfire_9_july.jpg",
-      "snippet": "Most of the victims appeared to be foreign nationals who ignored instructions to shelter in place and decided to try to flee in their cars, an official said."
     },
     {
       "title": "Measles: Death toll reaches 750 as 3 more children die in 24 hours",
@@ -969,17 +969,6 @@
       "snippet": "Such a landmark anniversary would normally be celebrated as a reaffirmation of a great power’s standing in the world. But for the US, this is a time of doubts amid talk of ‘imperial decline’"
     },
     {
-      "title": "Bangladesh FDI climbs to $1.8b in 2025 but trails smaller economies: Unctad",
-      "link": "https://www.tbsnews.net/economy/bangladesh-fdi-climbs-18b-2025-trails-smaller-economies-unctad-1481856",
-      "pubDate": "Tue, 07 Jul 2026 14:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
-      "snippet": "The report shows Bangladesh drew just $1.8 billion in FDI in 2025, compared with $3.4 billion by Uganda and $1.9 billion each by Ghana and DR Congo."
-    },
-    {
       "title": "World Cup as a proxy for conflict and Fifa's convenient neutrality",
       "link": "https://www.tbsnews.net/thoughts/world-cup-proxy-conflict-and-fifas-convenient-neutrality-1481941",
       "pubDate": "Tue, 07 Jul 2026 14:35:00 +0600",
@@ -1244,5 +1233,5 @@
       "snippet": "Experts call for immediate screening as seven more children die from measles-like symptoms"
     }
   ],
-  "updatedAt": "2026-07-11T01:00:39.516Z"
+  "updatedAt": "2026-07-11T04:41:18.277Z"
 }
