@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "Most landslide shelters in Ctg, Bandarban need major upgrades: Study",
+      "link": "https://www.tbsnews.net/bangladesh/most-landslide-shelters-ctg-bandarban-need-major-upgrades-study-1485706",
+      "pubDate": "Sat, 11 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fb_img_1783357444639.jpg",
+      "snippet": "Only 5.4% of assessed shelters reamin suitable for emergencies"
+    },
+    {
+      "title": "Labour rules must align with amended law, experts urge government",
+      "link": "https://www.tbsnews.net/bangladesh/labour-rules-must-align-amended-law-experts-urge-government-1485711",
+      "pubDate": "Sat, 11 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/labour_rights_experts.jpg",
+      "snippet": "Labour rights advocates say revising the Bangladesh Labour Rules is a key opportunity to remove legal inconsistencies and strengthen workers' protections."
+    },
+    {
+      "title": "5 killed as bus rams into roadside crowd in Faridpur; locals block highway",
+      "link": "https://www.tbsnews.net/bangladesh/5-killed-bus-rams-roadside-crowd-faridpur-locals-block-highway-1485716",
+      "pubDate": "Sat, 11 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/faridpur_accident.jpg",
+      "snippet": "The accident occurred while locals were gathered at the roadside during a rescue operation after a pickup van fell off the road in Faridpur’s Bhanga."
+    },
+    {
+      "title": "DSE finds AFC Agro’s factory closed, adding to growing list of non-operational firms",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-finds-afc-agros-factory-closed-adding-growing-list-non-operational-firms-1485681",
+      "pubDate": "Sat, 11 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "The agro-based bio-pharmaceuticals and bio-chemicals producer has been plagued by operational and financial delays."
+    },
+    {
+      "title": "Poultry farmers seek fair egg prices, digital database, Farmer ID",
+      "link": "https://www.tbsnews.net/economy/industry/poultry-farmers-seek-fair-egg-prices-digital-database-farmer-id-1485671",
+      "pubDate": "Sat, 11 Jul 2026 21:30:00 +0600",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/whatsapp_image_2026-07-11_at_8.33.03_pm.jpeg",
+      "snippet": "The industry body says nearly 64,000 poultry farms have shut down over the past five years due to mounting losses."
+    },
+    {
+      "title": "Flood, landslides in Ctg: Death toll rises to 43, affect nearly 8.7 lakh people",
+      "link": "https://www.tbsnews.net/bangladesh/flood-landslides-ctg-death-toll-rises-43-affect-nearly-87-lakh-people-1485666",
+      "pubDate": "Sat, 11 Jul 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/cht_flash_floods_16x9_1.png",
+      "snippet": "Authorities open 1,727 shelters as damage spreads to roads, fisheries and agriculture; over Tk27 crore livestock losses and Tk91 crore fisheries damage reported."
+    },
+    {
+      "title": "IMF mission due tomorrow to assess Bangladesh's readiness for fresh loan deal",
+      "link": "https://www.tbsnews.net/economy/imf-mission-due-tomorrow-assess-bangladeshs-readiness-fresh-loan-deal-1485646",
+      "pubDate": "Sat, 11 Jul 2026 21:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
+      "snippet": "On the first day of the visit, IMF officials are scheduled to hold meetings with representatives from the finance ministry, Bangladesh Bank and other relevant agencies."
+    },
+    {
+      "title": "Fulfil promises or face pressure to implement referendum verdict: Jamaat chief",
+      "link": "https://www.tbsnews.net/bangladesh/politics/fulfil-promises-or-face-pressure-implement-referendum-verdict-jamaat-chief",
+      "pubDate": "Sat, 11 Jul 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/jamaat_ameer.jpg",
+      "snippet": "The youth fought against inequality and corruption and the referendum was held as part of the reform process, Shafiqur Rahman says."
+    },
+    {
+      "title": "Train services on Chattogram-Cox's Bazar route likely to resume tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/train-services-chattogram-coxs-bazar-route-likely-resume-tomorrow-1485636",
+      "pubDate": "Sat, 11 Jul 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/ctg-cox_rail_route.jpg",
+      "snippet": "Railway authorities have completed repair work on the flood-damaged tracks and are preparing to restart operations after a four-day suspension caused by waterlogging."
+    },
+    {
+      "title": "Govt to raise firearm licence fees under revised policy",
+      "link": "https://www.tbsnews.net/bangladesh/govt-raise-firearm-licence-fees-under-revised-policy-1485626",
+      "pubDate": "Sat, 11 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/17/gun.png",
+      "snippet": "The revised fee structure, already approved by the Finance Division, is expected to come into effect after the Home Ministry issues an updated firearms licensing policy incorporating the new rates."
+    },
+    {
+      "title": "HSC candidates clash at Bhola exam centre, vandalise college; 7 injured",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-candidates-clash-bhola-exam-centre-vandalise-college-7-injured-1485616",
+      "pubDate": "Sat, 11 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bhola_hsc_clash.jpg",
+      "snippet": "Students claimed the ICT question paper was difficult and that invigilators did not assist them during the exam."
+    },
+    {
       "title": "Nahid blames administrative negligence for inadequate flood relief in Ctg, Cox's Bazar",
       "link": "https://www.tbsnews.net/bangladesh/politics/nahid-blames-administrative-negligence-inadequate-flood-relief-ctg-coxs-bazar",
       "pubDate": "Sat, 11 Jul 2026 20:10:00 +0600",
@@ -122,28 +243,6 @@
       "snippet": "Flood-hit areas have also been instructed to appoint focal persons for round-the-clock coordination with the DGHS control room."
     },
     {
-      "title": "Bridge collapse cuts off Rangamati-Bandarban road link; bailey bridge planned",
-      "link": "https://www.tbsnews.net/bangladesh/bridge-collapse-cuts-rangamati-bandarban-road-link-bailey-bridge-planned-1485451",
-      "pubDate": "Sat, 11 Jul 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bridge_collapsed.jpg",
-      "snippet": "A bridge on the Rangamati-Bandarban road collapsed after heavy rain and hill runoff, cutting off direct road communication between the two districts."
-    },
-    {
-      "title": "Wild elephant injured in Teknaf landslide",
-      "link": "https://www.tbsnews.net/bangladesh/wild-elephant-injured-teknaf-landslide-1485436",
-      "pubDate": "Sat, 11 Jul 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/wild_elephant.jpg",
-      "snippet": "The incident occurred around 12:30pm in the Shiyailagona area of the Uthonti hills, according to local residents and the Forest Department."
-    },
-    {
       "title": "ILO Convention on Decent Work in the Platform Economy, 2026: A changemaking blueprint for Bangladesh ",
       "link": "https://www.tbsnews.net/thoughts/ilo-convention-decent-work-platform-economy-2026-changemaking-blueprint-bangladesh-1485421",
       "pubDate": "Sat, 11 Jul 2026 17:55:00 +0600",
@@ -155,81 +254,15 @@
       "snippet": "The provisions, which apply to all digital labour platforms and all digital platform workers regardless of employment classification, provide a comprehensive framework for regulating work organised or facilitated through digital technologies"
     },
     {
-      "title": "360 students killed in road crashes since January: Jatri Kalyan Samity",
-      "link": "https://www.tbsnews.net/bangladesh/360-students-killed-road-crashes-january-jatri-kalyan-samity-1485401",
-      "pubDate": "Sat, 11 Jul 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/15/road_accident.png",
-      "snippet": "The organisation says 320 road accidents between January and June left 360 students dead and 109 injured across the country."
-    },
-    {
-      "title": "13-year-old found dead 4 days after being swept away by flash flood in Cox’s Bazar",
-      "link": "https://www.tbsnews.net/bangladesh/13-year-old-found-dead-4-days-after-being-swept-away-flash-flood-coxs-bazar-1485371",
-      "pubDate": "Sat, 11 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/coxs_bazaar_flood_2.jpeg",
-      "snippet": "“Local residents spotted the body floating in the Gazalia River this morning and informed both the family and the police,” he added."
-    },
-    {
-      "title": "BTRC chief calls for responsible use of social media to curb online crime",
-      "link": "https://www.tbsnews.net/bangladesh/btrc-chief-calls-responsible-use-social-media-curb-online-crime-1485366",
-      "pubDate": "Sat, 11 Jul 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/photo-03.jpg",
-      "snippet": "BTRC Chairman Maj Gen (retd) Md Emdad ul Bari said Facebook has become more powerful than many small nation-states because of its ability to establish instant global connectivity."
-    },
-    {
-      "title": "Zubaida Rahman calls for making DMCH into a new hub of compassionate leadership",
-      "link": "https://www.tbsnews.net/bangladesh/zubaida-rahman-calls-making-dmch-new-hub-compassionate-leadership-1485361",
-      "pubDate": "Sat, 11 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/image-404465-1783764746.jpg",
-      "snippet": "Speaking in an emotional voice, she said that she had never come to Dhaka Medical College Hospital after being dismissed from her job."
-    },
-    {
       "title": "Measles: Death toll reaches 753 as three more children die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-753-three-more-children-die-24-hours-1485351",
       "pubDate": "Sat, 11 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "So far, 93 people have died with confirmed measles infections, while 702 have died with measles-like symptoms, the data showed."
-    },
-    {
-      "title": "Heavy rain paralyses life in Rangamati",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-paralyses-life-rangamati-1485341",
-      "pubDate": "Sat, 11 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/image-404464-1783764563.jpg",
-      "snippet": "Several sections of rural walking trails have been damaged, forcing the suspension of motorcycle services in many remote areas."
-    },
-    {
-      "title": "BGB seizes Indian mobile phone parts worth Tk3.17 crore at Brahmanbaria border",
-      "link": "https://www.tbsnews.net/bangladesh/crime/bgb-seizes-indian-mobile-phone-parts-worth-tk317-crore-brahmanbaria-border-1485336",
-      "pubDate": "Sat, 11 Jul 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/06/bgb.jpg",
-      "snippet": "BGB members recovered 3,960 mobile phone displays."
     },
     {
       "title": "Creative economy needs policy, tax reforms to unlock Tk800cr plan: Stakeholders",
@@ -637,18 +670,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
       "snippet": "The regulatory move, effective from today (8 July), follows a mandatory policy by the Bangladesh Securities and Exchange Commission requiring companies with negative retained earnings exceeding their total paid-up capital to be shifted to the lowest ..."
-    },
-    {
-      "title": "Govt to adopt roadmap this month to make leather sector globally competitive: Minister",
-      "link": "https://www.tbsnews.net/economy/govt-adopt-roadmap-month-make-leather-sector-globally-competitive-minister-1483396",
-      "pubDate": "Wed, 08 Jul 2026 21:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/leather_1.jpg",
-      "snippet": "The roadmap will focus on improving waste management, meeting international standards, and making Bangladesh’s leather sector more competitive in the global market, the industries minister says."
     }
   ],
-  "updatedAt": "2026-07-11T14:35:11.846Z"
+  "updatedAt": "2026-07-11T15:56:17.024Z"
 }
