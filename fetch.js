@@ -14,18 +14,16 @@ const parser = new Parser({
     }
 });
 
-const FRESHNESS_HOURS = 120; 
+// Adjusted freshness to 72 hours (3 days) to keep the feed punchy
+const FRESHNESS_HOURS = 72; 
 const TIME_LIMIT = Date.now() - (FRESHNESS_HOURS * 60 * 60 * 1000);
 const seenLinks = new Set(); 
 
 function getCleanSnippet(item) {
     let raw = item.contentSnippet || item.description || item.contentEncoded || '';
-    let cleanText = raw.replace(/<[^>]*>?/gm, '').trim();
-    cleanText = cleanText.replace(/\s+/g, ' ');
-    if (cleanText.length > 250) {
-        return cleanText.substring(0, 250) + '...';
-    }
-    return cleanText;
+    // Strip HTML and fix whitespace
+    let cleanText = raw.replace(/<[^>]*>?/gm, '').replace(/\s+/g, ' ').trim();
+    return cleanText.length > 250 ? cleanText.substring(0, 250) + '...' : cleanText;
 }
 
 async function fetchAllNews() {
@@ -33,11 +31,12 @@ async function fetchAllNews() {
 
     for (const feed of feeds) {
         try {
+            console.log(`Fetching: ${feed.id}...`);
             const parsedFeed = await parser.parseURL(feed.url);
             let feedItemCount = 0; 
             
             for (const item of parsedFeed.items) {
-                if (feedItemCount >= 25) break; 
+                if (feedItemCount >= 20) break; // Limit per feed to keep JSON size healthy
                 if (seenLinks.has(item.link)) continue;
                 
                 const itemDate = new Date(item.pubDate || item.isoDate).getTime();
@@ -46,6 +45,7 @@ async function fetchAllNews() {
                 seenLinks.add(item.link);
                 feedItemCount++; 
 
+                // Image Extraction Logic
                 let imageUrl = null;
                 if (item.enclosure && item.enclosure.url) imageUrl = item.enclosure.url;
                 else if (item.mediaContent && item.mediaContent['$'] && item.mediaContent['$'].url) imageUrl = item.mediaContent['$'].url;
@@ -65,7 +65,7 @@ async function fetchAllNews() {
                     color: feed.color,
                     bg: feed.bg,
                     icon: feed.icon,
-                    image: imageUrl,
+                    image: imageUrl || 'https://via.placeholder.com/400x200?text=No+Image', // Fallback image
                     snippet: getCleanSnippet(item)
                 });
             }
@@ -76,7 +76,9 @@ async function fetchAllNews() {
 
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     const output = { news: allNews, updatedAt: new Date().toISOString() };
+    
     fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
+    console.log(`Success! Saved ${allNews.length} articles to data.json`);
 }
 
 fetchAllNews();
