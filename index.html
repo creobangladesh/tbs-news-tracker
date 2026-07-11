@@ -2,90 +2,69 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amer.News</title>
     <style>
-        /* (Use your existing styles) */
+        :root { --background: #ffffff; --foreground: #09090b; --muted: #f4f4f5; --muted-foreground: #71717a; --border: #e4e4e7; --radius: 0.3rem; }
+        * { box-sizing: border-box; }
+        body { font-family: sans-serif; background: var(--background); color: var(--foreground); }
+        .container { max-width: 1200px; margin: auto; padding: 20px; }
+        #news-container { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+        .news-card { border: 1px solid var(--border); padding: 10px; border-radius: var(--radius); }
+        .news-image { width: 100%; height: 150px; object-fit: cover; }
+        .hero-carousel { grid-column: 1 / -1; height: 300px; background: #eee; position: relative; }
+        .carousel-slide { display: none; }
+        .carousel-slide.active { display: block; }
     </style>
 </head>
 <body>
-    <script>
-        // ... (Keep all your existing variables and helper functions) ...
+    <div class="container">
+        <div id="news-container"></div>
+    </div>
 
-        // NEW: Robust Hash Function
+    <script>
+        let globalData = [];
+        let filteredData = [];
+        let readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
+        let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+
         function stringToHash(str) {
             let hash = 0;
             for (let i = 0; i < str.length; i++) {
                 hash = ((hash << 5) - hash) + str.charCodeAt(i);
-                hash |= 0; 
+                hash |= 0;
             }
             return "card-" + Math.abs(hash).toString(16);
         }
 
-        window.markRead = function(link) {
-            if (!readArticles.includes(link)) {
-                readArticles.push(link);
-                localStorage.setItem('readArticles', JSON.stringify(readArticles));
-                const cardId = stringToHash(link);
-                const card = document.getElementById(cardId);
-                if(card) card.classList.add('read');
+        function buildCardHtml(item) {
+            const cardId = stringToHash(item.link);
+            return `
+                <div id="${cardId}" class="news-card">
+                    ${item.image ? `<img src="${item.image}" class="news-image">` : ''}
+                    <h3>${item.title}</h3>
+                    <p>${item.category}</p>
+                </div>`;
+        }
+
+        function renderArticles() {
+            const container = document.getElementById('news-container');
+            container.innerHTML = filteredData.map(item => buildCardHtml(item)).join('');
+        }
+
+        async function init() {
+            try {
+                const response = await fetch('./data.json?t=' + new Date().getTime());
+                const data = await response.json();
+                globalData = data.news || [];
+                filteredData = globalData;
+                renderArticles();
+            } catch (e) {
+                console.error("Failed to load", e);
             }
         }
 
-        function buildCarouselHtml(items) {
-            carouselTotal = items.length;
-            currentSlide = 0;
-            
-            let slidesHtml = items.map((item, index) => {
-                const isBookmarked = bookmarks.includes(item.link);
-                const cardId = stringToHash(item.link);
-                return `
-                    <div class="carousel-slide ${index === 0 ? 'active' : ''}" id="slide-${index}">
-                        <a href="${item.link}" target="_blank" onclick="markRead('${item.link}')" class="hero-full-link"></a>
-                        <div class="card-image-wrap">
-                            ${item.image ? `<img src="${item.image}" class="news-image">` : ''}
-                            <div class="hero-overlay"></div>
-                        </div>
-                        <div class="news-content">
-                            <div class="content-main">
-                                <span class="tag" onclick="filterCategory('${item.category}')">${item.category}</span>
-                                <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
-                            </div>
-                        </div>
-                    </div>
-                `;
-            }).join('');
-            // ... (rest of carousel logic)
-        }
-
-        function buildCardHtml(item) {
-            const isRead = readArticles.includes(item.link);
-            const isBookmarked = bookmarks.includes(item.link);
-            const cardId = stringToHash(item.link);
-            const snippet = item.snippet || '';
-            
-            const imageHtml = item.image 
-                ? `<a href="${item.link}" target="_blank" onclick="markRead('${item.link}')" class="card-image-wrap"><img src="${item.image}" alt="Thumbnail" class="news-image" loading="lazy"></a>` 
-                : `<div class="card-image-wrap" style="display:flex;align-items:center;justify-content:center;color:var(--muted-foreground);font-size:0.8rem;">No Image</div>`;
-
-            return `
-                <div id="${cardId}" class="news-card ${isRead ? 'read' : ''}">
-                    ${imageHtml}
-                    <div class="news-content">
-                        <div class="content-main">
-                            <div class="card-header">
-                                <span class="tag" onclick="filterCategory('${item.category}')">${item.category}</span>
-                                <button class="bookmark-btn ${isBookmarked ? 'saved' : ''}" data-link="${item.link}" onclick="toggleBookmark(event, '${item.link}')">
-                                    ${isBookmarked ? svgBookmarkFilled : svgBookmarkEmpty}
-                                </button>
-                            </div>
-                            <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
-                            <div class="snippet">${snippet}</div>
-                        </div>
-                    </div>
-                </div>
-            `;
-        }
-        // ... (rest of your existing init and render logic)
+        init();
     </script>
 </body>
 </html>
