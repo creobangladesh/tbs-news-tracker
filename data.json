@@ -221,17 +221,6 @@
       "snippet": "Students claimed the ICT question paper was difficult and that invigilators did not assist them during the exam."
     },
     {
-      "title": "Locals oppose Suabil's inclusion in proposed Fatikchhari North upazila, warns of protests ",
-      "link": "https://www.tbsnews.net/bangladesh/locals-oppose-suabils-inclusion-proposed-fatikchhari-north-upazila-warns-protests-1485601",
-      "pubDate": "Sat, 11 Jul 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/protest_fatikchari.jpeg",
-      "snippet": "The forum also accused the chairmen of Bhujpur and Harualchhari union parishads of deliberately securing Suabil Union’s inclusion."
-    },
-    {
       "title": "Nahid blames administrative negligence for inadequate flood relief in Ctg, Cox's Bazar",
       "link": "https://www.tbsnews.net/bangladesh/politics/nahid-blames-administrative-negligence-inadequate-flood-relief-ctg-coxs-bazar",
       "pubDate": "Sat, 11 Jul 2026 20:10:00 +0600",
@@ -252,6 +241,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/farmer_flood_img.jpg",
       "snippet": "The reports, released today (11 July), said field-level assessments are still underway."
+    },
+    {
+      "title": "Locals oppose Suabil's inclusion in proposed Fatikchhari North upazila, warns of protests ",
+      "link": "https://www.tbsnews.net/bangladesh/locals-oppose-suabils-inclusion-proposed-fatikchhari-north-upazila-warns-protests-1485601",
+      "pubDate": "Sat, 11 Jul 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/protest_fatikchari.jpeg",
+      "snippet": "The forum also accused the chairmen of Bhujpur and Harualchhari union parishads of deliberately securing Suabil Union’s inclusion."
     },
     {
       "title": "Chattogram Board suspends HSC, equivalent exams until 16 July due to floods",
@@ -650,5 +650,5 @@
       "snippet": "Study says 56% start treatment four months after first symptoms"
     }
   ],
-  "updatedAt": "2026-07-11T20:47:45.024Z"
+  "updatedAt": "2026-07-11T21:50:36.069Z"
 }
