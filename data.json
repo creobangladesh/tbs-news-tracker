@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "360 students killed in road crashes since January: Jatri Kalyan Samity",
+      "link": "https://www.tbsnews.net/bangladesh/360-students-killed-road-crashes-january-jatri-kalyan-samity-1485401",
+      "pubDate": "Sat, 11 Jul 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/15/road_accident.png",
+      "snippet": "The organisation says 320 road accidents between January and June left 360 students dead and 109 injured across the country."
+    },
+    {
+      "title": "13-year-old found dead 4 days after being swept away by flash flood in Cox’s Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/13-year-old-found-dead-4-days-after-being-swept-away-flash-flood-coxs-bazar-1485371",
+      "pubDate": "Sat, 11 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/coxs_bazaar_flood_2.jpeg",
+      "snippet": "“Local residents spotted the body floating in the Gazalia River this morning and informed both the family and the police,” he added."
+    },
+    {
+      "title": "BTRC chief calls for responsible use of social media to curb online crime",
+      "link": "https://www.tbsnews.net/bangladesh/btrc-chief-calls-responsible-use-social-media-curb-online-crime-1485366",
+      "pubDate": "Sat, 11 Jul 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/photo-03.jpg",
+      "snippet": "BTRC Chairman Maj Gen (retd) Md Emdad ul Bari said Facebook has become more powerful than many small nation-states because of its ability to establish instant global connectivity."
+    },
+    {
+      "title": "Zubaida Rahman calls for making DMCH into a new hub of compassionate leadership",
+      "link": "https://www.tbsnews.net/bangladesh/zubaida-rahman-calls-making-dmch-new-hub-compassionate-leadership-1485361",
+      "pubDate": "Sat, 11 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/image-404465-1783764746.jpg",
+      "snippet": "Speaking in an emotional voice, she said that she had never come to Dhaka Medical College Hospital after being dismissed from her job."
+    },
+    {
+      "title": "Measles: Death toll reaches 753 as three more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-753-three-more-children-die-24-hours-1485351",
+      "pubDate": "Sat, 11 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "So far, 93 people have died with confirmed measles infections, while 702 have died with measles-like symptoms, the data showed."
+    },
+    {
       "title": "Heavy rain paralyses life in Rangamati",
       "link": "https://www.tbsnews.net/bangladesh/heavy-rain-paralyses-life-rangamati-1485341",
       "pubDate": "Sat, 11 Jul 2026 16:35:00 +0600",
@@ -23,7 +78,7 @@
       "snippet": "BGB members recovered 3,960 mobile phone displays."
     },
     {
-      "title": "Creative economy needs policy, tax reforms to unlock Tk800cr plan: stakeholders",
+      "title": "Creative economy needs policy, tax reforms to unlock Tk800cr plan: Stakeholders",
       "link": "https://www.tbsnews.net/economy/creative-economy-needs-policy-tax-reforms-unlock-tk800cr-plan-stakeholders-1485346",
       "pubDate": "Sat, 11 Jul 2026 16:30:00 +0600",
       "category": "Economy",
@@ -177,24 +232,13 @@
       "snippet": "Acting on a tip-off, a RAB-4 team conducted a raid in the Darus Salam area of Dhaka yesterday afternoon and arrested Md Abdullah Sikdar, 24, a death row convict in a murder case"
     },
     {
-      "title": "Embankments in Khulna's Batiaghata face breach risk amid rising water levels",
-      "link": "https://www.tbsnews.net/bangladesh/embankments-khulnas-batiaghata-face-breach-risk-amid-rising-water-levels-1485156",
-      "pubDate": "Sat, 11 Jul 2026 12:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/9703923.jpg",
-      "snippet": "A low-pressure system over the Bay of Bengal coupled with continuous rainfall and increased upstream water has pushed river water levels above the danger mark."
-    },
-    {
       "title": "PKSF to borrow Tk5,000cr from cenbank to expand finance for small entrepreneurs ",
       "link": "https://www.tbsnews.net/economy/pksf-borrow-tk5000cr-cenbank-expand-finance-small-entrepreneurs-1485021",
       "pubDate": "Sat, 11 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/startup_1.png",
       "snippet": "The funds will be released once the finance ministry provides a sovereign guarantee, which PKSF has formally requested. On 27 June, PKSF Managing Director Md Fazlul Kader wrote to the secretary of the Financial Institutions Division, seeking a govern..."
     },
@@ -210,35 +254,13 @@
       "snippet": "People can be both an asset and, under certain circumstances, a liability for a country"
     },
     {
-      "title": "PM inaugurates DMC Day, wife Zubaida revisits memories of student life",
-      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-dmc-day-2026-dhaka-medical-college-celebrates-80-years-1485131",
-      "pubDate": "Sat, 11 Jul 2026 11:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/pm.jpeg",
-      "snippet": "Dr Zubaida Rahman lived at the hostel while studying at Dhaka Medical College"
-    },
-    {
-      "title": "Heavy rains inundate parts of Khulna; effectiveness of Tk823cr drainage project questioned",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rains-inundate-parts-khulna-effectiveness-tk823cr-drainage-project-questioned",
-      "pubDate": "Sat, 11 Jul 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/9574137.jpg",
-      "snippet": "According to the Khulna Meteorological Office, the city received 184 millimetres of rainfall over the past 51 hours."
-    },
-    {
       "title": "How conflicting policy signals are keeping private investment on hold",
       "link": "https://www.tbsnews.net/economy/how-conflicting-policy-signals-are-keeping-private-investment-hold-1485086",
       "pubDate": "Sat, 11 Jul 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/09/investment.jpg",
       "snippet": "Economists argue that lower taxes alone are not enough to drive private investment when financing and business conditions remain challenging."
     },
@@ -705,5 +727,5 @@
       "snippet": "Cristiano Ronaldo has never been just a footballer to me. He has been a source of inspiration, a role model, and, in many ways, a life coach. His influence has shaped my mindset, my values, and the way I approach life’s challenges"
     }
   ],
-  "updatedAt": "2026-07-11T10:41:53.411Z"
+  "updatedAt": "2026-07-11T11:52:06.749Z"
 }
