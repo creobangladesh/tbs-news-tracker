@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-    <meta property="og:title" content="Amer Habib's News">
+    <meta property="og:title" content="Amer.News">
     <meta property="og:description" content="The latest daily news curated and delivered in real-time.">
     <meta property="og:image" content="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg">
     <meta property="og:url" content="https://news.amerhabib.com/">
@@ -11,7 +11,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amer Habib's News</title>
+    <title>Amer.News</title>
     
     <link rel="icon" type="image/jpeg" href="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -49,8 +49,9 @@
         .container { margin: 0 auto; width: 95%; padding: 15px 0; max-width: 1600px; }
         @media (min-width: 1024px) { .container { width: 85%; } }
 
-        /* Minimal Header */
-        header { border-bottom: 1px solid var(--border); padding-bottom: 10px; margin-bottom: 15px; }
+        /* Sticky Header */
+        .sticky-wrapper { position: sticky; top: 0; background: var(--background); z-index: 1000; border-bottom: 1px solid var(--border); padding-top: 10px; }
+        header { padding-bottom: 10px; }
         .header-top { display: flex; justify-content: space-between; align-items: center; }
         
         .brand-zone { display: flex; align-items: center; gap: 12px; }
@@ -65,7 +66,7 @@
         .icon-btn:hover { background: var(--accent); opacity: 1; }
         .icon-btn svg { width: 18px; height: 18px; }
 
-        #search-container { display: none; padding: 10px 0; border-bottom: 1px solid var(--border); margin-bottom: 15px; }
+        #search-container { display: none; padding: 10px 0; border-top: 1px solid var(--border); margin-top: 10px; }
         .search-box { width: 100%; padding: 10px 12px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); font-family: inherit; border-radius: var(--radius); outline: none; font-size: 0.9rem; }
         
         /* Controls Area */
@@ -79,19 +80,23 @@
         .seg-btn { position: relative; z-index: 2; background: none; border: none; outline: none; padding: 6px 12px; cursor: pointer; color: var(--muted-foreground); display: flex; align-items: center; justify-content: center; transition: color 0.2s; border-radius: var(--radius); }
         .seg-btn.active { color: var(--foreground); }
         .seg-btn svg { width: 18px; height: 18px; }
+        @media (max-width: 767px) { .desktop-only { display: none !important; } }
 
-        /* Filter Accordion */
+        /* Filters */
         .filter-accordion { border: none; margin-bottom: 20px; font-size: 0.85rem; }
-        .filter-accordion summary { padding: 10px 0; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background: transparent; outline: none; border: none; }
+        .filter-accordion summary { padding: 10px 0; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; outline: none; border: none; }
         .filter-accordion summary::-webkit-details-marker { display: none; }
         .filter-accordion summary:after { content: "+ Expand Filters"; font-size: 0.75rem; color: var(--muted-foreground); }
-        .filter-accordion[open] summary { margin-bottom: 5px; }
+        .filter-accordion[open] summary { margin-bottom: 10px; }
         .filter-accordion[open] summary:after { content: "- Collapse"; }
-        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; padding-bottom: 12px; }
         
-        .capsule { background: var(--muted); color: var(--foreground); border: 1px solid transparent; padding: 4px 12px; border-radius: 99px; cursor: pointer; font-size: 0.8rem; font-weight: 500; transition: all 0.2s; }
+        .filter-group { margin-bottom: 15px; }
+        .filter-label { display: block; font-size: 0.75rem; font-weight: 600; color: var(--muted-foreground); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.05em; }
+        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; }
+        
+        .capsule { background: var(--muted); color: var(--foreground); border: 1px solid var(--border); padding: 4px 12px; border-radius: 99px; cursor: pointer; font-size: 0.8rem; font-weight: 500; transition: all 0.2s; }
         .capsule:hover { filter: brightness(0.95); }
-        .capsule.active { background: var(--foreground); color: var(--background); }
+        .capsule.active { background: var(--foreground); color: var(--background); border-color: var(--foreground); }
 
         /* Grid Systems */
         .layout-grid-2, .layout-grid-3, .layout-grid-4 { display: grid; grid-template-columns: 1fr; gap: 20px; }
@@ -108,7 +113,7 @@
         .layout-list { display: flex; flex-direction: column; gap: 15px; }
         .layout-text { display: flex; flex-direction: column; gap: 0; }
 
-        /* Card Aesthetics & Flex Structure */
+        /* Card Aesthetics */
         .news-card { display: flex; flex-direction: column; transition: opacity 0.3s; padding: 0; }
         .news-card.read { opacity: 0.6; }
         
@@ -117,10 +122,10 @@
         
         .news-content { display: flex; flex-direction: column; flex: 1; }
         .content-main { flex: 1; display: flex; flex-direction: column; min-width: 0; }
-        .bookmark-wrap { display: none; } /* Hidden by default in Grids */
+        .bookmark-wrap { display: none; }
 
         .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
-        .tag { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; padding: 2px 8px; border-radius: var(--radius); cursor: pointer; border: 1px solid var(--border); background: var(--muted); color: var(--foreground); }
+        .tag { font-size: 0.75rem; font-weight: 500; padding: 2px 10px; border-radius: 99px; cursor: pointer; border: 1px solid var(--border); background: var(--muted); color: var(--foreground); display: inline-block;}
         
         .bookmark-btn { background: none; border: none; cursor: pointer; color: var(--muted-foreground); display: flex; align-items: center; transition: color 0.2s; padding: 0; }
         .bookmark-btn:hover { color: var(--foreground); }
@@ -131,8 +136,7 @@
         
         .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.4; flex-grow: 1; }
         .meta { color: var(--muted-foreground); font-size: 0.75rem; display: flex; align-items: center; gap: 10px; margin-top: auto; }
-        
-        .text-only-tag { display: none; } /* Tag meant to sit beside time */
+        .text-only-tag { display: none; }
 
         /* Override for List Layout */
         .layout-list .news-card { flex-direction: row; gap: 20px; align-items: flex-start; padding-bottom: 15px; border-bottom: 1px solid var(--border); }
@@ -142,40 +146,51 @@
             .layout-list .card-image-wrap { width: 100%; height: 200px; margin-bottom: 12px; }
         }
         .layout-list .news-content { flex-direction: row; justify-content: space-between; width: 100%; }
-        .layout-list .card-header .bookmark-btn { display: none; } /* Hide grid bookmark */
-        .layout-list .bookmark-wrap { display: block; flex-shrink: 0; margin-left: 15px; } /* Show side bookmark */
+        .layout-list .card-header .bookmark-btn { display: none; }
+        .layout-list .bookmark-wrap { display: block; flex-shrink: 0; margin-left: 15px; }
 
         /* Override for Text Layout */
         .layout-text .news-card { flex-direction: row; padding: 12px 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
         .layout-text .card-image-wrap { display: none; }
         .layout-text .news-content { flex-direction: row; justify-content: space-between; width: 100%; }
-        .layout-text .card-header { display: none; } /* Hide grid top bar completely */
+        .layout-text .card-header { display: none; }
         .layout-text .news-title { font-size: 1rem; font-weight: 600; display: block; margin: 0 0 4px 0; }
         .layout-text .snippet { font-size: 0.85rem; margin: 0 0 6px 0; -webkit-line-clamp: 2; flex-grow: 0; }
         .layout-text .meta { font-size: 0.75rem; margin-top: 0; }
-        .layout-text .text-only-tag { display: inline-flex; } /* Reveal side tag */
-        .layout-text .bookmark-wrap { display: block; flex-shrink: 0; margin-left: 15px; } /* Show side bookmark */
+        .layout-text .text-only-tag { display: inline-flex; }
+        .layout-text .bookmark-wrap { display: block; flex-shrink: 0; margin-left: 15px; }
 
-        /* --- HERO CARD (Fully Clickable) --- */
-        .hero-card { grid-column: 1 / -1; position: relative; height: 450px; border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: flex-end; padding: 0; }
+        /* --- CAROUSEL HERO CARD --- */
+        .hero-carousel { grid-column: 1 / -1; position: relative; height: 450px; border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; background: var(--muted); }
+        .carousel-slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; opacity: 0; transition: opacity 0.5s ease-in-out; pointer-events: none; }
+        .carousel-slide.active { opacity: 1; pointer-events: auto; }
+        
         .hero-full-link { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; }
-        .hero-card .card-image-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0; border-radius: 0; z-index: 1; }
-        .hero-card .hero-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, transparent 20%, rgba(0,0,0,0.85) 100%); z-index: 2; }
+        .carousel-slide .card-image-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0; border-radius: 0; z-index: 1; }
+        .carousel-slide .hero-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, transparent 20%, rgba(0,0,0,0.85) 100%); z-index: 2; }
         
-        .hero-card .news-content { position: relative; z-index: 11; padding: 25px; display: flex; flex-direction: column; gap: 10px; pointer-events: none; }
-        .hero-card .news-content a, .hero-card .news-content button, .hero-card .news-content span { pointer-events: auto; }
-        .hero-card .tag { background: rgba(255,255,255,0.2); border: none; color: white; width: fit-content; }
-        .hero-card .news-title { color: #ffffff; font-size: 1.5rem; font-weight: 800; }
-        .hero-card .snippet { color: #d4d4d8; font-size: 0.95rem; -webkit-line-clamp: 2; }
-        .hero-card .meta, .hero-card .bookmark-btn { color: #a1a1aa; }
+        .carousel-slide .news-content { position: relative; z-index: 11; padding: 25px; padding-bottom: 45px; display: flex; flex-direction: column; gap: 10px; pointer-events: none; }
+        .carousel-slide .news-content a, .carousel-slide .news-content button, .carousel-slide .news-content span { pointer-events: auto; }
+        .carousel-slide .tag { background: rgba(255,255,255,0.2); border: none; color: white; width: fit-content; }
+        .carousel-slide .news-title { color: #ffffff; font-size: 1.5rem; font-weight: 800; text-decoration: none; }
+        .carousel-slide .news-title:hover { text-decoration: underline; }
+        .carousel-slide .snippet { color: #d4d4d8; font-size: 0.95rem; -webkit-line-clamp: 2; margin-bottom: 0; }
+        .carousel-slide .meta, .carousel-slide .bookmark-btn { color: #a1a1aa; }
+
+        .carousel-nav { position: absolute; top: 50%; transform: translateY(-50%); z-index: 20; background: rgba(0,0,0,0.4); color: white; border: none; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: background 0.2s; }
+        .carousel-nav:hover { background: rgba(0,0,0,0.7); }
+        .carousel-nav.prev { left: 15px; }
+        .carousel-nav.next { right: 15px; }
         
+        .carousel-dots { position: absolute; bottom: 15px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; z-index: 20; }
+        .dot { width: 8px; height: 8px; border-radius: 50%; background: rgba(255,255,255,0.4); cursor: pointer; transition: background 0.2s; }
+        .dot.active { background: #ffffff; transform: scale(1.2); }
+
         @media (min-width: 768px) {
-            .hero-card .news-content { flex-direction: row; align-items: flex-end; justify-content: space-between; padding: 35px; gap: 30px; }
-            .hero-card .content-main { flex: 1; max-width: 65%; display: flex; flex-direction: column; gap: 10px;}
-            .hero-card .news-title { font-size: 2.2rem; margin:0;}
-            .hero-card .snippet { margin:0; }
-            .hero-card .bookmark-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 15px; margin-left: 0; }
-            .hero-card .card-header .bookmark-btn { display: none; } /* move bookmark down in hero */
+            .carousel-slide .news-content { flex-direction: row; align-items: flex-end; justify-content: space-between; padding: 40px; padding-bottom: 50px; gap: 30px; }
+            .carousel-slide .content-main { flex: 1; max-width: 65%; display: flex; flex-direction: column; gap: 10px;}
+            .carousel-slide .news-title { font-size: 2.2rem; margin:0;}
+            .carousel-slide .bookmark-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 15px; margin-left: 0; }
         }
 
         /* Load More & Footer */
@@ -187,36 +202,52 @@
 
         .back-to-top { position: fixed; bottom: 30px; right: 30px; background: var(--foreground); color: var(--background); width: 45px; height: 45px; border-radius: 50%; display: none; align-items: center; justify-content: center; cursor: pointer; border: none; z-index: 50; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s; }
         .back-to-top:hover { transform: translateY(-3px); }
+
+        /* Login Modal */
+        .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.6); z-index: 2000; display: none; align-items: center; justify-content: center; backdrop-filter: blur(4px); }
+        .modal-content { background: var(--background); width: 90%; max-width: 360px; padding: 25px; border-radius: calc(var(--radius) * 2); box-shadow: 0 10px 25px rgba(0,0,0,0.2); position: relative; }
+        .close-modal { position: absolute; top: 15px; right: 15px; background: none; border: none; color: var(--muted-foreground); cursor: pointer; }
+        .close-modal:hover { color: var(--foreground); }
+        .modal-title { font-size: 1.2rem; font-weight: 700; margin-bottom: 20px; text-align: center; }
+        .form-group { margin-bottom: 15px; }
+        .form-group label { display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 5px; color: var(--muted-foreground); }
+        .form-group input { width: 100%; padding: 10px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--background); color: var(--foreground); font-family: inherit; }
+        .modal-btn { width: 100%; padding: 10px; background: var(--foreground); color: var(--background); border: none; border-radius: var(--radius); font-weight: 600; cursor: pointer; margin-top: 10px; }
     </style>
 </head>
 <body>
-    <div class="container">
-        
-        <header>
-            <div class="header-top">
-                <div class="brand-zone">
-                    <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
-                    <h1>Amer Habib's News</h1>
+    <div class="sticky-wrapper">
+        <div class="container" style="padding-top: 0; padding-bottom: 0;">
+            <header>
+                <div class="header-top">
+                    <div class="brand-zone">
+                        <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
+                        <h1>Amer.News</h1>
+                    </div>
+                    
+                    <div class="utility-zone">
+                        <div id="live-datetime" class="live-clock"></div>
+                        <button class="icon-btn" onclick="toggleSearch()" title="Search">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                        </button>
+                        <button class="icon-btn" onclick="init()" title="Refresh Feed">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+                        </button>
+                        <button id="theme-btn" class="icon-btn" onclick="toggleTheme()" title="Toggle Theme"></button>
+                        <button class="icon-btn" onclick="toggleModal('login-modal')" title="Account">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                        </button>
+                    </div>
                 </div>
                 
-                <div class="utility-zone">
-                    <div id="live-datetime" class="live-clock"></div>
-                    <button class="icon-btn" onclick="toggleSearch()" title="Search">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-                    </button>
-                    <button class="icon-btn" onclick="init()" title="Refresh Feed">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
-                    </button>
-                    <button id="theme-btn" class="icon-btn" onclick="toggleTheme()" title="Toggle Theme">
-                        </button>
+                <div id="search-container">
+                    <input type="text" id="search-box" class="search-box" placeholder="Search articles, keywords..." oninput="handleSearch()">
                 </div>
-            </div>
-        </header>
-
-        <div id="search-container">
-            <input type="text" id="search-box" class="search-box" placeholder="Search articles, keywords..." oninput="handleSearch()">
+            </header>
         </div>
+    </div>
 
+    <div class="container">
         <div class="controls-row">
             <select id="sort-box" class="select-box" onchange="handleSort()">
                 <option value="newest">Sort: Newest</option>
@@ -229,7 +260,7 @@
                 <button class="seg-btn" onclick="setView('grid-2', this)" title="2 Columns">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="18" rx="1"/><rect x="14" y="3" width="7" height="18" rx="1"/></svg>
                 </button>
-                <button class="seg-btn" onclick="setView('grid-3', this)" title="3 Columns">
+                <button class="seg-btn desktop-only" onclick="setView('grid-3', this)" title="3 Columns">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="5" height="18" rx="1"/><rect x="9.5" y="3" width="5" height="18" rx="1"/><rect x="17" y="3" width="5" height="18" rx="1"/></svg>
                 </button>
                 <button class="seg-btn active" onclick="setView('grid-4', this)" title="4 Columns">
@@ -238,16 +269,39 @@
                 <button class="seg-btn" onclick="setView('list', this)" title="List View">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
                 </button>
-                <button class="seg-btn" onclick="setView('text', this)" title="Text View">
+                <button class="seg-btn desktop-only" onclick="setView('text', this)" title="Text View">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
                 </button>
             </div>
         </div>
 
         <details class="filter-accordion" id="filter-details">
-            <summary>Categories & Topics</summary>
-            <div id="filter-container" class="filter-bar">
+            <summary>Customise Your Feed</summary>
+            
+            <div class="filter-group">
+                <span class="filter-label">Topics</span>
+                <div id="filter-container" class="filter-bar">
+                    </div>
+            </div>
+
+            <div class="filter-group">
+                <span class="filter-label">News Sources</span>
+                <div class="filter-bar">
+                    <button class="capsule active">All Sources</button>
+                    <button class="capsule">The Daily Star</button>
+                    <button class="capsule">The Business Standard</button>
+                    <button class="capsule">Prothom Alo</button>
                 </div>
+            </div>
+
+            <div class="filter-group">
+                <span class="filter-label">Language</span>
+                <div class="filter-bar">
+                    <button class="capsule active">Both</button>
+                    <button class="capsule">English</button>
+                    <button class="capsule">Bangla</button>
+                </div>
+            </div>
         </details>
 
         <div id="news-container" class="layout-grid-4"></div>
@@ -263,6 +317,25 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
     </button>
 
+    <div id="login-modal" class="modal-overlay" onclick="closeModal(event, 'login-modal')">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <button class="close-modal" onclick="document.getElementById('login-modal').style.display='none'">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
+            <div class="modal-title">Sign in to Amer.News</div>
+            <div class="form-group">
+                <label>Email Address</label>
+                <input type="email" placeholder="you@example.com">
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" placeholder="••••••••">
+            </div>
+            <button class="modal-btn" onclick="alert('Backend integration coming soon!')">Sign In</button>
+            <p style="text-align:center; font-size: 0.75rem; margin-top:15px; color:var(--muted-foreground);">This feature is currently in development.</p>
+        </div>
+    </div>
+
     <script>
         let globalData = [];
         let filteredData = [];
@@ -271,6 +344,11 @@
         let activeCategory = 'All'; 
         let currentView = 'grid-4';
         
+        // Carousel State
+        let carouselInterval;
+        let currentSlide = 0;
+        let carouselTotal = 0;
+
         let readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
         let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
 
@@ -306,6 +384,16 @@
             if(el.style.display === 'block') document.getElementById('search-box').focus();
         }
 
+        window.toggleModal = function(id) {
+            document.getElementById(id).style.display = 'flex';
+        }
+        
+        window.closeModal = function(event, id) {
+            if(event.target.id === id) {
+                document.getElementById(id).style.display = 'none';
+            }
+        }
+
         window.addEventListener('scroll', () => {
             const btn = document.getElementById('back-to-top');
             btn.style.display = window.scrollY > 400 ? 'flex' : 'none';
@@ -338,7 +426,6 @@
             renderArticles();
         }
 
-        // Initialize layout slider position on load
         function initSlider() {
             const activeBtn = document.querySelector('.seg-btn.active');
             if(activeBtn) {
@@ -351,7 +438,7 @@
 
         function setupFilters() {
             const container = document.getElementById('filter-container');
-            container.innerHTML = `<button class="capsule active" onclick="filterCategory('All', this)">All</button>`;
+            container.innerHTML = `<button class="capsule active" onclick="filterCategory('All', this)">All Topics</button>`;
             
             const categories = [...new Set(globalData.map(item => item.category))];
             categories.forEach(cat => {
@@ -362,17 +449,22 @@
         window.filterCategory = function(categoryName, btnElement) {
             activeCategory = categoryName; 
             
-            document.querySelectorAll('.capsule').forEach(b => b.classList.remove('active'));
+            const container = document.getElementById('filter-container');
+            container.querySelectorAll('.capsule').forEach(b => b.classList.remove('active'));
             if(btnElement) btnElement.classList.add('active');
-            else {
-                document.querySelectorAll('.capsule').forEach(b => {
-                    if (b.innerText === activeCategory) b.classList.add('active');
-                });
-            }
             
             document.getElementById('search-box').value = '';
             applyFiltersAndSort();
         }
+
+        /* Mock functionality for new UI filters to show interaction */
+        document.querySelectorAll('.filter-group:not(:first-child) .capsule').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const siblings = this.parentElement.querySelectorAll('.capsule');
+                siblings.forEach(s => s.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
 
         window.handleSearch = function() { applyFiltersAndSort(); }
         window.handleSort = function() { applyFiltersAndSort(); }
@@ -437,39 +529,87 @@
             if (document.getElementById('sort-box').value === 'bookmarks') applyFiltersAndSort();
         }
 
-        function buildHeroHtml(item) {
-            const isRead = readArticles.includes(item.link);
-            const isBookmarked = bookmarks.includes(item.link);
-            const cardId = `card-${btoa(item.link).replace(/=/g,'')}`;
-            const snippet = item.snippet || '';
-
-            return `
-                <div id="${cardId}" class="hero-card ${isRead ? 'read' : ''}">
-                    <a href="${item.link}" target="_blank" onclick="markRead('${item.link}')" class="hero-full-link"></a>
-                    <div class="card-image-wrap">
-                        ${item.image ? `<img src="${item.image}" class="news-image">` : ''}
-                        <div class="hero-overlay"></div>
-                    </div>
-                    
-                    <div class="news-content">
-                        <div class="content-main">
-                            <span class="tag" onclick="filterCategory('${item.category}')">${item.category}</span>
-                            <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
-                            ${snippet ? `<div class="snippet">${snippet}</div>` : ''}
+        // --- CAROUSEL LOGIC ---
+        function buildCarouselHtml(items) {
+            carouselTotal = items.length;
+            currentSlide = 0;
+            
+            let slidesHtml = items.map((item, index) => {
+                const isRead = readArticles.includes(item.link);
+                const isBookmarked = bookmarks.includes(item.link);
+                const snippet = item.snippet || '';
+                
+                return `
+                    <div class="carousel-slide ${index === 0 ? 'active' : ''}" id="slide-${index}">
+                        <a href="${item.link}" target="_blank" onclick="markRead('${item.link}')" class="hero-full-link"></a>
+                        <div class="card-image-wrap">
+                            ${item.image ? `<img src="${item.image}" class="news-image">` : ''}
+                            <div class="hero-overlay"></div>
                         </div>
                         
-                        <div class="bookmark-wrap">
-                            <button class="bookmark-btn ${isBookmarked ? 'saved' : ''}" data-link="${item.link}" onclick="toggleBookmark(event, '${item.link}')" title="Save">
-                                ${isBookmarked ? svgBookmarkFilled : svgBookmarkEmpty}
-                            </button>
-                            <div class="meta">
-                                <span>${getRelativeTime(item.pubDate)}</span>
+                        <div class="news-content">
+                            <div class="content-main">
+                                <span class="tag" onclick="filterCategory('${item.category}')">${item.category}</span>
+                                <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
+                                ${snippet ? `<div class="snippet">${snippet}</div>` : ''}
+                            </div>
+                            
+                            <div class="bookmark-wrap">
+                                <button class="bookmark-btn ${isBookmarked ? 'saved' : ''}" data-link="${item.link}" onclick="toggleBookmark(event, '${item.link}')" title="Save">
+                                    ${isBookmarked ? svgBookmarkFilled : svgBookmarkEmpty}
+                                </button>
+                                <div class="meta">
+                                    <span>${getRelativeTime(item.pubDate)}</span>
+                                </div>
                             </div>
                         </div>
                     </div>
+                `;
+            }).join('');
+
+            let dotsHtml = items.map((_, index) => `
+                <div class="dot ${index === 0 ? 'active' : ''}" onclick="goToSlide(${index})" id="dot-${index}"></div>
+            `).join('');
+
+            return `
+                <div class="hero-carousel">
+                    ${slidesHtml}
+                    <button class="carousel-nav prev" onclick="moveSlide(-1)">❮</button>
+                    <button class="carousel-nav next" onclick="moveSlide(1)">❯</button>
+                    <div class="carousel-dots">${dotsHtml}</div>
                 </div>
             `;
         }
+
+        window.moveSlide = function(step) {
+            let nextSlide = currentSlide + step;
+            if (nextSlide >= carouselTotal) nextSlide = 0;
+            if (nextSlide < 0) nextSlide = carouselTotal - 1;
+            goToSlide(nextSlide);
+            resetCarouselTimer();
+        }
+
+        window.goToSlide = function(index) {
+            document.querySelectorAll('.carousel-slide').forEach(s => s.classList.remove('active'));
+            document.querySelectorAll('.dot').forEach(d => d.classList.remove('active'));
+            
+            document.getElementById(`slide-${index}`).classList.add('active');
+            document.getElementById(`dot-${index}`).classList.add('active');
+            currentSlide = index;
+            resetCarouselTimer();
+        }
+
+        function startCarouselTimer() {
+            if(carouselInterval) clearInterval(carouselInterval);
+            carouselInterval = setInterval(() => { moveSlide(1); }, 5000);
+        }
+
+        function resetCarouselTimer() {
+            clearInterval(carouselInterval);
+            startCarouselTimer();
+        }
+
+        // --- END CAROUSEL LOGIC ---
 
         function buildCardHtml(item) {
             const isRead = readArticles.includes(item.link);
@@ -512,6 +652,9 @@
         function renderArticles() {
             const container = document.getElementById('news-container');
             container.innerHTML = '';
+            
+            // Clean up old carousel interval if it exists
+            if(carouselInterval) clearInterval(carouselInterval);
 
             if (filteredData.length === 0) {
                 container.innerHTML = '<p style="color: var(--muted-foreground); padding: 20px;">No articles found.</p>';
@@ -525,15 +668,21 @@
             const isGrid = currentView.includes('grid');
             const isDefaultState = (isGrid && document.getElementById('search-box').value === '' && document.getElementById('sort-box').value === 'newest');
 
-            if (isDefaultState && itemsToRender.length > 0) {
-                html += buildHeroHtml(itemsToRender[0]);
-                itemsToRender.slice(1).forEach(item => html += buildCardHtml(item));
+            // If we are in the default grid view and have at least 3 items, inject the Carousel
+            if (isDefaultState && itemsToRender.length >= 3) {
+                html += buildCarouselHtml(itemsToRender.slice(0, 3));
+                itemsToRender.slice(3).forEach(item => html += buildCardHtml(item));
             } else {
                 itemsToRender.forEach(item => html += buildCardHtml(item));
             }
 
             container.innerHTML = html;
             document.getElementById('load-more-btn').style.display = (currentDisplayed < filteredData.length) ? 'block' : 'none';
+            
+            // Start the carousel auto-play if it was rendered
+            if (isDefaultState && itemsToRender.length >= 3) {
+                startCarouselTimer();
+            }
         }
 
         async function init() {
@@ -550,7 +699,6 @@
                 
                 applyFiltersAndSort(); 
                 
-                // Small delay to ensure buttons are painted before animating slider
                 setTimeout(initSlider, 50);
                 
             } catch (error) {
