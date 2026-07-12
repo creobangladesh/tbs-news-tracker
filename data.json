@@ -1,15 +1,125 @@
 {
   "news": [
     {
-      "title": "3 more die in landslide, drowning in Cox’s Bazar",
-      "link": "https://www.tbsnews.net/bangladesh/3-more-die-landslide-drowning-coxs-bazar-1486366",
-      "pubDate": "Sun, 12 Jul 2026 17:15:00 +0600",
+      "title": "AL govt spent Tk982.9cr on Mujib Borsho celebrations, finance minister tells parliament",
+      "link": "https://www.tbsnews.net/economy/al-govt-spent-tk9829cr-mujib-borsho-celebrations-finance-minister-tells-parliament-1486481",
+      "pubDate": "Sun, 12 Jul 2026 19:05:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_12.58.30_am_1.jpeg",
-      "snippet": "A woman died in a landslide in Cox’s Bazar town yesterday night, while two children drowned in floodwaters in Pekua and Chakaria yesterday night and afternoon."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/mujib_borsho_expendure.png",
+      "snippet": "The expenditure covered nationwide programmes, construction of portraits, memorials and statues of Sheikh Mujibur Rahman, and installation of digital countdown boards, while the government says a decision on auditing the spending has yet to be made."
+    },
+    {
+      "title": "How two megacities stopped functioning at once",
+      "link": "https://www.tbsnews.net/features/panorama/how-two-megacities-stopped-functioning-once-1486471",
+      "pubDate": "Sun, 12 Jul 2026 19:00:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/20260712_rajibdhar_0381.jpg",
+      "snippet": "Record rainfall exposed more than a drainage failure in Dhaka and Chattogram. It laid bare decades of fragmented planning, delayed infrastructure projects and institutional shortcomings that have left Bangladesh's two largest cities increasingly vuln..."
+    },
+    {
+      "title": "Probe underway into Probashi Kallyan Bank, other financial institutions over past irregularities: Finance minister",
+      "link": "https://www.tbsnews.net/bangladesh/probe-underway-probashi-kallyan-bank-other-financial-institutions-over-past",
+      "pubDate": "Sun, 12 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/07/khasru_sketch.jpg",
+      "snippet": "The minister said restoring financial discipline is a top government priority, with a sector-wide “cleaning process” underway to investigate irregularities, including those at the Probashi Kallyan Bank."
+    },
+    {
+      "title": "Tax, VAT and customs all miss FY26 targets: Finance minister",
+      "link": "https://www.tbsnews.net/bangladesh/tax-vat-and-customs-all-miss-fy26-targets-finance-minister-1486451",
+      "pubDate": "Sun, 12 Jul 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/amir_khosru_budget.jpeg",
+      "snippet": "The government collected Tk4,10,390 crore against its Tk5,03,000 crore revenue target in FY2025–26."
+    },
+    {
+      "title": "Dhaka’s New Market shuts as waterlogging forces closure of shops",
+      "link": "https://www.tbsnews.net/bangladesh/dhakas-new-market-shuts-waterlogging-forces-closure-shops-1486441",
+      "pubDate": "Sun, 12 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/new-market.jpg",
+      "snippet": "A decision on reopening the market would be taken tomorrow after reviewing the situation."
+    },
+    {
+      "title": "Rhesus monkey infant rescued from house in Khagrachhari",
+      "link": "https://www.tbsnews.net/bangladesh/rhesus-monkey-infant-rescued-house-khagrachhari-1486431",
+      "pubDate": "Sun, 12 Jul 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/744314933_27870682575951892_8468375875227364692_n.jpg",
+      "snippet": "\"If it remains healthy and weather conditions are favourable, it will be released back into its natural habitat,\" he said."
+    },
+    {
+      "title": "BGB deployed in 11 flood-hit districts for rescue, relief",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-deployed-11-flood-hit-districts-rescue-relief-1486421",
+      "pubDate": "Sun, 12 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/06/bgb.jpg",
+      "snippet": "A total of 48 people have received emergency healthcare services."
+    },
+    {
+      "title": "7 suspected FCS members, including founder Sabir, placed on fresh remand in terrorism case",
+      "link": "https://www.tbsnews.net/bangladesh/court/7-suspected-fcs-members-including-founder-sabir-placed-fresh-remand-terrorism-case",
+      "pubDate": "Sun, 12 Jul 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/sabir_fcs.jpg",
+      "snippet": "Police said the remand is needed to investigate the group's alleged extremist activities, identify absconding suspects and determine the organisation's objectives."
+    },
+    {
+      "title": "Govt unveils Tk60,000cr incentives, tightens tech-driven tax crackdown on corporates: Minister",
+      "link": "https://www.tbsnews.net/economy/govt-unveils-tk60000cr-incentives-tightens-tech-driven-tax-crackdown-corporates-minister",
+      "pubDate": "Sun, 12 Jul 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/amir_khosru.jpg",
+      "snippet": "The government will maintain tight monetary policy while expanding production support, strengthening technology-based tax enforcement and widening data integration to improve revenue collection and contain inflation."
+    },
+    {
+      "title": "One dengue patient dies, 350 hospitalised in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-350-hospitalised-24hrs-1486411",
+      "pubDate": "Sun, 12 Jul 2026 17:35:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dengu.jpg",
+      "snippet": "Dengue surge shows little sign of slowing"
+    },
+    {
+      "title": "PM asks authorities to complete Dhanmondi, Gulshan lake projects on time",
+      "link": "https://www.tbsnews.net/bangladesh/pm-asks-authorities-complete-dhanmondi-gulshan-lake-projects-time-1486406",
+      "pubDate": "Sun, 12 Jul 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/tarek_rahman_img.jpg",
+      "snippet": "At the meeting, officials briefed the Prime Minister on a Dhaka South City Corporation project to restore and redevelop Dhanmondi Lake, construct Nazrul Sarobar and install STPs as part of efforts to modernise Dhaka's sewerage system."
     },
     {
       "title": "PM orders maximum preparedness to protect lives, property amid waterlogging",
@@ -20,7 +130,18 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/53a391c9-252a-41a6-816b-916f4cad2e33.jpg",
-      "snippet": "The Prime Minister said protecting people's lives and property must remain the administration's highest priority during the ongoing emergency and stressed that there was no room for negligence."
+      "snippet": "The prime minister said protecting people's lives and property must remain the administration's highest priority during the ongoing emergency and stressed that there was no room for negligence."
+    },
+    {
+      "title": "3 more die in landslide, drowning in Cox’s Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/3-more-die-landslide-drowning-coxs-bazar-1486366",
+      "pubDate": "Sun, 12 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_12.58.30_am_1.jpeg",
+      "snippet": "A woman died in a landslide in Cox’s Bazar town yesterday night, while two children drowned in floodwaters in Pekua and Chakaria yesterday night and afternoon."
     },
     {
       "title": "Pakistan PM mourns loss of lives in Bangladesh",
@@ -52,7 +173,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/photo-output_0.jpeg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/img_7999_1.jpeg",
       "snippet": "A visit to different parts of the campus this afternoon revealed the extent of the flooding."
     },
     {
@@ -100,28 +221,6 @@
       "snippet": "He noted that Bangladesh is an exception in this regard, where some companies continue to remain listed despite being closed for extended periods, putting general and small investors at particular risk."
     },
     {
-      "title": "Nagarbari school student wins primary talent-pool scholarship",
-      "link": "https://www.tbsnews.net/bangladesh/nagarbari-school-student-wins-primary-talent-pool-scholarship-1486216",
-      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_15.01.43_16x9.png",
-      "snippet": ""
-    },
-    {
-      "title": "New IMF loan programme to safeguard public interest, national economic security: Khosru ",
-      "link": "https://www.tbsnews.net/bangladesh/new-imf-loan-programme-safeguard-public-interest-national-economic-security-khosru",
-      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/20/khosru.png",
-      "snippet": "The government will not participate in any IMF programme that undermines the interests of the people, he said while speaking to journalists at the Secretariat today (12 July)."
-    },
-    {
       "title": "Gazipur MPs, govt employees to donate salaries to PM's relief fund for flood victims",
       "link": "https://www.tbsnews.net/bangladesh/gazipur-mps-govt-employees-donate-salaries-pms-relief-fund-flood-victims-1486231",
       "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
@@ -133,48 +232,15 @@
       "snippet": "Under the overall coordination of the Gazipur district administration, the equivalent of one day's basic salary from all government employees in the district will be collected within the next three working days and dispatched swiftly to the prime min..."
     },
     {
-      "title": "Train services on Ctg-Cox's Bazar route resume after 5 days",
-      "link": "https://www.tbsnews.net/bangladesh/train-services-ctg-coxs-bazar-route-resume-after-5-days-1486226",
-      "pubDate": "Sun, 12 Jul 2026 15:05:00 +0600",
+      "title": "Nagarbashi school student wins primary talent-pool scholarship",
+      "link": "https://www.tbsnews.net/bangladesh/nagarbashi-school-student-wins-primary-talent-pool-scholarship-1486216",
+      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/train.jpg",
-      "snippet": "The Cox's Bazar-bound Tourist Express left Chattogram Railway Station at 1:30pm, marking the restart of train operations on the route."
-    },
-    {
-      "title": "Mitford murder: Trial begins against 21 accused",
-      "link": "https://www.tbsnews.net/bangladesh/mitford-murder-trial-begins-against-21-accused-1486161",
-      "pubDate": "Sun, 12 Jul 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/23/magistrate_court.jpg",
-      "snippet": "Acting Judge Mosaddek Minhaj of the First Additional Metropolitan Sessions Judge's Court of Dhaka passed the order at noon and fixed 19 July for recording witness testimonies."
-    },
-    {
-      "title": "CCB delegation meets Shama Obaed; highlights honorary consuls' role in economic diplomacy",
-      "link": "https://www.tbsnews.net/bangladesh/ccb-delegation-meets-shama-obaed-highlights-honorary-consuls-role-economic-diplomacy",
-      "pubDate": "Sun, 12 Jul 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/8950040.jpg",
-      "snippet": "The delegation was led by CCB President and Honorary Consul General of Mongolia Nasreen Fatema Awal."
-    },
-    {
-      "title": "Dhaka South City teams drain rainwater, clear roads after heavy downpour",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-city-teams-drain-rainwater-clear-roads-after-heavy-downpour-1486146",
-      "pubDate": "Sun, 12 Jul 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/743699278_1553013629521957_3213073308889702115_n.jpg",
-      "snippet": "According to the Bangladesh Meteorological Department, 76mm of rainfall was recorded in Dhaka in the last six hours, the highest so far this month."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_15.01.43_16x9.png",
+      "snippet": ""
     },
     {
       "title": "New education system to include teacher guides, workbooks, video lessons: Bobby Hajjaj",
@@ -186,50 +252,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/26/education-bangladesh.jpg",
       "snippet": "He made the remarks today (12 July) while inaugurating a workshop to finalise the framework of four new textbooks for the 2027 academic year at the International Mother Language Institute in Segunbagicha, Dhaka."
-    },
-    {
-      "title": "PM seeks faster progress on Dhaka's two waste-to-energy projects",
-      "link": "https://www.tbsnews.net/bangladesh/pm-seeks-faster-progress-dhakas-two-waste-energy-projects-1486101",
-      "pubDate": "Sun, 12 Jul 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/food_safety_pm.jpeg",
-      "snippet": "The plant is expected to begin supplying electricity to the national grid by August 2028 and continue generating power for the next 25 years."
-    },
-    {
-      "title": "Wild elephant dies after hillfall injuries in Teknaf",
-      "link": "https://www.tbsnews.net/bangladesh/wild-elephant-dies-after-hillfall-injuries-teknaf-1486091",
-      "pubDate": "Sun, 12 Jul 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/wild_elephant.jpg",
-      "snippet": "The elephant died at around 10am, nearly a day after the accident."
-    },
-    {
-      "title": "President calls for transforming population into productive human resources",
-      "link": "https://www.tbsnews.net/bangladesh/president-calls-transforming-population-productive-human-resources-1486076",
-      "pubDate": "Sun, 12 Jul 2026 14:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/president_shahabuddin_bss_1.jpg",
-      "snippet": "Stressing the need for building a skilled population through quality education and training on a priority basis, the President said, \"Quality and planned population is the prime asset and strength of a country. On the other hand, an unplanned and inc..."
-    },
-    {
-      "title": "Why Dhaka keeps drowning every monsoon despite years of drainage projects",
-      "link": "https://www.tbsnews.net/bangladesh/why-dhaka-keeps-drowning-every-monsoon-despite-years-drainage-projects-1486081",
-      "pubDate": "Sun, 12 Jul 2026 14:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dhaka_flood_12_july_0.jpeg",
-      "snippet": "Experts say the real problem lies beneath the surface: lost canals, disappearing wetlands, poor planning and weak coordination among city agencies."
     },
     {
       "title": "71% of critically ill measles children fail to get ICU beds: Study",
@@ -650,5 +672,5 @@
       "snippet": "ICCB President Mahbubur Rahman urges faster reforms to strengthen the economy, improve competitiveness and secure new trade deals ahead of Bangladesh's post-LDC transition."
     }
   ],
-  "updatedAt": "2026-07-12T11:37:44.057Z"
+  "updatedAt": "2026-07-12T13:19:26.205Z"
 }
