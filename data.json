@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "BSEC imposes Tk1,497cr fines over stock market irregularities: Finance minister tells parliament",
+      "link": "https://www.tbsnews.net/bangladesh/bsec-imposes-tk1497cr-fines-over-stock-market-irregularities-finance-minister-tells",
+      "pubDate": "Sun, 12 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/finance_minister.jpg",
+      "snippet": "Salman F Rahman, former BSEC officials and others face fines, bans and legal action."
+    },
+    {
+      "title": "BSRM, Acme Labs, Power Grid join DSE elite club as Linde, Unique Hotel exit",
+      "link": "https://www.tbsnews.net/economy/stocks/bsrm-acme-labs-power-grid-join-dse-elite-club-linde-unique-hotel-exit-1486606",
+      "pubDate": "Sun, 12 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "The latest semi-annual review of the Dhaka Stock Exchange's flagship index also reignited concerns over the continued inclusion of companies facing regulatory compliance and disclosure issues, prompting calls for stricter eligibility criteria."
+    },
+    {
+      "title": "Bangladesh Bank raises cash incentive for local textile exports to 5%",
+      "link": "https://www.tbsnews.net/economy/bangladesh-bank-raises-cash-incentive-local-textile-exports-5-1486591",
+      "pubDate": "Sun, 12 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/local_textile_exports.png",
+      "snippet": "The policy aims to encourage exporters to source more yarn and fabrics locally, with industry stakeholders expecting the move to boost domestic value addition and strengthen the country's competitiveness in global markets."
+    },
+    {
+      "title": "HSC, equivalent exams to go on across country except Chattogram Board",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-equivalent-exams-go-across-country-except-chattogram-board-1486581",
+      "pubDate": "Sun, 12 Jul 2026 21:20:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
+      "snippet": "Flood disruption forces postponement of HSC examinations across Chattogram Board jurisdictions"
+    },
+    {
+      "title": "Trade bodies seek emergency support as floods disrupt Ctg Port operations",
+      "link": "https://www.tbsnews.net/bangladesh/trade-bodies-seek-emergency-support-floods-disrupt-ctg-port-operations-1486556",
+      "pubDate": "Sun, 12 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/ctg_flood_7.jpg",
+      "snippet": "BGMEA, BKMEA, BTMA and Chittagong Chamber urge government to waive port charges, provide loan relief and form a high-level taskforce after floods disrupt imports and exports"
+    },
+    {
       "title": "Five merged banks under special forensic audit; finance minister vows action against those responsible",
       "link": "https://www.tbsnews.net/economy/banking/five-merged-banks-under-special-forensic-audit-finance-minister-vows-action-against",
       "pubDate": "Sun, 12 Jul 2026 20:25:00 +0600",
@@ -10,6 +65,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/five_merged_ban2k.jpg",
       "snippet": "The government says the audit is part of a broader banking sector reform aimed at restoring depositor confidence, strengthening governance and addressing financial irregularities through a new resolution framework"
+    },
+    {
+      "title": "37 held in Ctg with illegal trawling boats, nets",
+      "link": "https://www.tbsnews.net/bangladesh/37-held-ctg-illegal-trawling-boats-nets-1486566",
+      "pubDate": "Sun, 12 Jul 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/coast_guard_raid_in_raid_in_banshkhali.jpg",
+      "snippet": "The Coast Guard detained 37 fishermen and seized two illegal artisanal trawling boats and 14 nets during a raid in Banshkhali of Chattogram."
     },
     {
       "title": "Govt has no plan to sell Teletalk, steps underway to upgrade services: Minister",
@@ -202,56 +268,23 @@
       "title": "Measles: Death toll at 758 as 5 more children die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-758-five-more-children-die-24-hours-1486281",
       "pubDate": "Sun, 12 Jul 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/measles.jpeg",
       "snippet": "Nearly 900 new suspected infections were reported, according to the latest Directorate General of Health Services data."
-    },
-    {
-      "title": "Heavy rain leaves several DU halls waterlogged, cuts power to 2 women's dorms",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-leaves-several-du-halls-waterlogged-cuts-power-2-womens-dorms-1486286",
-      "pubDate": "Sun, 12 Jul 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/img_7999_1.jpeg",
-      "snippet": "A visit to different parts of the campus this afternoon revealed the extent of the flooding."
     },
     {
       "title": "New entrepreneurs to get collateral-free loans up to Tk10 lakh, startup fund launched",
       "link": "https://www.tbsnews.net/economy/new-entrepreneurs-get-collateral-free-loans-tk10-lakh-startup-fund-launched-1486271",
       "pubDate": "Sun, 12 Jul 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/amir_khosru.jpg",
       "snippet": "Finance Minister Amir Khosru said Bangladesh Bank has increased the refinancing fund for new entrepreneurs in the cottage, micro and small enterprise sectors from Tk100 crore to Tk500 crore."
-    },
-    {
-      "title": "Govt aims to deliver new textbooks to all students by 1 Jan : Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/govt-aims-deliver-new-textbooks-all-students-1-jan-mahdi-amin-1486256",
-      "pubDate": "Sun, 12 Jul 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/unb_prime_minister_advisor.jpg",
-      "snippet": "Mahdi Amin said the final copies of the textbooks will be submitted to the Prime Minister within this month for review. “Based on his observations, further revisions, additions or modifications will be made before the books are sent for final publica..."
-    },
-    {
-      "title": "Flood death toll reaches 51, over 10 lakh affected in seven districts",
-      "link": "https://www.tbsnews.net/bangladesh/flood-death-toll-reaches-51-over-10-lakh-affected-seven-districts-1486251",
-      "pubDate": "Sun, 12 Jul 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_3.39.44_pm.jpeg",
-      "snippet": "Cox’s Bazar has reported the highest number of deaths, with 28 people killed, including 15 residents and 13 Rohingya people."
     },
     {
       "title": "New education system to include teacher guides, workbooks, video lessons: Bobby Hajjaj",
@@ -670,18 +703,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png",
       "snippet": "The commission has also planned to launch a \"Professional Knowledge Sharing Programme\" for university vice-chancellors, pro-vice-chancellors and treasurers."
-    },
-    {
-      "title": "Bangladesh needs swift reforms to stay competitive after LDC graduation: ICCB",
-      "link": "https://www.tbsnews.net/economy/bangladesh-needs-swift-reforms-stay-competitive-after-ldc-graduation-iccb-1484216",
-      "pubDate": "Thu, 09 Jul 2026 20:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png",
-      "snippet": "ICCB President Mahbubur Rahman urges faster reforms to strengthen the economy, improve competitiveness and secure new trade deals ahead of Bangladesh's post-LDC transition."
     }
   ],
-  "updatedAt": "2026-07-12T14:41:23.976Z"
+  "updatedAt": "2026-07-12T16:00:09.684Z"
 }
