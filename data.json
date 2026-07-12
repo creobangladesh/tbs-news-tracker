@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "3 more die in landslide, drowning in Cox’s Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/3-more-die-landslide-drowning-coxs-bazar-1486366",
+      "pubDate": "Sun, 12 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_12.58.30_am_1.jpeg",
+      "snippet": "A woman died in a landslide in Cox’s Bazar town yesterday night, while two children drowned in floodwaters in Pekua and Chakaria yesterday night and afternoon."
+    },
+    {
+      "title": "PM orders maximum preparedness to protect lives, property amid waterlogging",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-maximum-preparedness-protect-lives-property-amid-waterlogging-1486361",
+      "pubDate": "Sun, 12 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/53a391c9-252a-41a6-816b-916f4cad2e33.jpg",
+      "snippet": "The Prime Minister said protecting people's lives and property must remain the administration's highest priority during the ongoing emergency and stressed that there was no room for negligence."
+    },
+    {
+      "title": "Pakistan PM mourns loss of lives in Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/pakistan-pm-mourns-loss-lives-bangladesh-1486331",
+      "pubDate": "Sun, 12 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/img_8035.jpeg",
+      "snippet": "\"Deeply saddened by the tragic loss of life and widespread devastation caused by the severe floods and landslides in Bangladesh,” he said in a condolence message."
+    },
+    {
+      "title": "Measles: Death toll at 758 as 5 more children die",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-758-five-more-children-die-24-hours-1486281",
+      "pubDate": "Sun, 12 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/measles.jpeg",
+      "snippet": "Nearly 900 new suspected infections were reported, according to the latest Directorate General of Health Services data."
+    },
+    {
+      "title": "Heavy rain leaves several DU halls waterlogged, cuts power to 2 women's dorms",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-leaves-several-du-halls-waterlogged-cuts-power-2-womens-dorms-1486286",
+      "pubDate": "Sun, 12 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/photo-output_0.jpeg",
+      "snippet": "A visit to different parts of the campus this afternoon revealed the extent of the flooding."
+    },
+    {
+      "title": "New entrepreneurs to get collateral-free loans up to Tk10 lakh, startup fund launched",
+      "link": "https://www.tbsnews.net/economy/new-entrepreneurs-get-collateral-free-loans-tk10-lakh-startup-fund-launched-1486271",
+      "pubDate": "Sun, 12 Jul 2026 16:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/amir_khosru.jpg",
+      "snippet": "Finance Minister Amir Khosru said Bangladesh Bank has increased the refinancing fund for new entrepreneurs in the cottage, micro and small enterprise sectors from Tk100 crore to Tk500 crore."
+    },
+    {
       "title": "Govt aims to deliver new textbooks to all students by 1 Jan : Mahdi Amin",
       "link": "https://www.tbsnews.net/bangladesh/govt-aims-deliver-new-textbooks-all-students-1-jan-mahdi-amin-1486256",
       "pubDate": "Sun, 12 Jul 2026 15:45:00 +0600",
@@ -34,17 +100,6 @@
       "snippet": "He noted that Bangladesh is an exception in this regard, where some companies continue to remain listed despite being closed for extended periods, putting general and small investors at particular risk."
     },
     {
-      "title": "Gazipur MPs, govt employees to donate salaries to PM's relief fund for flood victims",
-      "link": "https://www.tbsnews.net/bangladesh/gazipur-mps-govt-employees-donate-salaries-pms-relief-fund-flood-victims-1486231",
-      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/whatsapp_image_2026-07-11_at_15.36.49.jpeg",
-      "snippet": "Under the overall coordination of the Gazipur district administration, the equivalent of one day's basic salary from all government employees in the district will be collected within the next three working days and dispatched swiftly to the prime min..."
-    },
-    {
       "title": "Nagarbari school student wins primary talent-pool scholarship",
       "link": "https://www.tbsnews.net/bangladesh/nagarbari-school-student-wins-primary-talent-pool-scholarship-1486216",
       "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
@@ -65,6 +120,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/20/khosru.png",
       "snippet": "The government will not participate in any IMF programme that undermines the interests of the people, he said while speaking to journalists at the Secretariat today (12 July)."
+    },
+    {
+      "title": "Gazipur MPs, govt employees to donate salaries to PM's relief fund for flood victims",
+      "link": "https://www.tbsnews.net/bangladesh/gazipur-mps-govt-employees-donate-salaries-pms-relief-fund-flood-victims-1486231",
+      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/whatsapp_image_2026-07-11_at_15.36.49.jpeg",
+      "snippet": "Under the overall coordination of the Gazipur district administration, the equivalent of one day's basic salary from all government employees in the district will be collected within the next three working days and dispatched swiftly to the prime min..."
     },
     {
       "title": "Train services on Ctg-Cox's Bazar route resume after 5 days",
@@ -140,7 +206,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/1edad3f8c6d1e01346ce4966b6ae178b.jpeg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/wild_elephant.jpg",
       "snippet": "The elephant died at around 10am, nearly a day after the accident."
     },
     {
@@ -166,68 +232,13 @@
       "snippet": "Experts say the real problem lies beneath the surface: lost canals, disappearing wetlands, poor planning and weak coordination among city agencies."
     },
     {
-      "title": "BADC chairman calls for timely delivery of farm inputs",
-      "link": "https://www.tbsnews.net/bangladesh/badc-chairman-calls-timely-delivery-farm-inputs-1486066",
-      "pubDate": "Sun, 12 Jul 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/badc_16x9.png",
-      "snippet": ""
-    },
-    {
-      "title": "79,246 students awarded primary scholarships as results published",
-      "link": "https://www.tbsnews.net/bangladesh/79246-students-awarded-primary-scholarships-results-published-1486051",
-      "pubDate": "Sun, 12 Jul 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/23/primary_students.jpg",
-      "snippet": "According to the final results, 79,246 students received scholarships. Of them, 32,965 secured Talent Pool scholarships, while 46,281 received General scholarships."
-    },
-    {
-      "title": "Heavy rain likely to persist in Dhaka, other areas for 2 more days",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-likely-persist-dhaka-other-areas-2-more-days-1486011",
-      "pubDate": "Sun, 12 Jul 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/358a759571d21185dd465a36c97e7e2d.jpeg",
-      "snippet": "Rainfall activity in the capital is, however, likely to gradually subside around 14-15 July, said the Bangladesh Meteorological Department (BMD)"
-    },
-    {
-      "title": "BNP to observe nationwide mourning tomorrow for Jamiruddin's death ",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-observe-nationwide-mourning-tomorrow-jamiruddins-death-1485996",
-      "pubDate": "Sun, 12 Jul 2026 13:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/02/barrister_jamiruddin_sircar.jpg",
-      "snippet": "BNP Senior Joint Secretary General Ruhul Kabir Rizvi announced the programme at a press conference at the party's Nayapaltan central office."
-    },
-    {
-      "title": "Classes, exams suspended at many Dhaka schools amid heavy rain, waterlogging",
-      "link": "https://www.tbsnews.net/bangladesh/classes-exams-suspended-many-dhaka-schools-amid-heavy-rain-waterlogging-1485991",
-      "pubDate": "Sun, 12 Jul 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/img_8024.jpeg",
-      "snippet": "According to institutional sources and guardians, persistent downpours caused severe commuting hardships for students and parents, prompting authorities to call off academic activities."
-    },
-    {
       "title": "71% of critically ill measles children fail to get ICU beds: Study",
       "link": "https://www.tbsnews.net/bangladesh/health/71-critically-ill-measles-children-fail-get-icu-beds-study-1485901",
       "pubDate": "Sun, 12 Jul 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg",
       "snippet": "The study, “Beyond immunity gaps: Health-system constraints and measles mortality in Bangladesh,” published on 1 July in the journal Tropical Medicine, argues that while declining vaccination coverage has been widely blamed, structural weaknesses in ..."
     },
@@ -441,15 +452,15 @@
       "snippet": "Export Promotion Bureau data show that vegetable exports earned $88.88 million in FY26, up 9.57% from $81.12 million a year earlier. But this is $14.36 million below the $103.24 million earned in FY15"
     },
     {
-      "title": "Realising the hopes and aspirations of young people: Bangladesh's path to a demographic future of choice and opportunity",
-      "link": "https://www.tbsnews.net/thoughts/realising-hopes-and-aspirations-young-people-bangladeshs-path-demographic-future-choice-and",
+      "title": "Bangladesh's girls value family as much as ever, yet for nearly half, marriage comes before they can choose",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-girls-value-family-much-ever-yet-nearly-half-marriage-comes-they-can-choose",
       "pubDate": "Fri, 10 Jul 2026 18:55:00 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/for_thoughts.jpeg",
-      "snippet": "The true measure of demographic success is not simply the size of a population. It is whether every young woman and man can make informed decisions about education, employment, marriage and parenthood, and whether society provides the opportunities t..."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/womens_day_0.png",
+      "snippet": "The same country that achieved gender parity in secondary school, with girls now enrolling at a higher rate than boys, still sees nearly one in two girls married as a child. At the current pace, ending child marriage in Bangladesh would take more tha..."
     },
     {
       "title": "EU tells Instagram, Facebook to change addictive features or risk fines",
@@ -637,40 +648,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/ldc-graduation.png",
       "snippet": "ICCB President Mahbubur Rahman urges faster reforms to strengthen the economy, improve competitiveness and secure new trade deals ahead of Bangladesh's post-LDC transition."
-    },
-    {
-      "title": "Soaring NPLs: Who will stem the tide?",
-      "link": "https://www.tbsnews.net/features/panorama/soaring-npls-who-will-stem-tide-1483946",
-      "pubDate": "Thu, 09 Jul 2026 17:15:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/default_loan_cartoon.png",
-      "snippet": "The structural weaknesses accumulated over many years cannot be reversed overnight. Rebuilding confidence in Bangladesh’s banking system will likely require sustained reforms over the next five to 10 years"
-    },
-    {
-      "title": "Dengue: 2 patients die, 190 hospitalised in 24 hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-2-patients-die-190-hospitalised-24-hrs-1483896",
-      "pubDate": "Thu, 09 Jul 2026 16:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_8.jpg",
-      "snippet": "According to DGHS data, a total of 102,861 dengue cases and 413 dengue-related deaths were recorded in 2025."
-    },
-    {
-      "title": "Measles: Death toll rises to 747 as 2 more children die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-747-2-more-children-die-1483861",
-      "pubDate": "Thu, 09 Jul 2026 16:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "With the latest fatalities, the number of suspected measles deaths has risen to 654, while laboratory-confirmed measles deaths remain at 93, DGHS said in its daily update."
     }
   ],
-  "updatedAt": "2026-07-12T10:09:21.168Z"
+  "updatedAt": "2026-07-12T11:37:44.057Z"
 }
