@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "BADC chairman calls for timely delivery of farm inputs",
+      "link": "https://www.tbsnews.net/bangladesh/badc-chairman-calls-timely-delivery-farm-inputs-1486066",
+      "pubDate": "Sun, 12 Jul 2026 14:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/badc_16x9.png",
+      "snippet": ""
+    },
+    {
+      "title": "79,246 students awarded primary scholarships as results published",
+      "link": "https://www.tbsnews.net/bangladesh/79246-students-awarded-primary-scholarships-results-published-1486051",
+      "pubDate": "Sun, 12 Jul 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/23/primary_students.jpg",
+      "snippet": "According to the final results, 79,246 students received scholarships. Of them, 32,965 secured Talent Pool scholarships, while 46,281 received General scholarships."
+    },
+    {
+      "title": "Heavy rain likely to persist in Dhaka, other areas for 2 more days",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-likely-persist-dhaka-other-areas-2-more-days-1486011",
+      "pubDate": "Sun, 12 Jul 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/358a759571d21185dd465a36c97e7e2d.jpeg",
+      "snippet": "Rainfall activity in the capital is, however, likely to gradually subside around 14-15 July, said the Bangladesh Meteorological Department (BMD)"
+    },
+    {
+      "title": "BNP to observe nationwide mourning tomorrow for Jamiruddin's death ",
+      "link": "https://www.tbsnews.net/bangladesh/bnp-observe-nationwide-mourning-tomorrow-jamiruddins-death-1485996",
+      "pubDate": "Sun, 12 Jul 2026 13:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/02/barrister_jamiruddin_sircar.jpg",
+      "snippet": "BNP Senior Joint Secretary General Ruhul Kabir Rizvi announced the programme at a press conference at the party's Nayapaltan central office."
+    },
+    {
+      "title": "Classes, exams suspended at many Dhaka schools amid heavy rain, waterlogging",
+      "link": "https://www.tbsnews.net/bangladesh/classes-exams-suspended-many-dhaka-schools-amid-heavy-rain-waterlogging-1485991",
+      "pubDate": "Sun, 12 Jul 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/img_8024.jpeg",
+      "snippet": "According to institutional sources and guardians, persistent downpours caused severe commuting hardships for students and parents, prompting authorities to call off academic activities."
+    },
+    {
+      "title": "71% of critically ill measles children fail to get ICU beds: Study",
+      "link": "https://www.tbsnews.net/bangladesh/health/71-critically-ill-measles-children-fail-get-icu-beds-study-1485901",
+      "pubDate": "Sun, 12 Jul 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg",
+      "snippet": "The study, “Beyond immunity gaps: Health-system constraints and measles mortality in Bangladesh,” published on 1 July in the journal Tropical Medicine, argues that while declining vaccination coverage has been widely blamed, structural weaknesses in ..."
+    },
+    {
+      "title": "CAAB steps up preparations for DfT, ICAO audits, progress nears 80%",
+      "link": "https://www.tbsnews.net/economy/aviation/caab-steps-preparations-dft-icao-audits-progress-nears-80-1485976",
+      "pubDate": "Sun, 12 Jul 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/21/caab-logo.png",
+      "snippet": "The audit will mainly review security arrangements for UK-bound passengers and cargo from Hazrat Shahjalal International Airport and Osmani International Airport."
+    },
+    {
+      "title": "Hill deforestation leaves Rohingya camps vulnerable to deadly landslides",
+      "link": "https://www.tbsnews.net/bangladesh/environment/hill-deforestation-leaves-rohingya-camps-vulnerable-deadly-landslides-1485941",
+      "pubDate": "Sun, 12 Jul 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/02/rohingya_camp.jpg",
+      "snippet": "The risk has intensified this year, with continuous rain, flash floods, and landslides between 4 and 9 July killing 15 Rohingyas, injuring 18 others, and affecting 26,119 people across the camps, according to the latest update from the Rohingya Coord..."
+    },
+    {
       "title": "From Tk500 to Tk10,000cr: The phenomenal rise of bKash & City Bank's nano loan",
       "link": "https://www.tbsnews.net/economy/banking/tk500-tk10000cr-phenomenal-rise-bkash-city-banks-nano-loan-1485926",
       "pubDate": "Sun, 12 Jul 2026 11:30:00 +0600",
@@ -8,18 +96,18 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/p_1_lead_copy.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/tk.png",
       "snippet": "Over 35 lakh bKash customers availed the loan from City Bank so far under the digital nano loan platform, reflecting an improvement in democratising access to credit for marginal people."
     },
     {
-      "title": "Heavy rain leaves Dhaka waterlogged, causing widespread suffering",
+      "title": "Waterlogging, traffic chaos paralyse Dhaka, Chattogram after heavy rain",
       "link": "https://www.tbsnews.net/bangladesh/heavy-rain-leaves-dhaka-waterlogged-causing-widespread-suffering-1485906",
       "pubDate": "Sun, 12 Jul 2026 10:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/65511a6e-3c7e-4151-b4ad-561a73492317.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dhaka_flood_12_july_1.jpeg",
       "snippet": "Dhaka recorded 76 mm of rainfall from midnight to 6am today, with heavy rain continuing throughout the morning."
     },
     {
@@ -42,7 +130,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/jamir_uddin_sircar.png",
-      "snippet": "He breathed his last at 4:18am at Bangladesh Specialized Hospital in Shyamoli, Supreme Court Bar Association President Barrister AM Mahbub Uddin Khokon said."
+      "snippet": "The namaz-e-janaza will be held at 5pm today at the South Plaza of the Jatiya Sangsad Bhaban."
     },
     {
       "title": "BNP eyes December council, begins preparations for local polls",
@@ -155,35 +243,13 @@
       "snippet": "Only 5.4% of assessed shelters reamin suitable for emergencies"
     },
     {
-      "title": "Labour rules must align with amended law, experts urge government",
-      "link": "https://www.tbsnews.net/bangladesh/labour-rules-must-align-amended-law-experts-urge-government-1485711",
-      "pubDate": "Sat, 11 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/labour_rights_experts.jpg",
-      "snippet": "Labour rights advocates say revising the Bangladesh Labour Rules is a key opportunity to remove legal inconsistencies and strengthen workers' protections."
-    },
-    {
-      "title": "5 killed as bus rams into roadside crowd in Faridpur; locals block highway",
-      "link": "https://www.tbsnews.net/bangladesh/5-killed-bus-rams-roadside-crowd-faridpur-locals-block-highway-1485716",
-      "pubDate": "Sat, 11 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/faridpur_accident.jpg",
-      "snippet": "The accident occurred while locals were gathered beside the road during a rescue operation after a pickup van had fallen off the road earlier in the day in Faridpur’s Bhanga."
-    },
-    {
       "title": "DSE finds AFC Agro’s factory closed, adding to growing list of non-operational firms",
       "link": "https://www.tbsnews.net/economy/stocks/dse-finds-afc-agros-factory-closed-adding-growing-list-non-operational-firms-1485681",
       "pubDate": "Sat, 11 Jul 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
       "snippet": "The agro-based bio-pharmaceuticals and bio-chemicals producer has been plagued by operational and financial delays."
     },
@@ -199,17 +265,6 @@
       "snippet": "The industry body says nearly 64,000 poultry farms have shut down over the past five years due to mounting losses."
     },
     {
-      "title": "Flood, landslides in Ctg: Death toll rises to 43, affect nearly 8.7 lakh people",
-      "link": "https://www.tbsnews.net/bangladesh/flood-landslides-ctg-death-toll-rises-43-affect-nearly-87-lakh-people-1485666",
-      "pubDate": "Sat, 11 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/cht_flash_floods_16x9_1.png",
-      "snippet": "Authorities open 1,727 shelters as damage spreads to roads, fisheries and agriculture; over Tk27 crore livestock losses and Tk91 crore fisheries damage reported."
-    },
-    {
       "title": "IMF mission due tomorrow to assess Bangladesh's readiness for fresh loan deal",
       "link": "https://www.tbsnews.net/economy/imf-mission-due-tomorrow-assess-bangladeshs-readiness-fresh-loan-deal-1485646",
       "pubDate": "Sat, 11 Jul 2026 21:00:00 +0600",
@@ -221,46 +276,13 @@
       "snippet": "On the first day of the visit, IMF officials are scheduled to hold meetings with representatives from the finance ministry, Bangladesh Bank and other relevant agencies."
     },
     {
-      "title": "Fulfil promises or face pressure to implement referendum verdict: Jamaat chief",
-      "link": "https://www.tbsnews.net/bangladesh/politics/fulfil-promises-or-face-pressure-implement-referendum-verdict-jamaat-chief",
-      "pubDate": "Sat, 11 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/jamaat_ameer.jpg",
-      "snippet": "The youth fought against inequality and corruption and the referendum was held as part of the reform process, Shafiqur Rahman says."
-    },
-    {
-      "title": "Train services on Chattogram-Cox's Bazar route likely to resume tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/train-services-chattogram-coxs-bazar-route-likely-resume-tomorrow-1485636",
-      "pubDate": "Sat, 11 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/ctg-cox_rail_route.jpg",
-      "snippet": "Railway authorities have completed repair work on the flood-damaged tracks and are preparing to restart operations after a four-day suspension caused by waterlogging."
-    },
-    {
-      "title": "Govt to raise firearm licence fees under revised policy",
-      "link": "https://www.tbsnews.net/bangladesh/govt-raise-firearm-licence-fees-under-revised-policy-1485626",
-      "pubDate": "Sat, 11 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/17/gun.png",
-      "snippet": "The revised fee structure, already approved by the Finance Division, is expected to come into effect after the Home Ministry issues an updated firearms licensing policy incorporating the new rates."
-    },
-    {
       "title": "HSC candidates clash at Bhola exam centre, vandalise college; 7 injured",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-candidates-clash-bhola-exam-centre-vandalise-college-7-injured-1485616",
       "pubDate": "Sat, 11 Jul 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bhola_hsc_clash.jpg",
       "snippet": "Students claimed the ICT question paper was difficult and that invigilators did not assist them during the exam."
     },
@@ -615,40 +637,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/masud_khan.jpg",
       "snippet": "BSEC Chairman Masud Khan has unveiled a sweeping reform roadmap focused on boosting investor confidence, improving market transparency and strengthening regulatory institutions to drive sustainable growth in Bangladesh's capital market."
-    },
-    {
-      "title": "Govt considers expanding Alo Clinics to improve urban healthcare access",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-considers-expanding-alo-clinics-improve-urban-healthcare-access-1483746",
-      "pubDate": "Thu, 09 Jul 2026 14:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/740152557_1497266288384040_6910875284400301137_n.jpg",
-      "snippet": "Four clinics also operate 24-hour midwife-led normal delivery centers, which have conducted more than 1,000 safe deliveries since January this year."
-    },
-    {
-      "title": "OECD warns of shrinking dev finance as Bangladesh urges stronger multilateral support",
-      "link": "https://www.tbsnews.net/economy/oecd-warns-shrinking-dev-finance-bangladesh-urges-stronger-multilateral-support-1483636",
-      "pubDate": "Thu, 09 Jul 2026 12:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/21/oecd.png",
-      "snippet": "The session brought together experts from South Asia and the OECD to discuss how declining aid, geopolitical fragmentation, and changing donor priorities are reshaping development finance."
-    },
-    {
-      "title": "ADB cuts Bangladesh FY27 growth forecast to 4.5% over energy, banking sector concerns",
-      "link": "https://www.tbsnews.net/economy/banking/adb-cuts-bangladeshs-fy2026-growth-forecast-37-amid-inflation-external-headwinds",
-      "pubDate": "Thu, 09 Jul 2026 12:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/04/adb_16x9.png",
-      "snippet": "In its Asian Development Outlook (ADO) July 2026, released yesterday (8 July), the Manila-based lender revised down its FY27 growth projection from 4.7% forecast in April, citing ongoing energy constraints and weaknesses in the financial sector."
     }
   ],
-  "updatedAt": "2026-07-12T05:59:57.596Z"
+  "updatedAt": "2026-07-12T08:29:22.495Z"
 }
