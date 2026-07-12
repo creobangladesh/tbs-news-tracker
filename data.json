@@ -1,6 +1,171 @@
 {
   "news": [
     {
+      "title": "Govt aims to deliver new textbooks to all students by 1 Jan : Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/govt-aims-deliver-new-textbooks-all-students-1-jan-mahdi-amin-1486256",
+      "pubDate": "Sun, 12 Jul 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/unb_prime_minister_advisor.jpg",
+      "snippet": "Mahdi Amin said the final copies of the textbooks will be submitted to the Prime Minister within this month for review. “Based on his observations, further revisions, additions or modifications will be made before the books are sent for final publica..."
+    },
+    {
+      "title": "Flood death toll reaches 51, over 10 lakh affected in seven districts",
+      "link": "https://www.tbsnews.net/bangladesh/flood-death-toll-reaches-51-over-10-lakh-affected-seven-districts-1486251",
+      "pubDate": "Sun, 12 Jul 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_3.39.44_pm.jpeg",
+      "snippet": "Cox’s Bazar has reported the highest number of deaths, with 28 people killed, including 15 residents and 13 Rohingya people."
+    },
+    {
+      "title": "BSEC clarifies Chairman’s remarks, denies delisting decision on closed companies",
+      "link": "https://www.tbsnews.net/bangladesh/bsec-clarifies-chairmans-remarks-denies-delisting-decision-closed-companies-1486241",
+      "pubDate": "Sun, 12 Jul 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/24/bsec_1.jpg",
+      "snippet": "He noted that Bangladesh is an exception in this regard, where some companies continue to remain listed despite being closed for extended periods, putting general and small investors at particular risk."
+    },
+    {
+      "title": "Gazipur MPs, govt employees to donate salaries to PM's relief fund for flood victims",
+      "link": "https://www.tbsnews.net/bangladesh/gazipur-mps-govt-employees-donate-salaries-pms-relief-fund-flood-victims-1486231",
+      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/whatsapp_image_2026-07-11_at_15.36.49.jpeg",
+      "snippet": "Under the overall coordination of the Gazipur district administration, the equivalent of one day's basic salary from all government employees in the district will be collected within the next three working days and dispatched swiftly to the prime min..."
+    },
+    {
+      "title": "Nagarbari school student wins primary talent-pool scholarship",
+      "link": "https://www.tbsnews.net/bangladesh/nagarbari-school-student-wins-primary-talent-pool-scholarship-1486216",
+      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_15.01.43_16x9.png",
+      "snippet": ""
+    },
+    {
+      "title": "New IMF loan programme to safeguard public interest, national economic security: Khosru ",
+      "link": "https://www.tbsnews.net/bangladesh/new-imf-loan-programme-safeguard-public-interest-national-economic-security-khosru",
+      "pubDate": "Sun, 12 Jul 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/20/khosru.png",
+      "snippet": "The government will not participate in any IMF programme that undermines the interests of the people, he said while speaking to journalists at the Secretariat today (12 July)."
+    },
+    {
+      "title": "Train services on Ctg-Cox's Bazar route resume after 5 days",
+      "link": "https://www.tbsnews.net/bangladesh/train-services-ctg-coxs-bazar-route-resume-after-5-days-1486226",
+      "pubDate": "Sun, 12 Jul 2026 15:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/train.jpg",
+      "snippet": "The Cox's Bazar-bound Tourist Express left Chattogram Railway Station at 1:30pm, marking the restart of train operations on the route."
+    },
+    {
+      "title": "Mitford murder: Trial begins against 21 accused",
+      "link": "https://www.tbsnews.net/bangladesh/mitford-murder-trial-begins-against-21-accused-1486161",
+      "pubDate": "Sun, 12 Jul 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/23/magistrate_court.jpg",
+      "snippet": "Acting Judge Mosaddek Minhaj of the First Additional Metropolitan Sessions Judge's Court of Dhaka passed the order at noon and fixed 19 July for recording witness testimonies."
+    },
+    {
+      "title": "CCB delegation meets Shama Obaed; highlights honorary consuls' role in economic diplomacy",
+      "link": "https://www.tbsnews.net/bangladesh/ccb-delegation-meets-shama-obaed-highlights-honorary-consuls-role-economic-diplomacy",
+      "pubDate": "Sun, 12 Jul 2026 14:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/8950040.jpg",
+      "snippet": "The delegation was led by CCB President and Honorary Consul General of Mongolia Nasreen Fatema Awal."
+    },
+    {
+      "title": "Dhaka South City teams drain rainwater, clear roads after heavy downpour",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-city-teams-drain-rainwater-clear-roads-after-heavy-downpour-1486146",
+      "pubDate": "Sun, 12 Jul 2026 14:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/743699278_1553013629521957_3213073308889702115_n.jpg",
+      "snippet": "According to the Bangladesh Meteorological Department, 76mm of rainfall was recorded in Dhaka in the last six hours, the highest so far this month."
+    },
+    {
+      "title": "New education system to include teacher guides, workbooks, video lessons: Bobby Hajjaj",
+      "link": "https://www.tbsnews.net/bangladesh/education/new-education-system-include-teacher-guides-workbooks-video-lessons-bobby",
+      "pubDate": "Sun, 12 Jul 2026 14:50:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/26/education-bangladesh.jpg",
+      "snippet": "He made the remarks today (12 July) while inaugurating a workshop to finalise the framework of four new textbooks for the 2027 academic year at the International Mother Language Institute in Segunbagicha, Dhaka."
+    },
+    {
+      "title": "PM seeks faster progress on Dhaka's two waste-to-energy projects",
+      "link": "https://www.tbsnews.net/bangladesh/pm-seeks-faster-progress-dhakas-two-waste-energy-projects-1486101",
+      "pubDate": "Sun, 12 Jul 2026 14:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/food_safety_pm.jpeg",
+      "snippet": "The plant is expected to begin supplying electricity to the national grid by August 2028 and continue generating power for the next 25 years."
+    },
+    {
+      "title": "Wild elephant dies after hillfall injuries in Teknaf",
+      "link": "https://www.tbsnews.net/bangladesh/wild-elephant-dies-after-hillfall-injuries-teknaf-1486091",
+      "pubDate": "Sun, 12 Jul 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/1edad3f8c6d1e01346ce4966b6ae178b.jpeg",
+      "snippet": "The elephant died at around 10am, nearly a day after the accident."
+    },
+    {
+      "title": "President calls for transforming population into productive human resources",
+      "link": "https://www.tbsnews.net/bangladesh/president-calls-transforming-population-productive-human-resources-1486076",
+      "pubDate": "Sun, 12 Jul 2026 14:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/president_shahabuddin_bss_1.jpg",
+      "snippet": "Stressing the need for building a skilled population through quality education and training on a priority basis, the President said, \"Quality and planned population is the prime asset and strength of a country. On the other hand, an unplanned and inc..."
+    },
+    {
+      "title": "Why Dhaka keeps drowning every monsoon despite years of drainage projects",
+      "link": "https://www.tbsnews.net/bangladesh/why-dhaka-keeps-drowning-every-monsoon-despite-years-drainage-projects-1486081",
+      "pubDate": "Sun, 12 Jul 2026 14:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dhaka_flood_12_july_0.jpeg",
+      "snippet": "Experts say the real problem lies beneath the surface: lost canals, disappearing wetlands, poor planning and weak coordination among city agencies."
+    },
+    {
       "title": "BADC chairman calls for timely delivery of farm inputs",
       "link": "https://www.tbsnews.net/bangladesh/badc-chairman-calls-timely-delivery-farm-inputs-1486066",
       "pubDate": "Sun, 12 Jul 2026 14:10:00 +0600",
@@ -67,48 +232,15 @@
       "snippet": "The study, “Beyond immunity gaps: Health-system constraints and measles mortality in Bangladesh,” published on 1 July in the journal Tropical Medicine, argues that while declining vaccination coverage has been widely blamed, structural weaknesses in ..."
     },
     {
-      "title": "CAAB steps up preparations for DfT, ICAO audits, progress nears 80%",
-      "link": "https://www.tbsnews.net/economy/aviation/caab-steps-preparations-dft-icao-audits-progress-nears-80-1485976",
-      "pubDate": "Sun, 12 Jul 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/21/caab-logo.png",
-      "snippet": "The audit will mainly review security arrangements for UK-bound passengers and cargo from Hazrat Shahjalal International Airport and Osmani International Airport."
-    },
-    {
-      "title": "Hill deforestation leaves Rohingya camps vulnerable to deadly landslides",
-      "link": "https://www.tbsnews.net/bangladesh/environment/hill-deforestation-leaves-rohingya-camps-vulnerable-deadly-landslides-1485941",
-      "pubDate": "Sun, 12 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/02/rohingya_camp.jpg",
-      "snippet": "The risk has intensified this year, with continuous rain, flash floods, and landslides between 4 and 9 July killing 15 Rohingyas, injuring 18 others, and affecting 26,119 people across the camps, according to the latest update from the Rohingya Coord..."
-    },
-    {
       "title": "From Tk500 to Tk10,000cr: The phenomenal rise of bKash & City Bank's nano loan",
       "link": "https://www.tbsnews.net/economy/banking/tk500-tk10000cr-phenomenal-rise-bkash-city-banks-nano-loan-1485926",
       "pubDate": "Sun, 12 Jul 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/tk.png",
       "snippet": "Over 35 lakh bKash customers availed the loan from City Bank so far under the digital nano loan platform, reflecting an improvement in democratising access to credit for marginal people."
-    },
-    {
-      "title": "Waterlogging, traffic chaos paralyse Dhaka, Chattogram after heavy rain",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-leaves-dhaka-waterlogged-causing-widespread-suffering-1485906",
-      "pubDate": "Sun, 12 Jul 2026 10:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dhaka_flood_12_july_1.jpeg",
-      "snippet": "Dhaka recorded 76 mm of rainfall from midnight to 6am today, with heavy rain continuing throughout the morning."
     },
     {
       "title": "Football fandom, consumer culture, and the politics of visibility",
@@ -122,28 +254,6 @@
       "snippet": "A father's search for a Portugal football jersey reveals something larger than consumer choice. It exposes how markets determine which identities become visible, which preferences matter, and which remain on the margins – even in something as seeming..."
     },
     {
-      "title": "Barrister Jamiruddin Sircar passes away",
-      "link": "https://www.tbsnews.net/bangladesh/obituary/barrister-jamiruddin-sircar-passes-away-1485851",
-      "pubDate": "Sun, 12 Jul 2026 09:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/jamir_uddin_sircar.png",
-      "snippet": "The namaz-e-janaza will be held at 5pm today at the South Plaza of the Jatiya Sangsad Bhaban."
-    },
-    {
-      "title": "BNP eyes December council, begins preparations for local polls",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-eyes-december-council-begins-preparations-local-polls-1485801",
-      "pubDate": "Sun, 12 Jul 2026 01:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bnp_meeting.jpg",
-      "snippet": "BNP reviewed its organisational roadmap, governance priorities and election strategy, with leaders stressing the need to strengthen the party's grassroots base ahead of local government elections."
-    },
-    {
       "title": "Bangladesh retains 2nd spot in US apparel market as China slump reshapes sourcing",
       "link": "https://www.tbsnews.net/economy/bangladesh-retains-2nd-spot-us-apparel-market-china-slump-reshapes-sourcing-1485796",
       "pubDate": "Sun, 12 Jul 2026 01:00:00 +0600",
@@ -155,92 +265,26 @@
       "snippet": "US buyers continued shifting away from China, but Bangladesh has yet to capture a significant share of the redirected apparel orders despite remaining the second-largest supplier."
     },
     {
-      "title": "Flood death toll reaches 44 as over 10 lakh people affected in 7 districts",
-      "link": "https://www.tbsnews.net/bangladesh/flood-death-toll-reaches-44-over-10-lakh-people-affected-7-districts-1485791",
-      "pubDate": "Sun, 12 Jul 2026 00:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/ctg_flood.jpg",
-      "snippet": "Authorities warn fresh flooding could hit northern regions as rivers continue to swell."
-    },
-    {
-      "title": "Video of body on raft going through floodwaters goes viral; Satkania UNO says misrepresented for 'views'",
-      "link": "https://www.tbsnews.net/bangladesh/video-body-raft-going-through-floodwaters-goes-viral-satkania-uno-says-misrepresented",
-      "pubDate": "Sun, 12 Jul 2026 00:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/body_on-raft.jpg",
-      "snippet": "Local administration says the body was brought home on a fishing raft before being buried through normal procedures."
-    },
-    {
       "title": "Heavy rain, rough sea disrupt Ctg Port services, supply chain ",
       "link": "https://www.tbsnews.net/economy/heavy-rain-rough-sea-disrupt-ctg-port-services-supply-chain-1485776",
       "pubDate": "Sun, 12 Jul 2026 00:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/05/ctg_port_6.jpg",
       "snippet": "Five days of heavy rain and rough seas have slowed cargo handling at Chattogram Port, stranded dozens of vessels and disrupted inland transportation."
-    },
-    {
-      "title": "Youth killed with hammer after ludo game dispute in Barishal",
-      "link": "https://www.tbsnews.net/bangladesh/crime/youth-killed-hammer-after-ludo-game-dispute-barishal-1485786",
-      "pubDate": "Sat, 11 Jul 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
-      "snippet": "Police have arrested the accused and launched an investigation."
     },
     {
       "title": "SME owners demand policy reforms to ease business",
       "link": "https://www.tbsnews.net/economy/industry/sme-owners-demand-policy-reforms-ease-business-1485766",
       "pubDate": "Sat, 11 Jul 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/02/sme_foundation_logo.jpg",
       "snippet": "Entrepreneurs called for longer trade licence validity, lower real estate taxes and easier import procedures"
-    },
-    {
-      "title": "Shahjalal shrine donation boxes yield Tk47 lakh in 18 days, gold and foreign currency also found",
-      "link": "https://www.tbsnews.net/bangladesh/shahjalal-shrine-donation-boxes-yield-tk47-lakh-18-days-gold-and-foreign-currency-also",
-      "pubDate": "Sat, 11 Jul 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/shahjalal_shrine_money.png",
-      "snippet": "The foreign currencies found in the donation boxes included 135 Saudi riyals, 20 US dollars, 2,532 Indian rupees, 22 Qatari dirhams, 6 Malaysian ringgit, 20 Hong Kong dollars, 20 euros, 1.450 Omani dinars, 54.20 UAE dirhams, 4,000 Indonesian rupiah, ..."
-    },
-    {
-      "title": "PM chairs BNP Standing Committee meeting on flood situation",
-      "link": "https://www.tbsnews.net/bangladesh/politics/pm-chairs-bnp-standing-committee-meeting-flood-situation-1485741",
-      "pubDate": "Sat, 11 Jul 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bnp_meeting.jpg",
-      "snippet": "The party’s top policymaking body is discussing the flood situation, organisational issues and other political matters, according to BNP sources."
-    },
-    {
-      "title": "Most landslide shelters in Ctg, Bandarban need major upgrades: Study",
-      "link": "https://www.tbsnews.net/bangladesh/most-landslide-shelters-ctg-bandarban-need-major-upgrades-study-1485706",
-      "pubDate": "Sat, 11 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fb_img_1783357444639.jpg",
-      "snippet": "Only 5.4% of assessed shelters reamin suitable for emergencies"
     },
     {
       "title": "DSE finds AFC Agro’s factory closed, adding to growing list of non-operational firms",
@@ -626,18 +670,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "With the latest fatalities, the number of suspected measles deaths has risen to 654, while laboratory-confirmed measles deaths remain at 93, DGHS said in its daily update."
-    },
-    {
-      "title": "BSEC chief unveils reform agenda to strengthen capital market",
-      "link": "https://www.tbsnews.net/node/1483776",
-      "pubDate": "Thu, 09 Jul 2026 15:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/masud_khan.jpg",
-      "snippet": "BSEC Chairman Masud Khan has unveiled a sweeping reform roadmap focused on boosting investor confidence, improving market transparency and strengthening regulatory institutions to drive sustainable growth in Bangladesh's capital market."
     }
   ],
-  "updatedAt": "2026-07-12T08:29:22.495Z"
+  "updatedAt": "2026-07-12T10:09:21.168Z"
 }
