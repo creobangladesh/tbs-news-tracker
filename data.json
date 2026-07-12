@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "DU postpones all exams scheduled for Monday amid adverse weather",
+      "link": "https://www.tbsnews.net/bangladesh/education/du-postpones-all-exams-scheduled-monday-amid-adverse-weather-1486631",
+      "pubDate": "Sun, 12 Jul 2026 22:10:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
+      "snippet": "All internal examinations scheduled for 13 July have been postponed, while exams at affiliated and constituent colleges and institutes will proceed as scheduled."
+    },
+    {
       "title": "BSEC imposes Tk1,497cr fines over stock market irregularities: Finance minister tells parliament",
       "link": "https://www.tbsnews.net/bangladesh/bsec-imposes-tk1497cr-fines-over-stock-market-irregularities-finance-minister-tells",
       "pubDate": "Sun, 12 Jul 2026 21:50:00 +0600",
@@ -681,29 +692,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
       "snippet": "Economists attribute slowdown to political uncertainty over election, weaker investment climate, mounting economic risks"
-    },
-    {
-      "title": "How football carried war, empire and power over the last century",
-      "link": "https://www.tbsnews.net/features/big-picture/how-football-carried-war-empire-and-power-over-last-century-1484661",
-      "pubDate": "Thu, 09 Jul 2026 22:45:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/169_1.png",
-      "snippet": "Football has never been sealed off from power. On the contrary, history shows how the world’s game became a tool of recruitment, propaganda, morale, and political pressure"
-    },
-    {
-      "title": "UGC to provide soft skills training for university students",
-      "link": "https://www.tbsnews.net/bangladesh/education/ugc-provide-soft-skills-training-university-students-1484301",
-      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png",
-      "snippet": "The commission has also planned to launch a \"Professional Knowledge Sharing Programme\" for university vice-chancellors, pro-vice-chancellors and treasurers."
     }
   ],
-  "updatedAt": "2026-07-12T16:00:09.684Z"
+  "updatedAt": "2026-07-12T17:11:27.572Z"
 }
