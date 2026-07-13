@@ -221,17 +221,6 @@
       "snippet": "As a result, the government is working on time-bound content takedown agreements with international technology companies, alongside formulating relevant guidelines, he added."
     },
     {
-      "title": "Typhoid vaccine to join routine EPI programme from 1 August",
-      "link": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccine-join-routine-epi-programme-1-august-1487521",
-      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/pyphiod-vaccine.png",
-      "snippet": "Until now, parents had to purchase the typhoid vaccine privately, as it was not included in the government's routine immunisation programme."
-    },
-    {
       "title": "Govt plans kidney dialysis services at district, upazila hospitals",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-kidney-dialysis-services-district-upazila-hospitals-1487531",
       "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
@@ -241,6 +230,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/dialysis.jpg",
       "snippet": "Around 3.8 crore people in Bangladesh are suffering from kidney-related diseases, says KAMPS"
+    },
+    {
+      "title": "Typhoid vaccine to join routine EPI programme from 1 August",
+      "link": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccine-join-routine-epi-programme-1-august-1487521",
+      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/pyphiod-vaccine.png",
+      "snippet": "Until now, parents had to purchase the typhoid vaccine privately, as it was not included in the government's routine immunisation programme."
     },
     {
       "title": "Series of mega projects coming under healthcare sector: Health minister tells parliament",
@@ -826,5 +826,5 @@
       "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
     }
   ],
-  "updatedAt": "2026-07-13T21:56:44.957Z"
+  "updatedAt": "2026-07-13T22:58:27.002Z"
 }
