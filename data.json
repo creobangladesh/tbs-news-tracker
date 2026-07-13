@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Parliament passes bill to run BMU hospital through companies",
+      "link": "https://www.tbsnews.net/bangladesh/parliament-passes-bill-run-bmu-hospital-through-companies-1487686",
+      "pubDate": "Tue, 14 Jul 2026 00:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/sardar_.jpg",
+      "snippet": "The government said the initiative would improve specialised medical services."
+    },
+    {
+      "title": "Only Tk85 lakh relief for over 7.5 lakh flood victims in Ctg, 80% yet to receive relief assistance",
+      "link": "https://www.tbsnews.net/bangladesh/only-tk85-lakh-relief-over-75-lakh-flood-victims-ctg-80-yet-receive-relief-assistance",
+      "pubDate": "Tue, 14 Jul 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/ctg_flood3.jpg",
+      "snippet": "Based on the total number of affected people, the daily cash allocation amounts to about Tk11.6 per person, while the quantity of rice remains far below the estimated demand."
+    },
+    {
+      "title": "Six parliamentary standing committees formed",
+      "link": "https://www.tbsnews.net/bangladesh/six-parliamentary-standing-committees-formed-1487676",
+      "pubDate": "Tue, 14 Jul 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/16/parliament_rajib-dhar.png",
+      "snippet": ""
+    },
+    {
+      "title": "Days of rain wash away Mariam's only source of income",
+      "link": "https://www.tbsnews.net/bangladesh/days-rain-wash-away-mariams-only-source-income-1487666",
+      "pubDate": "Mon, 13 Jul 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/22/rain_0_0.png",
+      "snippet": "She has an umbrella but it offers little protection as rainwater seeps through its gaps. Around her, pedestrians hurry past without stopping."
+    },
+    {
+      "title": "Opposition walks out over constitutional amendment panel; home minister rejects 'dual oath' argument",
+      "link": "https://www.tbsnews.net/bangladesh/opposition-walks-out-over-constitutional-amendment-panel-home-minister-rejects-dual-oath",
+      "pubDate": "Mon, 13 Jul 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/parliament.png",
+      "snippet": "Shafiqur maintained that forming a parliamentary committee while bypassing the reform council contradicted the public mandate."
+    },
+    {
       "title": "Fazlu risks a week's income to earn a day's wage",
       "link": "https://www.tbsnews.net/bangladesh/fazlu-risks-weeks-income-earn-days-wage-1487656",
       "pubDate": "Mon, 13 Jul 2026 23:45:00 +0600",
@@ -74,7 +129,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/727f96186215522c72824194b4e0760d.jpeg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/messenger_creation_e64dd676-0c31-4510-ac08-42e81e4dedb6.jpeg",
       "snippet": "Many Pathao riders say the number of trips they complete each day has dropped sharply, significantly reducing their daily income."
     },
     {
@@ -169,23 +224,12 @@
       "title": "Typhoid vaccine to join routine EPI programme from 1 August",
       "link": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccine-join-routine-epi-programme-1-august-1487521",
       "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/pyphiod-vaccine.png",
       "snippet": "Until now, parents had to purchase the typhoid vaccine privately, as it was not included in the government's routine immunisation programme."
-    },
-    {
-      "title": "US-Bangla passengers allege ordeal after Dhaka-Chennai flight delayed over seven hours",
-      "link": "https://www.tbsnews.net/bangladesh/us-bangla-passengers-allege-ordeal-after-dhaka-chennai-flight-delayed-over-seven-hours",
-      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/us-bangla.jpg",
-      "snippet": "Travellers claimed they remained inside the aircraft for nearly four hours with inadequate cooling, while the airline said the air conditioning was functioning, though not at full capacity."
     },
     {
       "title": "Govt plans kidney dialysis services at district, upazila hospitals",
@@ -199,37 +243,15 @@
       "snippet": "Around 3.8 crore people in Bangladesh are suffering from kidney-related diseases, says KAMPS"
     },
     {
-      "title": "30 dead, 2,50,000 affected as floods leave trail of destruction in Cox's Bazar",
-      "link": "https://www.tbsnews.net/bangladesh/30-dead-250000-affected-floods-leave-trail-destruction-coxs-bazar-1487496",
-      "pubDate": "Mon, 13 Jul 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/coxs_bazar_flood_0.jpg",
-      "snippet": "According to the district administration, Cox’s Bazar received 823mm of rainfall between 4 and 12 July, inundating nearly 49% of the district across 70 of its 71 unions and four of its five municipalities."
-    },
-    {
       "title": "Series of mega projects coming under healthcare sector: Health minister tells parliament",
       "link": "https://www.tbsnews.net/bangladesh/health/series-mega-projects-coming-under-healthcare-sector-health-minister-tells",
       "pubDate": "Mon, 13 Jul 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/23/sardar_sakhawat_husain.jpg",
       "snippet": "The health minister said all upazila hospitals will be upgraded to 101-bed facilities with 24-hour emergency, inpatient and outpatient services, alongside modern pathology laboratories."
-    },
-    {
-      "title": "DMP chief calls for impartial policing, strict accountability",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-chief-calls-impartial-policing-strict-accountability-1487481",
-      "pubDate": "Mon, 13 Jul 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/dmp_commissioner_mosleh_uddin_ahmed_.jpg",
-      "snippet": "The DMP commissioner instructed officers to conduct regular drives against illegal firearms, snatchers, drug traders and extortionists in their respective jurisdictions."
     },
     {
       "title": "Dengue death toll reaches 27 as 2 die in 24hrs",
@@ -804,5 +826,5 @@
       "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
     }
   ],
-  "updatedAt": "2026-07-13T17:55:01.676Z"
+  "updatedAt": "2026-07-13T19:23:30.903Z"
 }
