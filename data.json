@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "Can 'sponge cities' help Bangladesh beat urban flooding?",
+      "link": "https://www.tbsnews.net/features/panorama/can-sponge-cities-help-bangladesh-beat-urban-flooding-1487806",
+      "pubDate": "Tue, 14 Jul 2026 11:00:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/flood.png",
+      "snippet": "Cities must move beyond grey infrastructure to manage stormwater"
+    },
+    {
+      "title": "Power reliability, low returns hold back EV charging network",
+      "link": "https://www.tbsnews.net/bangladesh/transport/power-reliability-low-returns-hold-back-ev-charging-network-1487776",
+      "pubDate": "Tue, 14 Jul 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/03/2022-10-19t123834z_1696175355_rc2b4x9in6tm_rtrmadp_3_germany-politics-wissing.jpg",
+      "snippet": "Industry leaders say tax incentives alone will not be enough to accelerate the expansion of EV charging stations unless electricity supply becomes more reliable"
+    },
+    {
+      "title": "EV investments spark on budget perks",
+      "link": "https://www.tbsnews.net/economy/ev-investments-spark-budget-perks-1487731",
+      "pubDate": "Tue, 14 Jul 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ev-car.png",
+      "snippet": "Sector’s biggest challenge shifted to ensuring reliable electricity"
+    },
+    {
+      "title": "Overseas education scam: Just Thought consultancy owner arrested while trying to leave country",
+      "link": "https://www.tbsnews.net/bangladesh/crime/overseas-education-scam-just-thought-consultancy-owner-arrested-while-trying-leave",
+      "pubDate": "Tue, 14 Jul 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/2.jpg",
+      "snippet": "Acting on a tip-off, officers from Bhatara Police Station arrested Matiur Rahman in Uttara shortly before he was due to board a flight out of the country, scheduled for 2:30am, said Officer-in-Charge Mazharul Islam."
+    },
+    {
+      "title": "Rain leaks thru parliament roof; deputy speaker says uses bowls to catch water at his own residence",
+      "link": "https://www.tbsnews.net/bangladesh/rain-leaks-thru-parliament-roof-deputy-speaker-uses-bowls-catch-water-his-own-residence",
+      "pubDate": "Tue, 14 Jul 2026 10:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/04/bangladesh_national_parliament-tbs.png",
+      "snippet": "Speaking on a point of order during the parliamentary session chaired by the deputy speaker, Gauch drew the House’s attention to the condition of the Sangsad Bhaban."
+    },
+    {
+      "title": "Govt plans to halve bureaucrats' car maintenance allowance to Tk25,000",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-halve-bureaucrats-car-maintenance-allowance-tk25000-1487726",
+      "pubDate": "Tue, 14 Jul 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/21/fuel.jpeg",
+      "snippet": "The finance ministry wrote to the public administration ministry on 9 July seeking to reduce vehicle maintenance costs by half"
+    },
+    {
       "title": "How BSEC chairman plans to revive the stock market by boosting institutional investors",
       "link": "https://www.tbsnews.net/interviews/how-bsec-chairman-plans-revive-stock-market-boosting-institutional-investors-1487706",
       "pubDate": "Tue, 14 Jul 2026 07:10:00 +0600",
@@ -166,59 +232,15 @@
       "snippet": "Bangladesh Inter-Education Board Coordination Committee says only the Chattogram Education Board's examinations have been suspended until 16 July"
     },
     {
-      "title": "Only drug couriers get arrested, traffickers or their family members end up in parliament: Rumeen Farhana",
-      "link": "https://www.tbsnews.net/bangladesh/only-drug-couriers-get-arrested-traffickers-or-their-family-members-end-parliament-rumeen",
-      "pubDate": "Mon, 13 Jul 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/rumeen_farhana.jpg",
-      "snippet": "The MP says existing laws are already stringent, but the real masterminds behind drug trafficking continue to evade justice."
-    },
-    {
-      "title": "BSEC moves to reduce settlement cycle, scrap wet signatures",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-reduce-settlement-cycle-scrap-wet-signatures-1487576",
-      "pubDate": "Mon, 13 Jul 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
-      "snippet": "Investors will receive instant SMS/email alerts for transactions under proposed digital system"
-    },
-    {
-      "title": "Govt targets 30% electric vehicles in road transport by 2030",
-      "link": "https://www.tbsnews.net/bangladesh/transport/govt-targets-30-electric-vehicles-road-transport-2030-1487586",
-      "pubDate": "Mon, 13 Jul 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/02/ezgif-5-eb275714f676.jpg",
-      "snippet": "Road Transport and Bridges MInister Shaikh Rabiul Alam said the government is implementing a range of policy measures to shift public transport to environmentally friendly fuels, reduce greenhouse gas emissions and build a sustainable transport syste..."
-    },
-    {
       "title": "BB extends Foreign Currency-Taka swap facility to exporters in specialised economic zones",
       "link": "https://www.tbsnews.net/economy/bb-extends-foreign-currency-taka-swap-facility-exporters-specialised-economic-zones-1487591",
       "pubDate": "Mon, 13 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/forex.png",
       "snippet": "The move allows exporters in EPZs, private EPZs, economic zones and high-tech parks to access short-term Taka liquidity without converting their foreign currency holdings."
-    },
-    {
-      "title": "Battery-powered vehicles to come under nationwide regulatory guideline: Road transport minister",
-      "link": "https://www.tbsnews.net/bangladesh/transport/battery-powered-vehicles-come-under-nationwide-regulatory-guideline-road",
-      "pubDate": "Mon, 13 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/syed_zakir_hossain_1.jpg",
-      "snippet": "The government is testing a framework to build an integrated, low-emission transport system, with a formal policy expected soon."
     },
     {
       "title": "Typhoid vaccine to join routine EPI programme from 1 August",
@@ -276,7 +298,7 @@
       "snippet": "Bangladesh has only 1.17 mental health workers for every 100,000 people"
     },
     {
-      "title": "BB eases outward remittance rules for DPA enterprises in economic zones",
+      "title": "Cenbank lifts royalty remittance ceiling for industries in economic zones",
       "link": "https://www.tbsnews.net/economy/banking/bb-eases-outward-remittance-rules-dpa-enterprises-economic-zones-1487406",
       "pubDate": "Mon, 13 Jul 2026 18:50:00 +0600",
       "category": "Banking",
@@ -802,29 +824,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/population.jpg",
       "snippet": "People can be both an asset and, under certain circumstances, a liability for a country"
-    },
-    {
-      "title": "How conflicting policy signals are keeping private investment on hold",
-      "link": "https://www.tbsnews.net/economy/how-conflicting-policy-signals-are-keeping-private-investment-hold-1485086",
-      "pubDate": "Sat, 11 Jul 2026 11:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/09/investment.jpg",
-      "snippet": "Economists argue that lower taxes alone are not enough to drive private investment when financing and business conditions remain challenging."
-    },
-    {
-      "title": "Fiscal policy says spend, monetary policy says stop: Can investment gain pace amid this policy standoff?",
-      "link": "https://www.tbsnews.net/analysis/fiscal-policy-says-spend-monetary-policy-says-stop-can-investment-gain-pace-amid-policy",
-      "pubDate": "Sat, 11 Jul 2026 11:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/monetary_policy_1.png",
-      "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
     }
   ],
-  "updatedAt": "2026-07-14T03:21:40.363Z"
+  "updatedAt": "2026-07-14T05:52:11.498Z"
 }
