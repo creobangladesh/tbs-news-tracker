@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "RSGT Bangladesh launches full operations at Patenga terminal after $170m investment",
+      "link": "https://www.tbsnews.net/bangladesh/rsgt-bangladesh-launches-full-operations-patenga-terminal-after-170m-investment-1488626",
+      "pubDate": "Wed, 15 Jul 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/09/patenga_container_terminal.jpeg",
+      "snippet": "Since taking over operations in 2024, the company has invested in expanding the terminal's capacity and modernising its facilities."
+    },
+    {
+      "title": "France wants stronger Bangladesh partnership based on reciprocity: Ambassador",
+      "link": "https://www.tbsnews.net/foreign-policy/france-wants-stronger-bangladesh-partnership-based-reciprocity-ambassador-1488606",
+      "pubDate": "Wed, 15 Jul 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/12/france_bd_flag.png",
+      "snippet": "Sere-Charlet said France is committed to expanding its partnership with Bangladesh in trade, investment, culture, climate action, innovation and strategic cooperation."
+    },
+    {
+      "title": "'Don't turn July Uprising into political business', says home minister",
+      "link": "https://www.tbsnews.net/bangladesh/dont-turn-july-uprising-political-business-says-home-minister-1488611",
+      "pubDate": "Wed, 15 Jul 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/15/salahuddin_ahmed.jpg",
+      "snippet": "“If Sheikh Hasina returns to Bangladesh, she will be arrested in accordance with the law and the judicial process will be followed,” he said."
+    },
+    {
+      "title": "IMF reviews Bangladesh's external debt risks, slow loan disbursements",
+      "link": "https://www.tbsnews.net/economy/imf-reviews-bangladeshs-external-debt-risks-slow-loan-disbursements-1488601",
+      "pubDate": "Wed, 15 Jul 2026 00:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
+      "snippet": "The officials said they told the mission that Bangladesh is transitioning from a “low-risk stabilisation phase” to a “medium-risk acceleration phase” in terms of external debt risk."
+    },
+    {
+      "title": "HSC exams to continue nationwide except under Ctg Board: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-continue-nationwide-except-under-chattogram-board-mahdi-amin-1488596",
+      "pubDate": "Wed, 15 Jul 2026 00:15:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/mahdi_amin.jpg",
+      "snippet": "The adviser said the overall situation had improved despite temporary waterlogging in some areas caused by heavy rainfall."
+    },
+    {
+      "title": "BB selects 30 officials for DU AI course, excludes women over 'safety' reasons",
+      "link": "https://www.tbsnews.net/economy/banking/bb-selects-30-officials-du-ai-course-excludes-women-over-safety-reasons-1488576",
+      "pubDate": "Wed, 15 Jul 2026 00:05:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
+      "snippet": "The 12-week Applied AI for Central Bank Officials course, organised by the Department of Computer Science and Engineering, is scheduled to begin on 20 July."
+    },
+    {
       "title": "164 dengue cases reported in 13 days as Ctg battles rain-induced outbreak",
       "link": "https://www.tbsnews.net/bangladesh/health/164-dengue-cases-reported-13-days-ctg-battles-rain-induced-outbreak-1488566",
       "pubDate": "Tue, 14 Jul 2026 23:50:00 +0600",
@@ -10,6 +76,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "CMCH opens 70-bed dengue corner; eight city wards declared red zones"
+    },
+    {
+      "title": "Court restores caretaker system but cautionary tales need to be heeded",
+      "link": "https://www.tbsnews.net/features/panorama/court-restores-caretaker-system-cautionary-tales-need-be-heeded-1488586",
+      "pubDate": "Tue, 14 Jul 2026 23:45:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/sabir_mustafa.jpg",
+      "snippet": "Future national elections will be held under a non-partisan caretaker government, thus vastly increasing the likelihood of public confidence in the electoral process. This brings us back full circle to 1996, with a touch of irony"
     },
     {
       "title": "No delay in trial of July killings will be tolerated: Shafiqur Rahman",
@@ -122,28 +199,6 @@
       "snippet": "“We stand ready to reform, invest and deliver for better implementation of the SDGs,” Saki said."
     },
     {
-      "title": "DSEX tops 5,900 for first time in 23 months on reform hopes",
-      "link": "https://www.tbsnews.net/economy/stocks/dsex-tops-5900-first-time-23-months-reform-hopes-1488456",
-      "pubDate": "Tue, 14 Jul 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "The DSEX gained 44 points, or 0.75%, to close at 5,911, its highest level in nearly two years. The blue-chip DS30 index also advanced 24 points to 2,227."
-    },
-    {
-      "title": "HSC examinees break off, carry away Ctg Education Board gate after protest",
-      "link": "https://www.tbsnews.net/bangladesh/hsc-examinees-break-carry-away-ctg-education-board-gate-after-protest-1488461",
-      "pubDate": "Tue, 14 Jul 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ctg_edu_board_gate_teared_down.jpg",
-      "snippet": "The protesters submitted a seven-point charter of demands, including postponement of exams until weather conditions improve and a review of question paper issues."
-    },
-    {
       "title": "Cenbank seeks explanation from HSBC over layoffs of 257",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-seeks-explanation-hsbc-over-layoffs-257-1488466",
       "pubDate": "Tue, 14 Jul 2026 21:35:00 +0600",
@@ -164,6 +219,28 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
       "snippet": "However, several technical and operational challenges need to be addressed before the system becomes operational."
+    },
+    {
+      "title": "DSEX tops 5,900 for first time in 23 months on reform hopes",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-tops-5900-first-time-23-months-reform-hopes-1488456",
+      "pubDate": "Tue, 14 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "The DSEX gained 44 points, or 0.75%, to close at 5,911, its highest level in nearly two years. The blue-chip DS30 index also advanced 24 points to 2,227."
+    },
+    {
+      "title": "HSC examinees break off, carry away Ctg Education Board gate after protest",
+      "link": "https://www.tbsnews.net/bangladesh/hsc-examinees-break-carry-away-ctg-education-board-gate-after-protest-1488461",
+      "pubDate": "Tue, 14 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ctg_edu_board_gate_teared_down.jpg",
+      "snippet": "The protesters submitted a seven-point charter of demands, including postponement of exams until weather conditions improve and a review of question paper issues."
     },
     {
       "title": "Early menopause affects around one in 13 Bangladeshi women aged 30-49: icddr,b study",
@@ -276,17 +353,6 @@
       "snippet": "The government is expanding incentives ranging from stipends and school feeding to free uniforms and home visits in an effort to keep more children in primary education."
     },
     {
-      "title": "Govt considering relocation of hill residents from landslide-prone areas: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-considering-relocation-hill-residents-minister-1488356",
-      "pubDate": "Tue, 14 Jul 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/relief_minister_asadul_habib_dulu.jpg",
-      "snippet": "The minister said 54 people have died in the floods, with the majority of the fatalities caused by landslides in hilly areas."
-    },
-    {
       "title": "One dengue patient dies, 329 hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-329-hospitalised-24hrs-1488316",
       "pubDate": "Tue, 14 Jul 2026 18:40:00 +0600",
@@ -296,17 +362,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
       "snippet": "One more death as Bangladesh's dengue outbreak shows no respite"
-    },
-    {
-      "title": "Govt plans 'secondary city' near Dhaka to ease capital's growing pressure",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-secondary-city-near-dhaka-ease-capitals-growing-pressure-1488291",
-      "pubDate": "Tue, 14 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/image-400493-1782630063.jpg",
-      "snippet": "A feasibility study is underway for a new urban centre on the outskirts of Dhaka, while a housing project for low-income groups in Tongi is awaiting approval."
     },
     {
       "title": "Govt plans separate permanent centres for public examinations",
@@ -323,23 +378,12 @@
       "title": "Education minister urges students to end protests, assures re-exams for flood-hit examinees if needed",
       "link": "https://www.tbsnews.net/bangladesh/education/edu-minister-urges-students-end-protests-assures-re-exams-flood-hit-examinees",
       "pubDate": "Tue, 14 Jul 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/protest_hsc.jpg",
       "snippet": "Students affected by floods or administrative failures during HSC exams will get another chance if needed, he says, assuring that no student will be deprived."
-    },
-    {
-      "title": "Hasina's extradition a legal issue, will be dealt with accordingly: India",
-      "link": "https://www.tbsnews.net/foreign-policy/hasinas-extradition-legal-issue-will-be-dealt-accordingly-india-1488216",
-      "pubDate": "Tue, 14 Jul 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/19/randhir_jaiswal.jpg",
-      "snippet": "Bangladesh has more than once written to India seeking Hasina’s extradition to have her face trial in cases, including those filed over alleged crimes against humanity and murders, against her."
     },
     {
       "title": "HSC exams held smoothly after consulting local authorities, weather office: Education minister",
@@ -386,7 +430,7 @@
       "snippet": "With the latest additions, Bangladesh now has 290 LEED-certified RMG factories, including 125 Platinum-rated and 145 Gold-rated facilities."
     },
     {
-      "title": "HSC examinees protest: Students gather outside parliament again after police baton charge",
+      "title": "HSC examinees protest: Students briefly gather outside parliament again after police baton charge",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-examinees-block-science-lab-uttara-roads-demanding-education-ministers",
       "pubDate": "Tue, 14 Jul 2026 12:50:00 +0600",
       "category": "Education",
@@ -430,15 +474,15 @@
       "snippet": "Sector’s biggest challenge shifted to ensuring reliable electricity"
     },
     {
-      "title": "Overseas education scam: Just Thought consultancy owner arrested while trying to leave country",
-      "link": "https://www.tbsnews.net/bangladesh/crime/overseas-education-scam-just-thought-consultancy-owner-arrested-while-trying-leave",
+      "title": "Education consultancy owner, 2 others arrested over Tk15.5cr overseas study scam  ",
+      "link": "https://www.tbsnews.net/bangladesh/crime/education-consultancy-owner-2-others-arrested-over-tk155cr-overseas-study-scam",
       "pubDate": "Tue, 14 Jul 2026 10:25:00 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/2.jpg",
-      "snippet": "Acting on a tip-off, officers from Bhatara Police Station arrested Matiur Rahman in Uttara shortly before he was due to board a flight out of the country, scheduled for 2:30am, said Officer-in-Charge Mazharul Islam."
+      "snippet": "Three were sent to court and 7-day remand hearing scheduled for 16 July"
     },
     {
       "title": "HSC exams to continue despite adverse weather; DCs can act over safety risks",
@@ -890,29 +934,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/740659622_1657776265522148_3492944587357971208_n.png",
       "snippet": "A father's search for a Portugal football jersey reveals something larger than consumer choice. It exposes how markets determine which identities become visible, which preferences matter, and which remain on the margins – even in something as seeming..."
-    },
-    {
-      "title": "Bangladesh retains 2nd spot in US apparel market as China slump reshapes sourcing",
-      "link": "https://www.tbsnews.net/economy/bangladesh-retains-2nd-spot-us-apparel-market-china-slump-reshapes-sourcing-1485796",
-      "pubDate": "Sun, 12 Jul 2026 01:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/08/rmg_tram_group_nidle_3_2.png",
-      "snippet": "US buyers continued shifting away from China, but Bangladesh has yet to capture a significant share of the redirected apparel orders despite remaining the second-largest supplier."
-    },
-    {
-      "title": "Heavy rain, rough sea disrupt Ctg Port services, supply chain ",
-      "link": "https://www.tbsnews.net/economy/heavy-rain-rough-sea-disrupt-ctg-port-services-supply-chain-1485776",
-      "pubDate": "Sun, 12 Jul 2026 00:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/05/ctg_port_6.jpg",
-      "snippet": "Five days of heavy rain and rough seas have slowed cargo handling at Chattogram Port, stranded dozens of vessels and disrupted inland transportation."
     }
   ],
-  "updatedAt": "2026-07-14T18:03:26.950Z"
+  "updatedAt": "2026-07-14T19:51:56.201Z"
 }
