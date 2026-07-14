@@ -1,7 +1,95 @@
 {
   "news": [
     {
-      "title": "Govt considering relocation of hill residents: Minister",
+      "title": "Full marks for two flawed HSC Physics questions, pass mark effectively falls to 13: Milon",
+      "link": "https://www.tbsnews.net/bangladesh/education/full-marks-two-flawed-hsc-physics-questions-pass-mark-effectively-falls-13",
+      "pubDate": "Tue, 14 Jul 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/10.hsc_results.jpeg",
+      "snippet": "Minister says question paper was prepared under previous administration."
+    },
+    {
+      "title": "Experts urge stronger governance to unlock Bangladesh's blue economy potential",
+      "link": "https://www.tbsnews.net/economy/experts-urge-stronger-governance-unlock-bangladeshs-blue-economy-potential-1488431",
+      "pubDate": "Tue, 14 Jul 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/blue_economy.jpg",
+      "snippet": "Policy experts say a comprehensive legal framework, stronger institutional coordination and science-based policymaking are essential to harness the country's vast marine resources."
+    },
+    {
+      "title": "Parliament passes bill to establish full-fledged public university in Bogura",
+      "link": "https://www.tbsnews.net/bangladesh/education/parliament-passes-bill-establish-full-fledged-public-university-bogura-1488411",
+      "pubDate": "Tue, 14 Jul 2026 20:35:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bogura_university.jpg",
+      "snippet": "The new law replaces the earlier plan for a science and technology university with a full-fledged public university in Bogura."
+    },
+    {
+      "title": "Education minister expresses regret over remarks on HSC examinees",
+      "link": "https://www.tbsnews.net/bangladesh/education/education-minister-expresses-regret-over-remarks-hsc-examinees-1488401",
+      "pubDate": "Tue, 14 Jul 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament.png",
+      "snippet": "The minister says he did not intend to hurt anyone and suggests holding Chattogram Board's postponed Physics examination alongside the same subject test for other education boards."
+    },
+    {
+      "title": "HSC question paper errors: 4 teacher served show-cause notices",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-question-paper-errors-4-teacher-served-show-cause-notices-1488396",
+      "pubDate": "Tue, 14 Jul 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/sylhet_edu_board_0.jpg",
+      "snippet": "The teachers have been instructed to submit written explanations within three working days."
+    },
+    {
+      "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
+      "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
+      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
+      "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
+    },
+    {
+      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
+      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
+      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
+    },
+    {
+      "title": "Primary school dropout rate stands at 16.25%: Education minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/primary-school-dropout-rate-stands-1625-education-minister-1488371",
+      "pubDate": "Tue, 14 Jul 2026 19:35:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/04/milon_.jpg",
+      "snippet": "The government is expanding incentives ranging from stipends and school feeding to free uniforms and home visits in an effort to keep more children in primary education."
+    },
+    {
+      "title": "Govt considering relocation of hill residents from landslide-prone areas: Minister",
       "link": "https://www.tbsnews.net/bangladesh/govt-considering-relocation-hill-residents-minister-1488356",
       "pubDate": "Tue, 14 Jul 2026 19:25:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +97,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/relief_minister_asadul_habib_dulu.jpg",
-      "snippet": "Government weighs relocating hill families after deadly floods and landslides"
+      "snippet": "The minister said 54 people have died in the floods, with the majority of the fatalities caused by landslides in hilly areas."
     },
     {
       "title": "One dengue patient dies, 329 hospitalised in 24hrs",
@@ -221,59 +309,15 @@
       "snippet": "\"There is now scope for engaging foreign lawyers in the International Crimes Tribunal. She may appoint the best lawyers in the world to defend her. International observers can monitor the proceedings, video recording facilities are available,\" he sai..."
     },
     {
-      "title": "RAB arrests man for killing wife over money for drugs in Gazipur",
-      "link": "https://www.tbsnews.net/bangladesh/crime/rab-arrests-man-killing-wife-over-money-drugs-gazipur-1488036",
-      "pubDate": "Tue, 14 Jul 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/743699293_2087735845432215_2657356621136930149_n.jpg",
-      "snippet": "According to RAB, during an altercation, Sayedul allegedly stabbed Nasima repeatedly, killing her in front of their eight-year-old daughter and five-year-old son."
-    },
-    {
-      "title": "PM assures full govt support for young entrepreneurs to transform economy",
-      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-national-startup-and-entrepreneurship-platform-1487946",
-      "pubDate": "Tue, 14 Jul 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/pm_inauguration_0.jpg",
-      "snippet": "The prime minister acknowledged that building a business is far from easy and requires determination, patience and perseverance."
-    },
-    {
-      "title": "463 killed in 532 road accidents in June: Jatri Kalyan Samity",
-      "link": "https://www.tbsnews.net/bangladesh/532-road-accidents-kill-463-june-jatri-kalyan-1487926",
-      "pubDate": "Tue, 14 Jul 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/tangail_accident.jpg",
-      "snippet": "The Samity's Accident Monitoring Cell compiled the data by reviewing media reports"
-    },
-    {
-      "title": "HSC examinees protest: Students gather outside parliament, Ctg edu board's gate teared down",
+      "title": "HSC examinees protest: Police baton charge students near parliament, Ctg edu board's gate torn down",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-examinees-block-science-lab-uttara-roads-demanding-education-ministers",
       "pubDate": "Tue, 14 Jul 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/hsc_edu_min_resign.jpg",
-      "snippet": "Protests were held in Dhaka, Cumilla, Bogura, Barishal, Chattogram, and Faridpur over the government's decision to continue HSC and equivalent examinations despite adverse weather conditions."
-    },
-    {
-      "title": "27 members of 'Chhoto Jahangir Bahini', largest pirate gang of Sundarbans, surrender with arms",
-      "link": "https://www.tbsnews.net/bangladesh/27-members-sundarbans-largest-pirate-gang-chhoto-jahangir-bahini-surrender-arms-1487916",
-      "pubDate": "Tue, 14 Jul 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/pirates.jpg",
-      "snippet": "Chhoto Jahangir Bahini had long been involved in robbery, kidnapping fishermen and woodcutters, and extorting ransom in the Sundarbans."
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/744593860_1032245902788624_7951673639696419940_n_0.jpg",
+      "snippet": "Protests were held in Dhaka, Cumilla, Bogura, Barishal, Chattogram, Faridpur and Brahmanbaria over the government's decision to continue HSC and equivalent examinations despite adverse weather conditions."
     },
     {
       "title": "Can 'sponge cities' help Bangladesh beat urban flooding?",
@@ -824,29 +868,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/whatsapp_image_2026-07-11_at_8.33.03_pm.jpeg",
       "snippet": "The industry body says nearly 64,000 poultry farms have shut down over the past five years due to mounting losses."
-    },
-    {
-      "title": "IMF mission due tomorrow to assess Bangladesh's readiness for fresh loan deal",
-      "link": "https://www.tbsnews.net/economy/imf-mission-due-tomorrow-assess-bangladeshs-readiness-fresh-loan-deal-1485646",
-      "pubDate": "Sat, 11 Jul 2026 21:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
-      "snippet": "On the first day of the visit, IMF officials are scheduled to hold meetings with representatives from the finance ministry, Bangladesh Bank and other relevant agencies."
-    },
-    {
-      "title": "HSC candidates clash at Bhola exam centre, vandalise college; 7 injured",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-candidates-clash-bhola-exam-centre-vandalise-college-7-injured-1485616",
-      "pubDate": "Sat, 11 Jul 2026 20:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bhola_hsc_clash.jpg",
-      "snippet": "Students claimed the ICT question paper was difficult and that invigilators did not assist them during the exam."
     }
   ],
-  "updatedAt": "2026-07-14T13:43:23.393Z"
+  "updatedAt": "2026-07-14T15:23:23.846Z"
 }
