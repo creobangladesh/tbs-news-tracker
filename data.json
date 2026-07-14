@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "Govt considering relocation of hill residents: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-considering-relocation-hill-residents-minister-1488356",
+      "pubDate": "Tue, 14 Jul 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/relief_minister_asadul_habib_dulu.jpg",
+      "snippet": "Government weighs relocating hill families after deadly floods and landslides"
+    },
+    {
+      "title": "One dengue patient dies, 329 hospitalised in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-329-hospitalised-24hrs-1488316",
+      "pubDate": "Tue, 14 Jul 2026 18:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
+      "snippet": "One more death as Bangladesh's dengue outbreak shows no respite"
+    },
+    {
+      "title": "Govt plans 'secondary city' near Dhaka to ease capital's growing pressure",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-secondary-city-near-dhaka-ease-capitals-growing-pressure-1488291",
+      "pubDate": "Tue, 14 Jul 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/image-400493-1782630063.jpg",
+      "snippet": "A feasibility study is underway for a new urban centre on the outskirts of Dhaka, while a housing project for low-income groups in Tongi is awaiting approval."
+    },
+    {
+      "title": "Govt plans separate permanent centres for public examinations",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-separate-permanent-centres-public-examinations-1488241",
+      "pubDate": "Tue, 14 Jul 2026 18:15:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
+      "snippet": "Education minister says a feasibility study proposal is under approval to reduce disruption to regular classes during exams."
+    },
+    {
+      "title": "Education minister urges students to end protests, assures re-exams for flood-hit examinees if needed",
+      "link": "https://www.tbsnews.net/bangladesh/education/edu-minister-urges-students-end-protests-assures-re-exams-flood-hit-examinees",
+      "pubDate": "Tue, 14 Jul 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/protest_hsc.jpg",
+      "snippet": "Students affected by floods or administrative failures during HSC exams will get another chance if needed, he says, assuring that no student will be deprived."
+    },
+    {
+      "title": "Hasina's extradition a legal issue, will be dealt with accordingly: India",
+      "link": "https://www.tbsnews.net/foreign-policy/hasinas-extradition-legal-issue-will-be-dealt-accordingly-india-1488216",
+      "pubDate": "Tue, 14 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/19/randhir_jaiswal.jpg",
+      "snippet": "Bangladesh has more than once written to India seeking Hasina’s extradition to have her face trial in cases, including those filed over alleged crimes against humanity and murders, against her."
+    },
+    {
       "title": "1.61Cr families to be covered under Family Card scheme by 2030: State minister",
       "link": "https://www.tbsnews.net/bangladesh/161cr-families-be-covered-under-family-card-scheme-2030-state-minister-1488176",
       "pubDate": "Tue, 14 Jul 2026 17:15:00 +0600",
@@ -19,11 +85,11 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/04/milon_.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/teacher.png",
       "snippet": "He added that the new recruitment rules have increased the promotion quota for head teacher posts from 65% to 80%."
     },
     {
-      "title": "101 parks to be constructed in country: Housing Minister",
+      "title": "101 parks to be constructed in country: Housing minister",
       "link": "https://www.tbsnews.net/bangladesh/101-parks-be-constructed-country-housing-minister-1488186",
       "pubDate": "Tue, 14 Jul 2026 17:10:00 +0600",
       "category": "Bangladesh",
@@ -188,7 +254,7 @@
       "snippet": "The Samity's Accident Monitoring Cell compiled the data by reviewing media reports"
     },
     {
-      "title": "HSC examinees protest in Dhaka, 5 other districts, demand education minister's resignation",
+      "title": "HSC examinees protest: Students gather outside parliament, Ctg edu board's gate teared down",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-examinees-block-science-lab-uttara-roads-demanding-education-ministers",
       "pubDate": "Tue, 14 Jul 2026 12:50:00 +0600",
       "category": "Bangladesh",
@@ -210,39 +276,6 @@
       "snippet": "Chhoto Jahangir Bahini had long been involved in robbery, kidnapping fishermen and woodcutters, and extorting ransom in the Sundarbans."
     },
     {
-      "title": "Army continues humanitarian assistance in flood-hit areas in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/army-continues-humanitarian-assistance-flood-hit-areas-ctg-1487901",
-      "pubDate": "Tue, 14 Jul 2026 12:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ispr_flood_relief.jpg",
-      "snippet": "In Rangamati, the Army distributed relief materials among flood victims and provided necessary assistance to affected residents."
-    },
-    {
-      "title": "Jamaat removes Kushtia secretary over job at girls' college",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-removes-kushtia-secretary-over-job-girls-college-1487876",
-      "pubDate": "Tue, 14 Jul 2026 11:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/untitled-1.jpg",
-      "snippet": "According to the statement, under the central organisation’s decision, no man employed at a women’s educational institution may carry out organisational responsibilities as a member of Jamaat."
-    },
-    {
-      "title": "Govt prioritising rescue, relief in flood-hit areas; rehabilitation to follow: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-prioritising-rescue-relief-flood-hit-areas-rehabilitation-follow-state-minister",
-      "pubDate": "Tue, 14 Jul 2026 11:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/untitled_design_18.png",
-      "snippet": "The government plans to compensate affected farmers and livestock owners for their losses, says Aninda Islam Amit"
-    },
-    {
       "title": "Can 'sponge cities' help Bangladesh beat urban flooding?",
       "link": "https://www.tbsnews.net/features/panorama/can-sponge-cities-help-bangladesh-beat-urban-flooding-1487806",
       "pubDate": "Tue, 14 Jul 2026 11:00:00 +0600",
@@ -257,10 +290,10 @@
       "title": "Power reliability, low returns hold back EV charging network",
       "link": "https://www.tbsnews.net/bangladesh/transport/power-reliability-low-returns-hold-back-ev-charging-network-1487776",
       "pubDate": "Tue, 14 Jul 2026 10:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/03/2022-10-19t123834z_1696175355_rc2b4x9in6tm_rtrmadp_3_germany-politics-wissing.jpg",
       "snippet": "Industry leaders say tax incentives alone will not be enough to accelerate the expansion of EV charging stations unless electricity supply becomes more reliable"
     },
@@ -813,40 +846,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bhola_hsc_clash.jpg",
       "snippet": "Students claimed the ICT question paper was difficult and that invigilators did not assist them during the exam."
-    },
-    {
-      "title": "Chattogram Board suspends HSC, equivalent exams until 16 July due to floods",
-      "link": "https://www.tbsnews.net/bangladesh/education/chattogram-board-suspends-hsc-equivalent-exams-until-16-july-due-floods-1485531",
-      "pubDate": "Sat, 11 Jul 2026 19:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/10.hsc_results.jpeg",
-      "snippet": "The announcement came as the government stepped up its flood response, with authorities saying relief efforts are being closely monitored."
-    },
-    {
-      "title": "DGHS orders medical teams, medicine and anti-snake venom stockpiles in flood-hit areas",
-      "link": "https://www.tbsnews.net/bangladesh/health/dghs-orders-medical-teams-medicine-and-anti-snake-venom-stockpiles-flood-hit-areas",
-      "pubDate": "Sat, 11 Jul 2026 18:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/30/dghs-tbs.jpeg",
-      "snippet": "Flood-hit areas have also been instructed to appoint focal persons for round-the-clock coordination with the DGHS control room."
-    },
-    {
-      "title": "ILO Convention on Decent Work in the Platform Economy, 2026: A changemaking blueprint for Bangladesh ",
-      "link": "https://www.tbsnews.net/thoughts/ilo-convention-decent-work-platform-economy-2026-changemaking-blueprint-bangladesh-1485421",
-      "pubDate": "Sat, 11 Jul 2026 17:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/1._bike_2.jpg",
-      "snippet": "The provisions, which apply to all digital labour platforms and all digital platform workers regardless of employment classification, provide a comprehensive framework for regulating work organised or facilitated through digital technologies"
     }
   ],
-  "updatedAt": "2026-07-14T11:54:12.176Z"
+  "updatedAt": "2026-07-14T13:43:23.393Z"
 }
