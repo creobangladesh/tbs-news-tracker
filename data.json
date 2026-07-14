@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "How BSEC chairman plans to revive the stock market by boosting institutional investors",
+      "link": "https://www.tbsnews.net/interviews/how-bsec-chairman-plans-revive-stock-market-boosting-institutional-investors-1487706",
+      "pubDate": "Tue, 14 Jul 2026 07:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/masud_khan.jpg",
+      "snippet": "The newly appointed commission plans to review IPO (Initial Public Offering) rules to revive the primary market, simplify margin rules to improve money flow, and introduce performance-based mechanisms for mutual funds to attract institutional investo..."
+    },
+    {
       "title": "Parliament passes bill to run BMU hospital through companies",
       "link": "https://www.tbsnews.net/bangladesh/parliament-passes-bill-run-bmu-hospital-through-companies-1487686",
       "pubDate": "Tue, 14 Jul 2026 00:45:00 +0600",
@@ -208,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/syed_zakir_hossain_1.jpg",
       "snippet": "The government is testing a framework to build an integrated, low-emission transport system, with a formal policy expected soon."
-    },
-    {
-      "title": "Govt to amend Cyber Security Act to speed up removal of defamatory content: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-amend-cyber-security-act-speed-removal-defamatory-content-minister-1487536",
-      "pubDate": "Mon, 13 Jul 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/19/cyber-security_1.png",
-      "snippet": "As a result, the government is working on time-bound content takedown agreements with international technology companies, alongside formulating relevant guidelines, he added."
     },
     {
       "title": "Typhoid vaccine to join routine EPI programme from 1 August",
@@ -826,5 +826,5 @@
       "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
     }
   ],
-  "updatedAt": "2026-07-13T23:59:44.364Z"
+  "updatedAt": "2026-07-14T03:21:40.363Z"
 }
