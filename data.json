@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Saudi Arabia keen to invest up to $1b in Bangladesh's ports, infrastructure",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-arabia-keen-invest-1-billion-bangladeshs-ports-infrastructure-1489476",
+      "pubDate": "Wed, 15 Jul 2026 23:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/f54684d4-f478-48fb-82d5-1f5c67ab4f57.jpg",
+      "snippet": "The delegation was led by Saudi Arabia's Vice Minister for Transport and Logistic Services Dr Rumaih Mohammed Al-Rumaih."
+    },
+    {
+      "title": "The man who taught me to love football",
+      "link": "https://www.tbsnews.net/features/man-who-taught-me-love-football-1489471",
+      "pubDate": "Wed, 15 Jul 2026 22:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/23/messi_4.jpg",
+      "snippet": "Beyond tactics and rivalries lies the true magic of football. One fan shares her journey of blurry late-night screens, childhood memories, and the distant legend who taught her that some dreams are always worth chasing."
+    },
+    {
+      "title": "Bogura college mistakenly hands last year's question paper to 42 HSC candidates",
+      "link": "https://www.tbsnews.net/bangladesh/bogura-college-mistakenly-hands-last-years-question-paper-42-hsc-candidates-1489451",
+      "pubDate": "Wed, 15 Jul 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
+      "snippet": "The authorities have sent the candidates' details to the Rajshahi Education Board and issued show-cause notices to two invigilators."
+    },
+    {
+      "title": "Two die of dengue, 391 hospitalised in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/two-die-dengue-391-hospitalised-24hrs-1489431",
+      "pubDate": "Wed, 15 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
+      "snippet": "Both deaths were reported in Dhaka South City Corporation, while the year's total dengue cases climbed to 9,370, according to the DGHS."
+    },
+    {
+      "title": "ASK condemns shooting at journalists in Khulna, demands swift action",
+      "link": "https://www.tbsnews.net/bangladesh/ask-condemns-shooting-journalists-khulna-demands-swift-action-1489446",
+      "pubDate": "Wed, 15 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/30/ask_logo_0.jpg",
+      "snippet": "The rights body says attacks on journalists threaten press freedom and calls for a fair probe."
+    },
+    {
       "title": "Miscreants open fire at journos in Khulna; no casualties reported",
       "link": "https://www.tbsnews.net/bangladesh/miscreants-open-fire-journos-khulna-no-casualties-reported-1489411",
       "pubDate": "Wed, 15 Jul 2026 21:25:00 +0600",
@@ -177,17 +232,6 @@
       "snippet": "The central bank issued a circular today (15 July) outlining the revised framework."
     },
     {
-      "title": "Bangladesh eyes Airbus acquisition as EU backs Biman's mixed-fleet plan",
-      "link": "https://www.tbsnews.net/economy/aviation/bangladesh-eyes-airbus-acquisition-eu-backs-bimans-mixed-fleet-plan-1489306",
-      "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/eu_airbus.jpg",
-      "snippet": "European diplomats pledged support for Bangladesh's proposed Airbus acquisition during talks on expanding cooperation in civil aviation and strengthening the country's national carrier."
-    },
-    {
       "title": "Death toll from floods, landslides rises to 57",
       "link": "https://www.tbsnews.net/bangladesh/death-toll-floods-landslides-rises-57-1489291",
       "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
@@ -199,37 +243,15 @@
       "snippet": "It said relief operations are continuing in the affected areas."
     },
     {
-      "title": "Railway aims to raise freight share beyond current 3-4% thru capacity expansion: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/railway-aims-raise-freight-share-beyond-current-3-4p-thru-capacity-expansion-minister",
-      "pubDate": "Wed, 15 Jul 2026 19:25:00 +0600",
+      "title": "Bangladesh eyes Airbus acquisition as EU backs Biman's mixed-fleet plan",
+      "link": "https://www.tbsnews.net/economy/aviation/bangladesh-eyes-airbus-acquisition-eu-backs-bimans-mixed-fleet-plan-1489306",
+      "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/16/minister_shaikh_rabiul_alam.png",
-      "snippet": "“The ministry has undertaken different plans to increase Bangladesh Railway’s freight transport capacity and revenue earnings,” he said."
-    },
-    {
-      "title": "Shafiqur calls for 'people's parliament', equitable resource distribution, tougher anti-graft drive",
-      "link": "https://www.tbsnews.net/bangladesh/politics/shafiqur-calls-peoples-parliament-equitable-resource-distribution-tougher-anti",
-      "pubDate": "Wed, 15 Jul 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/27/shafiqur.jpg",
-      "snippet": "The opposition leader also criticised the passage of the budget and key bills without adequate debate, warning that sidelining the opposition would undermine parliament's effectiveness."
-    },
-    {
-      "title": "Govt to free city’s playgrounds, footpaths from illegal occupation: PM",
-      "link": "https://www.tbsnews.net/bangladesh/govt-free-citys-playgrounds-footpaths-illegal-occupation-pm-1489261",
-      "pubDate": "Wed, 15 Jul 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/29/pm_parliament_speaking.jpeg",
-      "snippet": "He also informed the House that efforts are underway to free playgrounds and parks from illegal occupation and restore them for public use in Mymensingh, Barishal and other city corporations across the country."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/eu_airbus.jpg",
+      "snippet": "European diplomats pledged support for Bangladesh's proposed Airbus acquisition during talks on expanding cooperation in civil aviation and strengthening the country's national carrier."
     },
     {
       "title": "Al-Arafah Islami Bank gets 14 new directors as sponsor-backed board returns",
@@ -241,17 +263,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/03/al_arafah_islami_bank_logo_16x9.png",
       "snippet": "During the Awami League government’s tenure, the bank was chaired by Abdus Samad Labu, brother of S Alam Group Chairman Saiful Alam."
-    },
-    {
-      "title": "Govt rolls out mega tourism plan with Cox's Bazar at the centre",
-      "link": "https://www.tbsnews.net/bangladesh/govt-rolls-out-mega-tourism-plan-coxs-bazar-centre-1489246",
-      "pubDate": "Wed, 15 Jul 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/cox_bazar_dev_project.jpg",
-      "snippet": "The government plans to build international-standard hotels and tourism facilities on BTC-owned land in Cox's Bazar, Sylhet and Khulna."
     },
     {
       "title": "Students who missed HSC exams due to adverse weather to get another chance: Milon",
@@ -1024,5 +1035,5 @@
       "snippet": "The finance minister says the government is seeking concessional financing to ease pressure on foreign exchange reserves and ensure funding for priority development projects."
     }
   ],
-  "updatedAt": "2026-07-15T16:01:55.051Z"
+  "updatedAt": "2026-07-15T17:47:49.135Z"
 }
