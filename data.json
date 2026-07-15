@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "No scope for Hasina to appeal; verdict must be enforced upon return: Nahid ",
+      "link": "https://www.tbsnews.net/bangladesh/no-scope-hasina-appeal-verdict-must-be-enforced-upon-return-nahid-1489496",
+      "pubDate": "Wed, 15 Jul 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/nahid.jpeg",
+      "snippet": "Nahid Islam says authorities should arrest Sheikh Hasina upon her return to Bangladesh and enforce the court's verdict in accordance with the law."
+    },
+    {
+      "title": "Bangladesh risks falling behind without urgent action on AI and automation, experts warn",
+      "link": "https://www.tbsnews.net/bangladesh/automation-ai-threaten-bangladeshs-labour-market-without-urgent-policy-reforms-experts",
+      "pubDate": "Wed, 15 Jul 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/09/labour.jpg",
+      "snippet": "Experts warn that weak policy implementation, inadequate skills development and limited social protection could leave millions of workers vulnerable as automation reshapes the labour market."
+    },
+    {
       "title": "Saudi Arabia keen to invest up to $1b in Bangladesh's ports, infrastructure",
       "link": "https://www.tbsnews.net/bangladesh/saudi-arabia-keen-invest-1-billion-bangladeshs-ports-infrastructure-1489476",
       "pubDate": "Wed, 15 Jul 2026 23:10:00 +0600",
@@ -100,14 +122,14 @@
       "snippet": "Free NS1 tests, hospital bed reserves among preparedness measures."
     },
     {
-      "title": "PM plans 5% GDP allocation for education, healthcare in parliament closing speech",
+      "title": "PM blames AL for destroying education, health; reiterates promise to implement July Charter",
       "link": "https://www.tbsnews.net/bangladesh/pm-plans-5-gdp-allocation-education-healthcare-parliament-closing-speech-1489381",
       "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/gdp.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/13/july_charter.png",
       "snippet": "Paying tribute to those killed in the July mass uprising, Tarique reiterated the government’s commitment to implementing every provision of the July Charter, signed by political parties."
     },
     {
@@ -230,28 +252,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
       "snippet": "The central bank issued a circular today (15 July) outlining the revised framework."
-    },
-    {
-      "title": "Death toll from floods, landslides rises to 57",
-      "link": "https://www.tbsnews.net/bangladesh/death-toll-floods-landslides-rises-57-1489291",
-      "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/cacd8291-8065-4829-b7aa-6ae8b380392c.jpg",
-      "snippet": "It said relief operations are continuing in the affected areas."
-    },
-    {
-      "title": "Bangladesh eyes Airbus acquisition as EU backs Biman's mixed-fleet plan",
-      "link": "https://www.tbsnews.net/economy/aviation/bangladesh-eyes-airbus-acquisition-eu-backs-bimans-mixed-fleet-plan-1489306",
-      "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/eu_airbus.jpg",
-      "snippet": "European diplomats pledged support for Bangladesh's proposed Airbus acquisition during talks on expanding cooperation in civil aviation and strengthening the country's national carrier."
     },
     {
       "title": "Al-Arafah Islami Bank gets 14 new directors as sponsor-backed board returns",
@@ -1000,40 +1000,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/logo-bgmea-cmyk_16x9.png",
       "snippet": "The events will be jointly organised by BGMEA and HSBC."
-    },
-    {
-      "title": "Default loans to be curbed through NPL resolution guideline, BB tells IMF",
-      "link": "https://www.tbsnews.net/economy/banking/default-loans-be-curbed-through-npl-resolution-guideline-bb-tells-imf-1486676",
-      "pubDate": "Mon, 13 Jul 2026 01:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
-      "snippet": "Guidelines expected to be issued by Dec, come into effect from 2027."
-    },
-    {
-      "title": "Bangladesh-developed ventilator 'VENTUS' successfully completes initial clinical trial",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-developed-ventilator-ventus-successfully-completes-initial-clinical",
-      "pubDate": "Mon, 13 Jul 2026 00:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/744854337_804497622750492_4712410417487331002_n.jpg",
-      "snippet": "The ventilator successfully supported a patient's breathing for nearly two hours during its first clinical trial, though further testing and regulatory approval are required."
-    },
-    {
-      "title": "Govt steps up talks with BRICS bank, multilateral lenders for budget support",
-      "link": "https://www.tbsnews.net/economy/govt-steps-talks-brics-bank-multilateral-lenders-budget-support-1486656",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/amir_khosru_budget.jpeg",
-      "snippet": "The finance minister says the government is seeking concessional financing to ease pressure on foreign exchange reserves and ensure funding for priority development projects."
     }
   ],
-  "updatedAt": "2026-07-15T17:47:49.135Z"
+  "updatedAt": "2026-07-15T19:11:05.401Z"
 }
