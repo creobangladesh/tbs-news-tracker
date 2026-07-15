@@ -1,7 +1,51 @@
 {
   "news": [
     {
-      "title": "HSC examinees block Uttara road for second day demanding education minister's resignation",
+      "title": "Measles death toll reaches 771 as five more children die",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-771-five-more-children-die-1489051",
+      "pubDate": "Wed, 15 Jul 2026 15:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/p5_measles_mhn_0747.jpg",
+      "snippet": "With the latest update, the number of suspected measles-related deaths has risen to 676, while laboratory-confirmed measles deaths stand at 95."
+    },
+    {
+      "title": "PM seeks teachers' support to build a “humane Bangladesh” through value-based primary education",
+      "link": "https://www.tbsnews.net/bangladesh/pm-seeks-teachers-support-build-humane-bangladesh-through-value-based-primary-education",
+      "pubDate": "Wed, 15 Jul 2026 15:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/pm_0.jpg",
+      "snippet": "PM urges teachers to help build a humane Bangladesh"
+    },
+    {
+      "title": "620 public transport drivers trained under BRTA-DAM initiative",
+      "link": "https://www.tbsnews.net/bangladesh/620-public-transport-drivers-trained-under-brta-dam-initiative-1489031",
+      "pubDate": "Wed, 15 Jul 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/brta_training.jpg",
+      "snippet": "BRTA trains 620 drivers to promote smoke-free public transport"
+    },
+    {
+      "title": "Ex-secy Ziaul Alam shown arrested in July Uprising murder case",
+      "link": "https://www.tbsnews.net/bangladesh/ex-secy-ziaul-alam-shown-arrested-july-uprising-murder-case-1488976",
+      "pubDate": "Wed, 15 Jul 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/740445509_1706572007232743_2969560521629915971_n.jpg",
+      "snippet": "Earlier on 9 July, the case’s investigation officer, Kafrul Police Station Sub-Inspector Md Abdul Alim, showed Ziaul Alam being arrested in the case."
+    },
+    {
+      "title": "HSC examinees block Uttara, Dhaka-Aricha highway for 2nd day demanding edu minister's resignation",
       "link": "https://www.tbsnews.net/bangladesh/hsc-examinees-block-uttara-road-second-day-demanding-education-ministers-resignation",
       "pubDate": "Wed, 15 Jul 2026 14:05:00 +0600",
       "category": "Bangladesh",
@@ -199,28 +243,6 @@
       "snippet": ""
     },
     {
-      "title": "Grameenphone declares 105% interim cash dividend for H1 2026",
-      "link": "https://www.tbsnews.net/economy/stocks/grameenphone-declares-105-interim-cash-dividend-h1-2026-1488686",
-      "pubDate": "Wed, 15 Jul 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/grameenphone_logo_bn_16x9.png",
-      "snippet": "The decision was approved at the company’s board meeting held yesterday (14 July)."
-    },
-    {
-      "title": "Metro Rail safety audit flags structural defects, fire risks",
-      "link": "https://www.tbsnews.net/bangladesh/transport/metro-rail-safety-audit-flags-structural-defects-fire-risks-1488656",
-      "pubDate": "Wed, 15 Jul 2026 09:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/metro-rail.png",
-      "snippet": "Audit finds 730 defective bearing pads, cracks in piers, overhead wire sparks, jerk, undermining MRT Line-6 performance"
-    },
-    {
       "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
       "link": "https://www.tbsnews.net/tech/meta-used-ai-target-workers-medical-conditions-layoffs-lawsuit-claims-1488661",
       "pubDate": "Wed, 15 Jul 2026 09:35:00 +0600",
@@ -235,23 +257,12 @@
       "title": "Chinese firms drive two-thirds of EPZ investments in FY26",
       "link": "https://www.tbsnews.net/economy/chinese-firms-drive-two-thirds-epz-investments-fy26-1488641",
       "pubDate": "Wed, 15 Jul 2026 07:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/blurred-frame_2.jpg",
       "snippet": "Chinese-owned and joint-venture companies accounted for nearly two-thirds of the investment commitments secured by the Bangladesh Export Processing Zones Authority (Bepza) in the fiscal 2025-26"
-    },
-    {
-      "title": "RSGT Bangladesh launches full operations at Patenga terminal after $170m investment",
-      "link": "https://www.tbsnews.net/bangladesh/rsgt-bangladesh-launches-full-operations-patenga-terminal-after-170m-investment-1488626",
-      "pubDate": "Wed, 15 Jul 2026 01:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/09/patenga_container_terminal.jpeg",
-      "snippet": "Since taking over operations in 2024, the company has invested in expanding the terminal's capacity and modernising its facilities."
     },
     {
       "title": "IMF reviews Bangladesh's external debt risks, slow loan disbursements",
@@ -1000,40 +1011,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dengu.jpg",
       "snippet": "Dengue surge shows little sign of slowing"
-    },
-    {
-      "title": "Measles: Death toll at 758 as 5 more children die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-758-five-more-children-die-24-hours-1486281",
-      "pubDate": "Sun, 12 Jul 2026 16:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/measles.jpeg",
-      "snippet": "Nearly 900 new suspected infections were reported, according to the latest Directorate General of Health Services data."
-    },
-    {
-      "title": "New entrepreneurs to get collateral-free loans up to Tk10 lakh, startup fund launched",
-      "link": "https://www.tbsnews.net/economy/new-entrepreneurs-get-collateral-free-loans-tk10-lakh-startup-fund-launched-1486271",
-      "pubDate": "Sun, 12 Jul 2026 16:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/amir_khosru.jpg",
-      "snippet": "Finance Minister Amir Khosru said Bangladesh Bank has increased the refinancing fund for new entrepreneurs in the cottage, micro and small enterprise sectors from Tk100 crore to Tk500 crore."
-    },
-    {
-      "title": "New education system to include teacher guides, workbooks, video lessons: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/education/new-education-system-include-teacher-guides-workbooks-video-lessons-bobby",
-      "pubDate": "Sun, 12 Jul 2026 14:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/26/education-bangladesh.jpg",
-      "snippet": "He made the remarks today (12 July) while inaugurating a workshop to finalise the framework of four new textbooks for the 2027 academic year at the International Mother Language Institute in Segunbagicha, Dhaka."
     }
   ],
-  "updatedAt": "2026-07-15T08:42:32.809Z"
+  "updatedAt": "2026-07-15T10:50:01.836Z"
 }
