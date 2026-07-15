@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Ctg HSC examinees stage sit-in demanding education minister's resignation",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-hsc-examinees-stage-sit-demanding-education-ministers-resignation-1489136",
+      "pubDate": "Wed, 15 Jul 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/ctg_hsc_examinee_protest.jpg",
+      "snippet": "The protesters gathered at the city's No. 2 Gate intersection around 3pm."
+    },
+    {
+      "title": "Protection is not inclusion",
+      "link": "https://www.tbsnews.net/thoughts/protection-not-inclusion-1489131",
+      "pubDate": "Wed, 15 Jul 2026 17:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2025-10-09_at_07.46.39_89df01d5.jpg",
+      "snippet": "When institutions respond to real barriers by excluding women instead of removing those barriers, inequality deepens. Bangladesh Bank's AI training controversy reveals how the future of work can be shaped as much by institutional choices as by techno..."
+    },
+    {
+      "title": "Police block HSC examinees' march to Secretariat at Shikkha Bhaban",
+      "link": "https://www.tbsnews.net/bangladesh/police-stop-hsc-examinees-march-secretariat-shikkha-bhaban-1489111",
+      "pubDate": "Wed, 15 Jul 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/shikkha_bhaban.jpg",
+      "snippet": "As part of the same programme, another group of HSC examinees began a long march from Uttara towards the Secretariat this afternoon."
+    },
+    {
       "title": "Measles death toll reaches 771 as five more children die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-771-five-more-children-die-1489051",
       "pubDate": "Wed, 15 Jul 2026 15:50:00 +0600",
@@ -23,7 +56,7 @@
       "snippet": "PM urges teachers to help build a humane Bangladesh"
     },
     {
-      "title": "620 public transport drivers trained under BRTA-DAM initiative",
+      "title": "BRTA trains 620 public transport drivers on tobacco control, smoke-free transport",
       "link": "https://www.tbsnews.net/bangladesh/620-public-transport-drivers-trained-under-brta-dam-initiative-1489031",
       "pubDate": "Wed, 15 Jul 2026 15:35:00 +0600",
       "category": "Bangladesh",
@@ -31,7 +64,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/brta_training.jpg",
-      "snippet": "BRTA trains 620 drivers to promote smoke-free public transport"
+      "snippet": "The participants included drivers of buses, CNG-run auto-rickshaws, legunas and tempos."
     },
     {
       "title": "Ex-secy Ziaul Alam shown arrested in July Uprising murder case",
@@ -67,6 +100,17 @@
       "snippet": "'Unless this is done, it will not be possible to resolve the long-standing problems of this megacity effectively,' he said."
     },
     {
+      "title": "Tk76,000cr in assets linked to Hasina, 10 business groups frozen: BFIU chief",
+      "link": "https://www.tbsnews.net/bangladesh/tk76000cr-assets-linked-hasina-10-business-groups-frozen-bfiu-chief-1488921",
+      "pubDate": "Wed, 15 Jul 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/13/sheikh_hasina.jpg",
+      "snippet": "Of the total frozen assets, Tk57,000 crore are located within Bangladesh, while assets worth Tk19,000 crore have been frozen overseas"
+    },
+    {
       "title": "Air pollution kills 242 people daily in Bangladesh's major cities, study finds",
       "link": "https://www.tbsnews.net/bangladesh/air-pollution-kills-242-people-daily-bangladeshs-major-cities-study-finds-1488906",
       "pubDate": "Wed, 15 Jul 2026 13:50:00 +0600",
@@ -87,17 +131,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/cht_flood.png",
       "snippet": "\"Whether they belong to the hill communities or are Bengalis, everyone has been equally affected by this natural disaster,\" said Amit"
-    },
-    {
-      "title": "Tk76,000cr in assets linked to Hasina, 10 business groups frozen: BFIU chief",
-      "link": "https://www.tbsnews.net/bangladesh/tk76000cr-assets-linked-hasina-10-business-groups-frozen-bfiu-chief-1488921",
-      "pubDate": "Wed, 15 Jul 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/13/sheikh_hasina.jpg",
-      "snippet": "Of the total frozen assets, Tk57,000 crore are located within Bangladesh, while assets worth Tk19,000 crore have been frozen overseas"
     },
     {
       "title": "BFIU sees 74% surge in suspicious transaction reports in FY25",
@@ -219,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
       "snippet": "The fresh directive follows a memo issued by the Boiler Wing of the Ministry of Industries on 28 June, 2026, and has been made effective for all boiler and boiler component imports accordingly."
-    },
-    {
-      "title": "Don't mess with the students, they'll pack you off to London: Patwary",
-      "link": "https://www.tbsnews.net/bangladesh/politics/dont-mess-students-theyll-pack-you-london-nasiruddin-patwary-1488726",
-      "pubDate": "Wed, 15 Jul 2026 11:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/12/nasiruddin.jpg",
-      "snippet": "\"Yes, we will be July businessmen a thousand times over. But we will never become tender businessmen like you,\" he said"
-    },
-    {
-      "title": "Coast Guard steps up Sundarbans operations as 27 bandits surrender",
-      "link": "https://www.tbsnews.net/bangladesh/coast-guard-steps-sundarbans-operations-27-bandits-surrender-1488701",
-      "pubDate": "Wed, 15 Jul 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/pic_1_16x9_1.png",
-      "snippet": ""
     },
     {
       "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
@@ -463,17 +474,6 @@
       "snippet": "The teachers have been instructed to submit written explanations within three working days."
     },
     {
-      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
-      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
-      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
-    },
-    {
       "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
       "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
       "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
@@ -483,6 +483,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
       "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
+    },
+    {
+      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
+      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
+      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
     },
     {
       "title": "Primary school dropout rate stands at 16.25%: Education minister",
@@ -936,17 +947,6 @@
       "snippet": "The policy aims to encourage exporters to source more yarn and fabrics locally, with industry stakeholders expecting the move to boost domestic value addition and strengthen the country's competitiveness in global markets."
     },
     {
-      "title": "HSC, equivalent exams to go on across country except Chattogram Board",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-equivalent-exams-go-across-country-except-chattogram-board-1486581",
-      "pubDate": "Sun, 12 Jul 2026 21:20:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
-      "snippet": "Flood disruption forces postponement of HSC examinations across Chattogram Board jurisdictions"
-    },
-    {
       "title": "Five merged banks under special forensic audit; finance minister vows action against those responsible",
       "link": "https://www.tbsnews.net/economy/banking/five-merged-banks-under-special-forensic-audit-finance-minister-vows-action-against",
       "pubDate": "Sun, 12 Jul 2026 20:25:00 +0600",
@@ -989,29 +989,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/20260712_rajibdhar_0381.jpg",
       "snippet": "Record rainfall exposed more than a drainage failure in Dhaka and Chattogram. It laid bare decades of fragmented planning, delayed infrastructure projects and institutional shortcomings that have left Bangladesh's two largest cities increasingly vuln..."
-    },
-    {
-      "title": "Govt unveils Tk60,000cr incentives, tightens tech-driven tax crackdown on corporates: Minister",
-      "link": "https://www.tbsnews.net/economy/govt-unveils-tk60000cr-incentives-tightens-tech-driven-tax-crackdown-corporates-minister",
-      "pubDate": "Sun, 12 Jul 2026 17:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/amir_khosru.jpg",
-      "snippet": "The government will maintain tight monetary policy while expanding production support, strengthening technology-based tax enforcement and widening data integration to improve revenue collection and contain inflation."
-    },
-    {
-      "title": "One dengue patient dies, 350 hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-350-hospitalised-24hrs-1486411",
-      "pubDate": "Sun, 12 Jul 2026 17:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dengu.jpg",
-      "snippet": "Dengue surge shows little sign of slowing"
     }
   ],
-  "updatedAt": "2026-07-15T10:50:01.836Z"
+  "updatedAt": "2026-07-15T12:15:08.289Z"
 }
