@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "Miscreants open fire at journos in Khulna; no casualties reported",
+      "link": "https://www.tbsnews.net/bangladesh/miscreants-open-fire-journos-khulna-no-casualties-reported-1489411",
+      "pubDate": "Wed, 15 Jul 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/khulna_map.jpg",
+      "snippet": "Police recovered part of a bullet from the scene and said they were investigating the motive behind the attack."
+    },
+    {
+      "title": "DMTCL forms committee to implement HC directives on MRT-6 safety",
+      "link": "https://www.tbsnews.net/bangladesh/transport/dmtcl-forms-committee-implement-hc-directives-mrt-6-safety-1489396",
+      "pubDate": "Wed, 15 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/dhaka_mass_transit_company_limited_dmtcl.jpg",
+      "snippet": "The committee will monitor progress on 28 recommendations made after a safety audit following last year’s accident that killed a pedestrian."
+    },
+    {
+      "title": "Ctg Chamber urges BB to reject proposed hike in banking fees",
+      "link": "https://www.tbsnews.net/economy/banking/ctg-chamber-urges-bb-reject-proposed-hike-banking-fees-1489391",
+      "pubDate": "Wed, 15 Jul 2026 21:10:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
+      "snippet": "The chamber president said the business community believes such proposals would shift unnecessary costs onto businesses and ordinary customers while serving primarily to increase banks' profits."
+    },
+    {
+      "title": "Health minister advises mosquito nets, full-sleeved clothes to combat dengue",
+      "link": "https://www.tbsnews.net/bangladesh/health-minister-advises-mosquito-nets-full-sleeved-clothes-combat-dengue-1489376",
+      "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
+      "snippet": "Free NS1 tests, hospital bed reserves among preparedness measures."
+    },
+    {
+      "title": "PM plans 5% GDP allocation for education, healthcare in parliament closing speech",
+      "link": "https://www.tbsnews.net/bangladesh/pm-plans-5-gdp-allocation-education-healthcare-parliament-closing-speech-1489381",
+      "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/gdp.jpg",
+      "snippet": "Paying tribute to those killed in the July mass uprising, Tarique reiterated the government’s commitment to implementing every provision of the July Charter, signed by political parties."
+    },
+    {
+      "title": "PM reaffirms zero tolerance on corruption, extremism; vows accountable governance",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/govt-recruit-10000-police-constables-vows-zero-tolerance-extremism-1489386",
+      "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/01/pm_tarique_rahman.jpg",
+      "snippet": "The prime minister says the government has planned to recruit 10,000 new police constables as part of efforts to build a professional, modern and people-oriented law enforcement force."
+    },
+    {
+      "title": "Parliament's budget session ends after 26 sittings, passes 10 government bills",
+      "link": "https://www.tbsnews.net/bangladesh/parliaments-budget-session-ends-after-26-sittings-passes-10-government-bills-1489366",
+      "pubDate": "Wed, 15 Jul 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/tbs_19.png",
+      "snippet": "During the question-and-answer session, 278 questions were submitted for the prime minister, of which 35 were answered in writing and tabled in parliament."
+    },
+    {
+      "title": "2 to die, 10 get life term for killing deed writer in Mymensingh",
+      "link": "https://www.tbsnews.net/bangladesh/2-die-10-get-life-term-killing-deed-writer-mymensingh-1489361",
+      "pubDate": "Wed, 15 Jul 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/e92a2653-82d7-48ec-98c8-d31c87bd8962.png",
+      "snippet": "The court also fined each of them Tk 50,000, in default, to suffer six months more in jail."
+    },
+    {
+      "title": "Sajek Valley to reopen for tourists on Thursday",
+      "link": "https://www.tbsnews.net/bangladesh/sajek-valley-reopen-tourists-tomorrow-1489356",
+      "pubDate": "Wed, 15 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/29/sajek_valley_d.jpg",
+      "snippet": "However, visitors have been urged to remain cautious during travel and strictly follow all instructions issued by the administration due to the ongoing monsoon season."
+    },
+    {
+      "title": "Mahdi Amin explains HSC exam decision, outlines 5 govt measures",
+      "link": "https://www.tbsnews.net/bangladesh/education/mahdi-amin-explains-hsc-exam-decision-outlines-5-govt-measures-1489341",
+      "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/26/mahdi_amin.png",
+      "snippet": "The adviser says local administrations have been empowered to take necessary steps, including changing examination centres and extending exam hours, where needed."
+    },
+    {
+      "title": "HSC protesters briefly block Shahbagh, warn of fresh Secretariat march if minister fails to resign by 10pm",
+      "link": "https://www.tbsnews.net/bangladesh/hsc-protesters-briefly-block-shahbagh-warn-fresh-secretariat-march-if-minister-fails",
+      "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
+      "snippet": "Traffic came to a halt after a section of protesting HSC examinees moved to Shahbagh despite another group ending their programme following talks with government officials at the Secretariat."
+    },
+    {
+      "title": "8 arrested over attack on ISP office in Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/crime/8-arrested-over-attack-isp-office-chattogram-1489331",
+      "pubDate": "Wed, 15 Jul 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/741940428_27458887883765123_8203776088551231376_n.jpg",
+      "snippet": "Police says several of those arrested have previous criminal cases, including extortion, human trafficking, illegal arms, narcotics and robbery."
+    },
+    {
       "title": "Parliament passes Invest Bangladesh Bill despite opposition objections",
       "link": "https://www.tbsnews.net/bangladesh/parliament-passes-invest-bangladesh-bill-despite-opposition-objections-1489311",
       "pubDate": "Wed, 15 Jul 2026 20:05:00 +0600",
@@ -45,17 +177,6 @@
       "snippet": "The central bank issued a circular today (15 July) outlining the revised framework."
     },
     {
-      "title": "Death toll from floods, landslides rises to 57",
-      "link": "https://www.tbsnews.net/bangladesh/death-toll-floods-landslides-rises-57-1489291",
-      "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/cacd8291-8065-4829-b7aa-6ae8b380392c.jpg",
-      "snippet": "It said relief operations are continuing in the affected areas."
-    },
-    {
       "title": "Bangladesh eyes Airbus acquisition as EU backs Biman's mixed-fleet plan",
       "link": "https://www.tbsnews.net/economy/aviation/bangladesh-eyes-airbus-acquisition-eu-backs-bimans-mixed-fleet-plan-1489306",
       "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
@@ -65,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/eu_airbus.jpg",
       "snippet": "European diplomats pledged support for Bangladesh's proposed Airbus acquisition during talks on expanding cooperation in civil aviation and strengthening the country's national carrier."
+    },
+    {
+      "title": "Death toll from floods, landslides rises to 57",
+      "link": "https://www.tbsnews.net/bangladesh/death-toll-floods-landslides-rises-57-1489291",
+      "pubDate": "Wed, 15 Jul 2026 19:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/cacd8291-8065-4829-b7aa-6ae8b380392c.jpg",
+      "snippet": "It said relief operations are continuing in the affected areas."
     },
     {
       "title": "Railway aims to raise freight share beyond current 3-4% thru capacity expansion: Minister",
@@ -122,114 +254,15 @@
       "snippet": "The government plans to build international-standard hotels and tourism facilities on BTC-owned land in Cox's Bazar, Sylhet and Khulna."
     },
     {
-      "title": "ISPs threaten service shutdown unless extortionists arrested in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/isps-threaten-service-shutdown-unless-extortionists-arrested-24-hours-1489231",
-      "pubDate": "Wed, 15 Jul 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/isps_threaten_service_shutdown-converted-from-webp.jpeg",
-      "snippet": "Attacks on ISPs are putting essential connectivity at risk."
-    },
-    {
-      "title": "Cabinet committee reviews draft Cyber Security (Amendment) Act 2026",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-committee-reviews-draft-cyber-security-amendment-act-2026-1489236",
-      "pubDate": "Wed, 15 Jul 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/cabinet_committee.jpg",
-      "snippet": "Government moves to modernise cyber law amid evolving digital threats"
-    },
-    {
-      "title": "Govt working to prepare accurate list of Liberation War martyrs: PM",
-      "link": "https://www.tbsnews.net/bangladesh/govt-working-prepare-accurate-list-liberation-war-martyrs-pm-1489211",
-      "pubDate": "Wed, 15 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/pm_parliament_0.jpg",
-      "snippet": "The prime minister says the government has launched a series of initiatives, including consultations with Liberation War researchers, to prepare a comprehensive list based on research and verification."
-    },
-    {
-      "title": "No surrender option for Sheikh Hasina upon return: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/no-surrender-option-sheikh-hasina-upon-return-home-minister-1489206",
-      "pubDate": "Wed, 15 Jul 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/home_minister_in_du_15_july.jpg",
-      "snippet": "The minister says he had made the government's position clear in parliament a day earlier."
-    },
-    {
-      "title": "2 farmers killed by lightning strikes in Panchagarh",
-      "link": "https://www.tbsnews.net/bangladesh/2-farmers-killed-lightning-strikes-panchagarh-1489216",
-      "pubDate": "Wed, 15 Jul 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/lightnig_strikes.jpg",
-      "snippet": "Two farmers fatally struck by lightning while working"
-    },
-    {
-      "title": "BPPA continues e-GP training to strengthen public procurement capacity",
-      "link": "https://www.tbsnews.net/bangladesh/bppa-continues-e-gp-training-strengthen-public-procurement-capacity-1489186",
-      "pubDate": "Wed, 15 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/30/nh9qxacedvv3e38wmc7dtruuoows5v0hnversofy.jpg",
-      "snippet": "The programmes are being financed from the BPPA's own funds to meet the growing demand for e-GP capacity building."
-    },
-    {
       "title": "Students who missed HSC exams due to adverse weather to get another chance: Milon",
       "link": "https://www.tbsnews.net/bangladesh/education/students-who-missed-hsc-exams-due-adverse-weather-get-another-chance-milon",
       "pubDate": "Wed, 15 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/education_minister.jpg",
       "snippet": "The education minister also said authorities have suspended those responsible for the erroneous Physics First Paper question, while affected candidates will receive full marks for the faulty questions."
-    },
-    {
-      "title": "Prime Minister Gold Cup for primary school students from next year: PM",
-      "link": "https://www.tbsnews.net/bangladesh/prime-minister-gold-cup-primary-school-students-next-year-pm-1489191",
-      "pubDate": "Wed, 15 Jul 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/01/pm_tarique_rahman.jpg",
-      "snippet": "Government to launch Prime Minister Gold Cup for primary school football nationwide"
-    },
-    {
-      "title": "Ctg Port capacity rising, Bay Terminal to cut trade costs: PM",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-capacity-rising-bay-terminal-cut-trade-costs-pm-1489171",
-      "pubDate": "Wed, 15 Jul 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/09/ctg_port_photos_-_edited_0.jpg",
-      "snippet": "The prime minister also said anyone responsible for corruption at the country’s main seaport would face legal action."
-    },
-    {
-      "title": "Saki seeks technology transfer, financing to accelerate SDGs globally",
-      "link": "https://www.tbsnews.net/bangladesh/saki-seeks-technology-transfer-financing-accelerate-sdgs-globally-1489181",
-      "pubDate": "Wed, 15 Jul 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/state_minister_zonayed_saki_addressed_the_un_high-level_political_forum.jpg",
-      "snippet": "State minister urges deeper international cooperation for the 2030 Agenda."
     },
     {
       "title": "Bangladesh's energy independence: Role of nuclear energy expansion",
@@ -241,17 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/rooppur_1.jpg",
       "snippet": "Energy independence is the bedrock of economic and political sovereignty. It is fundamentally tied to national security, where a lack of domestic control over the energy supply leaves a nation deeply vulnerable. It exposes critical sectors to global ..."
-    },
-    {
-      "title": "Floodwaters recede in Ctg, revealing widespread damage",
-      "link": "https://www.tbsnews.net/bangladesh/floodwaters-recede-ctg-revealing-widespread-damage-1489151",
-      "pubDate": "Wed, 15 Jul 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
-      "snippet": "The administration says its immediate priorities are continuing relief distribution, assessing the full extent of the damage and rehabilitating affected families."
     },
     {
       "title": "Ctg HSC examinees stage sit-in demanding education minister's resignation",
@@ -826,17 +848,6 @@
       "snippet": "The central bank issued the policy change through a circular today (13 July), amending the existing framework governing foreign exchange remittances by DPA-based enterprises."
     },
     {
-      "title": "Waist-deep water, illness fears add to HSC examinees' ordeal ",
-      "link": "https://www.tbsnews.net/bangladesh/education/waist-deep-water-illness-fears-add-hsc-examinees-ordeal-1487391",
-      "pubDate": "Mon, 13 Jul 2026 18:35:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/govt_college_cumilla.jpg",
-      "snippet": "From early morning, students were seen wading through waterlogged streets to reach examination centres."
-    },
-    {
       "title": "Nahid Rahman promoted to Bangladesh Bank executive director",
       "link": "https://www.tbsnews.net/economy/banking/nahid-rahman-promoted-bangladesh-bank-executive-director-1487386",
       "pubDate": "Mon, 13 Jul 2026 18:35:00 +0600",
@@ -890,17 +901,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/health_minister.jpg",
       "snippet": "Health Minister Sardar Sakhawat Husain announced the measures at a press briefing at the Ministry of Health today on healthcare activities in the flood-affected areas."
-    },
-    {
-      "title": "Govt to introduce Play, STEM Labs in primary education: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-introduce-play-stem-labs-primary-education-bobby-hajjaj-1487181",
-      "pubDate": "Mon, 13 Jul 2026 16:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/bibby_hajjaj.jpg",
-      "snippet": "Referring to BRAC's Play Lab and STEM Lab models, the government is currently reviewing these models, he says."
     },
     {
       "title": "Measles: Death toll at 759 as one more child dies",
@@ -1022,29 +1022,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/amir_khosru_budget.jpeg",
       "snippet": "The finance minister says the government is seeking concessional financing to ease pressure on foreign exchange reserves and ensure funding for priority development projects."
-    },
-    {
-      "title": "Cash incentive for domestic textile exports raised to 5%",
-      "link": "https://www.tbsnews.net/economy/bangladesh-bank-raises-cash-incentive-local-textile-exports-5-1486591",
-      "pubDate": "Sun, 12 Jul 2026 21:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/local_textile_exports.png",
-      "snippet": "The policy aims to encourage exporters to source more yarn and fabrics locally, with industry stakeholders expecting the move to boost domestic value addition and strengthen the country's competitiveness in global markets."
-    },
-    {
-      "title": "Five merged banks under special forensic audit; finance minister vows action against those responsible",
-      "link": "https://www.tbsnews.net/economy/banking/five-merged-banks-under-special-forensic-audit-finance-minister-vows-action-against",
-      "pubDate": "Sun, 12 Jul 2026 20:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/five_merged_ban2k.jpg",
-      "snippet": "The government says the audit is part of a broader banking sector reform aimed at restoring depositor confidence, strengthening governance and addressing financial irregularities through a new resolution framework"
     }
   ],
-  "updatedAt": "2026-07-15T14:20:00.243Z"
+  "updatedAt": "2026-07-15T16:01:55.051Z"
 }
