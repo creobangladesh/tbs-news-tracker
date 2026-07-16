@@ -1,6 +1,171 @@
 {
   "news": [
     {
+      "title": "Bangladesh to buy both Boeing and Airbus aircraft: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-buy-both-boeing-and-airbus-aircraft-shama-obaed-1490331",
+      "pubDate": "Thu, 16 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/shama.png",
+      "snippet": "The state minister says the government aims to build a sustainable mixed fleet for Biman while protecting national interests."
+    },
+    {
+      "title": "Financial anxiety of journalists must go for ethical practice: Swapon ",
+      "link": "https://www.tbsnews.net/bangladesh/financial-anxiety-journalists-must-go-ethical-practice-swapon-1490326",
+      "pubDate": "Thu, 16 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/information_and_broadcasting_minister_zahir_uddin_swapon_spoke_as_the_chief_guest_at_a_meeting_to_exchange_views_with_journalists._photo_bss.png",
+      "snippet": "The minister further said the investment security of newspaper industry owners must be ensured through discussions and mutual understanding with them. At the same time, the state should provide such policy support so that investment in the media indu..."
+    },
+    {
+      "title": "The 48 hours that made 5 August inevitable",
+      "link": "https://www.tbsnews.net/features/panorama/48-hours-made-5-august-inevitable-1490296",
+      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/bangladesh_quota_protest_0.jpg",
+      "snippet": "The crackdown meant to end Bangladesh's student protests in July 2024 ended up ensuring it spread to every corner of the country"
+    },
+    {
+      "title": "Stepping back from reconstructing institutions in disarray ",
+      "link": "https://www.tbsnews.net/features/panorama/stepping-back-reconstructing-institutions-disarray-1490311",
+      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/whatsapp_image_2026-07-16_at_8.25.15_pm.jpeg",
+      "snippet": "The July Uprising exposed deep institutional weaknesses. More than political change, Bangladesh's reconstruction requires structural reforms that strengthen transparency, accountability, and the rule of law"
+    },
+    {
+      "title": "BFSA orders market withdrawal of food products from three firms over excess preservatives",
+      "link": "https://www.tbsnews.net/bangladesh/bfsa-orders-market-withdrawal-food-products-three-firms-over-excess-preservatives-1490306",
+      "pubDate": "Thu, 16 Jul 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/three_withdrawung_food_products.jpg",
+      "snippet": "The BFSA also advises the general public to refrain from purchasing or consuming the mentioned food items."
+    },
+    {
+      "title": "Finance ministry puts brakes on proposal to halve govt officials' car allowance",
+      "link": "https://www.tbsnews.net/bangladesh/finance-ministry-puts-brakes-proposal-halve-govt-officials-car-allowance-1490281",
+      "pubDate": "Thu, 16 Jul 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/03/interest_free_loan_car.png",
+      "snippet": "Earlier proposal sought to halve the monthly car maintenance allowance for officials using the government’s interest-free vehicle loan scheme."
+    },
+    {
+      "title": "Bangladeshi graduates launch AI farm supply-chain platform in Malaysia",
+      "link": "https://www.tbsnews.net/economy/corporates/bangladeshi-graduates-launch-ai-farm-supply-chain-platform-malaysia-1490266",
+      "pubDate": "Thu, 16 Jul 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/1_16x9_1.png",
+      "snippet": "The platform aims to connect farmers and importers directly with grocery retailers, hotels and restaurants while reducing spoilage, transport delays and unnecessary handling."
+    },
+    {
+      "title": "Pirates loot foreign vessel at Chattogram Port's outer anchorage",
+      "link": "https://www.tbsnews.net/bangladesh/crime/pirates-loot-foreign-vessel-chattogram-ports-outer-anchorage-1490276",
+      "pubDate": "Thu, 16 Jul 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/tanker_tai_shuen.jpg",
+      "snippet": "The vessel had arrived in Bangladesh for dismantling at Janata Steel's shipbreaking yard in Sitakunda."
+    },
+    {
+      "title": "Dhaka: A city that built over its canals is now drowning in rain",
+      "link": "https://www.tbsnews.net/features/big-picture/dhaka-city-built-over-its-canals-now-drowning-rain-1490271",
+      "pubDate": "Thu, 16 Jul 2026 19:50:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/169.png",
+      "snippet": "Dhaka’s flooding crisis tells the story of a city that dismantled its own defences against rain"
+    },
+    {
+      "title": "171 Bangladeshis repatriated from Libya",
+      "link": "https://www.tbsnews.net/bangladesh/171-bangladeshis-repatriated-libya-1490246",
+      "pubDate": "Thu, 16 Jul 2026 19:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/libya_embassy_img_1.jpg",
+      "snippet": "The Foreign Ministry urged the repatriated migrants to share their painful experiences with the public to help raise awareness about the risks of irregular migration and human trafficking."
+    },
+    {
+      "title": "Saudi Arabia to offer 500 annual scholarships to Bangladeshi students: Envoy",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-arabia-offer-500-annual-scholarships-bangladeshi-students-envoy-1490236",
+      "pubDate": "Thu, 16 Jul 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/saudi_envoy_mahdi_amin.png",
+      "snippet": "The envoy said the Saudi government had confirmed the allocation of 500 scholarships every year for Bangladeshi students and added that he had already informed Prime Minister Tarique Rahman about the initiative."
+    },
+    {
+      "title": "Police must perform duties as servants of people: IGP",
+      "link": "https://www.tbsnews.net/bangladesh/police-must-perform-duties-servants-people-igp-1490221",
+      "pubDate": "Thu, 16 Jul 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/igp_ali_hossain_fakir_spoke_as_the_chief_guest_at_the_bangladesh_police_academy_parade_ground_in_sardah_rajshahi._photo_bss.png",
+      "snippet": "The IGP advised the new officers to develop expertise in Artificial Intelligence (AI) and digital forensics to combat various technology-based crimes, including online gambling and the spread of rumours on social media."
+    },
+    {
+      "title": "Fresh rain raises flood recovery fears in Ctg; ports advised to hoist signal no 3",
+      "link": "https://www.tbsnews.net/bangladesh/fresh-rain-raises-flood-recovery-fears-ctg-ports-advised-hoist-signal-no-3-1490211",
+      "pubDate": "Thu, 16 Jul 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/ctg_flood4.jpg",
+      "snippet": "Authorities forecast light to heavy rainfall across coastal areas over the next few days, raising fresh concerns as flood-hit communities continue recovery efforts."
+    },
+    {
+      "title": "Bangladesh Bank issues framework for import trade in Free Trade Zones",
+      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-issues-framework-import-trade-free-trade-zones-1490216",
+      "pubDate": "Thu, 16 Jul 2026 19:20:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
+      "snippet": "Under the framework, ADs and Offshore Banking Units (OBUs) will handle FTZ-related transactions in line with foreign exchange regulations."
+    },
+    {
+      "title": "Residents demand convenient location for North Fatikchhari Upazila headquarters, block highway",
+      "link": "https://www.tbsnews.net/bangladesh/residents-demand-convenient-location-north-fatikchhari-upazila-headquarters-block-highway",
+      "pubDate": "Thu, 16 Jul 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/fatikcchari_north_upazila.jpg",
+      "snippet": "Police said demonstrators were continuing their programme at Heyako Bazar at the time of filing this report."
+    },
+    {
       "title": "Tree monitoring app to be launched to track progress of 25-crore sapling drive",
       "link": "https://www.tbsnews.net/bangladesh/tree-monitoring-app-be-launched-track-progress-25-crore-sapling-drive-1490191",
       "pubDate": "Thu, 16 Jul 2026 18:45:00 +0600",
@@ -10,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/04/56bae2cdc409e1344c60d5f484c79b07_og.jpg",
       "snippet": "The five-year afforestation programme, a key election pledge of Prime Minister Tarique Rahman's government, aims to plant 25 crore trees to address environmental degradation and climate change challenges, the release said."
+    },
+    {
+      "title": "Viral clips capture HSC students' anger, anxiety, and divided views",
+      "link": "https://www.tbsnews.net/bangladesh/education/viral-clips-capture-hsc-students-anger-anxiety-and-divided-views-1490201",
+      "pubDate": "Thu, 16 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
+      "snippet": "Students have questioned the education minister’s role, weather-related decisions, and exam standards. At the same time, they also made some demands that raised eyebrows."
     },
     {
       "title": "Dhaka North approves Tk4,527.74cr budget, highest allocation for road infrastructure",
@@ -31,7 +207,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/24/panorama_30_10_2022_0.png",
-      "snippet": "The IMF says Bangladesh's economy faces mounting fiscal, financial and inflationary pressures, warning that growth could slip below 3% over the medium term unless decisive reforms are implemented."
+      "snippet": "Finance minister says reforms under a new IMF programme will be implemented in phases based on the priorities of an elected government."
     },
     {
       "title": "Invest Bangladesh to be formed by unifying Bida, Beza & PPPA",
@@ -52,7 +228,7 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/20/bida.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/28/bida_logo_new.jpg",
       "snippet": "The survey aims to provide a comprehensive picture of Bangladesh's investment landscape to support evidence-based policymaking and identify the country's active investors."
     },
     {
@@ -100,123 +276,13 @@
       "snippet": "The siblings were returning to Jeddah from Riyadh when their vehicle was involved in a head-on collision, family says."
     },
     {
-      "title": "Bangladesh MBA Association proposes closer collaboration with finance ministry on economic policy",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-mba-association-proposes-closer-collaboration-finance-ministry-economic-policy",
-      "pubDate": "Thu, 16 Jul 2026 17:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/d6a8fd9e648f271550d3e1ec3f709eed.jpeg",
-      "snippet": "The association says it is ready to serve as an independent, non-political platform to help strengthen collaboration between the government and the private sector."
-    },
-    {
-      "title": "Four convicts appeal for acquittal in Abu Sayed killing case",
-      "link": "https://www.tbsnews.net/bangladesh/court/four-convicts-appeal-acquittal-abu-sayed-killing-case-1490046",
-      "pubDate": "Thu, 16 Jul 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Lawyer Azizur said the appeals sought their acquittal on five legal grounds placed before the country’s highest court."
-    },
-    {
-      "title": "Abu Sayed: The image that shook a nation, a family still awaiting justice",
-      "link": "https://www.tbsnews.net/bangladesh/abu-sayed-image-shook-nation-family-still-awaiting-justice-1490056",
-      "pubDate": "Thu, 16 Jul 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/17/abu_sayeed_0.jpg",
-      "snippet": "On 16 July 2024, an English department student at Begum Rokeya University, Rangpur, stood fearlessly before the police near the university gate during the anti-quota movement, holding only a stick."
-    },
-    {
-      "title": "Climate change costs Bangladeshis up to 84hr sleep a year: Study ",
-      "link": "https://www.tbsnews.net/environment/climate-change/climate-change-costs-bangladeshis-84hr-sleep-year-study-1490036",
-      "pubDate": "Thu, 16 Jul 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/climate-revised-final-2_1.jpg",
-      "snippet": "According to the analysis, residents of Bangladesh’s major cities now lose between 72 and 84 hours of sleep every year due to hot nights. In Dhaka and Rajshahi, climate change’s share of annual sleep loss increased from 3% during 1970-1975 to 6% in 2..."
-    },
-    {
-      "title": "Experts call for policy reforms to prepare Global South for future of work",
-      "link": "https://www.tbsnews.net/bangladesh/experts-call-policy-reforms-prepare-global-south-future-work-1490006",
-      "pubDate": "Thu, 16 Jul 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/cpd_event.jpg",
-      "snippet": "Speakers at a CPD webinar say governments must modernise education, skills and social protection systems to keep pace with technological change."
-    },
-    {
-      "title": "Four convicts appeal for acquittal in Abu Sayed killing case",
-      "link": "https://www.tbsnews.net/bangladesh/court/four-convicts-appeal-acquittal-abu-sayed-killing-case-1490011",
-      "pubDate": "Thu, 16 Jul 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/08/supreme_court_1.jpg",
-      "snippet": "Lawyer Azizur said the appeals sought their acquittal on five legal grounds placed before the country’s highest court."
-    },
-    {
-      "title": "No one to be left behind in building new Bangladesh: PM",
-      "link": "https://www.tbsnews.net/bangladesh/no-one-be-left-behind-building-new-bangladesh-pm-1489991",
-      "pubDate": "Thu, 16 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/pm_tarique_0.jpg",
-      "snippet": "The Prime Minister described ethnic minority communities as an inseparable part of Bangladesh."
-    },
-    {
-      "title": "Rampura-Banasree crackdown part of 'state policy' to suppress July Uprising: ICT",
-      "link": "https://www.tbsnews.net/bangladesh/court/rampura-banasree-crackdown-part-state-policy-suppress-july-uprising-ict-1489971",
-      "pubDate": "Thu, 16 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/the_international_crimes_tribunal_ict.jpg",
-      "snippet": "Three former police officials sentenced to death over killings and attacks during the 2024 July Uprising; tribunal says protesters were unarmed."
-    },
-    {
-      "title": "GD filed against ex-Milestone College student over 'anti-govt remarks' using college ID",
-      "link": "https://www.tbsnews.net/bangladesh/gd-filed-against-ex-milestone-college-student-over-anti-govt-remarks-using-college-id",
-      "pubDate": "Thu, 16 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/milstone_college_student_img.jpg",
-      "snippet": "The college authorities alleged that the former student used its identification card to make provocative statements on social media."
-    },
-    {
-      "title": "Army chief inaugurates 'Bangladesh Army Tree Plantation Campaign-2026'",
-      "link": "https://www.tbsnews.net/bangladesh/army-chief-inaugurates-bangladesh-army-tree-plantation-campaign-2026-1489956",
-      "pubDate": "Thu, 16 Jul 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/army_chief_1.jpg",
-      "snippet": "The campaign would continue until the last week of September 2026."
-    },
-    {
-      "title": "Measles death toll rises to 779 as eight more children die in 24 hours",
+      "title": "Measles death toll rises to 779 as 8 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-779-eight-more-children-die-24-hours-1489951",
       "pubDate": "Thu, 16 Jul 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
       "snippet": "Of the total deaths, 684 were suspected measles cases, while 95 were laboratory-confirmed, according to the DGHS."
     },
@@ -230,17 +296,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/renewable_energy_img.jpg",
       "snippet": "Nearly 90 percent of Bangladesh's renewable energy equipment is supplied through local importers. Ordinary consumers do not import solar panels, inverters or batteries directly from overseas; they purchase them from local distributors. Therefore, unl..."
-    },
-    {
-      "title": "Vested groups trying to exploit student protests to embarrass govt: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/vested-groups-trying-exploit-student-protests-embarrass-govt-home-minister-1489896",
-      "pubDate": "Thu, 16 Jul 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
-      "snippet": "Regarding the extradition of ousted prime minister Sheikh Hasina, the home minister said that the government wishes for her return so that she can face justice"
     },
     {
       "title": "Beyond tariffs lies Bangladesh's biggest trade opportunity",
@@ -881,17 +936,6 @@
       "snippet": "Three were sent to court and 7-day remand hearing scheduled for 16 July"
     },
     {
-      "title": "HSC exams to continue despite adverse weather; DCs can act over safety risks",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-continue-despite-adverse-weather-dcs-can-act-over-safety-risks",
-      "pubDate": "Mon, 13 Jul 2026 21:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
-      "snippet": "Bangladesh Inter-Education Board Coordination Committee says only the Chattogram Education Board's examinations have been suspended until 16 July"
-    },
-    {
       "title": "BB extends Foreign Currency-Taka swap facility to exporters in specialised economic zones",
       "link": "https://www.tbsnews.net/economy/bb-extends-foreign-currency-taka-swap-facility-exporters-specialised-economic-zones-1487591",
       "pubDate": "Mon, 13 Jul 2026 21:25:00 +0600",
@@ -901,62 +945,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/forex.png",
       "snippet": "The move allows exporters in EPZs, private EPZs, economic zones and high-tech parks to access short-term Taka liquidity without converting their foreign currency holdings."
-    },
-    {
-      "title": "Typhoid vaccine to join routine EPI programme from 1 August",
-      "link": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccine-join-routine-epi-programme-1-august-1487521",
-      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/pyphiod-vaccine.png",
-      "snippet": "Until now, parents had to purchase the typhoid vaccine privately, as it was not included in the government's routine immunisation programme."
-    },
-    {
-      "title": "Govt plans kidney dialysis services at district, upazila hospitals",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-kidney-dialysis-services-district-upazila-hospitals-1487531",
-      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/dialysis.jpg",
-      "snippet": "Around 3.8 crore people in Bangladesh are suffering from kidney-related diseases, says KAMPS"
-    },
-    {
-      "title": "Series of mega projects coming under healthcare sector: Health minister tells parliament",
-      "link": "https://www.tbsnews.net/bangladesh/health/series-mega-projects-coming-under-healthcare-sector-health-minister-tells",
-      "pubDate": "Mon, 13 Jul 2026 20:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/23/sardar_sakhawat_husain.jpg",
-      "snippet": "The health minister said all upazila hospitals will be upgraded to 101-bed facilities with 24-hour emergency, inpatient and outpatient services, alongside modern pathology laboratories."
-    },
-    {
-      "title": "Dengue death toll reaches 27 as 2 die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/dengue-death-toll-reaches-27-2-die-24hrs-1487441",
-      "pubDate": "Mon, 13 Jul 2026 19:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
-      "snippet": "In the capital, 38 new cases were reported in Dhaka North City Corporation and 43 in Dhaka South City Corporation."
-    },
-    {
-      "title": "92% people with mental illness go untreated: Minister tells parliament",
-      "link": "https://www.tbsnews.net/bangladesh/health/92-people-mental-illness-go-untreated-minister-tells-parliament-1487456",
-      "pubDate": "Mon, 13 Jul 2026 19:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/04/j2cmp3zpinglffqdpuysy6rcmi.png",
-      "snippet": "Bangladesh has only 1.17 mental health workers for every 100,000 people"
     }
   ],
-  "updatedAt": "2026-07-16T13:00:13.038Z"
+  "updatedAt": "2026-07-16T15:10:04.324Z"
 }
