@@ -1,7 +1,128 @@
 {
   "news": [
     {
-      "title": "Maritime ports asked to keep loacl cautionary signal No 3",
+      "title": "No one to be left behind in building new Bangladesh: PM",
+      "link": "https://www.tbsnews.net/bangladesh/no-one-be-left-behind-building-new-bangladesh-pm-1489991",
+      "pubDate": "Thu, 16 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/pm_tarique.jpg",
+      "snippet": "The Prime Minister described ethnic minority communities as an inseparable part of Bangladesh."
+    },
+    {
+      "title": "Rampura-Banasree crackdown part of 'state policy' to suppress July Uprising: ICT",
+      "link": "https://www.tbsnews.net/bangladesh/court/rampura-banasree-crackdown-part-state-policy-suppress-july-uprising-ict-1489971",
+      "pubDate": "Thu, 16 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/the_international_crimes_tribunal_ict.jpg",
+      "snippet": "Three former police officials sentenced to death over killings and attacks during the 2024 July Uprising; tribunal says protesters were unarmed."
+    },
+    {
+      "title": "GD filed against ex-Milestone College student over 'anti-govt remarks' using college ID",
+      "link": "https://www.tbsnews.net/bangladesh/gd-filed-against-ex-milestone-college-student-over-anti-govt-remarks-using-college-id",
+      "pubDate": "Thu, 16 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/milstone_college_student_img.jpg",
+      "snippet": "The college authorities alleged that the former student used its identification card to make provocative statements on social media."
+    },
+    {
+      "title": "Army chief inaugurates 'Bangladesh Army Tree Plantation Campaign-2026'",
+      "link": "https://www.tbsnews.net/bangladesh/army-chief-inaugurates-bangladesh-army-tree-plantation-campaign-2026-1489956",
+      "pubDate": "Thu, 16 Jul 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/army_chief_1.jpg",
+      "snippet": "The campaign would continue until the last week of September 2026."
+    },
+    {
+      "title": "Measles death toll rises to 779 as eight more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-779-eight-more-children-die-24-hours-1489951",
+      "pubDate": "Thu, 16 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+      "snippet": "Of the total deaths, 684 were suspected measles cases, while 95 were laboratory-confirmed, according to the DGHS."
+    },
+    {
+      "title": "Tax exemptions for renewable energy: Promise, policy, and paradox",
+      "link": "https://www.tbsnews.net/thoughts/tax-exemptions-renewable-energy-promise-policy-and-paradox-1489941",
+      "pubDate": "Thu, 16 Jul 2026 16:05:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/renewable_energy_img.jpg",
+      "snippet": "Nearly 90 percent of Bangladesh's renewable energy equipment is supplied through local importers. Ordinary consumers do not import solar panels, inverters or batteries directly from overseas; they purchase them from local distributors. Therefore, unl..."
+    },
+    {
+      "title": "Vested groups trying to exploit student protests to embarrass govt: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/vested-groups-trying-exploit-student-protests-embarrass-govt-home-minister-1489896",
+      "pubDate": "Thu, 16 Jul 2026 15:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
+      "snippet": "Regarding the extradition of ousted prime minister Sheikh Hasina, the home minister said that the government wishes for her return so that she can face justice"
+    },
+    {
+      "title": "Ziaur Rahman assassination: Fugitive convict Mozaffar held after 45 years on the run  ",
+      "link": "https://www.tbsnews.net/bangladesh/crime/ziaur-rahman-assassination-fugitive-convict-mozaffar-held-after-45-years-run",
+      "pubDate": "Thu, 16 Jul 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/745144290_1553272843199395_299074723492651265_n.jpg",
+      "snippet": "Following his detention, he was handed over to the Bangladesh Army after the completion of legal formalities for further proceedings under the military justice system."
+    },
+    {
+      "title": "Beyond tariffs lies Bangladesh's biggest trade opportunity",
+      "link": "https://www.tbsnews.net/thoughts/beyond-tariffs-lies-bangladeshs-biggest-trade-opportunity-1489886",
+      "pubDate": "Thu, 16 Jul 2026 15:45:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/what-did-bangladesh-export-the-most-to-the-united-states-in-fy25-fea_0.png",
+      "snippet": "The proposed US–Bangladesh trade agreement offers more than market access—it provides a blueprint for reforms that could strengthen Bangladesh's long-term trade and investment competitiveness"
+    },
+    {
+      "title": "CPA rejoinder",
+      "link": "https://www.tbsnews.net/bangladesh/cpa-rejoinder-1489866",
+      "pubDate": "Thu, 16 Jul 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/18/cpa.png",
+      "snippet": "The authority said that while the Chattogram Custom House referred to 250 consignments in its letter, the actual number was 247"
+    },
+    {
+      "title": "Bangladesh needs AI investment, digital sovereignty to stay competitive: Experts",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-needs-ai-investment-digital-sovereignty-stay-competitive-experts-1489836",
+      "pubDate": "Thu, 16 Jul 2026 15:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/okay-ezgif.com-webp-to-jpg-converter.jpg",
+      "snippet": "Their observation came at a discussion titled \"AI Future for Bangladesh: Challenges and Prospects\" held in the capital."
+    },
+    {
+      "title": "Maritime ports asked to keep local cautionary signal No 3",
       "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-loacl-cautionary-signal-no-3-1489826",
       "pubDate": "Thu, 16 Jul 2026 15:00:00 +0600",
       "category": "Bangladesh",
@@ -10,6 +131,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/maritime_ports_cautionary_signal-converted-from-webp.jpeg",
       "snippet": "Four maritime ports remain on alert as the weather system over the Bay strengthens."
+    },
+    {
+      "title": "'Just one more reel. Then, it's 2am': Inside Bangladesh Gen Z's uneasy bargain with short-form video",
+      "link": "https://www.tbsnews.net/features/just-one-more-reel-then-its-2am-inside-bangladesh-gen-zs-uneasy-bargain-short-form-video",
+      "pubDate": "Thu, 16 Jul 2026 14:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/53c6eaa6-a600-483a-98b1-8019db7b9db1.jpg",
+      "snippet": "Here, the same platforms — YouTube, Facebook, and TikTok — that are measurably rewiring young brains are also, for many young people, a genuine economic ladder."
     },
     {
       "title": "Despite peak Hilsa season, fishermen struggle to make worthwhile catches in Shariatpur",
@@ -100,17 +232,6 @@
       "snippet": "According to a Request for Proposal (RFP) issued on July 15, the national flag carrier is seeking offers from airlines, aircraft operators, owners, manufacturers and leasing companies for the dry lease of three Boeing 787-9 aircraft for a period of 7..."
     },
     {
-      "title": "Bangladesh looking to Dutch expertise for long-term flood management: Forhad",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-looking-dutch-expertise-long-term-flood-management-forhad-1489701",
-      "pubDate": "Thu, 16 Jul 2026 12:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/state_minister_for_water_resources_forhad_hossain_azad.jpg",
-      "snippet": "There will be no shortage of geo-bags if emergency needs arise anywhere in the country, he said."
-    },
-    {
       "title": "Youth stabbed in a crowd while watching Argentina-England match in Ctg",
       "link": "https://www.tbsnews.net/bangladesh/youth-stabbed-crowd-while-watching-argentina-england-match-ctg-1489686",
       "pubDate": "Thu, 16 Jul 2026 12:40:00 +0600",
@@ -122,79 +243,24 @@
       "snippet": "The injured, Md Asadul Haque, 21"
     },
     {
-      "title": "Agrochemical makers file complaint over raw material import restrictions",
-      "link": "https://www.tbsnews.net/agriculture/agrochemical-makers-file-complaint-over-raw-material-import-restrictions-1489666",
-      "pubDate": "Thu, 16 Jul 2026 12:05:00 +0600",
+      "title": "Bangladesh looking to Dutch expertise for long-term flood management: Forhad",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-looking-dutch-expertise-long-term-flood-management-forhad-1489701",
+      "pubDate": "Thu, 16 Jul 2026 12:40:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/d3f2c7ea-db11-4d94-ab29-4596609b0b6f.png",
-      "snippet": "Hearing filed with the Competition Commission; hearing expected on 22 July."
-    },
-    {
-      "title": "Rain likely in 8 divisions",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-8-divisions-1489646",
-      "pubDate": "Thu, 16 Jul 2026 11:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
-      "snippet": "Day and night temperatures may fall slightly over the country."
-    },
-    {
-      "title": "Govt moves to raise strategic fuel storage capacity to 90 days",
-      "link": "https://www.tbsnews.net/bangladesh/govt-moves-raise-strategic-fuel-storage-capacity-90-days-1489651",
-      "pubDate": "Thu, 16 Jul 2026 11:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/27/fuel.png",
-      "snippet": "Strategic fuel storage capacity will be increased from the current 60 days to 71 days by December this year and to 90 days by 2027."
-    },
-    {
-      "title": "Factory warehouse gutted in Gazipur fire",
-      "link": "https://www.tbsnews.net/bangladesh/factory-warehouse-gutted-gazipur-fire-1489621",
-      "pubDate": "Thu, 16 Jul 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/19/fire.jpg",
-      "snippet": "The fire originated around 5:30am in the warehouse of Globe Safety Factory located on the third floor of the six-storey Mansur Plaza building, according to the Fire Service."
-    },
-    {
-      "title": "2 journalists killed in Uttara road crash",
-      "link": "https://www.tbsnews.net/bangladesh/2-journalists-killed-uttara-road-crash-1489626",
-      "pubDate": "Thu, 16 Jul 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/messenger_creation_1943510309662459.jpeg",
-      "snippet": "According to police and local sources, they were on their way home after watching the world cup semi-final between England and Argentina on a giant outdoor screen."
-    },
-    {
-      "title": "Titumir seeks stronger UN Women support to protect women, girls amid global crises",
-      "link": "https://www.tbsnews.net/bangladesh/titumir-seeks-stronger-un-women-support-protect-women-girls-amid-global-crises-1489616",
-      "pubDate": "Thu, 16 Jul 2026 11:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
-      "snippet": "ASG Gumbonzvanda commended Bangladesh's progress in advancing gender equality and described the Family Card initiative as an innovative women-centred social protection programme."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/state_minister_for_water_resources_forhad_hossain_azad.jpg",
+      "snippet": "There will be no shortage of geo-bags if emergency needs arise anywhere in the country, he said."
     },
     {
       "title": "Housing sector sinks deeper amid plunging sales, soaring costs",
       "link": "https://www.tbsnews.net/economy/housing-sector-sinks-deeper-amid-plunging-sales-soaring-costs-1489586",
       "pubDate": "Thu, 16 Jul 2026 10:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/07/construction_worker_1.jpg",
       "snippet": "Industry leaders warn introduction of 15% capital gains tax on apartment registrations may worsen crisis"
     },
@@ -208,39 +274,6 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/_rd_4392.jpeg",
       "snippet": "The government's handling of this year's HSC examinations has exposed failures in planning, communication and crisis management. But as legitimate grievances gave way to roadblocks, vandalism, and demands beyond institutional authority, the incident ..."
-    },
-    {
-      "title": "Rupsha 800MW power plant seeks one-year extension as long-term gas supply remains uncertain",
-      "link": "https://www.tbsnews.net/bangladesh/energy/rupsha-800mw-power-plant-seeks-one-year-extension-long-term-gas-supply-remains",
-      "pubDate": "Thu, 16 Jul 2026 08:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/rupsha_power_plant.png",
-      "snippet": "Although Petrobangla has assured a temporary gas supply for the plant’s commissioning, officials say there is still no decision on securing gas for regular commercial generation"
-    },
-    {
-      "title": "UK announces £355,000 flood aid for Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/uk-announces-ps355000-flood-aid-bangladesh-1489521",
-      "pubDate": "Thu, 16 Jul 2026 07:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/04/sylhet_flood.jpg",
-      "snippet": "This support builds on £245,000 (approx. BDT 3.9 crore) in emergency funding released in May 2026 for communities affected by the earlier flooding in the Sylhet region. It brings the UK government’s total disaster response support in Bangladesh this ..."
-    },
-    {
-      "title": "President pays tribute to July Martyrs, urges unity to build martyrs' envisioned Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/president-pays-tribute-july-martyrs-urges-unity-build-martyrs-envisioned-bangladesh",
-      "pubDate": "Thu, 16 Jul 2026 03:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/president_shahabuddin_bss_1.jpg",
-      "snippet": "President said the July Mass Uprising was an outburst of the people's long-standing anger against discrimination, corruption, enforced disappearances, killings, deprivation of voting rights, repression and fascist misrule."
     },
     {
       "title": "The man who taught me to love football",
@@ -672,17 +705,6 @@
       "snippet": "The teachers have been instructed to submit written explanations within three working days."
     },
     {
-      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
-      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
-      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
-    },
-    {
       "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
       "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
       "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
@@ -692,6 +714,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
       "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
+    },
+    {
+      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
+      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
+      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
     },
     {
       "title": "Primary school dropout rate stands at 16.25%: Education minister",
@@ -945,62 +978,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/khosru_imf.jpg",
       "snippet": "IMF has commended the government’s financial reforms, says FinMin; next round of talks in Sep or Oct."
-    },
-    {
-      "title": "The de-commonisation of the Brahmaputra: A call for transformative governance",
-      "link": "https://www.tbsnews.net/thoughts/de-commonisation-brahmaputra-call-transformative-governance-1487286",
-      "pubDate": "Mon, 13 Jul 2026 17:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/brhamaputra_1.jpeg",
-      "snippet": "As climate change and competing national interests intensify, the Brahmaputra needs cooperative, transboundary governance that treats the river as a shared common rather than a contested resource"
-    },
-    {
-      "title": "Govt has no plan to cancel or renegotiate Laldia Container Terminal deal: Shipping minister",
-      "link": "https://www.tbsnews.net/economy/govt-has-no-plan-cancel-or-renegotiate-laldia-container-terminal-deal-shipping-minister",
-      "pubDate": "Mon, 13 Jul 2026 17:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/shipping_minister_1.jpg",
-      "snippet": "He said Bangladesh and Denmark signed a memorandum of understanding on 30 June 2021 to promote environmentally sustainable infrastructure development"
-    },
-    {
-      "title": "Doctors' leave cancelled in 11 flood-hit districts as medical teams deployed",
-      "link": "https://www.tbsnews.net/bangladesh/health/doctors-leave-cancelled-11-flood-hit-districts-medical-teams-deployed-1487211",
-      "pubDate": "Mon, 13 Jul 2026 16:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/health_minister.jpg",
-      "snippet": "Health Minister Sardar Sakhawat Husain announced the measures at a press briefing at the Ministry of Health today on healthcare activities in the flood-affected areas."
-    },
-    {
-      "title": "Measles: Death toll at 759 as one more child dies",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-759-one-more-child-dies-1487131",
-      "pubDate": "Mon, 13 Jul 2026 15:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/03/whatsapp_image_2026-05-03_at_14.50.36.jpeg",
-      "snippet": "More than 95,000 patients requiring hospitalisation as the outbreak continues to spread across the country."
-    },
-    {
-      "title": "86 snakebite cases reported in 7 days as floodwaters rise in Ctg; waterborne diseases on the rise",
-      "link": "https://www.tbsnews.net/bangladesh/districts/86-snakebite-cases-reported-7-days-floodwaters-rise-ctg-waterborne-diseases",
-      "pubDate": "Mon, 13 Jul 2026 15:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/740812294_939952482443947_516526457937535675_n.jpg",
-      "snippet": "Chattogram health officials noted that a crisis of safe drinking water and sanitation during floods rapidly accelerates the risk of diarrhoea and other waterborne illnesses"
     }
   ],
-  "updatedAt": "2026-07-16T09:13:44.724Z"
+  "updatedAt": "2026-07-16T11:17:31.437Z"
 }
