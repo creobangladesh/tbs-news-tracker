@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Rupsha 800MW power plant seeks one-year extension as long-term gas supply remains uncertain",
+      "link": "https://www.tbsnews.net/bangladesh/energy/rupsha-800mw-power-plant-seeks-one-year-extension-long-term-gas-supply-remains",
+      "pubDate": "Thu, 16 Jul 2026 08:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/rupsha_power_plant.png",
+      "snippet": "Although Petrobangla has assured a temporary gas supply for the plant’s commissioning, officials say there is still no decision on securing gas for regular commercial generation"
+    },
+    {
+      "title": "UK announces £355,000 flood aid for Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/uk-announces-ps355000-flood-aid-bangladesh-1489521",
+      "pubDate": "Thu, 16 Jul 2026 07:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/04/sylhet_flood.jpg",
+      "snippet": "This support builds on £245,000 (approx. BDT 3.9 crore) in emergency funding released in May 2026 for communities affected by the earlier flooding in the Sylhet region. It brings the UK government’s total disaster response support in Bangladesh this ..."
+    },
+    {
       "title": "President pays tribute to July Martyrs, urges unity to build martyrs' envisioned Bangladesh",
       "link": "https://www.tbsnews.net/bangladesh/president-pays-tribute-july-martyrs-urges-unity-build-martyrs-envisioned-bangladesh",
       "pubDate": "Thu, 16 Jul 2026 03:35:00 +0600",
@@ -224,23 +246,12 @@
       "title": "HSC protesters briefly block Shahbagh, warn of fresh Secretariat march if minister fails to resign by 10pm",
       "link": "https://www.tbsnews.net/bangladesh/hsc-protesters-briefly-block-shahbagh-warn-fresh-secretariat-march-if-minister-fails",
       "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
       "snippet": "Traffic came to a halt after a section of protesting HSC examinees moved to Shahbagh despite another group ending their programme following talks with government officials at the Secretariat."
-    },
-    {
-      "title": "8 arrested over attack on ISP office in Chattogram",
-      "link": "https://www.tbsnews.net/bangladesh/crime/8-arrested-over-attack-isp-office-chattogram-1489331",
-      "pubDate": "Wed, 15 Jul 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/741940428_27458887883765123_8203776088551231376_n.jpg",
-      "snippet": "Police says several of those arrested have previous criminal cases, including extortion, human trafficking, illegal arms, narcotics and robbery."
     },
     {
       "title": "Cenbank eases foreign borrowing rules for foreign-owned firms",
@@ -1002,5 +1013,5 @@
       "snippet": "The absence of economic decentralisation and long-term urban planning has turned Dhaka into one of the world's least liveable cities despite its central role in Bangladesh's economy"
     }
   ],
-  "updatedAt": "2026-07-16T01:00:03.714Z"
+  "updatedAt": "2026-07-16T04:16:29.805Z"
 }
