@@ -210,17 +210,6 @@
       "snippet": "However, visitors have been urged to remain cautious during travel and strictly follow all instructions issued by the administration due to the ongoing monsoon season."
     },
     {
-      "title": "HSC protesters briefly block Shahbagh, warn of fresh Secretariat march if minister fails to resign by 10pm",
-      "link": "https://www.tbsnews.net/bangladesh/hsc-protesters-briefly-block-shahbagh-warn-fresh-secretariat-march-if-minister-fails",
-      "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
-      "snippet": "Traffic came to a halt after a section of protesting HSC examinees moved to Shahbagh despite another group ending their programme following talks with government officials at the Secretariat."
-    },
-    {
       "title": "Mahdi Amin explains HSC exam decision, outlines 5 govt measures",
       "link": "https://www.tbsnews.net/bangladesh/education/mahdi-amin-explains-hsc-exam-decision-outlines-5-govt-measures-1489341",
       "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
@@ -230,6 +219,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/26/mahdi_amin.png",
       "snippet": "The adviser says local administrations have been empowered to take necessary steps, including changing examination centres and extending exam hours, where needed."
+    },
+    {
+      "title": "HSC protesters briefly block Shahbagh, warn of fresh Secretariat march if minister fails to resign by 10pm",
+      "link": "https://www.tbsnews.net/bangladesh/hsc-protesters-briefly-block-shahbagh-warn-fresh-secretariat-march-if-minister-fails",
+      "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
+      "snippet": "Traffic came to a halt after a section of protesting HSC examinees moved to Shahbagh despite another group ending their programme following talks with government officials at the Secretariat."
     },
     {
       "title": "8 arrested over attack on ISP office in Chattogram",
@@ -1002,5 +1002,5 @@
       "snippet": "The absence of economic decentralisation and long-term urban planning has turned Dhaka into one of the world's least liveable cities despite its central role in Bangladesh's economy"
     }
   ],
-  "updatedAt": "2026-07-15T23:28:42.038Z"
+  "updatedAt": "2026-07-16T01:00:03.714Z"
 }
