@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Clearing Tk7,000cr insurance claims tops reform agenda: New Idra chairman",
+      "link": "https://www.tbsnews.net/economy/clearing-tk7000cr-insurance-claims-tops-reform-agenda-new-idra-chairman-1490401",
+      "pubDate": "Thu, 16 Jul 2026 21:50:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/16/mir_nadia_nivin.jpg",
+      "snippet": "Government treasury bonds and fixed deposits held with financially sound banks and other marketable investments would be liquidated in phases, she says."
+    },
+    {
+      "title": "Fakhrul falls ill at Rath Jatra programme",
+      "link": "https://www.tbsnews.net/bangladesh/fakhrul-falls-ill-rath-jatra-programme-1490396",
+      "pubDate": "Thu, 16 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/untitled_0.png",
+      "snippet": "Sayrul Kabir Khan urged everyone to pray for Fakhrul's speedy recovery."
+    },
+    {
+      "title": "Broken homes, broken hopes in Manik Pathan village after the flood",
+      "link": "https://www.tbsnews.net/bangladesh/broken-homes-broken-hopes-manik-pathan-village-after-flood-1490386",
+      "pubDate": "Thu, 16 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/744734303_1005109505675742_8885228542535216607_n.jpg",
+      "snippet": "Floods hit Manik Pathan after 80% of Banshkhali was submerged"
+    },
+    {
+      "title": "Fire Service diver's body recovered from Shitalakkha river after 8-hour search",
+      "link": "https://www.tbsnews.net/bangladesh/fire-service-divers-body-recovered-shitalakkha-river-after-8-hour-search-1490391",
+      "pubDate": "Thu, 16 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/rewards_in_your_wallet.jpg",
+      "snippet": "Md Sadik fell from a speedboat while clearing water hyacinth near a fire jetty in Narayanganj and was later found dead during a rescue operation involving multiple agencies."
+    },
+    {
+      "title": "Tamijuddin Textile shuts down factory over unrest, flouts disclosure rules",
+      "link": "https://www.tbsnews.net/economy/stocks/tamijuddin-textile-shuts-down-factory-over-unrest-flouts-disclosure-rules-1490376",
+      "pubDate": "Thu, 16 Jul 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/10/tamijuddin_textile.jpg",
+      "snippet": "Tamijuddin Textile’s turnover fell 9% to Tk275 crore in the first nine months of FY2025-26."
+    },
+    {
+      "title": "EC to publish final list of polling centres for local govt polls on 27 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/ec-publish-final-list-polling-centres-local-govt-polls-27-aug-1490356",
+      "pubDate": "Thu, 16 Jul 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_6.jpg",
+      "snippet": "Draft list to be released on 10 Aug; claims and objections can be filed until 18 Aug."
+    },
+    {
+      "title": "BB extends special loan rescheduling facilities for finance companies",
+      "link": "https://www.tbsnews.net/economy/banking/bb-extends-special-loan-rescheduling-facilities-finance-companies-1490371",
+      "pubDate": "Thu, 16 Jul 2026 21:10:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
+      "snippet": "The central bank’s Finance Company Regulation and Policy Department (FCRPD) said the extension aligns the regulatory support available to NBFI borrowers with facilities already provided to clients of commercial banks."
+    },
+    {
       "title": "Bangladesh to buy both Boeing and Airbus aircraft: Shama Obaed",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-buy-both-boeing-and-airbus-aircraft-shama-obaed-1490331",
       "pubDate": "Thu, 16 Jul 2026 20:45:00 +0600",
@@ -188,7 +265,7 @@
       "snippet": "Students have questioned the education minister’s role, weather-related decisions, and exam standards. At the same time, they also made some demands that raised eyebrows."
     },
     {
-      "title": "Dhaka North approves Tk4,527.74cr budget, highest allocation for road infrastructure",
+      "title": "Dhaka north budget shrinks 25%, but waste and mosquito control allocations rise",
       "link": "https://www.tbsnews.net/bangladesh/dhaka-north-approves-tk452774cr-budget-highest-allocation-road-infrastructure-1490166",
       "pubDate": "Thu, 16 Jul 2026 18:40:00 +0600",
       "category": "Bangladesh",
@@ -196,10 +273,10 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/15/dncc.png",
-      "snippet": "The proposed budget sets a revenue income target of Tk2,531.72 crore, which is around 56% of the total income."
+      "snippet": "The allocation for mosquito control and healthcare has also increased to Tk208.85 crore, compared with Tk187.75 crore in the previous fiscal year."
     },
     {
-      "title": "IMF warns Bangladesh's GDP growth could slow to 3.5% in FY27 without reforms",
+      "title": "Without reforms, Bangladesh's GDP growth could slow to 3.5% in FY27: IMF",
       "link": "https://www.tbsnews.net/economy/imf-warns-bangladeshs-gdp-growth-could-slow-35-fy27-without-reforms-1490181",
       "pubDate": "Thu, 16 Jul 2026 18:40:00 +0600",
       "category": "Bangladesh",
@@ -207,16 +284,16 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/24/panorama_30_10_2022_0.png",
-      "snippet": "Finance minister says reforms under a new IMF programme will be implemented in phases based on the priorities of an elected government."
+      "snippet": "Reforms will be phased under govt’s priorities, Khosru tells IMF."
     },
     {
       "title": "Invest Bangladesh to be formed by unifying Bida, Beza & PPPA",
       "link": "https://www.tbsnews.net/economy/invest-bangladesh-be-formed-unifying-bida-beza-pppa-1490171",
       "pubDate": "Thu, 16 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/investment_bangladesh.jpg",
       "snippet": "Parliament approves law to unify Bida, Beza and PPPA under Invest Bangladesh."
     },
@@ -230,50 +307,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/28/bida_logo_new.jpg",
       "snippet": "The survey aims to provide a comprehensive picture of Bangladesh's investment landscape to support evidence-based policymaking and identify the country's active investors."
-    },
-    {
-      "title": "TCB to introduce AI-based market analysis, digitise public procurement systems",
-      "link": "https://www.tbsnews.net/bangladesh/tcb-introduce-ai-based-market-analysis-digitise-public-procurement-systems-1490141",
-      "pubDate": "Thu, 16 Jul 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/11/tcb.jpg",
-      "snippet": "Artificial intelligence is set to reshape how TCB monitors markets and procures essential goods, as Bangladesh pushes to modernise public purchasing"
-    },
-    {
-      "title": "5 European envoys, PM's Adviser Humayun discuss strengthening civil aviation cooperation",
-      "link": "https://www.tbsnews.net/bangladesh/5-european-envoys-pms-adviser-humayun-discuss-strengthening-civil-aviation-cooperation",
-      "pubDate": "Thu, 16 Jul 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/humayun_kabir_with_eu_envoys.jpg",
-      "snippet": "The discussions focused on expanding cooperation in trade, investment and defence, with both sides reaffirming their commitment to strengthening longstanding bilateral relations."
-    },
-    {
-      "title": "State Minister Ishraque calls for trial over July Uprising, past political killings",
-      "link": "https://www.tbsnews.net/bangladesh/state-minister-ishraque-calls-trial-over-july-uprising-past-political-killings-1490086",
-      "pubDate": "Thu, 16 Jul 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/18/ishraque.png",
-      "snippet": "The state minister said Wasim was speaking both as a political activist who supported the July uprising and as a participant in the anti-government movement."
-    },
-    {
-      "title": "2 Bangladeshi expats killed in Saudi road crash",
-      "link": "https://www.tbsnews.net/bangladesh/2-bangladeshi-expat-killed-saudi-road-crash-1490061",
-      "pubDate": "Thu, 16 Jul 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/2_expat_saudi_arabia.jpg",
-      "snippet": "The siblings were returning to Jeddah from Riyadh when their vehicle was involved in a head-on collision, family says."
     },
     {
       "title": "Measles death toll rises to 779 as 8 more children die in 24hrs",
@@ -934,18 +967,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/2.jpg",
       "snippet": "Three were sent to court and 7-day remand hearing scheduled for 16 July"
-    },
-    {
-      "title": "BB extends Foreign Currency-Taka swap facility to exporters in specialised economic zones",
-      "link": "https://www.tbsnews.net/economy/bb-extends-foreign-currency-taka-swap-facility-exporters-specialised-economic-zones-1487591",
-      "pubDate": "Mon, 13 Jul 2026 21:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/forex.png",
-      "snippet": "The move allows exporters in EPZs, private EPZs, economic zones and high-tech parks to access short-term Taka liquidity without converting their foreign currency holdings."
     }
   ],
-  "updatedAt": "2026-07-16T15:10:04.324Z"
+  "updatedAt": "2026-07-16T16:49:17.346Z"
 }
