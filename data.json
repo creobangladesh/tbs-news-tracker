@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Govt to support flood-hit farmers, fishermen, livestock farmers: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-support-flood-hit-farmers-fishermen-livestock-farmers-minister-1490476",
+      "pubDate": "Fri, 17 Jul 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/agri_minister.jpg",
+      "snippet": "Assistance will be provided based on the extent of damage, with the worst-affected areas receiving priority, says Mohammad Amin Ur Rashid."
+    },
+    {
+      "title": "Ctg salt factory fire leaves two dead, six in critical condition",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-salt-factory-fire-leaves-two-dead-six-critical-condition-1490471",
+      "pubDate": "Fri, 17 Jul 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
+      "snippet": "Earlier in the day, the fire broke out at the Confidence Salt factory in the West Gomdandi area of Boalkhali municipality last morning when welding work was underway in the generator room."
+    },
+    {
+      "title": "Eastern Refinery 2 to save Bangladesh $473m every year",
+      "link": "https://www.tbsnews.net/bangladesh/energy/eastern-refinery-2-save-bangladesh-473m-every-year-1490466",
+      "pubDate": "Fri, 17 Jul 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/29/eastern.jpg",
+      "snippet": "The government plans to secure over $1 billion in Islamic Development Bank financing for the Eastern Refinery Limited-2 project, which is expected to save $20 on every barrel of crude oil imported and boost the country's refining capacity."
+    },
+    {
+      "title": "Beware the risky whale: How AI is rewriting the rules of customer lifetime value",
+      "link": "https://www.tbsnews.net/thoughts/beware-risky-whale-how-ai-rewriting-rules-customer-lifetime-value-1490461",
+      "pubDate": "Fri, 17 Jul 2026 00:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/ai_artificial_intelligence.jpg",
+      "snippet": "By seeing beyond the illusion of linear subtraction, businesses can finally separate true, profitable loyalty from the deceptive metrics of financial distress, securing their bottom line and fostering a much healthier digital economy"
+    },
+    {
+      "title": "Hasina will be arrested whenever she comes to Bangladesh: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/hasina-will-be-arrested-whenever-she-comes-bangladesh-shama-obaed-1490441",
+      "pubDate": "Fri, 17 Jul 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/shama.png",
+      "snippet": "The state minister said the people of Bangladesh want court orders to be implemented against those living abroad."
+    },
+    {
+      "title": "HSC protests reflect structural flaws, student frustration: Analysts",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-protests-reflect-structural-flaws-student-frustration-analysts-1490456",
+      "pubDate": "Fri, 17 Jul 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/_rd_4392.jpeg",
+      "snippet": "Restoring students’ confidence requires fundamental reform, they say"
+    },
+    {
+      "title": "Why Saarc is still relevant for South Asia",
+      "link": "https://www.tbsnews.net/thoughts/why-saarc-still-relevant-south-asia-1490446",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/remittance-earnings-from-saarc_0.png",
+      "snippet": "In the volatile world dynamics of energy shocks, climate risks, and shifting alliances, regional cooperation is essential. A revived Saarc could transform South Asia from one of the world’s least-integrated regions into a hub of collective resilience..."
+    },
+    {
       "title": "Bangladesh's fertility U-turn: The case for demographic governance ",
       "link": "https://www.tbsnews.net/thoughts/bangladeshs-fertility-u-turn-case-demographic-governance-1490431",
       "pubDate": "Thu, 16 Jul 2026 23:55:00 +0600",
@@ -30,8 +107,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/khondkar_misbah_ul_azim_.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/khondkar_misbah_ul_azim_navy.png",
       "snippet": "Currently serving as Bangladesh's ambassador to Oman, he will be promoted to vice admiral and assume charge as the chief of the Bangladesh Navy on 23 July."
+    },
+    {
+      "title": "All remaining HSC, equivalent exams in Ctg postponed indefinitely over floods",
+      "link": "https://www.tbsnews.net/bangladesh/education/all-remaining-hsc-equivalent-exams-ctg-postponed-indefinitely-over-floods",
+      "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
+      "snippet": "The decision covers all remaining HSC and equivalent examinations under the Chattogram Education Board, as well as Madrasah and Technical Education Boards in the region, citing post-flood conditions and difficulties faced by examinees."
     },
     {
       "title": "Clearing Tk7,000cr insurance claims tops reform agenda: New Idra chairman",
@@ -221,39 +309,6 @@
       "snippet": "The Foreign Ministry urged the repatriated migrants to share their painful experiences with the public to help raise awareness about the risks of irregular migration and human trafficking."
     },
     {
-      "title": "Saudi Arabia to offer 500 annual scholarships to Bangladeshi students: Envoy",
-      "link": "https://www.tbsnews.net/bangladesh/saudi-arabia-offer-500-annual-scholarships-bangladeshi-students-envoy-1490236",
-      "pubDate": "Thu, 16 Jul 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/saudi_envoy_mahdi_amin.png",
-      "snippet": "The envoy said the Saudi government had confirmed the allocation of 500 scholarships every year for Bangladeshi students and added that he had already informed Prime Minister Tarique Rahman about the initiative."
-    },
-    {
-      "title": "Police must perform duties as servants of people: IGP",
-      "link": "https://www.tbsnews.net/bangladesh/police-must-perform-duties-servants-people-igp-1490221",
-      "pubDate": "Thu, 16 Jul 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/igp_ali_hossain_fakir_spoke_as_the_chief_guest_at_the_bangladesh_police_academy_parade_ground_in_sardah_rajshahi._photo_bss.png",
-      "snippet": "The IGP advised the new officers to develop expertise in Artificial Intelligence (AI) and digital forensics to combat various technology-based crimes, including online gambling and the spread of rumours on social media."
-    },
-    {
-      "title": "Fresh rain raises flood recovery fears in Ctg; ports advised to hoist signal no 3",
-      "link": "https://www.tbsnews.net/bangladesh/fresh-rain-raises-flood-recovery-fears-ctg-ports-advised-hoist-signal-no-3-1490211",
-      "pubDate": "Thu, 16 Jul 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/ctg_flood4.jpg",
-      "snippet": "Authorities forecast light to heavy rainfall across coastal areas over the next few days, raising fresh concerns as flood-hit communities continue recovery efforts."
-    },
-    {
       "title": "BB issues framework for import trade in Free Trade Zones",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-issues-framework-import-trade-free-trade-zones-1490216",
       "pubDate": "Thu, 16 Jul 2026 19:20:00 +0600",
@@ -265,35 +320,13 @@
       "snippet": "Under the framework, ADs and Offshore Banking Units (OBUs) will handle FTZ-related transactions in line with foreign exchange regulations."
     },
     {
-      "title": "Residents demand convenient location for North Fatikchhari Upazila headquarters, block highway",
-      "link": "https://www.tbsnews.net/bangladesh/residents-demand-convenient-location-north-fatikchhari-upazila-headquarters-block-highway",
-      "pubDate": "Thu, 16 Jul 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/fatikcchari_north_upazila.jpg",
-      "snippet": "Police said demonstrators were continuing their programme at Heyako Bazar at the time of filing this report."
-    },
-    {
-      "title": "Tree monitoring app to be launched to track progress of 25-crore sapling drive",
-      "link": "https://www.tbsnews.net/bangladesh/tree-monitoring-app-be-launched-track-progress-25-crore-sapling-drive-1490191",
-      "pubDate": "Thu, 16 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/04/56bae2cdc409e1344c60d5f484c79b07_og.jpg",
-      "snippet": "The five-year afforestation programme, a key election pledge of Prime Minister Tarique Rahman's government, aims to plant 25 crore trees to address environmental degradation and climate change challenges, the release said."
-    },
-    {
       "title": "Viral clips capture HSC students' anger, anxiety, and divided views",
       "link": "https://www.tbsnews.net/bangladesh/education/viral-clips-capture-hsc-students-anger-anxiety-and-divided-views-1490201",
       "pubDate": "Thu, 16 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
       "snippet": "Students have questioned the education minister’s role, weather-related decisions, and exam standards. At the same time, they also made some demands that raised eyebrows."
     },
@@ -936,17 +969,6 @@
       "snippet": "With the latest additions, Bangladesh now has 290 LEED-certified RMG factories, including 125 Platinum-rated and 145 Gold-rated facilities."
     },
     {
-      "title": "HSC examinees protest: Students briefly gather outside parliament again after police baton charge",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-examinees-block-science-lab-uttara-roads-demanding-education-ministers",
-      "pubDate": "Tue, 14 Jul 2026 12:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/744593860_1032245902788624_7951673639696419940_n_0.jpg",
-      "snippet": "Protests were held in Dhaka, Cumilla, Bogura, Barishal, Chattogram, Faridpur and Brahmanbaria over the government's decision to continue HSC and equivalent examinations despite adverse weather conditions."
-    },
-    {
       "title": "Can 'sponge cities' help Bangladesh beat urban flooding?",
       "link": "https://www.tbsnews.net/features/panorama/can-sponge-cities-help-bangladesh-beat-urban-flooding-1487806",
       "pubDate": "Tue, 14 Jul 2026 11:00:00 +0600",
@@ -978,18 +1000,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ev-car.png",
       "snippet": "Sector’s biggest challenge shifted to ensuring reliable electricity"
-    },
-    {
-      "title": "Education consultancy owner, 2 others arrested over Tk15.5cr overseas study scam  ",
-      "link": "https://www.tbsnews.net/bangladesh/crime/education-consultancy-owner-2-others-arrested-over-tk155cr-overseas-study-scam",
-      "pubDate": "Tue, 14 Jul 2026 10:25:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/2.jpg",
-      "snippet": "Three were sent to court and 7-day remand hearing scheduled for 16 July"
     }
   ],
-  "updatedAt": "2026-07-16T18:06:44.494Z"
+  "updatedAt": "2026-07-16T19:41:24.869Z"
 }
