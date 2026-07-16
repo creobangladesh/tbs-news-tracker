@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "Maritime ports asked to keep loacl cautionary signal No 3",
+      "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-loacl-cautionary-signal-no-3-1489826",
+      "pubDate": "Thu, 16 Jul 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/maritime_ports_cautionary_signal-converted-from-webp.jpeg",
+      "snippet": "Four maritime ports remain on alert as the weather system over the Bay strengthens."
+    },
+    {
+      "title": "Despite peak Hilsa season, fishermen struggle to make worthwhile catches in Shariatpur",
+      "link": "https://www.tbsnews.net/bangladesh/despite-peak-hilsa-season-fishermen-struggle-make-worthwhile-catches-shariatpur-1489806",
+      "pubDate": "Thu, 16 Jul 2026 14:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/photo-4.jpeg",
+      "snippet": "According to data obtained from the Department of Fisheries, Hilsa production in Shariatpur has fallen by 823 tonnes over the past five years."
+    },
+    {
+      "title": "Chittagong Chamber of Commerce donates Tk1 crore to PM's relief fund for flood victims",
+      "link": "https://www.tbsnews.net/bangladesh/chittagong-chamber-commerce-donates-tk1-crore-pms-relief-fund-flood-victims-1489796",
+      "pubDate": "Thu, 16 Jul 2026 14:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/pm_relief.jpg",
+      "snippet": "CCCI President handed over the cheque to Prime Minister Tarique Rahman."
+    },
+    {
+      "title": "Industrial Police seeks permanent headquarters, more manpower",
+      "link": "https://www.tbsnews.net/bangladesh/industrial-police-seeks-permanent-headquarters-more-manpower-1489786",
+      "pubDate": "Thu, 16 Jul 2026 14:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/04/industrial-police.jpg",
+      "snippet": "The force currently operates nine units across the country, including four full-fledged units in Ashulia-Savar, Gazipur, Narayanganj and Chattogram."
+    },
+    {
+      "title": "Life in one of the world's hottest towns: How residents of India's Banda struggle with extreme heat",
+      "link": "https://www.tbsnews.net/bangladesh/life-one-worlds-hottest-towns-how-residents-indias-banda-struggle-extreme-heat-1489751",
+      "pubDate": "Thu, 16 Jul 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/how_banda_residents_struggle_with_extreme_heat-converted-from-webp.jpeg",
+      "snippet": "\"What is happening here is a global phenomenon. It is because of climate change. We are the recipient of this,\" he said."
+    },
+    {
+      "title": "Warning labels on food package front urged to curb rising health risks",
+      "link": "https://www.tbsnews.net/events/warning-labels-front-food-packages-urged-curb-rising-health-risks-1489746",
+      "pubDate": "Thu, 16 Jul 2026 13:20:00 +0600",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/03/tbs_illustration.png",
+      "snippet": "Simple warning labels on the front of food packages can significantly curb the rise of non-communicable diseases by improving consumer awareness"
+    },
+    {
+      "title": "10 workers burnt in fire at Chattogram salt factory, 8 critical",
+      "link": "https://www.tbsnews.net/bangladesh/10-workers-burnt-fire-chattogram-salt-factory-8-critical-1489731",
+      "pubDate": "Thu, 16 Jul 2026 13:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/whatsapp_image_2026-07-16_at_1.08.43_pm.jpeg",
+      "snippet": "All of them were admitted to the burn unit of Chattogram Medical College Hospital."
+    },
+    {
+      "title": "Salman F Rahman granted bail in Tk112 crore cheque dishonour case",
+      "link": "https://www.tbsnews.net/bangladesh/court/salman-f-rahman-granted-bail-tk112-crore-cheque-dishonour-case-1489716",
+      "pubDate": "Thu, 16 Jul 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/745952213_2564014234096881_3969018324315365280_n.jpg",
+      "snippet": "The court granted bail upon a bond of Tk1,000."
+    },
+    {
+      "title": "Biman seeks proposals for dry lease of 3 Dreamliners to expand fleet",
+      "link": "https://www.tbsnews.net/economy/aviation/biman-seeks-proposals-dry-lease-3-dreamliners-expand-fleet-1489696",
+      "pubDate": "Thu, 16 Jul 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/biman_0.jpg",
+      "snippet": "According to a Request for Proposal (RFP) issued on July 15, the national flag carrier is seeking offers from airlines, aircraft operators, owners, manufacturers and leasing companies for the dry lease of three Boeing 787-9 aircraft for a period of 7..."
+    },
+    {
+      "title": "Bangladesh looking to Dutch expertise for long-term flood management: Forhad",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-looking-dutch-expertise-long-term-flood-management-forhad-1489701",
+      "pubDate": "Thu, 16 Jul 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/state_minister_for_water_resources_forhad_hossain_azad.jpg",
+      "snippet": "There will be no shortage of geo-bags if emergency needs arise anywhere in the country, he said."
+    },
+    {
+      "title": "Youth stabbed in a crowd while watching Argentina-England match in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/youth-stabbed-crowd-while-watching-argentina-england-match-ctg-1489686",
+      "pubDate": "Thu, 16 Jul 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/stabbing.jpg",
+      "snippet": "The injured, Md Asadul Haque, 21"
+    },
+    {
       "title": "Agrochemical makers file complaint over raw material import restrictions",
       "link": "https://www.tbsnews.net/agriculture/agrochemical-makers-file-complaint-over-raw-material-import-restrictions-1489666",
       "pubDate": "Thu, 16 Jul 2026 12:05:00 +0600",
@@ -52,7 +173,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/05/death.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/messenger_creation_1943510309662459.jpeg",
       "snippet": "According to police and local sources, they were on their way home after watching the world cup semi-final between England and Argentina on a giant outdoor screen."
     },
     {
@@ -122,63 +243,8 @@
       "snippet": "President said the July Mass Uprising was an outburst of the people's long-standing anger against discrimination, corruption, enforced disappearances, killings, deprivation of voting rights, repression and fascist misrule."
     },
     {
-      "title": "Today marks historic July Martyrs’ Day",
-      "link": "https://www.tbsnews.net/bangladesh/today-marks-historic-july-martyrs-day-1489511",
-      "pubDate": "Thu, 16 Jul 2026 03:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/06/abu_sayeed_0.jpg",
-      "snippet": "On this day in 2024, at least six people were killed during the anti-fascist movement."
-    },
-    {
-      "title": "Eight days of rain damages 197km of Ctg roads, surpassing six years’ monsoon toll",
-      "link": "https://www.tbsnews.net/bangladesh/eight-days-rain-damages-197km-ctg-roads-surpassing-six-years-monsoon-toll-1489506",
-      "pubDate": "Thu, 16 Jul 2026 01:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/p5_ctg_damaged_road_news_photo7.jpg",
-      "snippet": "Chattogram received 1,354mm of rainfall between 6am on 5 July and 3pm on 12 July. Of that, 412mm fell in the 24 hours ending 3pm on 7 July – the city’s highest daily rainfall in 43 years."
-    },
-    {
-      "title": "No scope for Hasina to appeal; verdict must be enforced upon return: Nahid ",
-      "link": "https://www.tbsnews.net/bangladesh/no-scope-hasina-appeal-verdict-must-be-enforced-upon-return-nahid-1489496",
-      "pubDate": "Wed, 15 Jul 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/nahid.jpeg",
-      "snippet": "Nahid Islam says authorities should arrest Sheikh Hasina upon her return to Bangladesh and enforce the court's verdict in accordance with the law."
-    },
-    {
-      "title": "Bangladesh risks falling behind without urgent action on AI and automation, experts warn",
-      "link": "https://www.tbsnews.net/bangladesh/automation-ai-threaten-bangladeshs-labour-market-without-urgent-policy-reforms-experts",
-      "pubDate": "Wed, 15 Jul 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/09/labour.jpg",
-      "snippet": "Experts warn that weak policy implementation, inadequate skills development and limited social protection could leave millions of workers vulnerable as automation reshapes the labour market."
-    },
-    {
-      "title": "Saudi Arabia keen to invest up to $1b in Bangladesh's ports, infrastructure",
-      "link": "https://www.tbsnews.net/bangladesh/saudi-arabia-keen-invest-1-billion-bangladeshs-ports-infrastructure-1489476",
-      "pubDate": "Wed, 15 Jul 2026 23:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/f54684d4-f478-48fb-82d5-1f5c67ab4f57.jpg",
-      "snippet": "The delegation was led by Saudi Arabia's Vice Minister for Transport and Logistic Services Dr Rumaih Mohammed Al-Rumaih."
-    },
-    {
       "title": "The man who taught me to love football",
-      "link": "https://www.tbsnews.net/features/man-who-taught-me-love-football-1489471",
+      "link": "https://www.tbsnews.net/thoughts/man-who-taught-me-love-football-1489471",
       "pubDate": "Wed, 15 Jul 2026 22:55:00 +0600",
       "category": "Thoughts",
       "color": "#455a64",
@@ -186,61 +252,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/23/messi_4.jpg",
       "snippet": "Beyond tactics and rivalries lies the true magic of football. One fan shares her journey of blurry late-night screens, childhood memories, and the distant legend who taught her that some dreams are always worth chasing."
-    },
-    {
-      "title": "Bogura college mistakenly hands last year's question paper to 42 HSC candidates",
-      "link": "https://www.tbsnews.net/bangladesh/bogura-college-mistakenly-hands-last-years-question-paper-42-hsc-candidates-1489451",
-      "pubDate": "Wed, 15 Jul 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
-      "snippet": "The authorities have sent the candidates' details to the Rajshahi Education Board and issued show-cause notices to two invigilators."
-    },
-    {
-      "title": "Two die of dengue, 391 hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/two-die-dengue-391-hospitalised-24hrs-1489431",
-      "pubDate": "Wed, 15 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
-      "snippet": "Both deaths were reported in Dhaka South City Corporation, while the year's total dengue cases climbed to 9,370, according to the DGHS."
-    },
-    {
-      "title": "ASK condemns shooting at journalists in Khulna, demands swift action",
-      "link": "https://www.tbsnews.net/bangladesh/ask-condemns-shooting-journalists-khulna-demands-swift-action-1489446",
-      "pubDate": "Wed, 15 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/30/ask_logo_0.jpg",
-      "snippet": "The rights body says attacks on journalists threaten press freedom and calls for a fair probe."
-    },
-    {
-      "title": "Miscreants open fire at journos in Khulna; no casualties reported",
-      "link": "https://www.tbsnews.net/bangladesh/miscreants-open-fire-journos-khulna-no-casualties-reported-1489411",
-      "pubDate": "Wed, 15 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/khulna_map.jpg",
-      "snippet": "Police recovered part of a bullet from the scene and said they were investigating the motive behind the attack."
-    },
-    {
-      "title": "DMTCL forms committee to implement HC directives on MRT-6 safety",
-      "link": "https://www.tbsnews.net/bangladesh/transport/dmtcl-forms-committee-implement-hc-directives-mrt-6-safety-1489396",
-      "pubDate": "Wed, 15 Jul 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/dhaka_mass_transit_company_limited_dmtcl.jpg",
-      "snippet": "The committee will monitor progress on 28 recommendations made after a safety audit following last year’s accident that killed a pedestrian."
     },
     {
       "title": "Ctg Chamber urges BB to reject proposed hike in banking fees",
@@ -661,17 +672,6 @@
       "snippet": "The teachers have been instructed to submit written explanations within three working days."
     },
     {
-      "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
-      "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
-      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
-      "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
-    },
-    {
       "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
       "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
       "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
@@ -681,6 +681,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
       "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
+    },
+    {
+      "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
+      "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
+      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
+      "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
     },
     {
       "title": "Primary school dropout rate stands at 16.25%: Education minister",
@@ -989,29 +1000,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/740812294_939952482443947_516526457937535675_n.jpg",
       "snippet": "Chattogram health officials noted that a crisis of safe drinking water and sanitation during floods rapidly accelerates the risk of diarrhoea and other waterborne illnesses"
-    },
-    {
-      "title": "Heavy rain leaves Faridpur Medical College Hospital waterlogged, disrupting medical services",
-      "link": "https://www.tbsnews.net/bangladesh/health/heavy-rain-leaves-faridpur-medical-college-hospital-waterlogged-disrupting-medical",
-      "pubDate": "Mon, 13 Jul 2026 14:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/faridpur_medical.jpg",
-      "snippet": "The waterlogging was caused by poor drainage and inadequate urban planning."
-    },
-    {
-      "title": "All upazila hospitals to get modern pathology labs by this year: Health minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/all-upazila-hospitals-get-modern-pathology-labs-year-health-minister-1486976",
-      "pubDate": "Mon, 13 Jul 2026 13:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/health_minister.jpg",
-      "snippet": "He also outlines plans to make healthcare more accessible at the grassroots level."
     }
   ],
-  "updatedAt": "2026-07-16T06:43:07.503Z"
+  "updatedAt": "2026-07-16T09:13:44.724Z"
 }
