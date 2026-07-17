@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Bangladesh loses EU apparel market share faster than rivals",
+      "link": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-eu-apparel-market-share-faster-rivals-1490571",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/21/rmg_garments_factory_apparel_6.jpg",
+      "snippet": "According to the latest Eurostat data compiled by the Bangladesh Apparel Voice, total EU apparel imports fell 9.96% year-on-year to €33.84 billion during January-May 2026, down from €37.58 billion in the same period a year earlier"
+    },
+    {
+      "title": "Floods cause Tk287.25cr losses to fisheries, livestock in Chattogram division",
+      "link": "https://www.tbsnews.net/bangladesh/floods-cause-tk28725cr-losses-fisheries-livestock-chattogram-division-1490566",
+      "pubDate": "Fri, 17 Jul 2026 09:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_3.39.44_pm.jpeg",
+      "snippet": "Nearly 44,800 hectares of cropland damaged, affecting 287,735 farmers"
+    },
+    {
+      "title": "BSRM plans Tk10,000cr flat steel plant to cut import dependence",
+      "link": "https://www.tbsnews.net/economy/industry/bsrm-plans-tk10000cr-flat-steel-plant-cut-import-dependence-1490536",
+      "pubDate": "Fri, 17 Jul 2026 07:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/04/bsrm.png",
+      "snippet": "It says country’s first such plant could save up to Tk15,000 crore annually"
+    },
+    {
+      "title": "IUB launches supply chain management major",
+      "link": "https://www.tbsnews.net/bangladesh/education/iub-launches-supply-chain-management-major-1490511",
+      "pubDate": "Fri, 17 Jul 2026 06:45:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/ee085ab3-439b-4120-9817-629cfc51ffe1_16x9.png",
+      "snippet": ""
+    },
+    {
       "title": "Govt to support flood-hit farmers, fishermen, livestock farmers: Minister",
       "link": "https://www.tbsnews.net/bangladesh/govt-support-flood-hit-farmers-fishermen-livestock-farmers-minister-1490476",
       "pubDate": "Fri, 17 Jul 2026 01:10:00 +0600",
@@ -265,28 +309,6 @@
       "snippet": "Earlier proposal sought to halve the monthly car maintenance allowance for officials using the government’s interest-free vehicle loan scheme."
     },
     {
-      "title": "Bangladeshi graduates launch AI farm supply-chain platform in Malaysia",
-      "link": "https://www.tbsnews.net/economy/corporates/bangladeshi-graduates-launch-ai-farm-supply-chain-platform-malaysia-1490266",
-      "pubDate": "Thu, 16 Jul 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/1_16x9_1.png",
-      "snippet": "The platform aims to connect farmers and importers directly with grocery retailers, hotels and restaurants while reducing spoilage, transport delays and unnecessary handling."
-    },
-    {
-      "title": "Pirates loot foreign vessel at Chattogram Port's outer anchorage",
-      "link": "https://www.tbsnews.net/bangladesh/crime/pirates-loot-foreign-vessel-chattogram-ports-outer-anchorage-1490276",
-      "pubDate": "Thu, 16 Jul 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/tanker_tai_shuen.jpg",
-      "snippet": "The vessel had arrived in Bangladesh for dismantling at Janata Steel's shipbreaking yard in Sitakunda."
-    },
-    {
       "title": "Dhaka: A city that built over its canals is now drowning in rain",
       "link": "https://www.tbsnews.net/features/big-picture/dhaka-city-built-over-its-canals-now-drowning-rain-1490271",
       "pubDate": "Thu, 16 Jul 2026 19:50:00 +0600",
@@ -296,17 +318,6 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/169.png",
       "snippet": "Dhaka’s flooding crisis tells the story of a city that dismantled its own defences against rain"
-    },
-    {
-      "title": "171 Bangladeshis repatriated from Libya",
-      "link": "https://www.tbsnews.net/bangladesh/171-bangladeshis-repatriated-libya-1490246",
-      "pubDate": "Thu, 16 Jul 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/libya_embassy_img_1.jpg",
-      "snippet": "The Foreign Ministry urged the repatriated migrants to share their painful experiences with the public to help raise awareness about the risks of irregular migration and human trafficking."
     },
     {
       "title": "BB issues framework for import trade in Free Trade Zones",
@@ -925,17 +936,6 @@
       "snippet": "Students affected by floods or administrative failures during HSC exams will get another chance if needed, he says, assuring that no student will be deprived."
     },
     {
-      "title": "HSC exams held smoothly after consulting local authorities, weather office: Education minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-held-smoothly-after-consulting-local-authorities-weather-office",
-      "pubDate": "Tue, 14 Jul 2026 17:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament.png",
-      "snippet": "Addressing complaints, Milon says errors had been identified in questions 6 and 7 of the physics paper and assured parliament that all candidates would receive full marks for those two questions."
-    },
-    {
       "title": "Why did a World Cup happening 12,000kms away get 12 killed in Bangladesh?",
       "link": "https://www.tbsnews.net/thoughts/why-did-12000-kilometers-blind-rage-have-kill-12-bangladeshis-1488116",
       "pubDate": "Tue, 14 Jul 2026 16:10:00 +0600",
@@ -989,18 +989,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/03/2022-10-19t123834z_1696175355_rc2b4x9in6tm_rtrmadp_3_germany-politics-wissing.jpg",
       "snippet": "Industry leaders say tax incentives alone will not be enough to accelerate the expansion of EV charging stations unless electricity supply becomes more reliable"
-    },
-    {
-      "title": "EV investments spark on budget perks",
-      "link": "https://www.tbsnews.net/economy/ev-investments-spark-budget-perks-1487731",
-      "pubDate": "Tue, 14 Jul 2026 10:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ev-car.png",
-      "snippet": "Sector’s biggest challenge shifted to ensuring reliable electricity"
     }
   ],
-  "updatedAt": "2026-07-17T01:00:59.637Z"
+  "updatedAt": "2026-07-17T04:41:08.274Z"
 }
