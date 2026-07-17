@@ -1,7 +1,51 @@
 {
   "news": [
     {
-      "title": "'Hacker' arrested over NBR, Ctg port system breach to facilitate smuggling worth crores ",
+      "title": "What our stock and bond markets say about Bangladeshis",
+      "link": "https://www.tbsnews.net/thoughts/what-our-stock-and-bond-markets-say-about-bangladeshis-1490921",
+      "pubDate": "Fri, 17 Jul 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/stocks_dse_11_0.jpeg",
+      "snippet": "A functioning bond market requires a credible risk-free benchmark, confidence that inflation will not erode fixed payments, and courts that can enforce contracts when borrowers refuse to pay"
+    },
+    {
+      "title": "What our stock and bond markets say about Bangladeshis",
+      "link": "https://www.tbsnews.net/thoughts/what-our-stock-and-bond-markets-say-about-bangladeshis-1490881",
+      "pubDate": "Fri, 17 Jul 2026 19:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/stocks_dse_11.jpeg",
+      "snippet": "A functioning bond market requires a credible risk-free benchmark, confidence that inflation will not erode fixed payments, and courts that can enforce contracts when borrowers refuse to pay"
+    },
+    {
+      "title": "Jamaat warns of street movement if constitutional reforms not implemented",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-warns-street-movement-if-constitutional-reforms-not-implemented-1490876",
+      "pubDate": "Fri, 17 Jul 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/mia_golam_porwar.jpg",
+      "snippet": "Porwar said the current political crisis could be resolved through constitutional reforms based on the outcome of a referendum linked to the proposed July Charter."
+    },
+    {
+      "title": "Seven arrested over Chattogram security guard murder",
+      "link": "https://www.tbsnews.net/bangladesh/crime/seven-arrested-over-chattogram-security-guard-murder-1490866",
+      "pubDate": "Fri, 17 Jul 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/7_arrested_ctg_murder.jpg",
+      "snippet": "Police say the suspects were arrested within four hours of the case being filed, and the motive behind the killing is being investigated."
+    },
+    {
+      "title": "'Hacker' arrested over NBR, Ctg Port system breach to facilitate smuggling worth crores ",
       "link": "https://www.tbsnews.net/bangladesh/crime/hacker-arrested-over-nbr-ctg-port-system-breach-facilitate-smuggling-worth-crores",
       "pubDate": "Fri, 17 Jul 2026 18:30:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +53,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/hacker-arrested-over-nbr-ctg-port-system-breach-to-facilitate-smuggling.jpg",
-      "snippet": "Sezan allegedly helps a smuggling syndicate to evade Tk10-12 crore in duties through forged declarations."
+      "snippet": "Sezan allegedly helped a smuggling syndicate to evade Tk10-12 crore in duties through forged declarations."
     },
     {
       "title": "Bangladesh reaffirms commitment to sustainable urbanisation at UN meeting",
@@ -221,24 +265,13 @@
       "snippet": "According to the latest Eurostat data compiled by the Bangladesh Apparel Voice, total EU apparel imports fell 9.96% year-on-year to €33.84 billion during January-May 2026, down from €37.58 billion in the same period a year earlier"
     },
     {
-      "title": "Floods cause Tk287.25cr losses to fisheries, livestock in Chattogram division",
-      "link": "https://www.tbsnews.net/bangladesh/floods-cause-tk28725cr-losses-fisheries-livestock-chattogram-division-1490566",
-      "pubDate": "Fri, 17 Jul 2026 09:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/whatsapp_image_2026-07-12_at_3.39.44_pm.jpeg",
-      "snippet": "Nearly 44,800 hectares of cropland damaged, affecting 287,735 farmers"
-    },
-    {
       "title": "BSRM plans Tk10,000cr flat steel plant to cut import dependence",
       "link": "https://www.tbsnews.net/economy/industry/bsrm-plans-tk10000cr-flat-steel-plant-cut-import-dependence-1490536",
       "pubDate": "Fri, 17 Jul 2026 07:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/04/bsrm.png",
       "snippet": "It says country’s first such plant could save up to Tk15,000 crore annually"
     },
@@ -252,17 +285,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/ee085ab3-439b-4120-9817-629cfc51ffe1_16x9.png",
       "snippet": ""
-    },
-    {
-      "title": "Govt to support flood-hit farmers, fishermen, livestock farmers: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-support-flood-hit-farmers-fishermen-livestock-farmers-minister-1490476",
-      "pubDate": "Fri, 17 Jul 2026 01:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/agri_minister.jpg",
-      "snippet": "Assistance will be provided based on the extent of damage, with the worst-affected areas receiving priority, says Mohammad Amin Ur Rashid."
     },
     {
       "title": "Beware the risky whale: How AI is rewriting the rules of customer lifetime value",
@@ -890,73 +912,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/blue_economy.jpg",
       "snippet": "Policy experts say a comprehensive legal framework, stronger institutional coordination and science-based policymaking are essential to harness the country's vast marine resources."
-    },
-    {
-      "title": "Parliament passes bill to establish full-fledged public university in Bogura",
-      "link": "https://www.tbsnews.net/bangladesh/education/parliament-passes-bill-establish-full-fledged-public-university-bogura-1488411",
-      "pubDate": "Tue, 14 Jul 2026 20:35:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bogura_university.jpg",
-      "snippet": "The new law replaces the earlier plan for a science and technology university with a full-fledged public university in Bogura."
-    },
-    {
-      "title": "Education minister expresses regret over remarks on HSC examinees",
-      "link": "https://www.tbsnews.net/bangladesh/education/education-minister-expresses-regret-over-remarks-hsc-examinees-1488401",
-      "pubDate": "Tue, 14 Jul 2026 20:10:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament.png",
-      "snippet": "The minister says he did not intend to hurt anyone and suggests holding Chattogram Board's postponed Physics examination alongside the same subject test for other education boards."
-    },
-    {
-      "title": "HSC question paper errors: 4 teacher served show-cause notices",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-question-paper-errors-4-teacher-served-show-cause-notices-1488396",
-      "pubDate": "Tue, 14 Jul 2026 20:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/sylhet_edu_board_0.jpg",
-      "snippet": "The teachers have been instructed to submit written explanations within three working days."
-    },
-    {
-      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
-      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
-      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
-    },
-    {
-      "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
-      "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
-      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
-      "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
-    },
-    {
-      "title": "Primary school dropout rate stands at 16.25%: Education minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/primary-school-dropout-rate-stands-1625-education-minister-1488371",
-      "pubDate": "Tue, 14 Jul 2026 19:35:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/04/milon_.jpg",
-      "snippet": "The government is expanding incentives ranging from stipends and school feeding to free uniforms and home visits in an effort to keep more children in primary education."
     }
   ],
-  "updatedAt": "2026-07-17T12:43:11.704Z"
+  "updatedAt": "2026-07-17T14:43:41.988Z"
 }
