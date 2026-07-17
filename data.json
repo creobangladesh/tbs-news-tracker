@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Argentina's late-game DNA: How Scaloni built a team that refuses to lose",
+      "link": "https://www.tbsnews.net/sports/argentinas-late-game-dna-how-scaloni-built-team-refuses-lose-1490801",
+      "pubDate": "Fri, 17 Jul 2026 16:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/argentina_celebration.jpg",
+      "snippet": "Argentina's resilience under Lionel Scaloni has defined their 2026 World Cup knockout run, with late goals and tactical discipline keeping the defending champions on course for another title."
+    },
+    {
+      "title": "Govt surveying flood-hit areas, relief efforts to continue: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-surveying-flood-hit-areas-relief-efforts-continue-home-minister-1490771",
+      "pubDate": "Fri, 17 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/home_minister.jpg",
+      "snippet": "The surveys will assess damage to infrastructure and guide rehabilitation efforts, including support for affected farmers, to help people return to normal life quickly, the home minister said."
+    },
+    {
+      "title": "Opposition trying to mislead people over July Charter: Fakhrul",
+      "link": "https://www.tbsnews.net/bangladesh/politics/opposition-trying-mislead-people-over-july-charter-fakhrul-1490781",
+      "pubDate": "Fri, 17 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/mirza_fakhrul.jpg",
+      "snippet": "He says BNP remains committed to implementing the July Charter and rejects claims that the party is unwilling to do so."
+    },
+    {
+      "title": "Measles: Death toll reaches 780 as one more dies in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-780-one-more-dies-24hrs-1490791",
+      "pubDate": "Fri, 17 Jul 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "A total of 873 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 116,011."
+    },
+    {
+      "title": "'Ghonoghota 2' brings Charukola alive with dance, rain and resilience",
+      "link": "https://www.tbsnews.net/splash/ghonoghota-2-brings-charukola-alive-dance-rain-and-resilience-1490766",
+      "pubDate": "Fri, 17 Jul 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/26113f90-86cb-4eb7-a151-feea898b1ab6_1.jpg",
+      "snippet": "Organised by the Arthy Ahmed Dance Academy, the 90-minute open-air programme began at 11am today (17 July) and featured more than 300 performers aged between three and seventy."
+    },
+    {
+      "title": "Stage collapses during finance minister's relief distribution programme",
+      "link": "https://www.tbsnews.net/bangladesh/stage-collapses-during-finance-ministers-relief-distribution-programme-1490761",
+      "pubDate": "Fri, 17 Jul 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/blurred-frame_6.jpg",
+      "snippet": "MPs and local political leaders also climbed onto the stage, which later collapsed under the weight of the large number of people at around 11:30am"
+    },
+    {
+      "title": "When England lose, women bruise",
+      "link": "https://www.tbsnews.net/thoughts/when-england-lose-women-bruise-1490746",
+      "pubDate": "Fri, 17 Jul 2026 15:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/feature.png",
+      "snippet": "There is something uniquely absurd about living in a society that can predict a rise in violence against women with roughly the same confidence it predicts traffic after a bank holiday."
+    },
+    {
       "title": "Flood-hit farmers in 5 districts to get paddy seeds; all livestock to be vaccinated within 15 days: Minister ",
       "link": "https://www.tbsnews.net/agriculture/flood-hit-farmers-5-districts-get-paddy-seeds-all-livestock-be-vaccinated-within-15-days",
       "pubDate": "Fri, 17 Jul 2026 15:05:00 +0600",
@@ -188,24 +265,13 @@
       "snippet": "By seeing beyond the illusion of linear subtraction, businesses can finally separate true, profitable loyalty from the deceptive metrics of financial distress, securing their bottom line and fostering a much healthier digital economy"
     },
     {
-      "title": "Hasina will be arrested whenever she comes to Bangladesh: Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/hasina-will-be-arrested-whenever-she-comes-bangladesh-shama-obaed-1490441",
-      "pubDate": "Fri, 17 Jul 2026 00:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/shama.png",
-      "snippet": "The state minister said the people of Bangladesh want court orders to be implemented against those living abroad."
-    },
-    {
       "title": "HSC protests reflect structural flaws, student frustration: Analysts",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-protests-reflect-structural-flaws-student-frustration-analysts-1490456",
       "pubDate": "Fri, 17 Jul 2026 00:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/_rd_4392.jpeg",
       "snippet": "Restoring students’ confidence requires fundamental reform, they say"
     },
@@ -232,35 +298,13 @@
       "snippet": "Bangladesh's recent rise in fertility is not merely a population issue. It is a reminder that demographic success requires continuous governance"
     },
     {
-      "title": "Hearing in graft case against ex-IGP Benazir adjourned till 17 August",
-      "link": "https://www.tbsnews.net/bangladesh/court/hearing-graft-case-against-ex-igp-benazir-adjourned-till-17-august-1490426",
-      "pubDate": "Thu, 16 Jul 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/26/benazir.ahmed_.png",
-      "snippet": "Department of Textiles Assistant Director Md Faisal Kabir testified as the 15th prosecution witness in the case."
-    },
-    {
-      "title": "Rear Admiral Khondkar Misbah Ul Azim appointed new Bangladesh Navy chief",
-      "link": "https://www.tbsnews.net/bangladesh/rear-admiral-khondkar-misbah-ul-azim-appointed-new-bangladesh-navy-chief-1490421",
-      "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/khondkar_misbah_ul_azim_navy.png",
-      "snippet": "Currently serving as Bangladesh's ambassador to Oman, he will be promoted to vice admiral and assume charge as the chief of the Bangladesh Navy on 23 July."
-    },
-    {
       "title": "All remaining HSC, equivalent exams in Ctg postponed indefinitely over floods",
       "link": "https://www.tbsnews.net/bangladesh/education/all-remaining-hsc-equivalent-exams-ctg-postponed-indefinitely-over-floods",
       "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
       "snippet": "The decision covers all remaining HSC and equivalent examinations under the Chattogram Education Board, as well as Madrasah and Technical Education Boards in the region, citing post-flood conditions and difficulties faced by examinees."
     },
@@ -934,29 +978,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/protest_hsc.jpg",
       "snippet": "Students affected by floods or administrative failures during HSC exams will get another chance if needed, he says, assuring that no student will be deprived."
-    },
-    {
-      "title": "Why did a World Cup happening 12,000kms away get 12 killed in Bangladesh?",
-      "link": "https://www.tbsnews.net/thoughts/why-did-12000-kilometers-blind-rage-have-kill-12-bangladeshis-1488116",
-      "pubDate": "Tue, 14 Jul 2026 16:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/2026-06-22t215212z_1128336590_rc25zla3j9in_rtrmadp_3_soccer-worldcup-arg-aut-fans-bangladesh.jpg",
-      "snippet": "Sometimes I think that if Neymar, Messi, Ronaldo, Mbappé, or Haaland witnessed this spectacle, each of them would declare these fans the real GOATs."
-    },
-    {
-      "title": "Measles-related deaths rise to 766 as seven more children die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-related-deaths-rise-766-seven-more-children-die-1488086",
-      "pubDate": "Tue, 14 Jul 2026 15:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/07/whatsapp_image_2026-05-07_at_2.56.37_pm.jpeg",
-      "snippet": "With the latest update, the number of suspected measles-related deaths has risen to 671, while laboratory-confirmed measles deaths stand at 95."
     }
   ],
-  "updatedAt": "2026-07-17T09:27:08.473Z"
+  "updatedAt": "2026-07-17T11:06:55.747Z"
 }
