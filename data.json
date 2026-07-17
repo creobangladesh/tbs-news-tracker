@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "First budget session overshadowed by political confrontation, constitutional disputes",
+      "link": "https://www.tbsnews.net/bangladesh/first-budget-session-overshadowed-political-confrontation-constitutional-disputes-1491046",
+      "pubDate": "Fri, 17 Jul 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/19/budget_generic.jpg",
+      "snippet": "The 39-day second session, which began on 7 June, passed the Tk9.38 lakh crore budget for FY27."
+    },
+    {
+      "title": "Robberies again at Ctg Port outer anchorage raise safety concerns",
+      "link": "https://www.tbsnews.net/bangladesh/robberies-again-ctg-port-outer-anchorage-raise-safety-concerns-1491041",
+      "pubDate": "Fri, 17 Jul 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
+      "snippet": "Ship owners, shipping agents and seafarers allege that delayed responses from law enforcement are exposing crews and imported vessels to growing security risks."
+    },
+    {
       "title": "RMG sector to be key partner in rebuilding Bangladesh’s economy: Fakhrul",
       "link": "https://www.tbsnews.net/bangladesh/rmg-sector-be-key-partner-rebuilding-bangladeshs-economy-fakhrul-1491021",
       "pubDate": "Fri, 17 Jul 2026 22:00:00 +0600",
@@ -252,28 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
       "snippet": "In the last 24 hours till 6am today, Bandarban recorded the highest rainfall of 28 millimeters."
-    },
-    {
-      "title": "IOM scales up flood response in Bangladesh, calls for sustained international support",
-      "link": "https://www.tbsnews.net/bangladesh/iom-scales-flood-response-bangladesh-calls-sustained-international-support-1490711",
-      "pubDate": "Fri, 17 Jul 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/26/flood_photo_0.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "EU and G77 express support for Bangladesh's smooth  LDC graduation",
-      "link": "https://www.tbsnews.net/foreign-policy/eu-and-g77-express-support-bangladeshs-smooth-ldc-graduation-1490706",
-      "pubDate": "Fri, 17 Jul 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/8712237.jpg",
-      "snippet": "He reaffirmed the government’s commitment to strengthening governance, improving the financial sector, expanding infrastructure, enhancing domestic resource mobilisation and creating a more investment-friendly business environment."
     },
     {
       "title": "Why Bangladesh's garment exports to Europe are falling faster than competitors' ",
@@ -780,62 +780,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/blurred-frame_2.jpg",
       "snippet": "Chinese-owned and joint-venture companies accounted for nearly two-thirds of the investment commitments secured by the Bangladesh Export Processing Zones Authority (Bepza) in the fiscal 2025-26"
-    },
-    {
-      "title": "IMF reviews Bangladesh's external debt risks, slow loan disbursements",
-      "link": "https://www.tbsnews.net/economy/imf-reviews-bangladeshs-external-debt-risks-slow-loan-disbursements-1488601",
-      "pubDate": "Wed, 15 Jul 2026 00:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
-      "snippet": "The officials said they told the mission that Bangladesh is transitioning from a “low-risk stabilisation phase” to a “medium-risk acceleration phase” in terms of external debt risk."
-    },
-    {
-      "title": "HSC exams to continue nationwide except under Ctg Board: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-continue-nationwide-except-under-chattogram-board-mahdi-amin-1488596",
-      "pubDate": "Wed, 15 Jul 2026 00:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/mahdi_amin.jpg",
-      "snippet": "The adviser said the overall situation had improved despite temporary waterlogging in some areas caused by heavy rainfall."
-    },
-    {
-      "title": "BB selects 30 officials for DU AI course, excludes women over 'safety' reasons",
-      "link": "https://www.tbsnews.net/economy/banking/bb-selects-30-officials-du-ai-course-excludes-women-over-safety-reasons-1488576",
-      "pubDate": "Wed, 15 Jul 2026 00:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
-      "snippet": "The 12-week Applied AI for Central Bank Officials course, organised by the Department of Computer Science and Engineering, is scheduled to begin on 20 July."
-    },
-    {
-      "title": "164 dengue cases reported in 13 days as Ctg battles rain-induced outbreak",
-      "link": "https://www.tbsnews.net/bangladesh/health/164-dengue-cases-reported-13-days-ctg-battles-rain-induced-outbreak-1488566",
-      "pubDate": "Tue, 14 Jul 2026 23:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "CMCH opens 70-bed dengue corner; eight city wards declared red zones"
-    },
-    {
-      "title": "Court restores caretaker system but cautionary tales need to be heeded",
-      "link": "https://www.tbsnews.net/features/panorama/court-restores-caretaker-system-cautionary-tales-need-be-heeded-1488586",
-      "pubDate": "Tue, 14 Jul 2026 23:45:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/sabir_mustafa.jpg",
-      "snippet": "Future national elections will be held under a non-partisan caretaker government, thus vastly increasing the likelihood of public confidence in the electoral process. This brings us back full circle to 1996, with a touch of irony"
     }
   ],
-  "updatedAt": "2026-07-17T17:38:38.466Z"
+  "updatedAt": "2026-07-17T19:08:52.252Z"
 }
