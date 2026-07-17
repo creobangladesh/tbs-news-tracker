@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "'Hacker' arrested over NBR, Ctg port system breach to facilitate smuggling worth crores ",
+      "link": "https://www.tbsnews.net/bangladesh/crime/hacker-arrested-over-nbr-ctg-port-system-breach-facilitate-smuggling-worth-crores",
+      "pubDate": "Fri, 17 Jul 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/hacker-arrested-over-nbr-ctg-port-system-breach-to-facilitate-smuggling.jpg",
+      "snippet": "Sezan allegedly helps a smuggling syndicate to evade Tk10-12 crore in duties through forged declarations."
+    },
+    {
+      "title": "Bangladesh reaffirms commitment to sustainable urbanisation at UN meeting",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-reaffirms-commitment-sustainable-urbanisation-un-meeting-1490846",
+      "pubDate": "Fri, 17 Jul 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/sohel_monzoor_-_edited.jpg",
+      "snippet": "State Minister Ahammad Sohel Monzoor says planned urbanisation, affordable housing and balanced regional development are central to Bangladesh's development strategy"
+    },
+    {
+      "title": "The four-legged heart of TSC",
+      "link": "https://www.tbsnews.net/thoughts/four-legged-heart-tsc-1490821",
+      "pubDate": "Fri, 17 Jul 2026 17:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/download_-_edited_0.jpg",
+      "snippet": ""
+    },
+    {
       "title": "Argentina's late-game DNA: How Scaloni built a team that refuses to lose",
       "link": "https://www.tbsnews.net/sports/argentinas-late-game-dna-how-scaloni-built-team-refuses-lose-1490801",
       "pubDate": "Fri, 17 Jul 2026 16:50:00 +0600",
@@ -230,28 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/agri_minister.jpg",
       "snippet": "Assistance will be provided based on the extent of damage, with the worst-affected areas receiving priority, says Mohammad Amin Ur Rashid."
-    },
-    {
-      "title": "Ctg salt factory fire leaves two dead, six in critical condition",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-salt-factory-fire-leaves-two-dead-six-critical-condition-1490471",
-      "pubDate": "Fri, 17 Jul 2026 01:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
-      "snippet": "Earlier in the day, the fire broke out at the Confidence Salt factory in the West Gomdandi area of Boalkhali municipality last morning when welding work was underway in the generator room."
-    },
-    {
-      "title": "Eastern Refinery 2 to save Bangladesh $473m every year",
-      "link": "https://www.tbsnews.net/bangladesh/energy/eastern-refinery-2-save-bangladesh-473m-every-year-1490466",
-      "pubDate": "Fri, 17 Jul 2026 00:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/29/eastern.jpg",
-      "snippet": "The government plans to secure over $1 billion in Islamic Development Bank financing for the Eastern Refinery Limited-2 project, which is expected to save $20 on every barrel of crude oil imported and boost the country's refining capacity."
     },
     {
       "title": "Beware the risky whale: How AI is rewriting the rules of customer lifetime value",
@@ -945,40 +956,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/04/milon_.jpg",
       "snippet": "The government is expanding incentives ranging from stipends and school feeding to free uniforms and home visits in an effort to keep more children in primary education."
-    },
-    {
-      "title": "One dengue patient dies, 329 hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-329-hospitalised-24hrs-1488316",
-      "pubDate": "Tue, 14 Jul 2026 18:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
-      "snippet": "One more death as Bangladesh's dengue outbreak shows no respite"
-    },
-    {
-      "title": "Govt plans separate permanent centres for public examinations",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-separate-permanent-centres-public-examinations-1488241",
-      "pubDate": "Tue, 14 Jul 2026 18:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
-      "snippet": "Education minister says a feasibility study proposal is under approval to reduce disruption to regular classes during exams."
-    },
-    {
-      "title": "Education minister urges students to end protests, assures re-exams for flood-hit examinees if needed",
-      "link": "https://www.tbsnews.net/bangladesh/education/edu-minister-urges-students-end-protests-assures-re-exams-flood-hit-examinees",
-      "pubDate": "Tue, 14 Jul 2026 17:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/protest_hsc.jpg",
-      "snippet": "Students affected by floods or administrative failures during HSC exams will get another chance if needed, he says, assuring that no student will be deprived."
     }
   ],
-  "updatedAt": "2026-07-17T11:06:55.747Z"
+  "updatedAt": "2026-07-17T12:43:11.704Z"
 }
