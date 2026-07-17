@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Why Bangladesh's garment exports to Europe are falling faster than competitors' ",
+      "link": "https://www.tbsnews.net/explainer/why-bangladeshs-garment-exports-europe-are-falling-faster-competitors-1490666",
+      "pubDate": "Fri, 17 Jul 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/17/rmg_1_1.jpg",
+      "snippet": "Bangladesh's apparel exports to the EU fell by 18.9% during January–May, significantly steeper than the declines seen in China (4.20%), Vietnam (1.51%), India (13.33%), and Türkiye (15.66%)."
+    },
+    {
       "title": "Bangladesh loses EU apparel market share faster than rivals",
       "link": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-eu-apparel-market-share-faster-rivals-1490571",
       "pubDate": "Fri, 17 Jul 2026 10:00:00 +0600",
@@ -144,17 +155,6 @@
       "snippet": "Department of Textiles Assistant Director Md Faisal Kabir testified as the 15th prosecution witness in the case."
     },
     {
-      "title": "Rear Admiral Khondkar Misbah Ul Azim appointed new Bangladesh Navy chief",
-      "link": "https://www.tbsnews.net/bangladesh/rear-admiral-khondkar-misbah-ul-azim-appointed-new-bangladesh-navy-chief-1490421",
-      "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/khondkar_misbah_ul_azim_navy.png",
-      "snippet": "Currently serving as Bangladesh's ambassador to Oman, he will be promoted to vice admiral and assume charge as the chief of the Bangladesh Navy on 23 July."
-    },
-    {
       "title": "All remaining HSC, equivalent exams in Ctg postponed indefinitely over floods",
       "link": "https://www.tbsnews.net/bangladesh/education/all-remaining-hsc-equivalent-exams-ctg-postponed-indefinitely-over-floods",
       "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
@@ -164,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
       "snippet": "The decision covers all remaining HSC and equivalent examinations under the Chattogram Education Board, as well as Madrasah and Technical Education Boards in the region, citing post-flood conditions and difficulties faced by examinees."
+    },
+    {
+      "title": "Rear Admiral Khondkar Misbah Ul Azim appointed new Bangladesh Navy chief",
+      "link": "https://www.tbsnews.net/bangladesh/rear-admiral-khondkar-misbah-ul-azim-appointed-new-bangladesh-navy-chief-1490421",
+      "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/khondkar_misbah_ul_azim_navy.png",
+      "snippet": "Currently serving as Bangladesh's ambassador to Oman, he will be promoted to vice admiral and assume charge as the chief of the Bangladesh Navy on 23 July."
     },
     {
       "title": "Clearing Tk7,000cr insurance claims tops reform agenda: New Idra chairman",
@@ -296,17 +307,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/three_withdrawung_food_products.jpg",
       "snippet": "The BFSA also advises the general public to refrain from purchasing or consuming the mentioned food items."
-    },
-    {
-      "title": "Finance ministry puts brakes on proposal to halve govt officials' car allowance",
-      "link": "https://www.tbsnews.net/bangladesh/finance-ministry-puts-brakes-proposal-halve-govt-officials-car-allowance-1490281",
-      "pubDate": "Thu, 16 Jul 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/03/interest_free_loan_car.png",
-      "snippet": "Earlier proposal sought to halve the monthly car maintenance allowance for officials using the government’s interest-free vehicle loan scheme."
     },
     {
       "title": "Dhaka: A city that built over its canals is now drowning in rain",
@@ -967,29 +967,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/24/rmg_tram_group_nidle_3.jpg",
       "snippet": "With the latest additions, Bangladesh now has 290 LEED-certified RMG factories, including 125 Platinum-rated and 145 Gold-rated facilities."
-    },
-    {
-      "title": "Can 'sponge cities' help Bangladesh beat urban flooding?",
-      "link": "https://www.tbsnews.net/features/panorama/can-sponge-cities-help-bangladesh-beat-urban-flooding-1487806",
-      "pubDate": "Tue, 14 Jul 2026 11:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dhaka_flood_12_july_1.jpeg",
-      "snippet": "Cities must move beyond grey infrastructure to manage stormwater"
-    },
-    {
-      "title": "Power reliability, low returns hold back EV charging network",
-      "link": "https://www.tbsnews.net/bangladesh/transport/power-reliability-low-returns-hold-back-ev-charging-network-1487776",
-      "pubDate": "Tue, 14 Jul 2026 10:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/03/2022-10-19t123834z_1696175355_rc2b4x9in6tm_rtrmadp_3_germany-politics-wissing.jpg",
-      "snippet": "Industry leaders say tax incentives alone will not be enough to accelerate the expansion of EV charging stations unless electricity supply becomes more reliable"
     }
   ],
-  "updatedAt": "2026-07-17T04:41:08.274Z"
+  "updatedAt": "2026-07-17T07:16:33.619Z"
 }
