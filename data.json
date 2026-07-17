@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "British PM echoes Tarique Rahman's 'I have a plan' vision: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/british-pm-echoes-tarique-rahmans-i-have-plan-vision-minister-1491081",
+      "pubDate": "Sat, 18 Jul 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/swapon.png",
+      "snippet": "The hallmark of effective statesmanship is a clear and credible plan for the future, says the minister."
+    },
+    {
       "title": "First budget session overshadowed by political confrontation, constitutional disputes",
       "link": "https://www.tbsnews.net/bangladesh/first-budget-session-overshadowed-political-confrontation-constitutional-disputes-1491046",
       "pubDate": "Fri, 17 Jul 2026 23:50:00 +0600",
@@ -263,17 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/4450730.jpg",
       "snippet": "Police recovered his body from a room at the police lines around midnight after receiving information about the incident."
-    },
-    {
-      "title": "Rain likely across the country over the next 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-across-country-over-next-24-hours-1490716",
-      "pubDate": "Fri, 17 Jul 2026 14:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
-      "snippet": "In the last 24 hours till 6am today, Bandarban recorded the highest rainfall of 28 millimeters."
     },
     {
       "title": "Why Bangladesh's garment exports to Europe are falling faster than competitors' ",
@@ -782,5 +782,5 @@
       "snippet": "Chinese-owned and joint-venture companies accounted for nearly two-thirds of the investment commitments secured by the Bangladesh Export Processing Zones Authority (Bepza) in the fiscal 2025-26"
     }
   ],
-  "updatedAt": "2026-07-17T19:08:52.252Z"
+  "updatedAt": "2026-07-17T20:27:39.861Z"
 }
