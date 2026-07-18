@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "BCCCI calls for responsible AI adoption to strengthen business competitiveness",
+      "link": "https://www.tbsnews.net/bangladesh/bccci-calls-responsible-ai-adoption-strengthen-business-competitiveness-1491716",
+      "pubDate": "Sat, 18 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/bcci_meeting.jpg",
+      "snippet": "The seminar explored the growing use of AI and blockchain in sectors including business, banking, trade, logistics and manufacturing, while examining the opportunities, challenges and practical considerations surrounding their adoption."
+    },
+    {
+      "title": "Invest in skills, not just AI, says Prof Henrik von Scheel",
+      "link": "https://www.tbsnews.net/bangladesh/invest-skills-not-just-ai-says-prof-henrik-von-scheel-1491706",
+      "pubDate": "Sat, 18 Jul 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/henrik_von_scheel.jpg",
+      "snippet": "Collaboration, responsible AI can boost Bangladesh's global edge, he says"
+    },
+    {
+      "title": "Govt committed to building inclusive, prosperous Bangladesh: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/govt-committed-building-inclusive-prosperous-bangladesh-mahdi-amin-1491696",
+      "pubDate": "Sat, 18 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/mahdi_amin.jpg",
+      "snippet": "The adviser highlights the government’s achievements over its first five months in office, citing reforms in governance, the economy, public services, and foreign policy."
+    },
+    {
+      "title": "BSEC pushes bourses for comprehensive direct listing, de-listing roadmap",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-pushes-bourses-comprehensive-direct-listing-de-listing-roadmap-1491671",
+      "pubDate": "Sat, 18 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/24/bsec_1.jpg",
+      "snippet": "To make change in the listing regulations, the commission needs to change some sections or provision at least four rules promulgated 2022 to 2025, and one directive promulgated in 2018, according to sources at the commission."
+    },
+    {
+      "title": "DBA welcomes BSEC initiative to amend margin rules",
+      "link": "https://www.tbsnews.net/economy/stocks/dba-welcomes-bsec-initiative-amend-margin-rules-1491686",
+      "pubDate": "Sat, 18 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/13/dba.png",
+      "snippet": "The DBA expressed hope that the draft of the amended margin rules will soon be published for public opinion."
+    },
+    {
       "title": "Maritime ports asked to keep local cautionary signal no 3",
       "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-local-cautionary-signal-no-3-1491661",
       "pubDate": "Sat, 18 Jul 2026 20:40:00 +0600",
@@ -12,7 +67,7 @@
       "snippet": "All fishing boats and trawlers over the North Bay have been advised to remain close to the coast and proceed with caution till further notice."
     },
     {
-      "title": "Algerian envoy distributes relief among flood victims in Chattogram, Cox’s Bazar",
+      "title": "Algerian envoy distributes relief among flood victims in Chattogram, Cox's Bazar",
       "link": "https://www.tbsnews.net/bangladesh/algerian-envoy-distributes-relief-among-flood-victims-chattogram-coxs-bazar-1491651",
       "pubDate": "Sat, 18 Jul 2026 20:25:00 +0600",
       "category": "Bangladesh",
@@ -100,7 +155,7 @@
       "snippet": "In the first phase, authorities will collect data from one agricultural block in each upazila. The programme will subsequently be expanded to cover all blocks in phases."
     },
     {
-      "title": "Bangladesh to become a global education hub: Education minister",
+      "title": "Bangladesh to become a global education hub: Milon",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-become-global-education-hub-education-minister-1491541",
       "pubDate": "Sat, 18 Jul 2026 18:35:00 +0600",
       "category": "Bangladesh",
@@ -210,17 +265,6 @@
       "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
     },
     {
-      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
-      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
-    },
-    {
       "title": "One dengue patient dies, 242 hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
       "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
@@ -232,24 +276,24 @@
       "snippet": "So far, 33 dengue-related deaths have been reported this year."
     },
     {
-      "title": "BNP wants to further strengthen geopolitical, business ties with China: Fakhrul ",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-wants-further-strengthen-geopolitical-business-ties-china-fakhrul-1491431",
-      "pubDate": "Sat, 18 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/mirza_fakhrul.jpg",
-      "snippet": "President of the Bangladesh-China Friendship Association and BNP chairman's adviser Advocate Nazmul Haque Nannu chaired it."
+      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
     },
     {
       "title": "Cenbank adds 4 female participants to DU's Applied AI course after TBS report",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-adds-4-female-participants-dus-applied-ai-course-after-tbs-report-1491441",
       "pubDate": "Sat, 18 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_0.jpg",
       "snippet": "Bangladesh Bank says four male officials voluntarily withdrew from the programme, and four female officials were included in their place."
     },
@@ -274,28 +318,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/719951501_1463517419135683_4896354091086471318_n.jpg",
       "snippet": "Bangladesh's chairmanship of BIMSTEC offers a timely opportunity to strengthen regional connectivity, economic integration and security cooperation across the Bay of Bengal"
-    },
-    {
-      "title": "Govt plans sustainable embankments to prevent floods, tidal surges: Home minister ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-sustainable-embankments-prevent-floods-tidal-surges-home-minister-1491386",
-      "pubDate": "Sat, 18 Jul 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/home_minister.jpg",
-      "snippet": "Salahuddin stated that the government's main priority is to protect people's welfare."
-    },
-    {
-      "title": "PM orders tougher action against air and noise pollution, seeks AI-based horn control",
-      "link": "https://www.tbsnews.net/bangladesh/pm-orders-tougher-action-against-air-noise-pollution-seeks-ai-based-horn-control-1491381",
-      "pubDate": "Sat, 18 Jul 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/pm_18_july_2026.jpg",
-      "snippet": "He orders installation of automatic traffic lights at 50 more points in Dhaka"
     },
     {
       "title": "Experts urge closing vaccine gaps as measles deaths continue despite nationwide campaign",
@@ -362,6 +384,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/25/benapole.png",
       "snippet": "Port statistics show that exports through Benapole dropped to 189,358 tonnes in FY2025-26, down from 381,440 tonnes in FY2024-25, a decline of 192,082 tonnes."
+    },
+    {
+      "title": "Skills for a shared future: Why Bangladesh must tell the story of skills better",
+      "link": "https://www.tbsnews.net/thoughts/skills-shared-future-why-bangladesh-must-tell-story-skills-better-1491646",
+      "pubDate": "Fri, 17 Jul 2026 20:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/15_thoughts_3.jpg",
+      "snippet": "As industries demand a more skilled workforce, skills development is increasingly recognised as a cornerstone of productivity, export competitiveness and harnessing the country's demographic dividend"
     },
     {
       "title": "What our stock and bond markets say about Bangladeshis",
@@ -725,29 +758,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/23/messi_4.jpg",
       "snippet": "Beyond tactics and rivalries lies the true magic of football. One fan shares her journey of blurry late-night screens, childhood memories, and the distant legend who taught her that some dreams are always worth chasing."
-    },
-    {
-      "title": "Ctg Chamber urges BB to reject proposed hike in banking fees",
-      "link": "https://www.tbsnews.net/economy/banking/ctg-chamber-urges-bb-reject-proposed-hike-banking-fees-1489391",
-      "pubDate": "Wed, 15 Jul 2026 21:10:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
-      "snippet": "The chamber president said the business community believes such proposals would shift unnecessary costs onto businesses and ordinary customers while serving primarily to increase banks' profits."
-    },
-    {
-      "title": "Health minister advises mosquito nets, full-sleeved clothes to combat dengue",
-      "link": "https://www.tbsnews.net/bangladesh/health-minister-advises-mosquito-nets-full-sleeved-clothes-combat-dengue-1489376",
-      "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
-      "snippet": "Free NS1 tests, hospital bed reserves among preparedness measures."
     }
   ],
-  "updatedAt": "2026-07-18T14:58:30.444Z"
+  "updatedAt": "2026-07-18T16:02:53.788Z"
 }
