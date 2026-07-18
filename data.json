@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Experts urge closing vaccine gaps as measles deaths continue despite nationwide campaign",
+      "link": "https://www.tbsnews.net/bangladesh/health/experts-urge-closing-vaccine-gaps-measles-deaths-continue-despite-nationwide",
+      "pubDate": "Sat, 18 Jul 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
+      "snippet": "Experts warn that the disease cannot be brought under control without closing vaccination gaps and strengthening treatment at the community level"
+    },
+    {
+      "title": "How betel cultivation changed the fortunes of three Naogaon villages",
+      "link": "https://www.tbsnews.net/bangladesh/how-betel-cultivation-changed-fortunes-three-naogaon-villages-1491211",
+      "pubDate": "Sat, 18 Jul 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/7944792.jpg",
+      "snippet": "About 11 kilometers of the three villages under Kirtipur Union in Sadar upazila are now widely known as the district's \"betel villages.”"
+    },
+    {
+      "title": "Female inmate escapes by scaling Kashimpur jail wall; 7 prison staff suspended",
+      "link": "https://www.tbsnews.net/bangladesh/crime/female-inmate-escapes-scaling-kashimpur-jail-wall-7-prison-staff-suspended-1491171",
+      "pubDate": "Sat, 18 Jul 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/24/106537_161.jpg",
+      "snippet": "The escape took place on Thursday afternoon but came to light yesterday after prison authorities reviewed CCTV footage and confirmed that the inmate had fled the facility."
+    },
+    {
+      "title": "How one murder led police to uncover another after 11 years",
+      "link": "https://www.tbsnews.net/bangladesh/crime/how-one-murder-led-police-uncover-another-after-11-years-1491166",
+      "pubDate": "Sat, 18 Jul 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/08/images_1.jpg",
+      "snippet": "Shyamal’s family filed a murder case, but despite investigations by different law enforcement agencies, the case remained unresolved for more than a decade."
+    },
+    {
+      "title": "Relentless rain pushes up prices of vegetables, eggs, rice and fish",
+      "link": "https://www.tbsnews.net/markets/relentless-rain-pushes-prices-vegetables-eggs-rice-and-fish-1491156",
+      "pubDate": "Sat, 18 Jul 2026 10:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/02/06/vegetables.jpg",
+      "snippet": "A visit to Karwan Bazar, New Market, and Hatirpool markets yesterday found that almost all essential food items were selling at higher prices than a week earlier."
+    },
+    {
+      "title": "PM's adviser calls for UN-led debt relief mechanism to safeguard investment in children, women",
+      "link": "https://www.tbsnews.net/bangladesh/dr-titumir-calls-un-led-debt-relief-mechanism-safeguard-investment-children-women-1491141",
+      "pubDate": "Sat, 18 Jul 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/dr_titumir_meets_unicef_to_discuss_debt_relief_and_social_protection.jpg",
+      "snippet": "Rashed Al Mahmud Titumir says such measures are essential to enable developing countries to sustain investment in children, women, education, health, and social protection while keeping progress towards the SDGs on track."
+    },
+    {
+      "title": "Policy promises lift new investors' confidence amid wave of factory closures",
+      "link": "https://www.tbsnews.net/economy/industry/policy-promises-lift-new-investors-confidence-amid-wave-factory-closures-1491111",
+      "pubDate": "Sat, 18 Jul 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/13/rmg_rajib-dhar_1.png",
+      "snippet": "While industry leaders acknowledge that current investment cannot yet absorb the massive pool of displaced workers, optimism is rising."
+    },
+    {
+      "title": "3-year extension request not to delay LDC graduation, but to consolidate reforms: Minister to UN Ecosoc",
+      "link": "https://www.tbsnews.net/bangladesh/3-year-extension-request-not-delay-ldc-graduation-consolidate-reforms-minister-un-ecosoc",
+      "pubDate": "Sat, 18 Jul 2026 09:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/khandakar_abdul_muktadir_ecosoc_meeting.jpg",
+      "snippet": "The Ecosoc president and vice-president acknowledged the global challenges that developing countries face during their transition from LDC status."
+    },
+    {
       "title": "Beza's flagship economic zone faces water uncertainty as Tk10,553cr pipeline plan stalls",
       "link": "https://www.tbsnews.net/economy/industry/bezas-flagship-economic-zone-faces-water-uncertainty-tk10553cr-pipeline-plan-stalls",
       "pubDate": "Sat, 18 Jul 2026 08:30:00 +0600",
@@ -155,17 +243,6 @@
       "snippet": "Sezan allegedly helped a smuggling syndicate to evade Tk10-12 crore in duties through forged declarations."
     },
     {
-      "title": "Bangladesh reaffirms commitment to sustainable urbanisation at UN meeting",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-reaffirms-commitment-sustainable-urbanisation-un-meeting-1490846",
-      "pubDate": "Fri, 17 Jul 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/sohel_monzoor_-_edited.jpg",
-      "snippet": "State Minister Ahammad Sohel Monzoor says planned urbanisation, affordable housing and balanced regional development are central to Bangladesh's development strategy"
-    },
-    {
       "title": "The four-legged heart of TSC",
       "link": "https://www.tbsnews.net/thoughts/four-legged-heart-tsc-1490821",
       "pubDate": "Fri, 17 Jul 2026 17:00:00 +0600",
@@ -188,59 +265,15 @@
       "snippet": "Argentina's resilience under Lionel Scaloni has defined their 2026 World Cup knockout run, with late goals and tactical discipline keeping the defending champions on course for another title."
     },
     {
-      "title": "Govt surveying flood-hit areas, relief efforts to continue: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-surveying-flood-hit-areas-relief-efforts-continue-home-minister-1490771",
-      "pubDate": "Fri, 17 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/home_minister.jpg",
-      "snippet": "The surveys will assess damage to infrastructure and guide rehabilitation efforts, including support for affected farmers, to help people return to normal life quickly, the home minister said."
-    },
-    {
-      "title": "Opposition trying to mislead people over July Charter: Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/politics/opposition-trying-mislead-people-over-july-charter-fakhrul-1490781",
-      "pubDate": "Fri, 17 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/mirza_fakhrul.jpg",
-      "snippet": "He says BNP remains committed to implementing the July Charter and rejects claims that the party is unwilling to do so."
-    },
-    {
       "title": "Measles: Death toll reaches 780 as one more dies in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-780-one-more-dies-24hrs-1490791",
       "pubDate": "Fri, 17 Jul 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "A total of 873 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 116,011."
-    },
-    {
-      "title": "'Ghonoghota 2' brings Charukola alive with dance, rain and resilience",
-      "link": "https://www.tbsnews.net/splash/ghonoghota-2-brings-charukola-alive-dance-rain-and-resilience-1490766",
-      "pubDate": "Fri, 17 Jul 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/26113f90-86cb-4eb7-a151-feea898b1ab6_1.jpg",
-      "snippet": "Organised by the Arthy Ahmed Dance Academy, the 90-minute open-air programme began at 11am today (17 July) and featured more than 300 performers aged between three and seventy."
-    },
-    {
-      "title": "Stage collapses during finance minister's relief distribution programme",
-      "link": "https://www.tbsnews.net/bangladesh/stage-collapses-during-finance-ministers-relief-distribution-programme-1490761",
-      "pubDate": "Fri, 17 Jul 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/blurred-frame_6.jpg",
-      "snippet": "MPs and local political leaders also climbed onto the stage, which later collapsed under the weight of the large number of people at around 11:30am"
     },
     {
       "title": "When England lose, women bruise",
@@ -252,28 +285,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/feature.png",
       "snippet": "There is something uniquely absurd about living in a society that can predict a rise in violence against women with roughly the same confidence it predicts traffic after a bank holiday."
-    },
-    {
-      "title": "Flood-hit farmers in 5 districts to get paddy seeds; all livestock to be vaccinated within 15 days: Minister ",
-      "link": "https://www.tbsnews.net/agriculture/flood-hit-farmers-5-districts-get-paddy-seeds-all-livestock-be-vaccinated-within-15-days",
-      "pubDate": "Fri, 17 Jul 2026 15:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/747217097_1277532974293474_1618659250810976547_n.jpg",
-      "snippet": "Farmers whose seedbeds have been completely destroyed are being prioritised for immediate assistance, says Agriculture Minister Mohammed Aminur Rashid."
-    },
-    {
-      "title": "Cracks before completion: Tk2.2cr bridge in Chandpur sparks quality concerns",
-      "link": "https://www.tbsnews.net/bangladesh/cracks-completion-tk22cr-bridge-chandpur-sparks-quality-concerns-1490731",
-      "pubDate": "Fri, 17 Jul 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/8613203.jpg",
-      "snippet": "The nearly 100-foot bridge, being built near Bardia Bazar to replace an old 10-foot culvert, has been under construction for about four months."
     },
     {
       "title": "Why Bangladesh's garment exports to Europe are falling faster than competitors' ",
@@ -725,40 +736,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15th_july_pr.jpg",
       "snippet": "The Chittagong Port Authority signed a 22-year concession agreement with RSGT in December 2023 to equip, operate and maintain the Patenga Container Terminal, with the company expected to invest $170 million over the concession period."
-    },
-    {
-      "title": "'Miracle on the Hudson' pilot has early-stage Alzheimer’s disease",
-      "link": "https://www.tbsnews.net/economy/aviation/miracle-hudson-pilot-has-early-stage-alzheimers-disease-1488791",
-      "pubDate": "Wed, 15 Jul 2026 12:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/miracle-on-the-hudson-pilot-sully-sullenberger-alzheimers-diagnosis.jpg.jpg",
-      "snippet": "In 2019, Sullenberger testified before the US Congress in support of requiring pilots to get new simulator training before Boeing 737 MAX flights could resume following two fatal crashes."
-    },
-    {
-      "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Sources",
-      "link": "https://www.tbsnews.net/tech/stripe-advent-offer-buy-paypal-more-53-billion-sources-1488751",
-      "pubDate": "Wed, 15 Jul 2026 11:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/paypal_stripe.png",
-      "snippet": "The ‌offer, submitted earlier this month, is backed by about $50 billion in committed financing from banks, said one of the people. The offer represents around a 28% premium to PayPal's closing share price on Tuesday."
-    },
-    {
-      "title": "Bangladesh Bank tightens boiler import rules with prior approval requirement",
-      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-tightens-boiler-import-rules-prior-approval-requirement-1488741",
-      "pubDate": "Wed, 15 Jul 2026 11:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
-      "snippet": "The fresh directive follows a memo issued by the Boiler Wing of the Ministry of Industries on 28 June, 2026, and has been made effective for all boiler and boiler component imports accordingly."
     }
   ],
-  "updatedAt": "2026-07-18T03:55:44.370Z"
+  "updatedAt": "2026-07-18T06:06:01.166Z"
 }
