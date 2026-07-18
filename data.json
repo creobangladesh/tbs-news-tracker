@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "South Asia at the crossroads: Turning strategic competition into shared prosperity",
+      "link": "https://www.tbsnews.net/thoughts/south-asia-crossroads-turning-strategic-competition-shared-prosperity-1491471",
+      "pubDate": "Sat, 18 Jul 2026 16:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/719951501_1463517419135683_4896354091086471318_n_0.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "SSC, equivalent results won't be published on 20 July: Dhaka board chairman",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-equivalent-results-wont-be-published-20-july-dhaka-board-chairman-1491456",
+      "pubDate": "Sat, 18 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/ssc_0.jpg",
+      "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
+    },
+    {
+      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
+    },
+    {
+      "title": "One dengue patient dies, 242 hospitalised in 24hrs Health",
+      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-health-1491446",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
+      "snippet": "One more death as Bangladesh's dengue outbreak shows no respite"
+    },
+    {
+      "title": "BNP wants to further strengthen geopolitical, business ties with China: Fakhrul ",
+      "link": "https://www.tbsnews.net/bangladesh/bnp-wants-further-strengthen-geopolitical-business-ties-china-fakhrul-1491431",
+      "pubDate": "Sat, 18 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/mirza_fakhrul.jpg",
+      "snippet": "President of the Bangladesh-China Friendship Association and BNP chairman's adviser Advocate Nazmul Haque Nannu chaired it."
+    },
+    {
+      "title": "Cenbank adds 4 female participants to DU’s Applied AI course after TBS report",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-adds-4-female-participants-dus-applied-ai-course-after-tbs-report-1491441",
+      "pubDate": "Sat, 18 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_0.jpg",
+      "snippet": "Bangladesh Bank says four male officials voluntarily withdrew from the programme, and four female officials were included in their place."
+    },
+    {
+      "title": "Using space technology and AI for disaster management ",
+      "link": "https://www.tbsnews.net/thoughts/using-space-technology-and-ai-disaster-management-1491426",
+      "pubDate": "Sat, 18 Jul 2026 16:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/whatsapp_image_2026-07-11_at_15.36.49.jpeg",
+      "snippet": "Bangladesh already receives enormous amounts of satellite data free of charge from international missions (such as Sentinel, Landsat, GPM, SWOT, etc.). The available data is often of very low-resolution data, and also not real time data. Developing i..."
+    },
+    {
       "title": "Bangladesh's pivotal role in BIMSTEC",
       "link": "https://www.tbsnews.net/thoughts/bangladeshs-pivotal-role-bimstec-1491391",
       "pubDate": "Sat, 18 Jul 2026 15:40:00 +0600",
@@ -191,45 +268,12 @@
       "title": "Beza's flagship economic zone faces water uncertainty as Tk10,553cr pipeline plan stalls",
       "link": "https://www.tbsnews.net/economy/industry/bezas-flagship-economic-zone-faces-water-uncertainty-tk10553cr-pipeline-plan-stalls",
       "pubDate": "Sat, 18 Jul 2026 08:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/20/safe_water.jpg",
       "snippet": "Authorities, investors yet to agree on price of pipeline water"
-    },
-    {
-      "title": "British PM echoes Tarique Rahman's 'I have a plan' vision: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/british-pm-echoes-tarique-rahmans-i-have-plan-vision-minister-1491081",
-      "pubDate": "Sat, 18 Jul 2026 01:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/swapon.png",
-      "snippet": "The hallmark of effective statesmanship is a clear and credible plan for the future, says the minister."
-    },
-    {
-      "title": "First budget session overshadowed by political confrontation, constitutional disputes",
-      "link": "https://www.tbsnews.net/bangladesh/first-budget-session-overshadowed-political-confrontation-constitutional-disputes-1491046",
-      "pubDate": "Fri, 17 Jul 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/19/budget_generic.jpg",
-      "snippet": "The 39-day second session, which began on 7 June, passed the Tk9.38 lakh crore budget for FY27."
-    },
-    {
-      "title": "Robberies again at Ctg Port outer anchorage raise safety concerns",
-      "link": "https://www.tbsnews.net/bangladesh/robberies-again-ctg-port-outer-anchorage-raise-safety-concerns-1491041",
-      "pubDate": "Fri, 17 Jul 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
-      "snippet": "Ship owners, shipping agents and seafarers allege that delayed responses from law enforcement are exposing crews and imported vessels to growing security risks."
     },
     {
       "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
@@ -452,17 +496,6 @@
       "snippet": "The central bank’s Finance Company Regulation and Policy Department (FCRPD) said the extension aligns the regulatory support available to NBFI borrowers with facilities already provided to clients of commercial banks."
     },
     {
-      "title": "The 48 hours that made 5 August inevitable",
-      "link": "https://www.tbsnews.net/features/panorama/48-hours-made-5-august-inevitable-1490296",
-      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/bangladesh_quota_protest_0.jpg",
-      "snippet": "The crackdown meant to end Bangladesh's student protests in July 2024 ended up ensuring it spread to every corner of the country"
-    },
-    {
       "title": "Stepping back from reconstructing institutions in disarray ",
       "link": "https://www.tbsnews.net/features/panorama/stepping-back-reconstructing-institutions-disarray-1490311",
       "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
@@ -472,6 +505,17 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/whatsapp_image_2026-07-16_at_8.25.15_pm.jpeg",
       "snippet": "The July Uprising exposed deep institutional weaknesses. More than political change, Bangladesh's reconstruction requires structural reforms that strengthen transparency, accountability, and the rule of law"
+    },
+    {
+      "title": "The 48 hours that made 5 August inevitable",
+      "link": "https://www.tbsnews.net/features/panorama/48-hours-made-5-august-inevitable-1490296",
+      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/bangladesh_quota_protest_0.jpg",
+      "snippet": "The crackdown meant to end Bangladesh's student protests in July 2024 ended up ensuring it spread to every corner of the country"
     },
     {
       "title": "Dhaka: A city that built over its canals is now drowning in rain",
@@ -736,18 +780,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/shikkha_bhaban.jpg",
       "snippet": "A six-member delegation entered the Secretariat for talks after police stopped the protesters at Shikkha Bhaban, where they submitted a revised set of demands, dropping their earlier call for the education minister's resignation."
-    },
-    {
-      "title": "Bepza secures record $718m investment proposals in FY26",
-      "link": "https://www.tbsnews.net/economy/corporates/bepza-contributes-1751-national-exports-fy2025-26-1489071",
-      "pubDate": "Wed, 15 Jul 2026 16:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/14/bepza.jpg",
-      "snippet": "The export processing zone authority secured $717.71 million in proposed investments, contributed 17.5% of Bangladesh's exports and created more than 25,000 jobs during FY2025-26."
     }
   ],
-  "updatedAt": "2026-07-18T09:56:35.814Z"
+  "updatedAt": "2026-07-18T11:07:01.381Z"
 }
