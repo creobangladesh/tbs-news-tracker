@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Zero tolerance for irregularities in flood aid distribution, says minister",
+      "link": "https://www.tbsnews.net/bangladesh/zero-tolerance-irregularities-flood-aid-distribution-says-minister-1491501",
+      "pubDate": "Sat, 18 Jul 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/livestock_minister.jpg",
+      "snippet": "Officials have been asked to ensure that seeds, fertilisers, livestock vaccines, and other government support reach genuine flood-affected farmers without discrimination or additional charges."
+    },
+    {
+      "title": "Sustainability now a business strategy, not just compliance: Experts",
+      "link": "https://www.tbsnews.net/bangladesh/sustainability-now-business-strategy-not-just-compliance-experts-1491496",
+      "pubDate": "Sat, 18 Jul 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/04/feature_image.jpg",
+      "snippet": "Philip Kotler urges businesses to shift from low-cost production to innovation and sustainability to stay competitive in global markets."
+    },
+    {
+      "title": "5 arrested over cattle market leaseholder office shooting",
+      "link": "https://www.tbsnews.net/bangladesh/5-arrested-over-cattle-market-leaseholder-office-shooting-1491486",
+      "pubDate": "Sat, 18 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/dmp.jpg",
+      "snippet": "The group opened fire at a sacrificial cattle market leaseholder's office after demanding Tk10 lakh in extortion."
+    },
+    {
+      "title": " The Chattogram hills need a new development model",
+      "link": "https://www.tbsnews.net/thoughts/chattogram-hills-need-new-development-model-1491481",
+      "pubDate": "Sat, 18 Jul 2026 17:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/pic_01.jpg",
+      "snippet": "Conservation, livelihoods and investment must go hand in hand"
+    },
+    {
       "title": "South Asia at the crossroads: Turning strategic competition into shared prosperity",
       "link": "https://www.tbsnews.net/thoughts/south-asia-crossroads-turning-strategic-competition-shared-prosperity-1491471",
       "pubDate": "Sat, 18 Jul 2026 16:50:00 +0600",
@@ -34,15 +78,15 @@
       "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
     },
     {
-      "title": "One dengue patient dies, 242 hospitalised in 24hrs Health",
-      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-health-1491446",
+      "title": "One dengue patient dies, 242 hospitalised in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
       "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
-      "snippet": "One more death as Bangladesh's dengue outbreak shows no respite"
+      "snippet": "So far, 33 dengue-related deaths have been reported this year."
     },
     {
       "title": "BNP wants to further strengthen geopolitical, business ties with China: Fakhrul ",
@@ -232,37 +276,15 @@
       "snippet": "A visit to Karwan Bazar, New Market, and Hatirpool markets yesterday found that almost all essential food items were selling at higher prices than a week earlier."
     },
     {
-      "title": "PM's adviser calls for UN-led debt relief mechanism to safeguard investment in children, women",
-      "link": "https://www.tbsnews.net/bangladesh/dr-titumir-calls-un-led-debt-relief-mechanism-safeguard-investment-children-women-1491141",
-      "pubDate": "Sat, 18 Jul 2026 10:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/dr_titumir_meets_unicef_to_discuss_debt_relief_and_social_protection.jpg",
-      "snippet": "Rashed Al Mahmud Titumir says such measures are essential to enable developing countries to sustain investment in children, women, education, health, and social protection while keeping progress towards the SDGs on track."
-    },
-    {
       "title": "Policy promises lift new investors' confidence amid wave of factory closures",
       "link": "https://www.tbsnews.net/economy/industry/policy-promises-lift-new-investors-confidence-amid-wave-factory-closures-1491111",
       "pubDate": "Sat, 18 Jul 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/13/rmg_rajib-dhar_1.png",
       "snippet": "While industry leaders acknowledge that current investment cannot yet absorb the massive pool of displaced workers, optimism is rising."
-    },
-    {
-      "title": "3-year extension request not to delay LDC graduation, but to consolidate reforms: Minister to UN Ecosoc",
-      "link": "https://www.tbsnews.net/bangladesh/3-year-extension-request-not-delay-ldc-graduation-consolidate-reforms-minister-un-ecosoc",
-      "pubDate": "Sat, 18 Jul 2026 09:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/khandakar_abdul_muktadir_ecosoc_meeting.jpg",
-      "snippet": "The Ecosoc president and vice-president acknowledged the global challenges that developing countries face during their transition from LDC status."
     },
     {
       "title": "Beza's flagship economic zone faces water uncertainty as Tk10,553cr pipeline plan stalls",
@@ -496,17 +518,6 @@
       "snippet": "The central bank’s Finance Company Regulation and Policy Department (FCRPD) said the extension aligns the regulatory support available to NBFI borrowers with facilities already provided to clients of commercial banks."
     },
     {
-      "title": "Stepping back from reconstructing institutions in disarray ",
-      "link": "https://www.tbsnews.net/features/panorama/stepping-back-reconstructing-institutions-disarray-1490311",
-      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/whatsapp_image_2026-07-16_at_8.25.15_pm.jpeg",
-      "snippet": "The July Uprising exposed deep institutional weaknesses. More than political change, Bangladesh's reconstruction requires structural reforms that strengthen transparency, accountability, and the rule of law"
-    },
-    {
       "title": "The 48 hours that made 5 August inevitable",
       "link": "https://www.tbsnews.net/features/panorama/48-hours-made-5-august-inevitable-1490296",
       "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
@@ -516,6 +527,17 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/bangladesh_quota_protest_0.jpg",
       "snippet": "The crackdown meant to end Bangladesh's student protests in July 2024 ended up ensuring it spread to every corner of the country"
+    },
+    {
+      "title": "Stepping back from reconstructing institutions in disarray ",
+      "link": "https://www.tbsnews.net/features/panorama/stepping-back-reconstructing-institutions-disarray-1490311",
+      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/whatsapp_image_2026-07-16_at_8.25.15_pm.jpeg",
+      "snippet": "The July Uprising exposed deep institutional weaknesses. More than political change, Bangladesh's reconstruction requires structural reforms that strengthen transparency, accountability, and the rule of law"
     },
     {
       "title": "Dhaka: A city that built over its canals is now drowning in rain",
@@ -747,40 +769,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/rooppur_1.jpg",
       "snippet": "Energy independence is the bedrock of economic and political sovereignty. It is fundamentally tied to national security, where a lack of domestic control over the energy supply leaves a nation deeply vulnerable. It exposes critical sectors to global ..."
-    },
-    {
-      "title": "Ctg HSC examinees stage sit-in demanding education minister's resignation",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-hsc-examinees-stage-sit-demanding-education-ministers-resignation-1489136",
-      "pubDate": "Wed, 15 Jul 2026 17:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/ctg_hsc_examinee_protest.jpg",
-      "snippet": "The protesters gathered at the city's No. 2 Gate intersection around 3pm."
-    },
-    {
-      "title": "Protection is not inclusion",
-      "link": "https://www.tbsnews.net/thoughts/protection-not-inclusion-1489131",
-      "pubDate": "Wed, 15 Jul 2026 17:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2025-10-09_at_07.46.39_89df01d5.jpg",
-      "snippet": "When institutions respond to real barriers by excluding women instead of removing those barriers, inequality deepens. Bangladesh Bank's AI training controversy reveals how the future of work can be shaped as much by institutional choices as by techno..."
-    },
-    {
-      "title": "HSC examinees withdraw edu minister's resignation demand, place fresh six-point charter",
-      "link": "https://www.tbsnews.net/bangladesh/police-stop-hsc-examinees-march-secretariat-shikkha-bhaban-1489111",
-      "pubDate": "Wed, 15 Jul 2026 17:20:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/shikkha_bhaban.jpg",
-      "snippet": "A six-member delegation entered the Secretariat for talks after police stopped the protesters at Shikkha Bhaban, where they submitted a revised set of demands, dropping their earlier call for the education minister's resignation."
     }
   ],
-  "updatedAt": "2026-07-18T11:07:01.381Z"
+  "updatedAt": "2026-07-18T12:12:34.310Z"
 }
