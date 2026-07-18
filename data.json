@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Diarrhoea cases emerge across Chattogram after floods, over 200 hospitalised",
+      "link": "https://www.tbsnews.net/bangladesh/health/diarrhoea-cases-emerge-across-chattogram-after-floods-over-200-hospitalised",
+      "pubDate": "Sun, 19 Jul 2026 00:10:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
+      "snippet": "Babul Colony probe links cases to unclean water tank."
+    },
+    {
       "title": "BCCCI calls for responsible AI adoption to strengthen business competitiveness",
       "link": "https://www.tbsnews.net/bangladesh/bccci-calls-responsible-ai-adoption-strengthen-business-competitiveness-1491716",
       "pubDate": "Sat, 18 Jul 2026 21:50:00 +0600",
@@ -100,7 +111,7 @@
       "snippet": "Shafiqur Rahman also accused the government of abandoning its reform commitments after taking office."
     },
     {
-      "title": "Businesses allege bribery, excessive costs in obtaining halal certificates from BSTI, Islamic Foundation",
+      "title": "Businesses seek single halal authority as certification hurdles impede export growth",
       "link": "https://www.tbsnews.net/bangladesh/businesses-allege-bribery-excessive-costs-obtaining-halal-certificates-bsti-islamic",
       "pubDate": "Sat, 18 Jul 2026 19:50:00 +0600",
       "category": "Bangladesh",
@@ -108,7 +119,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/bangladesh_chamber_of_industries_bci_organises_a_workshop_titled_halal_for_export_diversification_in_dhaka_today_18_july.jpeg",
-      "snippet": "At present, both the Islamic Foundation and BSTI separately issue halal certificates in Bangladesh."
+      "snippet": "Bribery, high fees and lack of int’l recognition undermine Bangladesh’s halal export potential, exporters allege."
     },
     {
       "title": "Bangladesh, US forces launch 'Tiger Lightning' exercise tomorrow",
@@ -265,17 +276,6 @@
       "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
     },
     {
-      "title": "One dengue patient dies, 242 hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
-      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
-      "snippet": "So far, 33 dengue-related deaths have been reported this year."
-    },
-    {
       "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
       "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
@@ -285,6 +285,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
+    },
+    {
+      "title": "One dengue patient dies, 242 hospitalised in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
+      "snippet": "So far, 33 dengue-related deaths have been reported this year."
     },
     {
       "title": "Cenbank adds 4 female participants to DU's Applied AI course after TBS report",
@@ -749,5 +760,5 @@
       "snippet": "The government's handling of this year's HSC examinations has exposed failures in planning, communication and crisis management. But as legitimate grievances gave way to roadblocks, vandalism, and demands beyond institutional authority, the incident ..."
     }
   ],
-  "updatedAt": "2026-07-18T17:30:19.113Z"
+  "updatedAt": "2026-07-18T19:03:56.391Z"
 }
