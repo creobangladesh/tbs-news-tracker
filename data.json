@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Maritime ports asked to keep local cautionary signal no 3",
+      "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-local-cautionary-signal-no-3-1491661",
+      "pubDate": "Sat, 18 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/maritime_ports_cautionary_signal-converted-from-webp.jpeg",
+      "snippet": "All fishing boats and trawlers over the North Bay have been advised to remain close to the coast and proceed with caution till further notice."
+    },
+    {
+      "title": "Algerian envoy distributes relief among flood victims in Chattogram, Cox’s Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/algerian-envoy-distributes-relief-among-flood-victims-chattogram-coxs-bazar-1491651",
+      "pubDate": "Sat, 18 Jul 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/algeria_envoy.jpg",
+      "snippet": "The ambassador visited flood-affected areas in Chattogram and Cox’s Bazar and distributed relief supplies among affected families."
+    },
+    {
+      "title": "Chattogram City Corporation launches app for one-stop citizen services",
+      "link": "https://www.tbsnews.net/bangladesh/chattogram-city-corporation-launches-app-one-stop-citizen-services-1491636",
+      "pubDate": "Sat, 18 Jul 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/chattogram_city_corporation_app_launching.jpeg",
+      "snippet": "Through the app, residents can report civic problems."
+    },
+    {
+      "title": "Govt will fail if it ignores referendum verdict: Jamaat ameer",
+      "link": "https://www.tbsnews.net/bangladesh/politics/govt-will-fail-if-it-ignores-referendum-verdict-jamaat-ameer-1491611",
+      "pubDate": "Sat, 18 Jul 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/jamaat_ameer_barishal.jpg",
+      "snippet": "Shafiqur Rahman also accused the government of abandoning its reform commitments after taking office."
+    },
+    {
+      "title": "Businesses allege bribery, excessive costs in obtaining halal certificates from BSTI, Islamic Foundation",
+      "link": "https://www.tbsnews.net/bangladesh/businesses-allege-bribery-excessive-costs-obtaining-halal-certificates-bsti-islamic",
+      "pubDate": "Sat, 18 Jul 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/bangladesh_chamber_of_industries_bci_organises_a_workshop_titled_halal_for_export_diversification_in_dhaka_today_18_july.jpeg",
+      "snippet": "At present, both the Islamic Foundation and BSTI separately issue halal certificates in Bangladesh."
+    },
+    {
       "title": "Bangladesh, US forces launch 'Tiger Lightning' exercise tomorrow",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-us-forces-launch-tiger-lightning-exercise-tomorrow-1491586",
       "pubDate": "Sat, 18 Jul 2026 19:20:00 +0600",
@@ -241,61 +296,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/pm_18_july_2026.jpg",
       "snippet": "He orders installation of automatic traffic lights at 50 more points in Dhaka"
-    },
-    {
-      "title": "Ctg Port Protection Committee stages hunger strike demanding halt to lease plans for 2 terminals",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-protection-committee-stages-hunger-strike-demanding-halt-lease-plans-2-terminals",
-      "pubDate": "Sat, 18 Jul 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/744532195_1715878243066840_5643028126638096519_n.jpg",
-      "snippet": "Speaking at the programme, committee Convener Delwar Majumdar said the port was a national asset that should remain under public ownership."
-    },
-    {
-      "title": "Barrister Sarwat Siraj Shukla appointed president of Bangladesh Women's Sports Association ad hoc committee",
-      "link": "https://www.tbsnews.net/bangladesh/barrister-sarwat-siraj-shukla-appointed-president-bangladesh-womens-sports-association-ad",
-      "pubDate": "Sat, 18 Jul 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/sarwat-siraj-.jpg",
-      "snippet": "Formed under the National Sports Council Act, the committee is tasked with wrapping up the election process within three months and handing over duties to an elected body."
-    },
-    {
-      "title": "All sluice gates of Kaptai Dam opened to ease pressure on lake",
-      "link": "https://www.tbsnews.net/bangladesh/all-sluice-gates-kaptai-dam-opened-ease-pressure-lake-1491316",
-      "pubDate": "Sat, 18 Jul 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/img_20260718_142454.jpg",
-      "snippet": "Power generation at the hydropower station remains normal despite the water release."
-    },
-    {
-      "title": "CID arrests Facebook Group admin over alleged Atif Aslam concert ticket scam",
-      "link": "https://www.tbsnews.net/bangladesh/cid-arrests-facebook-group-admin-over-alleged-atif-aslam-concert-ticket-scam-1491301",
-      "pubDate": "Sat, 18 Jul 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/4657355.jpg",
-      "snippet": "The misleading posts were allegedly published by multiple Facebook accounts to deceive prospective buyers."
-    },
-    {
-      "title": "Designed for 10 PSI gas, running on 1.5: How Bangladesh's industries are being choked",
-      "link": "https://www.tbsnews.net/bangladesh/energy/designed-10-psi-gas-running-15-how-bangladeshs-industries-are-being-choked-1491136",
-      "pubDate": "Sat, 18 Jul 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/19/titas_gas_field.jpg",
-      "snippet": "Manufacturers want adequate pressure rather than subsidies"
     },
     {
       "title": "Experts urge closing vaccine gaps as measles deaths continue despite nationwide campaign",
@@ -747,29 +747,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
       "snippet": "Free NS1 tests, hospital bed reserves among preparedness measures."
-    },
-    {
-      "title": "Mahdi Amin explains HSC exam decision, outlines 5 govt measures",
-      "link": "https://www.tbsnews.net/bangladesh/education/mahdi-amin-explains-hsc-exam-decision-outlines-5-govt-measures-1489341",
-      "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/26/mahdi_amin.png",
-      "snippet": "The adviser says local administrations have been empowered to take necessary steps, including changing examination centres and extending exam hours, where needed."
-    },
-    {
-      "title": "HSC protesters briefly block Shahbagh, warn of fresh Secretariat march if minister fails to resign by 10pm",
-      "link": "https://www.tbsnews.net/bangladesh/hsc-protesters-briefly-block-shahbagh-warn-fresh-secretariat-march-if-minister-fails",
-      "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
-      "snippet": "Traffic came to a halt after a section of protesting HSC examinees moved to Shahbagh despite another group ending their programme following talks with government officials at the Secretariat."
     }
   ],
-  "updatedAt": "2026-07-18T13:56:55.448Z"
+  "updatedAt": "2026-07-18T14:58:30.444Z"
 }
