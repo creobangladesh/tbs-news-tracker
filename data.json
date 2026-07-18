@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Bangladesh's pivotal role in BIMSTEC",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-pivotal-role-bimstec-1491391",
+      "pubDate": "Sat, 18 Jul 2026 15:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/719951501_1463517419135683_4896354091086471318_n.jpg",
+      "snippet": "Bangladesh's chairmanship of BIMSTEC offers a timely opportunity to strengthen regional connectivity, economic integration and security cooperation across the Bay of Bengal"
+    },
+    {
+      "title": "Govt plans sustainable embankments to prevent floods, tidal surges: Home minister ",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-sustainable-embankments-prevent-floods-tidal-surges-home-minister-1491386",
+      "pubDate": "Sat, 18 Jul 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/home_minister.jpg",
+      "snippet": "Salahuddin stated that the government's main priority is to protect people's welfare."
+    },
+    {
+      "title": "PM orders tougher action against air and noise pollution, seeks AI-based horn control",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-tougher-action-against-air-noise-pollution-seeks-ai-based-horn-control-1491381",
+      "pubDate": "Sat, 18 Jul 2026 15:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/pm_18_july_2026.jpg",
+      "snippet": "He orders installation of automatic traffic lights at 50 more points in Dhaka"
+    },
+    {
+      "title": "Ctg Port Protection Committee stages hunger strike demanding halt to lease plans for 2 terminals",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-port-protection-committee-stages-hunger-strike-demanding-halt-lease-plans-2-terminals",
+      "pubDate": "Sat, 18 Jul 2026 14:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/744532195_1715878243066840_5643028126638096519_n.jpg",
+      "snippet": "Speaking at the programme, committee Convener Delwar Majumdar said the port was a national asset that should remain under public ownership."
+    },
+    {
+      "title": "Barrister Sarwat Siraj Shukla appointed president of Bangladesh Women's Sports Association ad hoc committee",
+      "link": "https://www.tbsnews.net/bangladesh/barrister-sarwat-siraj-shukla-appointed-president-bangladesh-womens-sports-association-ad",
+      "pubDate": "Sat, 18 Jul 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/sarwat-siraj-.jpg",
+      "snippet": "Formed under the National Sports Council Act, the committee is tasked with wrapping up the election process within three months and handing over duties to an elected body."
+    },
+    {
       "title": "All sluice gates of Kaptai Dam opened to ease pressure on lake",
       "link": "https://www.tbsnews.net/bangladesh/all-sluice-gates-kaptai-dam-opened-ease-pressure-lake-1491316",
       "pubDate": "Sat, 18 Jul 2026 13:45:00 +0600",
@@ -8,18 +63,18 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/karnaphuli_power_plant.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/img_20260718_142454.jpg",
       "snippet": "Power generation at the hydropower station remains normal despite the water release."
     },
     {
-      "title": "CID arrests Facebook Group Admin over alleged Atif Aslam concert ticket scam",
+      "title": "CID arrests Facebook Group admin over alleged Atif Aslam concert ticket scam",
       "link": "https://www.tbsnews.net/bangladesh/cid-arrests-facebook-group-admin-over-alleged-atif-aslam-concert-ticket-scam-1491301",
       "pubDate": "Sat, 18 Jul 2026 13:20:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/05/cid.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/4657355.jpg",
       "snippet": "The misleading posts were allegedly published by multiple Facebook accounts to deceive prospective buyers."
     },
     {
@@ -177,28 +232,6 @@
       "snippet": "Ship owners, shipping agents and seafarers allege that delayed responses from law enforcement are exposing crews and imported vessels to growing security risks."
     },
     {
-      "title": "RMG sector to be key partner in rebuilding Bangladesh’s economy: Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/rmg-sector-be-key-partner-rebuilding-bangladeshs-economy-fakhrul-1491021",
-      "pubDate": "Fri, 17 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/mirza_fakhrul.jpg",
-      "snippet": "The minister says the government will support employment, industrialisation, and private sector growth while working to address the garment industry's key challenges."
-    },
-    {
-      "title": "'I was in Chhatra Dal long before you': Cumilla SP responds to critic",
-      "link": "https://www.tbsnews.net/bangladesh/i-was-chhatra-dal-long-you-cumilla-sp-responds-critic-1490991",
-      "pubDate": "Fri, 17 Jul 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/cumilla_sp_viral_news.jpg",
-      "snippet": "The exchange took place after a former Chhatra Dal leader criticised police over the handling of cases against those accused of supporting the previous government."
-    },
-    {
       "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
       "link": "https://www.tbsnews.net/tech/apple-unseats-nvidia-become-worlds-most-valuable-company-ai-bets-shift-1490981",
       "pubDate": "Fri, 17 Jul 2026 21:20:00 +0600",
@@ -210,24 +243,13 @@
       "snippet": "Apple overtakes Nvidia, signalling shifting investor confidence beyond AI chipmakers now"
     },
     {
-      "title": "Madrasa education must embrace research, technology: IAU VC",
-      "link": "https://www.tbsnews.net/bangladesh/madrasa-education-must-embrace-research-technology-iau-vc-1490961",
-      "pubDate": "Fri, 17 Jul 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/1000043995_16x9.png",
-      "snippet": ""
-    },
-    {
       "title": "Exports through Benapole halve in FY26 as trade curbs deepen crisis",
       "link": "https://www.tbsnews.net/economy/exports-through-benapole-halve-fy26-trade-curbs-deepen-crisis-1490951",
       "pubDate": "Fri, 17 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/25/benapole.png",
       "snippet": "Port statistics show that exports through Benapole dropped to 189,358 tonnes in FY2025-26, down from 381,440 tonnes in FY2024-25, a decline of 192,082 tonnes."
     },
@@ -725,40 +747,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/14/bepza.jpg",
       "snippet": "The export processing zone authority secured $717.71 million in proposed investments, contributed 17.5% of Bangladesh's exports and created more than 25,000 jobs during FY2025-26."
-    },
-    {
-      "title": "Measles death toll reaches 771 as five more children die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-771-five-more-children-die-1489051",
-      "pubDate": "Wed, 15 Jul 2026 15:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/p5_measles_mhn_0747.jpg",
-      "snippet": "With the latest update, the number of suspected measles-related deaths has risen to 676, while laboratory-confirmed measles deaths stand at 95."
-    },
-    {
-      "title": "PM seeks teachers' support to build a “humane Bangladesh” through value-based primary education",
-      "link": "https://www.tbsnews.net/bangladesh/pm-seeks-teachers-support-build-humane-bangladesh-through-value-based-primary-education",
-      "pubDate": "Wed, 15 Jul 2026 15:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/pm_0.jpg",
-      "snippet": "PM urges teachers to help build a humane Bangladesh"
-    },
-    {
-      "title": "Saudi Arabia signals interest in Bangladesh's logistics, port infrastructure",
-      "link": "https://www.tbsnews.net/economy/corporates/saudi-arabia-eyes-investment-bangladeshs-logistics-sector-1488961",
-      "pubDate": "Wed, 15 Jul 2026 14:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15th_july_pr.jpg",
-      "snippet": "The Chittagong Port Authority signed a 22-year concession agreement with RSGT in December 2023 to equip, operate and maintain the Patenga Container Terminal, with the company expected to invest $170 million over the concession period."
     }
   ],
-  "updatedAt": "2026-07-18T08:20:02.804Z"
+  "updatedAt": "2026-07-18T09:56:35.814Z"
 }
