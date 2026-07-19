@@ -1,7 +1,62 @@
 {
   "news": [
     {
-      "title": "TIB questions finance ministry's move to halt proposed cut in govt officials' car allowance",
+      "title": "Bangladesh joins three key IMO conventions to bolster maritime safety, pollution liability framework",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-joins-three-key-imo-conventions-bolster-maritime-safety-pollution-liability",
+      "pubDate": "Sun, 19 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bd_imo_meritime_conventions.jpeg",
+      "snippet": "Bangladesh ranked 35th among ship-owning nations in the 2024 United Nations Conference on Trade and Development (UNCTAD) report."
+    },
+    {
+      "title": "JU bars outsiders, unregistered vehicles during World Cup final night",
+      "link": "https://www.tbsnews.net/bangladesh/ju-bars-outsiders-unregistered-vehicles-during-world-cup-final-night-1492516",
+      "pubDate": "Sun, 19 Jul 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/04/jahangirnagar-university_0.jpg",
+      "snippet": "The temporary restriction will remain in force from 5pm today until 6am tomorrow to prevent any untoward incidents during the FIFA World Cup 2026 final."
+    },
+    {
+      "title": "16kg gold worth Tk35cr seized at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/16kg-gold-worth-tk35cr-seized-dhaka-airport-1492481",
+      "pubDate": "Sun, 19 Jul 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/whatsapp_image_2026-07-19_at_6.18.24_pm_1.jpeg",
+      "snippet": "The gold was recovered from a shipment imported from Hong Kong following intelligence provided by the DGFI, customs officials say."
+    },
+    {
+      "title": "Monsoon melodies unite music lovers through 'Shravan Sandhya' in Dhaka",
+      "link": "https://www.tbsnews.net/bangladesh/monsoon-melodies-unite-music-lovers-through-shravan-sandhya-dhaka-1492466",
+      "pubDate": "Sun, 19 Jul 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/shravan_sandhya.png",
+      "snippet": "The programme presented an evocative musical experience that reflected the beauty of the rainy season while celebrating the shared cultural legacy that continues to connect the peoples of India and Bangladesh."
+    },
+    {
+      "title": "Youth arrested over raping teenager in Kushtia",
+      "link": "https://www.tbsnews.net/bangladesh/crime/youth-arrested-over-raping-teenager-kushtia-1492421",
+      "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/child_rape.jpg",
+      "snippet": "According to the case statement, the incident occurred around 9pm yesterday"
+    },
+    {
+      "title": "Retaining Tk50,000 vehicle maintenance allowance for bureaucrats shows 'helpless surrender': TIB",
       "link": "https://www.tbsnews.net/bangladesh/tib-questions-finance-ministrys-move-halt-proposed-cut-govt-officials-car-allowance",
       "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
       "category": "Bangladesh",
@@ -23,15 +78,15 @@
       "snippet": "The Deputy Speaker welcomed UNDP’s proposal to introduce a parliamentary fellowship or internship programme that will enable recent graduates to work at the Parliament Library and enhance their knowledge of parliamentary affairs."
     },
     {
-      "title": "Youth arrested over raping teenager in Kushtia",
-      "link": "https://www.tbsnews.net/bangladesh/crime/youth-arrested-over-raping-teenager-kushtia-1492421",
-      "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
+      "title": "CAAB warns against unauthorized airport ground handling services",
+      "link": "https://www.tbsnews.net/bangladesh/caab-warns-against-unauthorized-airport-ground-handling-services-1492416",
+      "pubDate": "Sun, 19 Jul 2026 19:15:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/child_rape.jpg",
-      "snippet": "According to the case statement, the incident occurred around 9pm yesterday"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/21/caab-logo.png",
+      "snippet": "CAAB also instructed airlines and aircraft operators to engage only organizations that have appropriate authorization or licences from the aviation regulator for ground handling and other operational services."
     },
     {
       "title": "Climate-driven extreme heat reducing income, driving up healthcare costs in Bangladesh: Report warns",
@@ -43,17 +98,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/08/heatwave-1536x1024-1.jpg",
       "snippet": "Bangladesh lost $24 billion in labour income in 2024 due to extreme heat, equivalent to 5% of GDP"
-    },
-    {
-      "title": "CAAB warns against unauthorized airport ground handling services",
-      "link": "https://www.tbsnews.net/bangladesh/caab-warns-against-unauthorized-airport-ground-handling-services-1492416",
-      "pubDate": "Sun, 19 Jul 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/21/caab-logo.png",
-      "snippet": "CAAB also instructed airlines and aircraft operators to engage only organizations that have appropriate authorization or licences from the aviation regulator for ground handling and other operational services."
     },
     {
       "title": "Bangladesh embarking on new journey to improve work ambience: Shama Obaed",
@@ -111,7 +155,7 @@
       "snippet": "The court also asked why illegal leases and allocations within the reserved mangrove forest should not be cancelled and illegal occupants evicted to restore the forest."
     },
     {
-      "title": "9 more arrested over Chattogram ISP office attack",
+      "title": "10 more arrested over Ctg ISP office attack; ambulance used in assault seized",
       "link": "https://www.tbsnews.net/bangladesh/crime/9-more-arrested-over-chattogram-isp-office-attack-1492336",
       "pubDate": "Sun, 19 Jul 2026 18:00:00 +0600",
       "category": "Bangladesh",
@@ -119,7 +163,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/741940428_27458887883765123_8203776088551231376_n.jpg",
-      "snippet": "RAB-7 also recovered four locally made weapons, including a samurai sword allegedly used in the attack."
+      "snippet": "Among the arrestees are alleged key organiser Michael Rohen Mia and an ambulance driver accused of transporting attackers to the Digital Dot Net office."
     },
     {
       "title": "59 initiatives recognised at SDG Brand Champion Awards 2026",
@@ -202,45 +246,23 @@
       "title": "Depositors demand gazette on finance minister’s no- ‘haircut’ pledge",
       "link": "https://www.tbsnews.net/economy/banking/depositors-demand-gazette-finance-ministers-no-haircut-pledge-1492286",
       "pubDate": "Sun, 19 Jul 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/1784448440338_1.jpg",
       "snippet": "Finance Minister Amir Khosru Mahmud Chowdhury told parliament on 8 July that depositors of troubled banks would receive their money back with interest and without any \"haircut\""
-    },
-    {
-      "title": "Salahuddin urges politically neutral civil service to meet public expectations",
-      "link": "https://www.tbsnews.net/bangladesh/salahuddin-urges-politically-neutral-civil-service-meet-public-expectations-1492261",
-      "pubDate": "Sun, 19 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/e1c8b32e-b597-40d7-abbf-4038cefd9ccc.jpg",
-      "snippet": "Describing the civil service as the driving force of the state, Salahuddin stressed that transparency and accountability must be ensured at every level of the administration to transform public service into a genuine servant of the people."
     },
     {
       "title": "Measles: Death toll reaches 788 as 4 more children die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-788-4-more-children-die-24-hours-1492226",
       "pubDate": "Sun, 19 Jul 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "The latest fatalities were all classified as suspected measles deaths, taking the number of suspected deaths to 693, while the toll of laboratory-confirmed deaths remained unchanged at 95."
-    },
-    {
-      "title": "State-owned DAP fertiliser plant shut for 20 days amid phosphoric acid shortage",
-      "link": "https://www.tbsnews.net/bangladesh/state-owned-dap-fertiliser-plant-shut-20-days-amid-phosphoric-acid-shortage-1492246",
-      "pubDate": "Sun, 19 Jul 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/fertiliser_1.jpg",
-      "snippet": "According to Bangladesh Chemical Industries Corporation (BCIC) officials, a January international tender for importing 20,000 tonnes of phosphoric acid was awarded to local contractor RK Enterprise, with delivery scheduled by June. However, the shipm..."
     },
     {
       "title": "Campus journalist among 15 injured in alleged planned attack at Barishal University",
@@ -736,40 +758,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
       "snippet": "The central bank’s Finance Company Regulation and Policy Department (FCRPD) said the extension aligns the regulatory support available to NBFI borrowers with facilities already provided to clients of commercial banks."
-    },
-    {
-      "title": "The 48 hours that made 5 August inevitable",
-      "link": "https://www.tbsnews.net/features/panorama/48-hours-made-5-august-inevitable-1490296",
-      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/bangladesh_quota_protest_0.jpg",
-      "snippet": "The crackdown meant to end Bangladesh's student protests in July 2024 ended up ensuring it spread to every corner of the country"
-    },
-    {
-      "title": "Stepping back from reconstructing institutions in disarray ",
-      "link": "https://www.tbsnews.net/features/panorama/stepping-back-reconstructing-institutions-disarray-1490311",
-      "pubDate": "Thu, 16 Jul 2026 20:15:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/whatsapp_image_2026-07-16_at_8.25.15_pm.jpeg",
-      "snippet": "The July Uprising exposed deep institutional weaknesses. More than political change, Bangladesh's reconstruction requires structural reforms that strengthen transparency, accountability, and the rule of law"
-    },
-    {
-      "title": "Dhaka: A city that built over its canals is now drowning in rain",
-      "link": "https://www.tbsnews.net/features/big-picture/dhaka-city-built-over-its-canals-now-drowning-rain-1490271",
-      "pubDate": "Thu, 16 Jul 2026 19:50:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/169.png",
-      "snippet": "Dhaka’s flooding crisis tells the story of a city that dismantled its own defences against rain"
     }
   ],
-  "updatedAt": "2026-07-19T13:42:35.314Z"
+  "updatedAt": "2026-07-19T14:55:54.498Z"
 }
