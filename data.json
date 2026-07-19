@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "World Cup Final: DU TSC turns into football hub",
+      "link": "https://www.tbsnews.net/sports/world-cup-final-du-tsc-turns-football-hub-1492726",
+      "pubDate": "Mon, 20 Jul 2026 02:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/748745702_2712398255809479_1115780286599456103_n.jpg",
+      "snippet": "The TSC premises turned into a festive venue as supporters from different parts of the capital arrived wearing team jerseys, carrying flags and cheering for their favourite sides."
+    },
+    {
       "title": "Visitors force entry into DU despite World Cup final restrictions",
       "link": "https://www.tbsnews.net/bangladesh/visitors-force-entry-du-despite-world-cup-final-restrictions-1492721",
       "pubDate": "Mon, 20 Jul 2026 01:05:00 +0600",
@@ -155,17 +166,6 @@
       "snippet": "ILO Director General Gilbert F Houngbo paid a courtesy call on Prime Minister's Foreign Affairs Adviser Humayun Kabir at a hotel in the capital."
     },
     {
-      "title": "Politics can't be done only by capitalising on July spirit: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/politics-cant-be-done-only-capitalising-july-spirit-home-minister-1492601",
-      "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
-      "snippet": "Although a debate over judicial independence continues, he says the judiciary currently enjoys significant autonomy."
-    },
-    {
       "title": "US-Bangla plans to expand to 30 overseas destinations by 2027, launch second airline",
       "link": "https://www.tbsnews.net/economy/aviation/us-bangla-plans-expand-30-international-destinations-2027-launch-second-airline",
       "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
@@ -175,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/us-bangla_md.jpeg",
       "snippet": "The airline says 21 new aircraft will join its fleet in 2027, supporting expansion to 30 international destinations across 20 countries and the launch of a separate low-cost carrier."
+    },
+    {
+      "title": "Politics can't be done only by capitalising on July spirit: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/politics-cant-be-done-only-capitalising-july-spirit-home-minister-1492601",
+      "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
+      "snippet": "Although a debate over judicial independence continues, he says the judiciary currently enjoys significant autonomy."
     },
     {
       "title": "Govt ensuring taxpayers' money to spend  for public welfare: Asaduzzaman",
@@ -208,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bd-china_-_edited.jpg",
       "snippet": "He said China has always attached great importance to developing bilateral relations with Bangladesh and will always be a trustworthy good friend, good neighbor, and good partner of Bangladesh."
-    },
-    {
-      "title": "Bangladesh joins three key IMO conventions to bolster maritime safety, pollution liability framework",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-joins-three-key-imo-conventions-bolster-maritime-safety-pollution-liability",
-      "pubDate": "Sun, 19 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bd_imo_meritime_conventions.jpeg",
-      "snippet": "Bangladesh ranked 35th among ship-owning nations in the 2024 United Nations Conference on Trade and Development (UNCTAD) report."
     },
     {
       "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
@@ -705,5 +705,5 @@
       "snippet": ""
     }
   ],
-  "updatedAt": "2026-07-19T19:42:37.291Z"
+  "updatedAt": "2026-07-19T20:48:57.298Z"
 }
