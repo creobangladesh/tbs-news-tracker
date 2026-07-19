@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Visitors force entry into DU despite World Cup final restrictions",
+      "link": "https://www.tbsnews.net/bangladesh/visitors-force-entry-du-despite-world-cup-final-restrictions-1492721",
+      "pubDate": "Mon, 20 Jul 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/3ff39d6d-410a-45b3-ae15-2900754df55d.jpg",
+      "snippet": "Large crowds forced their way into Dhaka University campus around 10pm after breaching barricades at Nilkhet and Shahbagh, despite temporary restrictions on visitors and vehicles for the World Cup final."
+    },
+    {
+      "title": "Tarique meets coalition leaders today; allies to focus on 'govern together' pledge",
+      "link": "https://www.tbsnews.net/bangladesh/tarique-meets-coalition-leaders-today-allies-focus-govern-together-pledge-1492701",
+      "pubDate": "Mon, 20 Jul 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/prime_minister_tarique_rahman.jpg",
+      "snippet": "The meeting comes amid growing discontent among several allies, who say they have not received adequate recognition since the government was formed, particularly in seat-sharing and representation in government."
+    },
+    {
       "title": "Bangladesh, US launch 13-day joint military exercise Tiger Lightning 2026",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-us-launch-13-day-joint-military-exercise-tiger-lightning-2026-1492696",
       "pubDate": "Mon, 20 Jul 2026 00:10:00 +0600",
@@ -133,8 +155,8 @@
       "snippet": "ILO Director General Gilbert F Houngbo paid a courtesy call on Prime Minister's Foreign Affairs Adviser Humayun Kabir at a hotel in the capital."
     },
     {
-      "title": "Politics can’t be done only by selling July spirit: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/politics-cant-be-done-only-selling-july-spirit-home-minister-1492601",
+      "title": "Politics can't be done only by capitalising on July spirit: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/politics-cant-be-done-only-capitalising-july-spirit-home-minister-1492601",
       "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -197,28 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bd_imo_meritime_conventions.jpeg",
       "snippet": "Bangladesh ranked 35th among ship-owning nations in the 2024 United Nations Conference on Trade and Development (UNCTAD) report."
-    },
-    {
-      "title": "JU bars outsiders, unregistered vehicles during World Cup final night",
-      "link": "https://www.tbsnews.net/bangladesh/ju-bars-outsiders-unregistered-vehicles-during-world-cup-final-night-1492516",
-      "pubDate": "Sun, 19 Jul 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/04/jahangirnagar-university_0.jpg",
-      "snippet": "The temporary restriction will remain in force from 5pm today until 6am tomorrow to prevent any untoward incidents during the FIFA World Cup 2026 final."
-    },
-    {
-      "title": "16kg gold worth Tk35cr seized at Dhaka airport",
-      "link": "https://www.tbsnews.net/bangladesh/16kg-gold-worth-tk35cr-seized-dhaka-airport-1492481",
-      "pubDate": "Sun, 19 Jul 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/whatsapp_image_2026-07-19_at_6.18.24_pm_1.jpeg",
-      "snippet": "The gold was recovered from a shipment imported from Hong Kong following intelligence provided by the DGFI, customs officials say."
     },
     {
       "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
@@ -705,5 +705,5 @@
       "snippet": ""
     }
   ],
-  "updatedAt": "2026-07-19T18:27:04.229Z"
+  "updatedAt": "2026-07-19T19:42:37.291Z"
 }
