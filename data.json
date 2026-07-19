@@ -1,6 +1,149 @@
 {
   "news": [
     {
+      "title": "TIB questions finance ministry's move to halt proposed cut in govt officials' car allowance",
+      "link": "https://www.tbsnews.net/bangladesh/tib-questions-finance-ministrys-move-halt-proposed-cut-govt-officials-car-allowance",
+      "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/govt_car.jpg",
+      "snippet": "The anti-graft watchdog says halting the proposal undermines austerity efforts and reinforces discriminatory privileges enjoyed by a small group of bureaucrats."
+    },
+    {
+      "title": "Deputy Speaker seeks UNDP assistance to modernise Parliament",
+      "link": "https://www.tbsnews.net/bangladesh/deputy-speaker-seeks-undp-assistance-modernise-parliament-1492451",
+      "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/kaisar_kamal.png",
+      "snippet": "The Deputy Speaker welcomed UNDP’s proposal to introduce a parliamentary fellowship or internship programme that will enable recent graduates to work at the Parliament Library and enhance their knowledge of parliamentary affairs."
+    },
+    {
+      "title": "Youth arrested over raping teenager in Kushtia",
+      "link": "https://www.tbsnews.net/bangladesh/crime/youth-arrested-over-raping-teenager-kushtia-1492421",
+      "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/child_rape.jpg",
+      "snippet": "According to the case statement, the incident occurred around 9pm yesterday"
+    },
+    {
+      "title": "Climate-driven extreme heat reducing income, driving up healthcare costs in Bangladesh: Report warns",
+      "link": "https://www.tbsnews.net/environment/climate-change/climate-driven-extreme-heat-reducing-income-driving-healthcare-costs",
+      "pubDate": "Sun, 19 Jul 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/08/heatwave-1536x1024-1.jpg",
+      "snippet": "Bangladesh lost $24 billion in labour income in 2024 due to extreme heat, equivalent to 5% of GDP"
+    },
+    {
+      "title": "CAAB warns against unauthorized airport ground handling services",
+      "link": "https://www.tbsnews.net/bangladesh/caab-warns-against-unauthorized-airport-ground-handling-services-1492416",
+      "pubDate": "Sun, 19 Jul 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/21/caab-logo.png",
+      "snippet": "CAAB also instructed airlines and aircraft operators to engage only organizations that have appropriate authorization or licences from the aviation regulator for ground handling and other operational services."
+    },
+    {
+      "title": "Bangladesh embarking on new journey to improve work ambience: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-embarking-new-journey-improve-work-ambience-shama-obaed-1492411",
+      "pubDate": "Sun, 19 Jul 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/7e4bb403-dd34-4f28-9b99-b0fcd6c9e426.jpg",
+      "snippet": "The state minister highlighted the government’s commitment to advancing decent work, social justice and labour rights through comprehensive labour-sector reforms."
+    },
+    {
+      "title": "Dhaka urges visiting ILO chief to close Article 26 case against it; cites landmark labour reforms",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-urges-visiting-ilo-chief-close-article-26-case-against-it-cites-landmark-labour",
+      "pubDate": "Sun, 19 Jul 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ariful_haque_chowdhury.png",
+      "snippet": "Ariful said the government is committed to full transparency and accountability and will not tolerate irregularities or syndicates in labour migration, adding that Bangladesh is working to send workers abroad, including to Malaysia, through transpare..."
+    },
+    {
+      "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
+      "link": "https://www.tbsnews.net/bangladesh/education/200-bagerhat-primary-schools-hold-classes-makeshift-sheds-abandoned-buildings",
+      "pubDate": "Sun, 19 Jul 2026 18:55:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bagerhat_primary_school.jpg",
+      "snippet": "50 schools in Bagerhat Sadar have no safe or permanent buildings."
+    },
+    {
+      "title": "20 July 2024: Killings in the dark and light",
+      "link": "https://www.tbsnews.net/features/panorama/20-july-2024-killings-dark-and-light-1492371",
+      "pubDate": "Sun, 19 Jul 2026 18:20:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/texas_by_tasfik_2_0.png",
+      "snippet": "The curfew was a day old; the internet, three days dead. Behind the blackout, the killing did not stop. And the country was left to carry a grief the government was trying to bury"
+    },
+    {
+      "title": "HC asks why failure to restore Chakaria Sundarbans should not be declared illegal",
+      "link": "https://www.tbsnews.net/bangladesh/hc-asks-why-failure-restore-chakaria-sundarbans-should-not-be-declared-illegal-1492366",
+      "pubDate": "Sun, 19 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
+      "snippet": "The court also asked why illegal leases and allocations within the reserved mangrove forest should not be cancelled and illegal occupants evicted to restore the forest."
+    },
+    {
+      "title": "9 more arrested over Chattogram ISP office attack",
+      "link": "https://www.tbsnews.net/bangladesh/crime/9-more-arrested-over-chattogram-isp-office-attack-1492336",
+      "pubDate": "Sun, 19 Jul 2026 18:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/741940428_27458887883765123_8203776088551231376_n.jpg",
+      "snippet": "RAB-7 also recovered four locally made weapons, including a samurai sword allegedly used in the attack."
+    },
+    {
+      "title": "59 initiatives recognised at SDG Brand Champion Awards 2026",
+      "link": "https://www.tbsnews.net/bangladesh/59-initiatives-recognised-sdg-brand-champion-awards-2026-1492331",
+      "pubDate": "Sun, 19 Jul 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/sdg_brand_champion.png",
+      "snippet": "At the fourth edition of the awards, 34 initiatives received the Winner accolade, while 25 earned Honourable Mentions."
+    },
+    {
+      "title": "Bangladesh prepares five-year trade plan to address post-LDC graduation challenges",
+      "link": "https://www.tbsnews.net/economy/bangladesh-prepares-five-year-trade-plan-address-post-ldc-graduation-challenges-1492341",
+      "pubDate": "Sun, 19 Jul 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ldc-graduation_0.png",
+      "snippet": "The commerce secretary stressed that preparing policies and research reports alone would not be sufficient, emphasizing that effective implementation would be the key to success."
+    },
+    {
       "title": "Railway earnings rise in FY26, but income still trails expenditure",
       "link": "https://www.tbsnews.net/bangladesh/railway-earnings-rise-fy26-income-still-trails-expenditure-1492326",
       "pubDate": "Sun, 19 Jul 2026 17:45:00 +0600",
@@ -34,14 +177,14 @@
       "snippet": "Police chiefs, heads of intelligence agencies and senior law enforcement officials from countries across the Asia-Pacific region are expected to participate in the conference."
     },
     {
-      "title": "HC stays proceedings in Somoy TV fraud case, issues rule on quashing charges",
+      "title": "HC stays proceedings in case against Somoy TV chairman, directors",
       "link": "https://www.tbsnews.net/bangladesh/court/hc-stays-proceedings-somoy-tv-fraud-case-issues-rule-quashing-charges-1492271",
       "pubDate": "Sun, 19 Jul 2026 17:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/22/image-294687-1753183245.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/19/somoy_0.png",
       "snippet": "The court also issued a rule asking why the case should not be quashed and fixed 4 August for the full hearing."
     },
     {
@@ -100,125 +243,15 @@
       "snippet": "According to Bangladesh Chemical Industries Corporation (BCIC) officials, a January international tender for importing 20,000 tonnes of phosphoric acid was awarded to local contractor RK Enterprise, with delivery scheduled by June. However, the shipm..."
     },
     {
-      "title": "Shapla Chattar massacre: ICT prosecution receives probe report",
-      "link": "https://www.tbsnews.net/bangladesh/shapla-chattar-massacre-ict-prosecution-receives-probe-report-1492251",
-      "pubDate": "Sun, 19 Jul 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/05/hefazat_shapla_chattar.jpg",
-      "snippet": "Former Ekattor TV Editor-in-Chief Mozammel Haque Babu, channel's former Chief Reporter Farzana Rupa, journalist Shahriar Kabir, as well as the then chiefs of the police and the Rapid Action Battalion (RAB), and the then Dhaka Metropolitan Police (DMP..."
-    },
-    {
-      "title": "BNP reports Tk22.19cr income, Tk15.26cr expenditure to EC",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-reports-tk2219cr-income-tk1526cr-expenditure-ec-1492181",
-      "pubDate": "Sun, 19 Jul 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/21/election_commission_0.jpg",
-      "snippet": "The BNP submitted its annual financial report before the 31 July deadline."
-    },
-    {
-      "title": "HC seeks explanation over absence of female morgue assistants for post-mortems on women",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-seeks-explanation-over-absence-female-morgue-assistants-post-mortems-women",
-      "pubDate": "Sun, 19 Jul 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
-      "snippet": "The court asked the respondents, including the health secretary and the director general of DGHS, to respond to the rule within four weeks."
-    },
-    {
       "title": "Campus journalist among 15 injured in alleged planned attack at Barishal University",
       "link": "https://www.tbsnews.net/bangladesh/campus-journalist-among-15-injured-alleged-planned-attack-barishal-university-1492176",
       "pubDate": "Sun, 19 Jul 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/barishal_university.jpg",
       "snippet": "Several journalists covering the incident said that they were also assaulted while collecting information and that their mobile phones were snatched when they attempted to record videos of the attack."
-    },
-    {
-      "title": "Heavy to very heavy rainfall likely in 3 divisions",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-very-heavy-rainfall-likely-3-divisions-1492061",
-      "pubDate": "Sun, 19 Jul 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/heavy_rainfall_tsc_du_unb.jpg",
-      "snippet": "Rangpur, Mymensingh and Sylhet may receive heavy to very heavy rainfall over the next two days."
-    },
-    {
-      "title": "ACC seizes two Gulshan flats of ex-land minister Saifuzzaman Chowdhury",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-seizes-two-gulshan-flats-ex-land-minister-saifuzzaman-chowdhury-1492036",
-      "pubDate": "Sun, 19 Jul 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/photo-output_1.jpeg",
-      "snippet": "The court ordered the seizure of the two flats along with other assets in December last year."
-    },
-    {
-      "title": "One killed, 10 injured as bus falls into canal in Manikganj",
-      "link": "https://www.tbsnews.net/bangladesh/one-killed-10-injured-bus-falls-canal-manikganj-1492051",
-      "pubDate": "Sun, 19 Jul 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bus_falls_into_canal_in_manikganj-converted-from-webp.jpeg",
-      "snippet": "He added that legal action will be taken after completion of necessary procedures."
-    },
-    {
-      "title": "Army chief off to Türkiye on five-day official visit",
-      "link": "https://www.tbsnews.net/bangladesh/army-chief-turkiye-five-day-official-visit-1492006",
-      "pubDate": "Sun, 19 Jul 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/30/general_waker-uz-zaman.jpg",
-      "snippet": "He also discussed strengthening bilateral defence cooperation between Bangladesh and Türkiye."
-    },
-    {
-      "title": "2026 direct Fifa deal exposes inflated 2022 World Cup broadcasting costs: Minister ",
-      "link": "https://www.tbsnews.net/bangladesh/2026-direct-fifa-deal-exposes-inflated-2022-world-cup-broadcasting-costs-minister-1492016",
-      "pubDate": "Sun, 19 Jul 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/fifa_deal_exposes_press_briefing.png",
-      "snippet": "According to the minister, a Singapore-based company bought the 2022 broadcasting rights from Fifa before Bangladeshi firm Toma Construction acquired them and sold them to Bangladesh Television (BTV) for Tk98 crore."
-    },
-    {
-      "title": "Sust student claims assault by Chhatra Dal leaders after complaining about hall canteen food",
-      "link": "https://www.tbsnews.net/bangladesh/sust-student-claims-assault-chhatra-dal-leaders-after-complaining-about-hall-canteen-food",
-      "pubDate": "Sun, 19 Jul 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/sust-photo.png",
-      "snippet": "Chhatra Dal leaders denied the allegations."
-    },
-    {
-      "title": "International Automobile Federation launches road safety projects in Bangladesh, 14 other countries",
-      "link": "https://www.tbsnews.net/bangladesh/international-automobile-federation-launches-road-safety-projects-bangladesh-14-other",
-      "pubDate": "Sun, 19 Jul 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/fia_sm4a4l_family_photo.jpg",
-      "snippet": "Bangladesh is participating in the initiative through a project titled Road Accident Central Database, involving the Automobile Association of Bangladesh and the Ministry of Planning."
     },
     {
       "title": "Bepza Economic Zone in Mirsarai draws nearly $130m before completion, eyes $2.9b potential",
@@ -736,62 +769,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/169.png",
       "snippet": "Dhaka’s flooding crisis tells the story of a city that dismantled its own defences against rain"
-    },
-    {
-      "title": "BB issues framework for import trade in Free Trade Zones",
-      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-issues-framework-import-trade-free-trade-zones-1490216",
-      "pubDate": "Thu, 16 Jul 2026 19:20:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
-      "snippet": "Under the framework, ADs and Offshore Banking Units (OBUs) will handle FTZ-related transactions in line with foreign exchange regulations."
-    },
-    {
-      "title": "Viral clips capture HSC students' anger, anxiety, and divided views",
-      "link": "https://www.tbsnews.net/bangladesh/education/viral-clips-capture-hsc-students-anger-anxiety-and-divided-views-1490201",
-      "pubDate": "Thu, 16 Jul 2026 18:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/15-07-26-shahbag_student_protest-20.jpg",
-      "snippet": "Students have questioned the education minister’s role, weather-related decisions, and exam standards. At the same time, they also made some demands that raised eyebrows."
-    },
-    {
-      "title": "Without reforms, Bangladesh's GDP growth could slow to 3.5% in FY27: IMF",
-      "link": "https://www.tbsnews.net/economy/imf-warns-bangladeshs-gdp-growth-could-slow-35-fy27-without-reforms-1490181",
-      "pubDate": "Thu, 16 Jul 2026 18:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/24/panorama_30_10_2022_0.png",
-      "snippet": "Reforms will be phased under govt’s priorities, Khosru tells IMF."
-    },
-    {
-      "title": "Invest Bangladesh to be formed by unifying Bida, Beza & PPPA",
-      "link": "https://www.tbsnews.net/economy/invest-bangladesh-be-formed-unifying-bida-beza-pppa-1490171",
-      "pubDate": "Thu, 16 Jul 2026 18:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/investment_bangladesh.jpg",
-      "snippet": "Parliament approves law to unify Bida, Beza and PPPA under Invest Bangladesh."
-    },
-    {
-      "title": "Industry database being built to support investment-friendly policymaking: Bida",
-      "link": "https://www.tbsnews.net/economy/industry-database-being-built-support-investment-friendly-policymaking-bida-1490186",
-      "pubDate": "Thu, 16 Jul 2026 18:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/28/bida_logo_new.jpg",
-      "snippet": "The survey aims to provide a comprehensive picture of Bangladesh's investment landscape to support evidence-based policymaking and identify the country's active investors."
     }
   ],
-  "updatedAt": "2026-07-19T11:58:17.291Z"
+  "updatedAt": "2026-07-19T13:42:35.314Z"
 }
