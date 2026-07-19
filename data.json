@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Bangladesh, US launch 13-day joint military exercise Tiger Lightning 2026",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-us-launch-13-day-joint-military-exercise-tiger-lightning-2026-1492696",
+      "pubDate": "Mon, 20 Jul 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/bd_us_military_exercise.jpg",
+      "snippet": "A total of 184 military personnel from the US Army Pacific, Oregon National Guard and Bangladesh Army are taking part in the exercise."
+    },
+    {
+      "title": "Bogura's controversial union names to be changed after public hearings",
+      "link": "https://www.tbsnews.net/bangladesh/boguras-controversial-union-names-be-changed-after-public-hearings-1492691",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/bogura_map.jpg",
+      "snippet": "The district administration has finalised new names for three unions following the prime minister's directive."
+    },
+    {
+      "title": "Murder suspect dies in Bogura DB custody",
+      "link": "https://www.tbsnews.net/bangladesh/murder-suspect-dies-bogura-db-custody-1492681",
+      "pubDate": "Sun, 19 Jul 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/1000090609.jpg",
+      "snippet": "The 25-year-old hanged himself in a toilet, say police."
+    },
+    {
       "title": "CU hosts 'Green Education and Sustainability Summit 2026'",
       "link": "https://www.tbsnews.net/bangladesh/environment/cu-hosts-green-education-and-sustainability-summit-2026-1492671",
       "pubDate": "Sun, 19 Jul 2026 22:10:00 +0600",
@@ -111,7 +144,7 @@
       "snippet": "Although a debate over judicial independence continues, he says the judiciary currently enjoys significant autonomy."
     },
     {
-      "title": "US-Bangla plans to expand to 30 international destinations by 2027, launch second airline",
+      "title": "US-Bangla plans to expand to 30 overseas destinations by 2027, launch second airline",
       "link": "https://www.tbsnews.net/economy/aviation/us-bangla-plans-expand-30-international-destinations-2027-launch-second-airline",
       "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
       "category": "Bangladesh",
@@ -186,39 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/whatsapp_image_2026-07-19_at_6.18.24_pm_1.jpeg",
       "snippet": "The gold was recovered from a shipment imported from Hong Kong following intelligence provided by the DGFI, customs officials say."
-    },
-    {
-      "title": "Monsoon melodies unite music lovers through 'Shravan Sandhya' in Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/monsoon-melodies-unite-music-lovers-through-shravan-sandhya-dhaka-1492466",
-      "pubDate": "Sun, 19 Jul 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/shravan_sandhya.png",
-      "snippet": "The programme presented an evocative musical experience that reflected the beauty of the rainy season while celebrating the shared cultural legacy that continues to connect the peoples of India and Bangladesh."
-    },
-    {
-      "title": "Youth arrested over raping teenager in Kushtia",
-      "link": "https://www.tbsnews.net/bangladesh/crime/youth-arrested-over-raping-teenager-kushtia-1492421",
-      "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/child_rape.jpg",
-      "snippet": "According to the case statement, the incident occurred around 9pm yesterday"
-    },
-    {
-      "title": "Retaining Tk50,000 vehicle maintenance allowance for bureaucrats shows 'helpless surrender': TIB",
-      "link": "https://www.tbsnews.net/bangladesh/tib-questions-finance-ministrys-move-halt-proposed-cut-govt-officials-car-allowance",
-      "pubDate": "Sun, 19 Jul 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/govt_car.jpg",
-      "snippet": "The anti-graft watchdog says halting the proposal undermines austerity efforts and reinforces discriminatory privileges enjoyed by a small group of bureaucrats."
     },
     {
       "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
@@ -452,17 +452,6 @@
       "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
     },
     {
-      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
-      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
-    },
-    {
       "title": "One dengue patient dies, 242 hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
       "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
@@ -472,6 +461,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
       "snippet": "So far, 33 dengue-related deaths have been reported this year."
+    },
+    {
+      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
     },
     {
       "title": "Cenbank adds 4 female participants to DU's Applied AI course after TBS report",
@@ -703,62 +703,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/ee085ab3-439b-4120-9817-629cfc51ffe1_16x9.png",
       "snippet": ""
-    },
-    {
-      "title": "Beware the risky whale: How AI is rewriting the rules of customer lifetime value",
-      "link": "https://www.tbsnews.net/thoughts/beware-risky-whale-how-ai-rewriting-rules-customer-lifetime-value-1490461",
-      "pubDate": "Fri, 17 Jul 2026 00:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/ai_artificial_intelligence.jpg",
-      "snippet": "By seeing beyond the illusion of linear subtraction, businesses can finally separate true, profitable loyalty from the deceptive metrics of financial distress, securing their bottom line and fostering a much healthier digital economy"
-    },
-    {
-      "title": "HSC protests reflect structural flaws, student frustration: Analysts",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-protests-reflect-structural-flaws-student-frustration-analysts-1490456",
-      "pubDate": "Fri, 17 Jul 2026 00:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/_rd_4392.jpeg",
-      "snippet": "Restoring students’ confidence requires fundamental reform, they say"
-    },
-    {
-      "title": "Why Saarc is still relevant for South Asia",
-      "link": "https://www.tbsnews.net/thoughts/why-saarc-still-relevant-south-asia-1490446",
-      "pubDate": "Fri, 17 Jul 2026 00:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/remittance-earnings-from-saarc_0.png",
-      "snippet": "In the volatile world dynamics of energy shocks, climate risks, and shifting alliances, regional cooperation is essential. A revived Saarc could transform South Asia from one of the world’s least-integrated regions into a hub of collective resilience..."
-    },
-    {
-      "title": "Bangladesh's fertility U-turn: The case for demographic governance ",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-fertility-u-turn-case-demographic-governance-1490431",
-      "pubDate": "Thu, 16 Jul 2026 23:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/20210719170259_sap_8471-01.jpeg",
-      "snippet": "Bangladesh's recent rise in fertility is not merely a population issue. It is a reminder that demographic success requires continuous governance"
-    },
-    {
-      "title": "All remaining HSC, equivalent exams in Ctg postponed indefinitely over floods",
-      "link": "https://www.tbsnews.net/bangladesh/education/all-remaining-hsc-equivalent-exams-ctg-postponed-indefinitely-over-floods",
-      "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
-      "snippet": "The decision covers all remaining HSC and equivalent examinations under the Chattogram Education Board, as well as Madrasah and Technical Education Boards in the region, citing post-flood conditions and difficulties faced by examinees."
     }
   ],
-  "updatedAt": "2026-07-19T17:07:58.528Z"
+  "updatedAt": "2026-07-19T18:27:04.229Z"
 }
