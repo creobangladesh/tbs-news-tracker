@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "BSEC moves to ease margin loan rules; experts urge caution",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-ease-margin-loan-rules-experts-urge-caution-1492641",
+      "pubDate": "Sun, 19 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
+      "snippet": "The securities regulator has proposed raising margin financing limits, lowering the investment threshold and revising risk management rules, while market experts warn that stronger oversight will be essential to prevent excessive speculation."
+    },
+    {
+      "title": "Insurance stocks tumble as tighter margin rules trigger liquidity fears",
+      "link": "https://www.tbsnews.net/economy/stocks/insurance-stocks-tumble-tighter-margin-rules-trigger-liquidity-fears-1492646",
+      "pubDate": "Sun, 19 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/insurance_1.png",
+      "snippet": "Insurance sector emerged as worst underperformer today, shedding 2.72% after regulator proposed tighter margin lending rules."
+    },
+    {
+      "title": "Tackling measles requires stronger routine vaccination, research and coordinated action: Experts",
+      "link": "https://www.tbsnews.net/bangladesh/health/tackling-measles-requires-stronger-routine-vaccination-research-and-coordinated",
+      "pubDate": "Sun, 19 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/brac_university-measles.jpg",
+      "snippet": "Prompt medical attention for every suspected measles case could significantly reduce complications and prevent unnecessary deaths among children, says Professor Dr Abid Hossain Molla."
+    },
+    {
+      "title": "ASK condemns looting, demolition of AL leader's house in Patuakhali",
+      "link": "https://www.tbsnews.net/bangladesh/ask-condemns-looting-demolition-al-leaders-house-patuakhali-1492621",
+      "pubDate": "Sun, 19 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/untitled_design_1.png",
+      "snippet": "The rights organisation says the attack is a matter of serious concern in light of both constitutional guarantees and international human rights standards."
+    },
+    {
+      "title": "Female inmate who escaped from Kashimpur prison arrested in Dhaka",
+      "link": "https://www.tbsnews.net/bangladesh/crime/female-inmate-who-escaped-kashimpur-prison-arrested-dhaka-1492626",
+      "pubDate": "Sun, 19 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/24/106537_161.jpg",
+      "snippet": "The 21-year-old allegedly exploited lapses in supervision to escape from Kashimpur Central Women's Prison, leading to the suspension of seven prison officials over alleged negligence."
+    },
+    {
+      "title": "Z I Khan Panna's daughter 'attacked' in Barishal, one arrested",
+      "link": "https://www.tbsnews.net/bangladesh/crime/z-i-khan-pannas-daughter-attacked-barishal-one-arrested-1492611",
+      "pubDate": "Sun, 19 Jul 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/14/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "Nadima Mohammadi Khan also claimed that the attackers snatched a 1.12 bhori gold chains valued at approximately Tk3,50,000 in cash before fleeing the scene."
+    },
+    {
+      "title": "Bangladesh, ILO discuss labour reforms, child labour and safe migration",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-ilo-discuss-labour-reforms-child-labour-and-safe-migration-1492606",
+      "pubDate": "Sun, 19 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ilo_pms_foreign_advisers_meeting.jpg",
+      "snippet": "ILO Director General Gilbert F Houngbo paid a courtesy call on Prime Minister's Foreign Affairs Adviser Humayun Kabir at a hotel in the capital."
+    },
+    {
+      "title": "US-Bangla plans to expand to 30 international destinations by 2027, launch second airline",
+      "link": "https://www.tbsnews.net/economy/aviation/us-bangla-plans-expand-30-international-destinations-2027-launch-second-airline",
+      "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/us-bangla_md.jpeg",
+      "snippet": "The airline says 21 new aircraft will join its fleet in 2027, supporting expansion to 30 international destinations across 20 countries and the launch of a separate low-cost carrier."
+    },
+    {
+      "title": "Politics can’t be done only by selling July spirit: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/politics-cant-be-done-only-selling-july-spirit-home-minister-1492601",
+      "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
+      "snippet": "Although a debate over judicial independence continues, he says the judiciary currently enjoys significant autonomy."
+    },
+    {
+      "title": "Govt ensuring taxpayers' money to spend  for public welfare: Asaduzzaman",
+      "link": "https://www.tbsnews.net/bangladesh/govt-ensuring-taxpayers-money-spend-public-welfare-asaduzzaman-1492591",
+      "pubDate": "Sun, 19 Jul 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/13/md._asaduzzaman.jpg",
+      "snippet": "Md Asaduzzaman further said the government has been working consistently to fulfil its election pledges. It has already taken initiatives to implement the Family Card, Agriculture Card and Imam Card programmes."
+    },
+    {
+      "title": "Candidate eligibility in local govt elections a decision for the courts, EC: Rizvi",
+      "link": "https://www.tbsnews.net/bangladesh/candidate-eligibility-local-govt-elections-decision-courts-ec-rizvi-1492581",
+      "pubDate": "Sun, 19 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ruhul_kabir_rizvi_1.jpg",
+      "snippet": "Political parties may back candidates, but not contest directly, he says."
+    },
+    {
+      "title": "Beijing to work with Dhaka to implement key consensus reached by two leaders: Envoy",
+      "link": "https://www.tbsnews.net/bangladesh/beijing-work-dhaka-implement-key-consensus-reached-two-leaders-envoy-1492576",
+      "pubDate": "Sun, 19 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bd-china_-_edited.jpg",
+      "snippet": "He said China has always attached great importance to developing bilateral relations with Bangladesh and will always be a trustworthy good friend, good neighbor, and good partner of Bangladesh."
+    },
+    {
       "title": "Bangladesh joins three key IMO conventions to bolster maritime safety, pollution liability framework",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-joins-three-key-imo-conventions-bolster-maritime-safety-pollution-liability",
       "pubDate": "Sun, 19 Jul 2026 20:40:00 +0600",
@@ -89,39 +221,6 @@
       "snippet": "CAAB also instructed airlines and aircraft operators to engage only organizations that have appropriate authorization or licences from the aviation regulator for ground handling and other operational services."
     },
     {
-      "title": "Climate-driven extreme heat reducing income, driving up healthcare costs in Bangladesh: Report warns",
-      "link": "https://www.tbsnews.net/environment/climate-change/climate-driven-extreme-heat-reducing-income-driving-healthcare-costs",
-      "pubDate": "Sun, 19 Jul 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/08/heatwave-1536x1024-1.jpg",
-      "snippet": "Bangladesh lost $24 billion in labour income in 2024 due to extreme heat, equivalent to 5% of GDP"
-    },
-    {
-      "title": "Bangladesh embarking on new journey to improve work ambience: Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-embarking-new-journey-improve-work-ambience-shama-obaed-1492411",
-      "pubDate": "Sun, 19 Jul 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/7e4bb403-dd34-4f28-9b99-b0fcd6c9e426.jpg",
-      "snippet": "The state minister highlighted the government’s commitment to advancing decent work, social justice and labour rights through comprehensive labour-sector reforms."
-    },
-    {
-      "title": "Dhaka urges visiting ILO chief to close Article 26 case against it; cites landmark labour reforms",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-urges-visiting-ilo-chief-close-article-26-case-against-it-cites-landmark-labour",
-      "pubDate": "Sun, 19 Jul 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ariful_haque_chowdhury.png",
-      "snippet": "Ariful said the government is committed to full transparency and accountability and will not tolerate irregularities or syndicates in labour migration, adding that Bangladesh is working to send workers abroad, including to Malaysia, through transpare..."
-    },
-    {
       "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
       "link": "https://www.tbsnews.net/bangladesh/education/200-bagerhat-primary-schools-hold-classes-makeshift-sheds-abandoned-buildings",
       "pubDate": "Sun, 19 Jul 2026 18:55:00 +0600",
@@ -144,106 +243,29 @@
       "snippet": "The curfew was a day old; the internet, three days dead. Behind the blackout, the killing did not stop. And the country was left to carry a grief the government was trying to bury"
     },
     {
-      "title": "HC asks why failure to restore Chakaria Sundarbans should not be declared illegal",
-      "link": "https://www.tbsnews.net/bangladesh/hc-asks-why-failure-restore-chakaria-sundarbans-should-not-be-declared-illegal-1492366",
-      "pubDate": "Sun, 19 Jul 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
-      "snippet": "The court also asked why illegal leases and allocations within the reserved mangrove forest should not be cancelled and illegal occupants evicted to restore the forest."
-    },
-    {
-      "title": "10 more arrested over Ctg ISP office attack; ambulance used in assault seized",
-      "link": "https://www.tbsnews.net/bangladesh/crime/9-more-arrested-over-chattogram-isp-office-attack-1492336",
-      "pubDate": "Sun, 19 Jul 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/741940428_27458887883765123_8203776088551231376_n.jpg",
-      "snippet": "Among the arrestees are alleged key organiser Michael Rohen Mia and an ambulance driver accused of transporting attackers to the Digital Dot Net office."
-    },
-    {
-      "title": "59 initiatives recognised at SDG Brand Champion Awards 2026",
-      "link": "https://www.tbsnews.net/bangladesh/59-initiatives-recognised-sdg-brand-champion-awards-2026-1492331",
-      "pubDate": "Sun, 19 Jul 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/sdg_brand_champion.png",
-      "snippet": "At the fourth edition of the awards, 34 initiatives received the Winner accolade, while 25 earned Honourable Mentions."
-    },
-    {
       "title": "Bangladesh prepares five-year trade plan to address post-LDC graduation challenges",
       "link": "https://www.tbsnews.net/economy/bangladesh-prepares-five-year-trade-plan-address-post-ldc-graduation-challenges-1492341",
       "pubDate": "Sun, 19 Jul 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ldc-graduation_0.png",
       "snippet": "The commerce secretary stressed that preparing policies and research reports alone would not be sufficient, emphasizing that effective implementation would be the key to success."
-    },
-    {
-      "title": "Railway earnings rise in FY26, but income still trails expenditure",
-      "link": "https://www.tbsnews.net/bangladesh/railway-earnings-rise-fy26-income-still-trails-expenditure-1492326",
-      "pubDate": "Sun, 19 Jul 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/train_unb_img.jpg",
-      "snippet": "Bangladesh Railway claimed that train fares have not been revised since 2016."
     },
     {
       "title": "College student dies after appendicitis surgery in Faridpur; probe committee formed",
       "link": "https://www.tbsnews.net/bangladesh/health/college-student-dies-after-appendicitis-surgery-faridpur-probe-committee-formed",
       "pubDate": "Sun, 19 Jul 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/al_zara_hospital.jpg",
       "snippet": "The deceased, 17-year-old Ayesha Afrin, was the daughter of expatriate Liton Matubbar of Kailasher Dangi village in Akoter Char union under Sadarpur upazila."
     },
     {
-      "title": "IGP leaves for Thailand to attend regional summit on scam, crime",
-      "link": "https://www.tbsnews.net/bangladesh/igp-leaves-thailand-attend-regional-summit-scam-crime-1492296",
-      "pubDate": "Sun, 19 Jul 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/17/ali_hossain_fakir.jpg",
-      "snippet": "Police chiefs, heads of intelligence agencies and senior law enforcement officials from countries across the Asia-Pacific region are expected to participate in the conference."
-    },
-    {
-      "title": "HC stays proceedings in case against Somoy TV chairman, directors",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-stays-proceedings-somoy-tv-fraud-case-issues-rule-quashing-charges-1492271",
-      "pubDate": "Sun, 19 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/19/somoy_0.png",
-      "snippet": "The court also issued a rule asking why the case should not be quashed and fixed 4 August for the full hearing."
-    },
-    {
-      "title": "Three new Sylhet wells to add 3cr cubic feet of gas daily",
-      "link": "https://www.tbsnews.net/bangladesh/three-new-sylhet-wells-add-3cr-cubic-feet-gas-daily-1492276",
-      "pubDate": "Sun, 19 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/10/2020-02-27-15-15-e9a48cf914407974fc14f4837c546540.jpg",
-      "snippet": "SGFL Managing Director Engr Md Faruque Hossain said, “SGFL is currently supplying 14.2 crore cubic feet of gas to the national grid every day. Once drilling of the three wells is completed, an additional 3 crore cubic feet of gas can be added to the ..."
-    },
-    {
-      "title": "Depositors demand gazette on finance minister’s no- ‘haircut’ pledge",
+      "title": "Ctg depositors demand immediate gazette on finance minister’s no ‘haircut’ pledge",
       "link": "https://www.tbsnews.net/economy/banking/depositors-demand-gazette-finance-ministers-no-haircut-pledge-1492286",
       "pubDate": "Sun, 19 Jul 2026 16:55:00 +0600",
       "category": "Banking",
@@ -736,29 +758,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
       "snippet": "The decision covers all remaining HSC and equivalent examinations under the Chattogram Education Board, as well as Madrasah and Technical Education Boards in the region, citing post-flood conditions and difficulties faced by examinees."
-    },
-    {
-      "title": "Clearing Tk7,000cr insurance claims tops reform agenda: New Idra chairman",
-      "link": "https://www.tbsnews.net/economy/clearing-tk7000cr-insurance-claims-tops-reform-agenda-new-idra-chairman-1490401",
-      "pubDate": "Thu, 16 Jul 2026 21:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/16/mir_nadia_nivin.jpg",
-      "snippet": "Government treasury bonds and fixed deposits held with financially sound banks and other marketable investments would be liquidated in phases, she says."
-    },
-    {
-      "title": "BB extends special loan rescheduling facilities for finance companies",
-      "link": "https://www.tbsnews.net/economy/banking/bb-extends-special-loan-rescheduling-facilities-finance-companies-1490371",
-      "pubDate": "Thu, 16 Jul 2026 21:10:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
-      "snippet": "The central bank’s Finance Company Regulation and Policy Department (FCRPD) said the extension aligns the regulatory support available to NBFI borrowers with facilities already provided to clients of commercial banks."
     }
   ],
-  "updatedAt": "2026-07-19T14:55:54.498Z"
+  "updatedAt": "2026-07-19T15:58:32.867Z"
 }
