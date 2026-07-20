@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Why dollar rate is rising again",
+      "link": "https://www.tbsnews.net/economy/banking/why-dollar-rate-rising-again-1493501",
+      "pubDate": "Tue, 21 Jul 2026 00:55:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
+      "snippet": "Several commercial banks purchased remittance dollars from exchange houses yesterday at Tk123.75 per dollar, about 10 paisa higher than in early July."
+    },
+    {
       "title": "Court denies Chinmoy Krishna Das bail in lawyer Alif murder case",
       "link": "https://www.tbsnews.net/bangladesh/court-denies-chinmoy-krishna-das-bail-lawyer-alif-murder-case-1493476",
       "pubDate": "Mon, 20 Jul 2026 22:30:00 +0600",
@@ -89,15 +100,15 @@
       "snippet": "At the outset of the meeting, Tarique Rahman sought a detailed briefing from the health minister, state minister, secretary and other senior officials on the achievements made in the health sector during the five months since the current government a..."
     },
     {
-      "title": "BSTI orders withdrawal of ice cream, pickles, cosmetics over quality issues",
-      "link": "https://www.tbsnews.net/bangladesh/bsti-orders-withdrawal-ice-cream-pickles-cosmetics-over-quality-issues-1493391",
+      "title": "Ice cream, pickles, cosmetics among 8 products ordered withdrawal over quality issues",
+      "link": "https://www.tbsnews.net/bangladesh/ice-cream-pickles-cosmetics-among-8-products-ordered-withdrawal-over-quality-issues",
       "pubDate": "Mon, 20 Jul 2026 21:20:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/logo_collage_food_factories.jpg",
-      "snippet": "The companies have also been instructed to immediately withdraw the products from distributors, dealers, retailers and markets across the country."
+      "snippet": "BSTI urges consumers to report complaints related to product quality, adulteration, fraud, misuse of BSTI certification mark."
     },
     {
       "title": "Milestone air crash probe recommends overhauling airport zoning, urban planning, flight safety; none implemented",
@@ -188,17 +199,6 @@
       "snippet": "The committees will be responsible for overseeing preparations and related activities for the tournament."
     },
     {
-      "title": "The silent return of a killer: Bangladesh's measles crisis",
-      "link": "https://www.tbsnews.net/thoughts/silent-return-killer-bangladeshs-measles-crisis-1493286",
-      "pubDate": "Mon, 20 Jul 2026 18:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/photo-2026-07-13-11-21-49.jpg",
-      "snippet": "Bangladesh once nearly eliminated measles. Now it faces one of its deadliest outbreaks in decades — 100,000+ cases, over 700 dead, mostly children too young to be vaccinated."
-    },
-    {
       "title": "Connectivity must remain flagship of regional ambition: Shama Obaed",
       "link": "https://www.tbsnews.net/bangladesh/connectivity-must-remain-flagship-regional-ambition-shama-obaed-1493266",
       "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
@@ -210,7 +210,7 @@
       "snippet": "She says regional prosperity can only be sustained in an environment of peace, security"
     },
     {
-      "title": "Bangladesh's Q3 GDP growth slows to 2.22% in FY26",
+      "title": "GDP growth slows to 2.22% in Q3 of FY26",
       "link": "https://www.tbsnews.net/economy/bangladeshs-q3-gdp-growth-slows-222-fy26-1493291",
       "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
       "category": "Bangladesh",
@@ -232,17 +232,6 @@
       "snippet": "A five-member medical board, led by Dr Zahidul Islam, head of the Paediatric Cardiology Department at the hospital, reviewed the child's physical condition, medical records and diagnostic reports."
     },
     {
-      "title": "Poverty Rising in Bangladesh: Growth, Inequality, and the Struggle to Sustain Progress",
-      "link": "https://www.tbsnews.net/thoughts/poverty-rising-bangladesh-growth-inequality-and-struggle-sustain-progress-1493241",
-      "pubDate": "Mon, 20 Jul 2026 18:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
-      "snippet": ""
-    },
-    {
       "title": "Home minister directs BGB to intensify anti-smuggling, push-in efforts",
       "link": "https://www.tbsnews.net/bangladesh/home-minister-directs-bgb-intensify-anti-smuggling-push-efforts-1493236",
       "pubDate": "Mon, 20 Jul 2026 18:10:00 +0600",
@@ -254,26 +243,15 @@
       "snippet": "The minister also lauded BGB’s rescue and relief operations during the recent floods, saying its humanitarian role would be further expanded."
     },
     {
-      "title": "Iraq’s high stakes in the US–Iran crossfire",
-      "link": "https://www.tbsnews.net/thoughts/iraqs-high-stakes-us-iran-crossfire-1493231",
-      "pubDate": "Mon, 20 Jul 2026 18:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/qvwh3emq2jkjlkcjrq3gpci2gu.png",
-      "snippet": "Caught between Washington's financial leverage and Tehran's energy influence, Iraq remains trapped in a fragile balancing act, with its oil wealth, electricity supply and political sovereignty increasingly shaped by rival external powers."
-    },
-    {
-      "title": "Private sector employees deserve a safety net: A policy blueprint for Bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/private-sector-employees-deserve-safety-net-policy-blueprint-bangladesh-1493176",
+      "title": "Dengue death toll reaches 37 as 3 more patients die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-37-3-more-patients-die-24hrs-1493171",
       "pubDate": "Mon, 20 Jul 2026 17:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/private_sector.jpg",
-      "snippet": "Bangladesh's private sector generates 72% of GDP and the bulk of its direct taxes, yet almost none of its workers enjoy a coherent, legally binding safety net. This is a blueprint for that protection — from wage boards and portable pensions to unempl..."
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
+      "snippet": "So far, the total number of dengue cases recorded in the country this year has risen to 10,857."
     },
     {
       "title": "DCCI urges NBR to prevent business harassment in withholding tax monitoring",
@@ -287,7 +265,18 @@
       "snippet": "The chamber expressed concern that the enforcement process should not create undue difficulties for compliant businesses."
     },
     {
-      "title": "Janata Bank branches in UAE at risk of closure over Tk1,000cr capital deficit",
+      "title": "Measles: Death toll reaches 793 as 5 more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-793-5-more-children-die-24-hours-1493041",
+      "pubDate": "Mon, 20 Jul 2026 15:35:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
+      "snippet": "According to the latest data from the Directorate General of Health Services (DGHS), the number of suspected measles deaths has risen to 698 while the number of laboratory-confirmed measles deaths has reached 95."
+    },
+    {
+      "title": "Janata now faces closure in UAE four years after Sonali lost its UK licence",
       "link": "https://www.tbsnews.net/economy/banking/janata-bank-branches-uae-risk-closure-over-tk1000cr-capital-deficit-1493001",
       "pubDate": "Mon, 20 Jul 2026 14:35:00 +0600",
       "category": "Economy",
@@ -295,7 +284,29 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae_1_0.png",
-      "snippet": "According to the Central Bank of the UAE, failure to meet the capital requirement increases risks to customer deposits and could lead to the closure of the bank's operations."
+      "snippet": "The UAE central bank imposed restrictions on Janata Bank’s operations over a capital shortfall and ordered the bank to prepare for a wind-down of its existing operations unless the deficit is addressed."
+    },
+    {
+      "title": "Mortgage valuation disputes stall recovery of Tk85,000cr in default loans",
+      "link": "https://www.tbsnews.net/economy/banking/mortgage-valuation-disputes-stall-recovery-tk85000cr-default-loans-1492866",
+      "pubDate": "Mon, 20 Jul 2026 13:05:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
+      "snippet": "More than 2,150 writ petitions filed with the High Court in just over five years"
+    },
+    {
+      "title": "Public health risks rise after flood damages thousands of tube wells, toilets in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/health/public-health-risks-rise-after-flood-damage-thousands-tube-wells-toilets-ctg",
+      "pubDate": "Mon, 20 Jul 2026 12:05:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/740812294_939952482443947_516526457937535675_n.jpg",
+      "snippet": "According to the Civil Surgeon Office, 112 medical camps and 32 mobile medical teams treated 45,200 flood-affected people"
     },
     {
       "title": "ADB warns Bangladeshis against fake loan scams using its name",
@@ -309,15 +320,15 @@
       "snippet": "In a statement, ADB said it does not request personal financial information or ask for payments through mobile banking or any other channel in exchange for financial assistance."
     },
     {
-      "title": "From Gaza to the far-right, UK’s new PM faces major hurdles",
-      "link": "https://www.tbsnews.net/thoughts/gaza-far-right-uks-new-pm-faces-major-hurdles-1492836",
-      "pubDate": "Mon, 20 Jul 2026 11:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/burnham.jpg",
-      "snippet": "Andy Burnham takes over as UK prime minister amid Labour’s deep political turmoil, facing immediate challenges from public discontent, a resurgent opposition, and questions over his mandate"
+      "title": "Drug pricing deadlock stalls hundreds of new medicines, strands investment",
+      "link": "https://www.tbsnews.net/bangladesh/health/drug-pricing-deadlock-stalls-hundreds-new-medicines-strands-investment-1492781",
+      "pubDate": "Mon, 20 Jul 2026 09:55:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/26/pharma_mumitm-2299.jpg",
+      "snippet": "Hundreds of new medicines remain stuck without pricing approval, leaving patients waiting while companies see investments frozen"
     },
     {
       "title": "Import growth stalls in FY26 on subdued industrial demand",
@@ -551,28 +562,6 @@
       "snippet": "Faqir Mahbub proposed four priorities for global AI governance: safety, equity, adaptability and international cooperation."
     },
     {
-      "title": " The Chattogram hills need a new development model",
-      "link": "https://www.tbsnews.net/thoughts/chattogram-hills-need-new-development-model-1491481",
-      "pubDate": "Sat, 18 Jul 2026 17:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/pic_01.jpg",
-      "snippet": "Conservation, livelihoods and investment must go hand in hand"
-    },
-    {
-      "title": "South Asia at the crossroads: Turning strategic competition into shared prosperity",
-      "link": "https://www.tbsnews.net/thoughts/south-asia-crossroads-turning-strategic-competition-shared-prosperity-1491471",
-      "pubDate": "Sat, 18 Jul 2026 16:50:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/719951501_1463517419135683_4896354091086471318_n_0.jpg",
-      "snippet": ""
-    },
-    {
       "title": "SSC, equivalent results won't be published on 20 July: Dhaka board chairman",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-equivalent-results-wont-be-published-20-july-dhaka-board-chairman-1491456",
       "pubDate": "Sat, 18 Jul 2026 16:45:00 +0600",
@@ -615,28 +604,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_0.jpg",
       "snippet": "Bangladesh Bank says four male officials voluntarily withdrew from the programme, and four female officials were included in their place."
-    },
-    {
-      "title": "Using space technology and AI for disaster management ",
-      "link": "https://www.tbsnews.net/thoughts/using-space-technology-and-ai-disaster-management-1491426",
-      "pubDate": "Sat, 18 Jul 2026 16:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/whatsapp_image_2026-07-11_at_15.36.49.jpeg",
-      "snippet": "Bangladesh already receives enormous amounts of satellite data free of charge from international missions (such as Sentinel, Landsat, GPM, SWOT, etc.). The available data is often of very low-resolution data, and also not real time data. Developing i..."
-    },
-    {
-      "title": "Bangladesh's pivotal role in BIMSTEC",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-pivotal-role-bimstec-1491391",
-      "pubDate": "Sat, 18 Jul 2026 15:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/719951501_1463517419135683_4896354091086471318_n.jpg",
-      "snippet": "Bangladesh's chairmanship of BIMSTEC offers a timely opportunity to strengthen regional connectivity, economic integration and security cooperation across the Bay of Bengal"
     },
     {
       "title": "Experts urge closing vaccine gaps as measles deaths continue despite nationwide campaign",
@@ -683,5 +650,5 @@
       "snippet": "Authorities, investors yet to agree on price of pipeline water"
     }
   ],
-  "updatedAt": "2026-07-20T18:53:01.010Z"
+  "updatedAt": "2026-07-20T20:21:00.124Z"
 }
