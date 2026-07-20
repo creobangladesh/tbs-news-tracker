@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "Milestone air crash probe recommends overhauling airport zoning, urban planning, flight safety; none implemented",
+      "link": "https://www.tbsnews.net/bangladesh/milestone-air-crash-probe-recommends-overhauling-airport-zoning-urban-planning-flight",
+      "pubDate": "Mon, 20 Jul 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/21/untitled_design_3.jpg",
+      "snippet": "According to the investigation commission, the disaster exposed deep-rooted failures in urban planning, regulatory oversight, aviation safety, and building compliance that had created the conditions for catastrophe long before the aircraft lost contr..."
+    },
+    {
+      "title": "Four land in jail after face verification reveals recruitment fraud",
+      "link": "https://www.tbsnews.net/bangladesh/four-land-jail-after-face-verification-reveals-recruitment-fraud-1493356",
+      "pubDate": "Mon, 20 Jul 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/06/cmm_court_0.jpg",
+      "snippet": "The court scheduled the hearing for tomorrow."
+    },
+    {
+      "title": "PM Tarique arrives at Jamuna for first formal meeting with alliance partners",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-arrives-jamuna-first-formal-meeting-alliance-partners-1493346",
+      "pubDate": "Mon, 20 Jul 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/pm_tarique_meeting_20_july.jpg",
+      "snippet": "Tarique entered the venue at around 7:30pm, where invited leaders had already begun arriving."
+    },
+    {
+      "title": "Dhaka writes to Delhi seeking Asaduzzaman's extradition: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-writes-delhi-seeking-asaduzzamans-extradition-shama-obaed-1493336",
+      "pubDate": "Mon, 20 Jul 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/shama_obaed.jpg",
+      "snippet": "Hopes India will respond positively to strengthen bilateral relations."
+    },
+    {
+      "title": "Two years after July Uprising, Badsha lives on with scars, in neglect",
+      "link": "https://www.tbsnews.net/bangladesh/two-years-after-july-uprising-badsha-lives-scars-neglect-1493341",
+      "pubDate": "Mon, 20 Jul 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/ruhul_amin_badsha.jpeg",
+      "snippet": "Twice during the July Uprising, Badsha was attacked. His family narrowly escaped with their lives, and his young daughter was seriously injured."
+    },
+    {
+      "title": "Death toll from Chattogram salt factory fire rises to 4",
+      "link": "https://www.tbsnews.net/bangladesh/death-toll-chattogram-salt-factory-fire-rises-4-1493316",
+      "pubDate": "Mon, 20 Jul 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
+      "snippet": "Two more workers have died from burn injuries, while four others remain in critical condition, including one being treated at Chattogram Medical College Hospital's ICU."
+    },
+    {
+      "title": "Domestic chemical-based technology may help mosquito control: Fakhrul",
+      "link": "https://www.tbsnews.net/bangladesh/domestic-chemical-based-technology-may-help-mosquito-control-fakhrul-1493306",
+      "pubDate": "Mon, 20 Jul 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/14/597162945_1214995937239883_5637431026057920522_n.jpg",
+      "snippet": "He added that the primary task is to destroy mosquito larvae for this season."
+    },
+    {
+      "title": "DSHE directs all schools, colleges to form sports committees for PM's Gold Cup Football 2026",
+      "link": "https://www.tbsnews.net/bangladesh/education/dshe-directs-all-schools-colleges-form-sports-committees-pms-gold-cup-football",
+      "pubDate": "Mon, 20 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/30/dshe.jpg",
+      "snippet": "The committees will be responsible for overseeing preparations and related activities for the tournament."
+    },
+    {
+      "title": "The silent return of a killer: Bangladesh's measles crisis",
+      "link": "https://www.tbsnews.net/thoughts/silent-return-killer-bangladeshs-measles-crisis-1493286",
+      "pubDate": "Mon, 20 Jul 2026 18:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/photo-2026-07-13-11-21-49.jpg",
+      "snippet": "Bangladesh once nearly eliminated measles. Now it faces one of its deadliest outbreaks in decades — 100,000+ cases, over 700 dead, mostly children too young to be vaccinated."
+    },
+    {
+      "title": "Bangladesh's Q3 GDP growth slows to 2.22% in FY26",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-q3-gdp-growth-slows-222-fy26-1493291",
+      "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/03/gdp-ezgif.com-webp-to-jpg-converter.jpg",
+      "snippet": "The latest quarterly national accounts show broad-based weakness across the economy during the January-March period."
+    },
+    {
+      "title": "Connectivity must remain flagship of regional ambition: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/connectivity-must-remain-flagship-regional-ambition-shama-obaed-1493266",
+      "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/19/shama_obaed.jpg",
+      "snippet": "She says regional prosperity can only be sustained in an environment of peace, security"
+    },
+    {
+      "title": "PM takes responsibility for treatment of child with rare congenital disease ",
+      "link": "https://www.tbsnews.net/bangladesh/pm-takes-responsibility-treatment-child-rare-congenital-disease-1493256",
+      "pubDate": "Mon, 20 Jul 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/treatmetnt.png",
+      "snippet": "A five-member medical board, led by Dr Zahidul Islam, head of the Paediatric Cardiology Department at the hospital, reviewed the child's physical condition, medical records and diagnostic reports."
+    },
+    {
       "title": "Poverty Rising in Bangladesh: Growth, Inequality, and the Struggle to Sustain Progress",
       "link": "https://www.tbsnews.net/thoughts/poverty-rising-bangladesh-growth-inequality-and-struggle-sustain-progress-1493241",
       "pubDate": "Mon, 20 Jul 2026 18:20:00 +0600",
@@ -144,81 +276,15 @@
       "snippet": "According to the latest data from the Directorate General of Health Services (DGHS), the number of suspected measles deaths has risen to 698 while the number of laboratory-confirmed measles deaths has reached 95."
     },
     {
-      "title": "PM orders transparent implementation of Family Card programme nationwide",
-      "link": "https://www.tbsnews.net/bangladesh/pm-orders-transparent-implementation-family-card-programme-nationwide-1493026",
-      "pubDate": "Mon, 20 Jul 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled_design_2_0.png",
-      "snippet": "Prime Minister Tarique Rahman also stressed the importance of establishing a credible and acceptable database so that the benefits of the Family Card programme reach the actual recipients effectively, accurately and transparently."
-    },
-    {
       "title": "Janata Bank branches in UAE at risk of closure over Tk1,000cr capital deficit",
       "link": "https://www.tbsnews.net/economy/banking/janata-bank-branches-uae-risk-closure-over-tk1000cr-capital-deficit-1493001",
       "pubDate": "Mon, 20 Jul 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae_1_0.png",
       "snippet": "According to the Central Bank of the UAE, failure to meet the capital requirement increases risks to customer deposits and could lead to the closure of the bank's operations."
-    },
-    {
-      "title": "HRW urges probe into 'first enforced disappearance' since July Uprising",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/hrw-urges-probe-first-enforced-disappearance-july-uprising-1492996",
-      "pubDate": "Mon, 20 Jul 2026 14:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/20/enforced_disappearance.jpg",
-      "snippet": "The New York-based rights organisation called on authorities to comply with a High Court order directing law enforcement to locate Miraj Sheikh, 30, and produce him in court."
-    },
-    {
-      "title": "ACC conducts raid at Ziaul Ahsan's Jalshiri residence",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-conducts-raid-ziaul-ahsans-jalshiri-residence-1492981",
-      "pubDate": "Mon, 20 Jul 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/17/ziaul_ahsan.jpg",
-      "snippet": "The ACC said a team led by Deputy Director Md Hafizul Islam carried out the operation at the property in Rupganj, Narayanganj, this morning, ACC spokesperson Tanzir Ahmed told Prothom Alo."
-    },
-    {
-      "title": "Locals demand relocation of North Fatikchhari Upazila HQ ",
-      "link": "https://www.tbsnews.net/bangladesh/locals-demand-relocation-north-fatikchhari-upazila-hq-1492976",
-      "pubDate": "Mon, 20 Jul 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled_design_1.png",
-      "snippet": "The demonstrators, with black cloth tied over their mouths in symbolic protest, observed the programme from 11am to 12pm."
-    },
-    {
-      "title": "Heavy rain likely in 7 divisions; Dhaka faces waterlogging risk",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-likely-7-divisions-dhaka-faces-waterlogging-risk-1492956",
-      "pubDate": "Mon, 20 Jul 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/22/whatsapp_image_2025-09-22_at_10.08.17.jpeg",
-      "snippet": "Some areas could receive very heavy rainfall exceeding 88mm."
-    },
-    {
-      "title": "Gas supply to remain suspended in several Dhaka areas tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/gas-supply-remain-suspended-several-dhaka-areas-tomorrow-1492946",
-      "pubDate": "Mon, 20 Jul 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/05/gas_0.jpeg",
-      "snippet": "The suspension will affect both residential and commercial consumers"
     },
     {
       "title": "Mortgage valuation disputes stall recovery of Tk85,000cr in default loans",
@@ -230,39 +296,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
       "snippet": "More than 2,150 writ petitions filed with the High Court in just over five years"
-    },
-    {
-      "title": "Regent Group Chairman Shahed arrested at Dhaka's ECB Chattar",
-      "link": "https://www.tbsnews.net/bangladesh/crime/regent-group-chairman-shahed-arrested-ecb-chattar-1492926",
-      "pubDate": "Mon, 20 Jul 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/21/shahed_0.jpg",
-      "snippet": "The arrest was carried out by Cantonment Police Station police."
-    },
-    {
-      "title": "Rashed Khan appointed PM's political assistant with secretary rank",
-      "link": "https://www.tbsnews.net/bangladesh/rashed-khan-appointed-pms-political-assistant-secretary-rank-1492916",
-      "pubDate": "Mon, 20 Jul 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled-1.jpg",
-      "snippet": "On 27 December last year, he formally joined the BNP."
-    },
-    {
-      "title": "PM reaffirms commitment to workers' rights during talks with ILO chief",
-      "link": "https://www.tbsnews.net/foreign-policy/pm-reaffirms-commitment-workers-rights-during-talks-ilo-chief-1492896",
-      "pubDate": "Mon, 20 Jul 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled_design.png",
-      "snippet": "Labour Organization (ILO) Director-General Gilbert F Houngbo said Bangladesh's commitment to labour sector reforms and implementation of international labour standards has been receiving positive recognition internationally."
     },
     {
       "title": "Public health risks rise after flood damages thousands of tube wells, toilets in Ctg",
@@ -279,10 +312,10 @@
       "title": "ADB warns Bangladeshis against fake loan scams using its name",
       "link": "https://www.tbsnews.net/economy/banking/adb-warns-bangladeshis-against-fake-loan-scams-using-its-name-1492881",
       "pubDate": "Mon, 20 Jul 2026 11:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/11/asian_development_bank_adb.jpg",
       "snippet": "In a statement, ADB said it does not request personal financial information or ask for payments through mobile banking or any other channel in exchange for financial assistance."
     },
@@ -681,51 +714,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/apple.jpg",
       "snippet": "Apple overtakes Nvidia, signalling shifting investor confidence beyond AI chipmakers now"
-    },
-    {
-      "title": "Exports through Benapole halve in FY26 as trade curbs deepen crisis",
-      "link": "https://www.tbsnews.net/economy/exports-through-benapole-halve-fy26-trade-curbs-deepen-crisis-1490951",
-      "pubDate": "Fri, 17 Jul 2026 20:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/25/benapole.png",
-      "snippet": "Port statistics show that exports through Benapole dropped to 189,358 tonnes in FY2025-26, down from 381,440 tonnes in FY2024-25, a decline of 192,082 tonnes."
-    },
-    {
-      "title": "Skills for a shared future: Why Bangladesh must tell the story of skills better",
-      "link": "https://www.tbsnews.net/thoughts/skills-shared-future-why-bangladesh-must-tell-story-skills-better-1491646",
-      "pubDate": "Fri, 17 Jul 2026 20:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/15_thoughts_3.jpg",
-      "snippet": "As industries demand a more skilled workforce, skills development is increasingly recognised as a cornerstone of productivity, export competitiveness and harnessing the country's demographic dividend"
-    },
-    {
-      "title": "What our stock and bond markets say about Bangladeshis",
-      "link": "https://www.tbsnews.net/thoughts/what-our-stock-and-bond-markets-say-about-bangladeshis-1490921",
-      "pubDate": "Fri, 17 Jul 2026 20:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/stocks_dse_11_0.jpeg",
-      "snippet": "A functioning bond market requires a credible risk-free benchmark, confidence that inflation will not erode fixed payments, and courts that can enforce contracts when borrowers refuse to pay"
-    },
-    {
-      "title": "What our stock and bond markets say about Bangladeshis",
-      "link": "https://www.tbsnews.net/thoughts/what-our-stock-and-bond-markets-say-about-bangladeshis-1490881",
-      "pubDate": "Fri, 17 Jul 2026 19:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/stocks_dse_11.jpeg",
-      "snippet": "A functioning bond market requires a credible risk-free benchmark, confidence that inflation will not erode fixed payments, and courts that can enforce contracts when borrowers refuse to pay"
     }
   ],
-  "updatedAt": "2026-07-20T12:31:36.058Z"
+  "updatedAt": "2026-07-20T15:11:46.067Z"
 }
