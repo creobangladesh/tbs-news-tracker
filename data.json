@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Import growth stalls in FY26 on subdued industrial demand",
+      "link": "https://www.tbsnews.net/economy/banking/import-growth-stalls-fy26-subdued-industrial-demand-1492766",
+      "pubDate": "Mon, 20 Jul 2026 08:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/16/india-june-import-decline.jpg",
+      "snippet": "Economists warn geopolitical tensions and domestic constraints continue to weigh on economy"
+    },
+    {
       "title": "World Cup Final: DU TSC turns into football hub",
       "link": "https://www.tbsnews.net/sports/world-cup-final-du-tsc-turns-football-hub-1492726",
       "pubDate": "Mon, 20 Jul 2026 02:20:00 +0600",
@@ -208,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ruhul_kabir_rizvi_1.jpg",
       "snippet": "Political parties may back candidates, but not contest directly, he says."
-    },
-    {
-      "title": "Beijing to work with Dhaka to implement key consensus reached by two leaders: Envoy",
-      "link": "https://www.tbsnews.net/bangladesh/beijing-work-dhaka-implement-key-consensus-reached-two-leaders-envoy-1492576",
-      "pubDate": "Sun, 19 Jul 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bd-china_-_edited.jpg",
-      "snippet": "He said China has always attached great importance to developing bilateral relations with Bangladesh and will always be a trustworthy good friend, good neighbor, and good partner of Bangladesh."
     },
     {
       "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
@@ -681,29 +681,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/21/rmg_garments_factory_apparel_6.jpg",
       "snippet": "According to the latest Eurostat data compiled by the Bangladesh Apparel Voice, total EU apparel imports fell 9.96% year-on-year to €33.84 billion during January-May 2026, down from €37.58 billion in the same period a year earlier"
-    },
-    {
-      "title": "BSRM plans Tk10,000cr flat steel plant to cut import dependence",
-      "link": "https://www.tbsnews.net/economy/industry/bsrm-plans-tk10000cr-flat-steel-plant-cut-import-dependence-1490536",
-      "pubDate": "Fri, 17 Jul 2026 07:40:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/04/bsrm.png",
-      "snippet": "It says country’s first such plant could save up to Tk15,000 crore annually"
-    },
-    {
-      "title": "IUB launches supply chain management major",
-      "link": "https://www.tbsnews.net/bangladesh/education/iub-launches-supply-chain-management-major-1490511",
-      "pubDate": "Fri, 17 Jul 2026 06:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/ee085ab3-439b-4120-9817-629cfc51ffe1_16x9.png",
-      "snippet": ""
     }
   ],
-  "updatedAt": "2026-07-19T23:57:18.314Z"
+  "updatedAt": "2026-07-20T03:39:19.898Z"
 }
