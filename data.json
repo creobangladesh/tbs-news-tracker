@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Court denies Chinmoy Krishna Das bail in lawyer Alif murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court-denies-chinmoy-krishna-das-bail-lawyer-alif-murder-case-1493476",
+      "pubDate": "Mon, 20 Jul 2026 22:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/25/chinmoy_krishna_das.jpg",
+      "snippet": "The court also recorded testimony from the prosecution's second witness, who broke down while recounting the killing of lawyer Saiful Islam Alif."
+    },
+    {
       "title": "Bangladesh urges Saudi Arabia to hold Hajj backup housing quota at 1% for 2027",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-urges-saudi-arabia-hold-hajj-backup-housing-quota-1-2027-1493471",
       "pubDate": "Mon, 20 Jul 2026 22:15:00 +0600",
@@ -10,6 +21,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/3f5088c6-7dc6-439b-9f2c-16e1b363be29.jpg",
       "snippet": "Saudi Arabia's Ministry of Hajj and Umrah has set the backup accommodation quota at 2% for the 2027 Hajj, up from the 1% applied for 2026."
+    },
+    {
+      "title": "Large-cap support helps DSEX end flat as insurance stocks continue to bleed",
+      "link": "https://www.tbsnews.net/economy/stocks/large-cap-support-helps-dsex-end-flat-insurance-stocks-continue-bleed-1493456",
+      "pubDate": "Mon, 20 Jul 2026 22:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "However, the blue-chip DS30 index edged down slightly to 2,208 points, reflecting a selective approach by investors who preferred to stay on the sidelines ahead of potential regulatory shifts."
     },
     {
       "title": "HC asks why political office-bearers should not be barred from school governing bodies",
@@ -166,6 +188,17 @@
       "snippet": "The committees will be responsible for overseeing preparations and related activities for the tournament."
     },
     {
+      "title": "The silent return of a killer: Bangladesh's measles crisis",
+      "link": "https://www.tbsnews.net/thoughts/silent-return-killer-bangladeshs-measles-crisis-1493286",
+      "pubDate": "Mon, 20 Jul 2026 18:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/photo-2026-07-13-11-21-49.jpg",
+      "snippet": "Bangladesh once nearly eliminated measles. Now it faces one of its deadliest outbreaks in decades — 100,000+ cases, over 700 dead, mostly children too young to be vaccinated."
+    },
+    {
       "title": "Connectivity must remain flagship of regional ambition: Shama Obaed",
       "link": "https://www.tbsnews.net/bangladesh/connectivity-must-remain-flagship-regional-ambition-shama-obaed-1493266",
       "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
@@ -199,6 +232,17 @@
       "snippet": "A five-member medical board, led by Dr Zahidul Islam, head of the Paediatric Cardiology Department at the hospital, reviewed the child's physical condition, medical records and diagnostic reports."
     },
     {
+      "title": "Poverty Rising in Bangladesh: Growth, Inequality, and the Struggle to Sustain Progress",
+      "link": "https://www.tbsnews.net/thoughts/poverty-rising-bangladesh-growth-inequality-and-struggle-sustain-progress-1493241",
+      "pubDate": "Mon, 20 Jul 2026 18:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
+      "snippet": ""
+    },
+    {
       "title": "Home minister directs BGB to intensify anti-smuggling, push-in efforts",
       "link": "https://www.tbsnews.net/bangladesh/home-minister-directs-bgb-intensify-anti-smuggling-push-efforts-1493236",
       "pubDate": "Mon, 20 Jul 2026 18:10:00 +0600",
@@ -210,62 +254,84 @@
       "snippet": "The minister also lauded BGB’s rescue and relief operations during the recent floods, saying its humanitarian role would be further expanded."
     },
     {
-      "title": "Govt revokes licences of 49 recruiting agencies over Malaysia labour syndicate case",
-      "link": "https://www.tbsnews.net/bangladesh/migration/govt-revokes-licences-49-recruiting-agencies-over-malaysia-labour-syndicate",
-      "pubDate": "Mon, 20 Jul 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/07/ministry-of-expatriates-welfare-and-overseas-employment-696x363.jpg",
-      "snippet": "The agencies have been accused of forming a recruitment syndicate, embezzling several thousand crore taka from migrant workers."
+      "title": "Iraq’s high stakes in the US–Iran crossfire",
+      "link": "https://www.tbsnews.net/thoughts/iraqs-high-stakes-us-iran-crossfire-1493231",
+      "pubDate": "Mon, 20 Jul 2026 18:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/qvwh3emq2jkjlkcjrq3gpci2gu.png",
+      "snippet": "Caught between Washington's financial leverage and Tehran's energy influence, Iraq remains trapped in a fragile balancing act, with its oil wealth, electricity supply and political sovereignty increasingly shaped by rival external powers."
+    },
+    {
+      "title": "Private sector employees deserve a safety net: A policy blueprint for Bangladesh",
+      "link": "https://www.tbsnews.net/thoughts/private-sector-employees-deserve-safety-net-policy-blueprint-bangladesh-1493176",
+      "pubDate": "Mon, 20 Jul 2026 17:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/private_sector.jpg",
+      "snippet": "Bangladesh's private sector generates 72% of GDP and the bulk of its direct taxes, yet almost none of its workers enjoy a coherent, legally binding safety net. This is a blueprint for that protection — from wage boards and portable pensions to unempl..."
+    },
+    {
+      "title": "DCCI urges NBR to prevent business harassment in withholding tax monitoring",
+      "link": "https://www.tbsnews.net/nbr/dcci-urges-nbr-prevent-business-harassment-withholding-tax-monitoring-1493156",
+      "pubDate": "Mon, 20 Jul 2026 17:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/01/dcci_pic.jpg",
+      "snippet": "The chamber expressed concern that the enforcement process should not create undue difficulties for compliant businesses."
     },
     {
       "title": "Janata Bank branches in UAE at risk of closure over Tk1,000cr capital deficit",
       "link": "https://www.tbsnews.net/economy/banking/janata-bank-branches-uae-risk-closure-over-tk1000cr-capital-deficit-1493001",
       "pubDate": "Mon, 20 Jul 2026 14:35:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae_1_0.png",
       "snippet": "According to the Central Bank of the UAE, failure to meet the capital requirement increases risks to customer deposits and could lead to the closure of the bank's operations."
-    },
-    {
-      "title": "Mortgage valuation disputes stall recovery of Tk85,000cr in default loans",
-      "link": "https://www.tbsnews.net/economy/banking/mortgage-valuation-disputes-stall-recovery-tk85000cr-default-loans-1492866",
-      "pubDate": "Mon, 20 Jul 2026 13:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
-      "snippet": "More than 2,150 writ petitions filed with the High Court in just over five years"
     },
     {
       "title": "ADB warns Bangladeshis against fake loan scams using its name",
       "link": "https://www.tbsnews.net/economy/banking/adb-warns-bangladeshis-against-fake-loan-scams-using-its-name-1492881",
       "pubDate": "Mon, 20 Jul 2026 11:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/11/asian_development_bank_adb.jpg",
       "snippet": "In a statement, ADB said it does not request personal financial information or ask for payments through mobile banking or any other channel in exchange for financial assistance."
+    },
+    {
+      "title": "From Gaza to the far-right, UK’s new PM faces major hurdles",
+      "link": "https://www.tbsnews.net/thoughts/gaza-far-right-uks-new-pm-faces-major-hurdles-1492836",
+      "pubDate": "Mon, 20 Jul 2026 11:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/burnham.jpg",
+      "snippet": "Andy Burnham takes over as UK prime minister amid Labour’s deep political turmoil, facing immediate challenges from public discontent, a resurgent opposition, and questions over his mandate"
     },
     {
       "title": "Import growth stalls in FY26 on subdued industrial demand",
       "link": "https://www.tbsnews.net/economy/banking/import-growth-stalls-fy26-subdued-industrial-demand-1492766",
       "pubDate": "Mon, 20 Jul 2026 08:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/16/india-june-import-decline.jpg",
       "snippet": "Economists warn geopolitical tensions and domestic constraints continue to weigh on economy"
     },
     {
-      "title": "BSEC moves to ease margin loan rules; experts urge caution",
+      "title": "BSEC proposes easing margin lending; experts urge caution",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-ease-margin-loan-rules-experts-urge-caution-1492641",
       "pubDate": "Sun, 19 Jul 2026 21:50:00 +0600",
       "category": "Economy",
@@ -617,5 +683,5 @@
       "snippet": "Authorities, investors yet to agree on price of pipeline water"
     }
   ],
-  "updatedAt": "2026-07-20T16:55:42.222Z"
+  "updatedAt": "2026-07-20T18:53:01.010Z"
 }
