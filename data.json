@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "357 agencies cleared in first phase for 2027 Hajj operations",
+      "link": "https://www.tbsnews.net/bangladesh/357-agencies-cleared-first-phase-2027-hajj-operations-1493051",
+      "pubDate": "Mon, 20 Jul 2026 15:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/hajj_returnees.jpg",
+      "snippet": "Each agency must register at least 44 pilgrims to participate in Hajj operations."
+    },
+    {
+      "title": "Measles: Death toll reaches 793 as 5 more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-793-5-more-children-die-24-hours-1493041",
+      "pubDate": "Mon, 20 Jul 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
+      "snippet": "According to the latest data from the Directorate General of Health Services (DGHS), the number of suspected measles deaths has risen to 698 while the number of laboratory-confirmed measles deaths has reached 95."
+    },
+    {
+      "title": "PM orders transparent implementation of Family Card programme nationwide",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-transparent-implementation-family-card-programme-nationwide-1493026",
+      "pubDate": "Mon, 20 Jul 2026 15:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled_design_2_0.png",
+      "snippet": "Prime Minister Tarique Rahman also stressed the importance of establishing a credible and acceptable database so that the benefits of the Family Card programme reach the actual recipients effectively, accurately and transparently."
+    },
+    {
+      "title": "Janata Bank branches in UAE at risk of closure over Tk1,000cr capital deficit",
+      "link": "https://www.tbsnews.net/economy/banking/janata-bank-branches-uae-risk-closure-over-tk1000cr-capital-deficit-1493001",
+      "pubDate": "Mon, 20 Jul 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae.jpg",
+      "snippet": "According to the Central Bank of the UAE, failure to meet the capital requirement increases risks to customer deposits and could lead to the closure of the bank's operations."
+    },
+    {
+      "title": "HRW urges probe into 'first enforced disappearance' since July Uprising",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/hrw-urges-probe-first-enforced-disappearance-july-uprising-1492996",
+      "pubDate": "Mon, 20 Jul 2026 14:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/20/enforced_disappearance.jpg",
+      "snippet": "The New York-based rights organisation called on authorities to comply with a High Court order directing law enforcement to locate Miraj Sheikh, 30, and produce him in court."
+    },
+    {
+      "title": "ACC conducts raid at Ziaul Ahsan's Jalshiri residence",
+      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-conducts-raid-ziaul-ahsans-jalshiri-residence-1492981",
+      "pubDate": "Mon, 20 Jul 2026 14:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/17/ziaul_ahsan.jpg",
+      "snippet": "The ACC said a team led by Deputy Director Md Hafizul Islam carried out the operation at the property in Rupganj, Narayanganj, this morning, ACC spokesperson Tanzir Ahmed told Prothom Alo."
+    },
+    {
+      "title": "Locals demand relocation of North Fatikchhari Upazila HQ ",
+      "link": "https://www.tbsnews.net/bangladesh/locals-demand-relocation-north-fatikchhari-upazila-hq-1492976",
+      "pubDate": "Mon, 20 Jul 2026 14:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled_design_1.png",
+      "snippet": "The demonstrators, with black cloth tied over their mouths in symbolic protest, observed the programme from 11am to 12pm."
+    },
+    {
+      "title": "Heavy rain likely in 7 divisions; Dhaka faces waterlogging risk",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-likely-7-divisions-dhaka-faces-waterlogging-risk-1492956",
+      "pubDate": "Mon, 20 Jul 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/22/whatsapp_image_2025-09-22_at_10.08.17.jpeg",
+      "snippet": "Some areas could receive very heavy rainfall exceeding 88mm."
+    },
+    {
+      "title": "Gas supply to remain suspended in several Dhaka areas tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/gas-supply-remain-suspended-several-dhaka-areas-tomorrow-1492946",
+      "pubDate": "Mon, 20 Jul 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/05/gas_0.jpeg",
+      "snippet": "The suspension will affect both residential and commercial consumers"
+    },
+    {
+      "title": "Mortgage valuation disputes stall recovery of Tk85,000cr in default loans",
+      "link": "https://www.tbsnews.net/economy/banking/mortgage-valuation-disputes-stall-recovery-tk85000cr-default-loans-1492866",
+      "pubDate": "Mon, 20 Jul 2026 13:05:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
+      "snippet": "More than 2,150 writ petitions filed with the High Court in just over five years"
+    },
+    {
+      "title": "Regent Group Chairman Shahed arrested at Dhaka's ECB Chattar",
+      "link": "https://www.tbsnews.net/bangladesh/crime/regent-group-chairman-shahed-arrested-ecb-chattar-1492926",
+      "pubDate": "Mon, 20 Jul 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/21/shahed_0.jpg",
+      "snippet": "The arrest was carried out by Cantonment Police Station police."
+    },
+    {
+      "title": "Rashed Khan appointed PM's political assistant with secretary rank",
+      "link": "https://www.tbsnews.net/bangladesh/rashed-khan-appointed-pms-political-assistant-secretary-rank-1492916",
+      "pubDate": "Mon, 20 Jul 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled-1.jpg",
+      "snippet": "On 27 December last year, he formally joined the BNP."
+    },
+    {
       "title": "PM reaffirms commitment to workers' rights during talks with ILO chief",
       "link": "https://www.tbsnews.net/foreign-policy/pm-reaffirms-commitment-workers-rights-during-talks-ilo-chief-1492896",
       "pubDate": "Mon, 20 Jul 2026 12:25:00 +0600",
@@ -122,125 +254,26 @@
       "snippet": "A total of 184 military personnel from the US Army Pacific, Oregon National Guard and Bangladesh Army are taking part in the exercise."
     },
     {
-      "title": "Bogura's controversial union names to be changed after public hearings",
-      "link": "https://www.tbsnews.net/bangladesh/boguras-controversial-union-names-be-changed-after-public-hearings-1492691",
-      "pubDate": "Mon, 20 Jul 2026 00:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/bogura_map.jpg",
-      "snippet": "The district administration has finalised new names for three unions following the prime minister's directive."
-    },
-    {
-      "title": "Murder suspect dies in Bogura DB custody",
-      "link": "https://www.tbsnews.net/bangladesh/murder-suspect-dies-bogura-db-custody-1492681",
-      "pubDate": "Sun, 19 Jul 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/1000090609.jpg",
-      "snippet": "The 25-year-old hanged himself in a toilet, say police."
-    },
-    {
-      "title": "CU hosts 'Green Education and Sustainability Summit 2026'",
-      "link": "https://www.tbsnews.net/bangladesh/environment/cu-hosts-green-education-and-sustainability-summit-2026-1492671",
-      "pubDate": "Sun, 19 Jul 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/cu_green.jpg",
-      "snippet": "Organised by environmental organisation - Our Green Campus, the summit took place at the Faculty of Business Administration auditorium."
-    },
-    {
-      "title": "'Except Israel' reinstated on passports; July Uprising martyrs featured in new design",
-      "link": "https://www.tbsnews.net/bangladesh/except-israel-reinstated-passports-july-uprising-martyrs-featured-new-design-1492656",
-      "pubDate": "Sun, 19 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/08/passport.jpg",
-      "snippet": "The Ministry of Home Affairs has also instructed the department to introduce a redesigned e-passport booklet with extensive changes to its internal watermark pages."
-    },
-    {
       "title": "BSEC proposes easing margin lending; experts urge caution",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-ease-margin-loan-rules-experts-urge-caution-1492641",
       "pubDate": "Sun, 19 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
       "snippet": "The securities regulator has proposed raising margin financing limits, lowering the investment threshold and revising risk management rules, while market experts warn that stronger oversight will be essential to prevent excessive speculation."
-    },
-    {
-      "title": "Tighter margin rules for insurance see stocks tumble",
-      "link": "https://www.tbsnews.net/economy/stocks/insurance-stocks-tumble-tighter-margin-rules-trigger-liquidity-fears-1492646",
-      "pubDate": "Sun, 19 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/07/bank_profit_downwards.jpg",
-      "snippet": "Insurance sector emerged as worst underperformer today, shedding 2.72% after regulator proposed tighter margin lending rules."
     },
     {
       "title": "Tackling measles requires stronger routine vaccination, research and coordinated action: Experts",
       "link": "https://www.tbsnews.net/bangladesh/health/tackling-measles-requires-stronger-routine-vaccination-research-and-coordinated",
       "pubDate": "Sun, 19 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/brac_university-measles.jpg",
       "snippet": "Prompt medical attention for every suspected measles case could significantly reduce complications and prevent unnecessary deaths among children, says Professor Dr Abid Hossain Molla."
-    },
-    {
-      "title": "ASK condemns looting, demolition of AL leader's house in Patuakhali",
-      "link": "https://www.tbsnews.net/bangladesh/ask-condemns-looting-demolition-al-leaders-house-patuakhali-1492621",
-      "pubDate": "Sun, 19 Jul 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/untitled_design_1.png",
-      "snippet": "The rights organisation says the attack is a matter of serious concern in light of both constitutional guarantees and international human rights standards."
-    },
-    {
-      "title": "Female inmate who escaped from Kashimpur prison arrested in Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/crime/female-inmate-who-escaped-kashimpur-prison-arrested-dhaka-1492626",
-      "pubDate": "Sun, 19 Jul 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/24/106537_161.jpg",
-      "snippet": "The 21-year-old allegedly exploited lapses in supervision to escape from Kashimpur Central Women's Prison, leading to the suspension of seven prison officials over alleged negligence."
-    },
-    {
-      "title": "Z I Khan Panna's daughter 'attacked' in Barishal, one arrested",
-      "link": "https://www.tbsnews.net/bangladesh/crime/z-i-khan-pannas-daughter-attacked-barishal-one-arrested-1492611",
-      "pubDate": "Sun, 19 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/14/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
-      "snippet": "Nadima Mohammadi Khan also claimed that the attackers snatched a 1.12 bhori gold chains valued at approximately Tk3,50,000 in cash before fleeing the scene."
-    },
-    {
-      "title": "Bangladesh, ILO discuss labour reforms, child labour and safe migration",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-ilo-discuss-labour-reforms-child-labour-and-safe-migration-1492606",
-      "pubDate": "Sun, 19 Jul 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ilo_pms_foreign_advisers_meeting.jpg",
-      "snippet": "ILO Director General Gilbert F Houngbo paid a courtesy call on Prime Minister's Foreign Affairs Adviser Humayun Kabir at a hotel in the capital."
     },
     {
       "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
@@ -474,17 +507,6 @@
       "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
     },
     {
-      "title": "One dengue patient dies, 242 hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
-      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
-      "snippet": "So far, 33 dengue-related deaths have been reported this year."
-    },
-    {
       "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
       "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
@@ -494,6 +516,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
+    },
+    {
+      "title": "One dengue patient dies, 242 hospitalised in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
+      "snippet": "So far, 33 dengue-related deaths have been reported this year."
     },
     {
       "title": "Cenbank adds 4 female participants to DU's Applied AI course after TBS report",
@@ -670,18 +703,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "A total of 873 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 116,011."
-    },
-    {
-      "title": "When England lose, women bruise",
-      "link": "https://www.tbsnews.net/thoughts/when-england-lose-women-bruise-1490746",
-      "pubDate": "Fri, 17 Jul 2026 15:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/feature.png",
-      "snippet": "There is something uniquely absurd about living in a society that can predict a rise in violence against women with roughly the same confidence it predicts traffic after a bank holiday."
     }
   ],
-  "updatedAt": "2026-07-20T06:45:53.315Z"
+  "updatedAt": "2026-07-20T10:10:54.702Z"
 }
