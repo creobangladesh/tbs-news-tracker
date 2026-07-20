@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "Poverty Rising in Bangladesh: Growth, Inequality, and the Struggle to Sustain Progress",
+      "link": "https://www.tbsnews.net/thoughts/poverty-rising-bangladesh-growth-inequality-and-struggle-sustain-progress-1493241",
+      "pubDate": "Mon, 20 Jul 2026 18:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "Home minister directs BGB to intensify anti-smuggling, push-in efforts",
+      "link": "https://www.tbsnews.net/bangladesh/home-minister-directs-bgb-intensify-anti-smuggling-push-efforts-1493236",
+      "pubDate": "Mon, 20 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/home_minister_bgb.jpg",
+      "snippet": "The minister also lauded BGB’s rescue and relief operations during the recent floods, saying its humanitarian role would be further expanded."
+    },
+    {
+      "title": "Iraq’s high stakes in the US–Iran crossfire",
+      "link": "https://www.tbsnews.net/thoughts/iraqs-high-stakes-us-iran-crossfire-1493231",
+      "pubDate": "Mon, 20 Jul 2026 18:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/qvwh3emq2jkjlkcjrq3gpci2gu.png",
+      "snippet": "Caught between Washington's financial leverage and Tehran's energy influence, Iraq remains trapped in a fragile balancing act, with its oil wealth, electricity supply and political sovereignty increasingly shaped by rival external powers."
+    },
+    {
+      "title": "Govt revokes licences of 49 recruiting agencies over Malaysia labour syndicate case",
+      "link": "https://www.tbsnews.net/bangladesh/migration/govt-revokes-licences-49-recruiting-agencies-over-malaysia-labour-syndicate",
+      "pubDate": "Mon, 20 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/07/ministry-of-expatriates-welfare-and-overseas-employment-696x363.jpg",
+      "snippet": "The agencies have been accused of forming a recruitment syndicate, embezzling several thousand crore taka from migrant workers."
+    },
+    {
+      "title": "Zia assassination convict Mozzafar to be tried under military law: Salahuddin",
+      "link": "https://www.tbsnews.net/bangladesh/zia-assassination-convict-mozzafar-be-tried-under-military-law-home-minister-1493181",
+      "pubDate": "Mon, 20 Jul 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/749566689_1810237036450267_957139555542312585_n.jpg",
+      "snippet": "The government has taken an initial plan to install 108 kilometres of barbed-wire fencing along the Myanmar border, says the home minister."
+    },
+    {
+      "title": "Dengue death toll reaches 37 as 3 more patients die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-37-3-more-patients-die-24hrs-1493171",
+      "pubDate": "Mon, 20 Jul 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
+      "snippet": "So far, the total number of dengue cases recorded in the country this year has risen to 10,857."
+    },
+    {
+      "title": "Private sector employees deserve a safety net: A policy blueprint for Bangladesh",
+      "link": "https://www.tbsnews.net/thoughts/private-sector-employees-deserve-safety-net-policy-blueprint-bangladesh-1493176",
+      "pubDate": "Mon, 20 Jul 2026 17:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/private_sector.jpg",
+      "snippet": "Bangladesh's private sector generates 72% of GDP and the bulk of its direct taxes, yet almost none of its workers enjoy a coherent, legally binding safety net. This is a blueprint for that protection — from wage boards and portable pensions to unempl..."
+    },
+    {
+      "title": "DCCI urges NBR to prevent business harassment in withholding tax monitoring",
+      "link": "https://www.tbsnews.net/nbr/dcci-urges-nbr-prevent-business-harassment-withholding-tax-monitoring-1493156",
+      "pubDate": "Mon, 20 Jul 2026 17:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/01/dcci_pic.jpg",
+      "snippet": "The chamber expressed concern that the enforcement process should not create undue difficulties for compliant businesses."
+    },
+    {
+      "title": "Japanese consortium to manage only 3rd terminal, Sept deal likely: CAAB",
+      "link": "https://www.tbsnews.net/economy/aviation/japanese-consortium-manage-only-3rd-terminal-sept-deal-likely-caab-1493141",
+      "pubDate": "Mon, 20 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/01/hsia_3rd_terminal.jpg",
+      "snippet": "The chamber expressed concern that the enforcement process should not create undue difficulties for compliant businesses."
+    },
+    {
+      "title": "Court orders ex-MP Jakob to be shown arrested in attempted murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court-orders-ex-mp-jakob-be-shown-arrested-attempted-murder-case-1493111",
+      "pubDate": "Mon, 20 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/received_1534903915083007.jpeg",
+      "snippet": "The complainant, Md Rifat Hossain, sustained a gunshot wound above his right knee during the incident."
+    },
+    {
+      "title": "Energy minister urges NGOs to drive net metering expansion",
+      "link": "https://www.tbsnews.net/bangladesh/energy/ngos-urged-expand-net-metering-boost-rooftop-solar-energy-minister-1493091",
+      "pubDate": "Mon, 20 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/06/tuku_bnp.png",
+      "snippet": "The solar programme will be implemented through cluster-based projects and rooftop net metering, Iqbal Hasan Mahmud says."
+    },
+    {
       "title": "357 agencies cleared in first phase for 2027 Hajj operations",
       "link": "https://www.tbsnews.net/bangladesh/357-agencies-cleared-first-phase-2027-hajj-operations-1493051",
       "pubDate": "Mon, 20 Jul 2026 15:50:00 +0600",
@@ -41,7 +162,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae_1_0.png",
       "snippet": "According to the Central Bank of the UAE, failure to meet the capital requirement increases risks to customer deposits and could lead to the closure of the bank's operations."
     },
     {
@@ -177,24 +298,13 @@
       "snippet": "Andy Burnham takes over as UK prime minister amid Labour’s deep political turmoil, facing immediate challenges from public discontent, a resurgent opposition, and questions over his mandate"
     },
     {
-      "title": "Two Chhatra Dal leaders suspended for allegedly assaulting Sust student",
-      "link": "https://www.tbsnews.net/bangladesh/politics/two-chhatra-dal-leaders-suspended-allegedly-assaulting-sust-student-1492796",
-      "pubDate": "Mon, 20 Jul 2026 10:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/sust-photo.png",
-      "snippet": "Those suspended are Hasibur Rahman, communication secretary of the university unit Chhatra Dal and a student of the Political Studies department, and Tarek Rahman, co-office secretary of the organisation and a student of the Statistics department."
-    },
-    {
       "title": "Drug pricing deadlock stalls hundreds of new medicines, strands investment",
       "link": "https://www.tbsnews.net/bangladesh/health/drug-pricing-deadlock-stalls-hundreds-new-medicines-strands-investment-1492781",
       "pubDate": "Mon, 20 Jul 2026 09:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/26/pharma_mumitm-2299.jpg",
       "snippet": "Hundreds of new medicines remain stuck without pricing approval, leaving patients waiting while companies see investments frozen"
     },
@@ -202,56 +312,12 @@
       "title": "Import growth stalls in FY26 on subdued industrial demand",
       "link": "https://www.tbsnews.net/economy/banking/import-growth-stalls-fy26-subdued-industrial-demand-1492766",
       "pubDate": "Mon, 20 Jul 2026 08:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/16/india-june-import-decline.jpg",
       "snippet": "Economists warn geopolitical tensions and domestic constraints continue to weigh on economy"
-    },
-    {
-      "title": "World Cup Final: DU TSC turns into football hub",
-      "link": "https://www.tbsnews.net/sports/world-cup-final-du-tsc-turns-football-hub-1492726",
-      "pubDate": "Mon, 20 Jul 2026 02:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/748745702_2712398255809479_1115780286599456103_n.jpg",
-      "snippet": "The TSC premises turned into a festive venue as supporters from different parts of the capital arrived wearing team jerseys, carrying flags and cheering for their favourite sides."
-    },
-    {
-      "title": "Visitors force entry into DU despite World Cup final restrictions",
-      "link": "https://www.tbsnews.net/bangladesh/visitors-force-entry-du-despite-world-cup-final-restrictions-1492721",
-      "pubDate": "Mon, 20 Jul 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/3ff39d6d-410a-45b3-ae15-2900754df55d.jpg",
-      "snippet": "Large crowds forced their way into Dhaka University campus around 10pm after breaching barricades at Nilkhet and Shahbagh, despite temporary restrictions on visitors and vehicles for the World Cup final."
-    },
-    {
-      "title": "Tarique meets coalition leaders today; allies to focus on 'govern together' pledge",
-      "link": "https://www.tbsnews.net/bangladesh/tarique-meets-coalition-leaders-today-allies-focus-govern-together-pledge-1492701",
-      "pubDate": "Mon, 20 Jul 2026 00:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/prime_minister_tarique_rahman.jpg",
-      "snippet": "The meeting comes amid growing discontent among several allies, who say they have not received adequate recognition since the government was formed, particularly in seat-sharing and representation in government."
-    },
-    {
-      "title": "Bangladesh, US launch 13-day joint military exercise Tiger Lightning 2026",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-us-launch-13-day-joint-military-exercise-tiger-lightning-2026-1492696",
-      "pubDate": "Mon, 20 Jul 2026 00:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/bd_us_military_exercise.jpg",
-      "snippet": "A total of 184 military personnel from the US Army Pacific, Oregon National Guard and Bangladesh Army are taking part in the exercise."
     },
     {
       "title": "BSEC proposes easing margin lending; experts urge caution",
@@ -507,17 +573,6 @@
       "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
     },
     {
-      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
-      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
-    },
-    {
       "title": "One dengue patient dies, 242 hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
       "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
@@ -527,6 +582,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
       "snippet": "So far, 33 dengue-related deaths have been reported this year."
+    },
+    {
+      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
     },
     {
       "title": "Cenbank adds 4 female participants to DU's Applied AI course after TBS report",
@@ -659,51 +725,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/stocks_dse_11.jpeg",
       "snippet": "A functioning bond market requires a credible risk-free benchmark, confidence that inflation will not erode fixed payments, and courts that can enforce contracts when borrowers refuse to pay"
-    },
-    {
-      "title": "'Hacker' arrested over NBR, Ctg Port system breach to facilitate smuggling worth crores ",
-      "link": "https://www.tbsnews.net/bangladesh/crime/hacker-arrested-over-nbr-ctg-port-system-breach-facilitate-smuggling-worth-crores",
-      "pubDate": "Fri, 17 Jul 2026 18:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/hacker-arrested-over-nbr-ctg-port-system-breach-to-facilitate-smuggling.jpg",
-      "snippet": "Sezan allegedly helped a smuggling syndicate to evade Tk10-12 crore in duties through forged declarations."
-    },
-    {
-      "title": "The four-legged heart of TSC",
-      "link": "https://www.tbsnews.net/thoughts/four-legged-heart-tsc-1490821",
-      "pubDate": "Fri, 17 Jul 2026 17:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/download_-_edited_0.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "Argentina's late-game DNA: How Scaloni built a team that refuses to lose",
-      "link": "https://www.tbsnews.net/sports/argentinas-late-game-dna-how-scaloni-built-team-refuses-lose-1490801",
-      "pubDate": "Fri, 17 Jul 2026 16:50:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/argentina_celebration.jpg",
-      "snippet": "Argentina's resilience under Lionel Scaloni has defined their 2026 World Cup knockout run, with late goals and tactical discipline keeping the defending champions on course for another title."
-    },
-    {
-      "title": "Measles: Death toll reaches 780 as one more dies in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-780-one-more-dies-24hrs-1490791",
-      "pubDate": "Fri, 17 Jul 2026 16:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "A total of 873 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 116,011."
     }
   ],
-  "updatedAt": "2026-07-20T10:10:54.702Z"
+  "updatedAt": "2026-07-20T12:31:36.058Z"
 }
