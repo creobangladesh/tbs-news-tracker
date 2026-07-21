@@ -1,15 +1,147 @@
 {
   "news": [
     {
-      "title": "South Korean envoy pays courtesy call on PM’s defence adviser",
-      "link": "https://www.tbsnews.net/bangladesh/south-korean-envoy-pays-courtesy-call-pms-defence-adviser-1494196",
-      "pubDate": "Tue, 21 Jul 2026 20:25:00 +0600",
+      "title": "Southeast Bank profit jumps 64% to Tk219cr in H1",
+      "link": "https://www.tbsnews.net/economy/stocks/southeast-bank-profit-jumps-64-tk219cr-h1-1494301",
+      "pubDate": "Tue, 21 Jul 2026 22:10:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/whatsapp_image_2026-07-21_at_13.28.32.jpeg",
-      "snippet": "Both sides expressed their commitment to expanding collaboration in these areas and further strengthening bilateral defence ties."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/30/southeast_bank.jpg",
+      "snippet": "During the first half, its consolidated earnings per share stood at Tk1.64, which was Tk1 a year ago."
+    },
+    {
+      "title": "Health experts stress quality maternal care to cut maternal deaths",
+      "link": "https://www.tbsnews.net/bangladesh/health/health-experts-stress-quality-maternal-care-cut-maternal-deaths-1494306",
+      "pubDate": "Tue, 21 Jul 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/maternity_health_ctg.jpg",
+      "snippet": "The workshop focused on sexual and reproductive health and rights (SRHR), nutrition and the role of the media in raising public awareness."
+    },
+    {
+      "title": "Bangladesh to participate in 50 international trade fairs to boost investment, exports",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-participate-50-international-trade-fairs-boost-investment-exports-1494291",
+      "pubDate": "Tue, 21 Jul 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/09/investment.jpg",
+      "snippet": "The government has approved Bangladesh's participation in trade fairs across 27 countries in FY27, focusing on 12 priority export sectors."
+    },
+    {
+      "title": "CSE-30 restructured: GP, LafargeHolcim join; Square Textiles, Crown Cement exit",
+      "link": "https://www.tbsnews.net/economy/stocks/cse-30-restructured-gp-lafargeholcim-join-square-textiles-crown-cement-exit-1494296",
+      "pubDate": "Tue, 21 Jul 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/15/cse-bd.jpg",
+      "snippet": "The four companies newly included in the index are Grameenphone, Jamuna Bank, LafargeHolcim Bangladesh, and Paramount Textile PLC."
+    },
+    {
+      "title": "Bangladesh moves to expand jute exports thru diplomacy",
+      "link": "https://www.tbsnews.net/agriculture/bangladesh-moves-expand-jute-exports-thru-diplomacy-1494286",
+      "pubDate": "Tue, 21 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/e9ac140b-b5be-40f1-80fd-e2aea6dfece3.jpg",
+      "snippet": "State Minister for Foreign Affairs Shama Obaed Islam and State Minister for Textiles and Jute Md Shariful Alam announced the formation of the Joint Working Group between the two ministries and the plan to organise the International Jute Expo with a r..."
+    },
+    {
+      "title": "Stocks rebound as DSEX jumps 41 points to edge near 5,900 mark",
+      "link": "https://www.tbsnews.net/economy/stocks/stocks-rebound-dsex-jumps-41-points-edge-near-5900-mark-1494276",
+      "pubDate": "Tue, 21 Jul 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "According to the daily market review by EBL Securities, the capital bourse maintained a firm upward trajectory from the opening bell."
+    },
+    {
+      "title": "Seven held for allegedly sending woman to Italy using another applicant's visa",
+      "link": "https://www.tbsnews.net/bangladesh/seven-held-allegedly-sending-woman-italy-using-another-applicants-visa-1494271",
+      "pubDate": "Tue, 21 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "snippet": "CID officials recovered three CPUs, an HP laptop, 56 passports belonging to different individuals, 153 seals in the names of various government, private and foreign individuals and organisations, an iron embossing seal, and Tk 2.5 lakh in cash from t..."
+    },
+    {
+      "title": "Milestone tragedy: Probe recommended compensation of up to Tk1cr, govt announced only Tk20 lakh; says action will be taken promptly",
+      "link": "https://www.tbsnews.net/bangladesh/milestone-tragedy-probe-recommended-compensation-tk1cr-govt-announced-only-tk20-lakh-says",
+      "pubDate": "Tue, 21 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/21/untitled_design_3.jpg",
+      "snippet": "The interim government announced compensation and free treatment for crash victims five months after the accident, but many families rejected the offer as inadequate."
+    },
+    {
+      "title": "Ruling party used majority to pass bills without meaningful scrutiny: TIB",
+      "link": "https://www.tbsnews.net/bangladesh/ruling-party-used-majority-pass-bills-without-meaningful-scrutiny-tib-1494261",
+      "pubDate": "Tue, 21 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/tib.jpg",
+      "snippet": "The anti-graft watchdog urges reforms to strengthen parliamentary oversight."
+    },
+    {
+      "title": "Tk9,367cr provision gap: BSEC orders Dhaka exchange to ensure lenders’ quarterly reporting ",
+      "link": "https://www.tbsnews.net/economy/stocks/tk9367cr-provision-gap-bsec-orders-dhaka-exchange-ensure-lenders-quarterly-reporting",
+      "pubDate": "Tue, 21 Jul 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/24/bsec_1.jpg",
+      "snippet": "According to BSEC data, the total provisioning deficit against negative equity and unrealised losses stood at Tk9,367 crore as of May."
+    },
+    {
+      "title": "Teachers should educate students as their own children: Milon",
+      "link": "https://www.tbsnews.net/bangladesh/education/teachers-should-educate-students-their-own-children-milon-1494246",
+      "pubDate": "Tue, 21 Jul 2026 21:25:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/bss.jpg",
+      "snippet": "The minister also said coordinated efforts by teachers, parents and education officials are essential to improving primary education, while the government plans to expand teacher training and student welfare programmes."
+    },
+    {
+      "title": "Govt returns non-teaching staff recruitment power to MPO school, college governing bodies",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-returns-non-teaching-staff-recruitment-power-mpo-school-college-governing",
+      "pubDate": "Tue, 21 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/edu.jpg",
+      "snippet": "The education ministry scrapped the deputy commissioner (DC)-led committee system and restored the previous recruitment process for non-teaching MPO posts."
+    },
+    {
+      "title": "JU temporarily expels 8 students over ragging allegations",
+      "link": "https://www.tbsnews.net/bangladesh/education/ju-temporarily-expels-8-students-over-ragging-allegations-1494216",
+      "pubDate": "Tue, 21 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/ju.jpg",
+      "snippet": "Freshers allegedly faced mental harassment and intimidation during a late-night incident."
     },
     {
       "title": "South Korean envoy pays courtesy call on PM’s defence adviser",
@@ -23,7 +155,7 @@
       "snippet": "Both sides expressed their commitment to expanding collaboration in these areas and further strengthening bilateral defence ties."
     },
     {
-      "title": "Benazir extradition: ACC to send UAE-sought documents within 2 days",
+      "title": "Benazir extradition: ACC to send documents UAE sought within 2 days",
       "link": "https://www.tbsnews.net/bangladesh/benazir-extradition-acc-send-uae-sought-documents-within-2-days-1494191",
       "pubDate": "Tue, 21 Jul 2026 20:15:00 +0600",
       "category": "Bangladesh",
@@ -98,127 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/commerce_minister.jpg",
       "snippet": "Bangladesh plans to transform BFTI into a leading trade research hub."
-    },
-    {
-      "title": "17 Banglar Joyjatra sailors return home after 115-day ordeal near Strait of Hormuz",
-      "link": "https://www.tbsnews.net/bangladesh/17-banglar-joyjatra-sailors-return-home-after-115-day-ordeal-near-strait-hormuz-1494091",
-      "pubDate": "Tue, 21 Jul 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/joy.jpg",
-      "snippet": "The sailors departed Durban, South Africa, on an Emirates flight on Monday (20 July) night and are scheduled to arrive at Hazrat Shahjalal International Airport in Dhaka at around 5:20pm today (21 July) via Dubai."
-    },
-    {
-      "title": "'One Country, One QR' campaign highlighted at Bangla QR fair in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/one-country-one-qr-campaign-highlighted-bangla-qr-fair-ctg-1494086",
-      "pubDate": "Tue, 21 Jul 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/753381532_1724486321932655_2047299729196728218_n.jpg",
-      "snippet": "The initiative showcased how a single QR code enables seamless digital payments across banks and mobile financial service providers."
-    },
-    {
-      "title": "ICT prosecution seeks trial of 26 over killings of Mugdho, 10 others during July Uprising",
-      "link": "https://www.tbsnews.net/bangladesh/court/ict-prosecution-seeks-trial-26-over-killings-mugdho-10-others-during-july-uprising",
-      "pubDate": "Tue, 21 Jul 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/the_international_crimes_tribunal_ict.jpg",
-      "snippet": "The prosecution told the tribunal that the killings in Uttara were planned, widespread and systematic crimes against humanity committed to suppress the anti-discrimination student movement."
-    },
-    {
-      "title": "Value-based education, digital safety to be prioritised in primary curriculum: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/value-based-education-digital-safety-be-prioritised-primary-curriculum-state-minister",
-      "pubDate": "Tue, 21 Jul 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
-      "snippet": "The government is planning broader reforms to equip primary school students with practical life skills and responsible digital habits as technology becomes increasingly embedded in everyday life."
-    },
-    {
-      "title": "Govt plans airfare discounts, lounge access for expatriate card holders: Minister",
-      "link": "https://www.tbsnews.net/economy/aviation/govt-plans-airfare-discounts-lounge-access-expatriate-card-holders-minister-1494026",
-      "pubDate": "Tue, 21 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/airfare_civil_aviation_minister_afroza.jpg",
-      "snippet": "The proposed benefits are part of the government's initiative to improve services for Bangladeshi migrant workers."
-    },
-    {
-      "title": "Govt plans legal panel to tackle disinformation, cyberbullying: Zahed",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-legal-panel-tackle-disinformation-cyberbullying-zahed-1493991",
-      "pubDate": "Tue, 21 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/26/mku_copy.png",
-      "snippet": "Research conducted over approximately 10,000 square kilometres from Saint Martin's to the central coast uncovered significant deposits of heavy minerals, with an estimated total economic value of around $30 million"
-    },
-    {
-      "title": "Court pushes charge framing decision against ex-NBR official Matiur to 3 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/court-pushes-charge-framing-decision-against-ex-nbr-official-matiur-3-aug-1493981",
-      "pubDate": "Tue, 21 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/24/matiur_rahman_0.jpg",
-      "snippet": "The ACC filed two cases against Matiur and his second wife on 15 December 2024 on charges of accumulating illegal wealth and concealing asset information."
-    },
-    {
-      "title": "Govt to build new Bir Sreshtho Hamidur Rahman monument after Jhenaidah sculpture removal",
-      "link": "https://www.tbsnews.net/bangladesh/govt-build-new-bir-sreshtho-hamidur-rahman-monument-after-jhenaidah-sculpture-removal",
-      "pubDate": "Tue, 21 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/hamidur_rahman.jpg",
-      "snippet": "The sculpture was dismantled over several days last week."
-    },
-    {
-      "title": "Measles death toll reaches 797 as 4 more children die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/measles-deaths-near-800-bangladesh-reports-4-more-fatalities-1493956",
-      "pubDate": "Tue, 21 Jul 2026 15:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "Since 15 March, a total of 1,02,244 patients with suspected measles have been hospitalised nationwide."
-    },
-    {
-      "title": "Zubaida Rahman urges unity beyond politics in responding to national disasters",
-      "link": "https://www.tbsnews.net/bangladesh/zubaida-rahman-urges-unity-beyond-politics-responding-national-disasters-1493951",
-      "pubDate": "Tue, 21 Jul 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/zubaida_rahman.png",
-      "snippet": "She said standing beside disaster victims is the highest expression of humanity and helps strengthen compassion and solidarity in society."
-    },
-    {
-      "title": "ICT orders producing Zia assassination convict Mozzaffar in July Uprising case",
-      "link": "https://www.tbsnews.net/bangladesh/court/ict-orders-production-zia-assassination-convict-mozzaffar-july-uprising-case",
-      "pubDate": "Tue, 21 Jul 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/mozaffar_zia_murder.png",
-      "snippet": "A three-member bench of ICT-2 led by Justice Nazrul Islam Chowdhury passed the order today (21 July) following a prosecution petition."
     },
     {
       "title": "Iran’s oil supply threat extends beyond Strait of Hormuz ",
@@ -661,5 +672,5 @@
       "snippet": "Babul Colony probe links cases to unclean water tank."
     }
   ],
-  "updatedAt": "2026-07-21T14:34:17.936Z"
+  "updatedAt": "2026-07-21T16:22:46.342Z"
 }
