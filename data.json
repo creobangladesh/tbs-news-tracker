@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Driver's assistant arrested over attempted rape on bus in Ashulia",
+      "link": "https://www.tbsnews.net/bangladesh/crime/bus-helper-arrested-over-attempted-rape-aboard-bus-ashulia-1493536",
+      "pubDate": "Tue, 21 Jul 2026 08:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/14/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "According to the case statement, the incident occurred on the night of 12 July, when the victim was returning to her workplace from her home district of Dinajpur."
+    },
+    {
+      "title": "Potholes plague Hatirjheel roads, raising accident risk amid monsoon",
+      "link": "https://www.tbsnews.net/bangladesh/transport/potholes-plague-hatirjheel-roads-raising-accident-risk-amid-monsoon-1493531",
+      "pubDate": "Tue, 21 Jul 2026 08:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/p5_hatirjheel_yed6782.jpg",
+      "snippet": "Many of the potholes remain submerged under monsoon rainwater after it rains, making it impossible for drivers to judge their depth and significantly increasing the risk of accidents"
+    },
+    {
       "title": "Why dollar rate is rising again",
       "link": "https://www.tbsnews.net/economy/banking/why-dollar-rate-rising-again-1493501",
       "pubDate": "Tue, 21 Jul 2026 00:55:00 +0600",
@@ -67,6 +89,17 @@
       "snippet": "The meteorological department has forecast heavy to very heavy rainfall in Rangpur, Rajshahi, Mymensingh and Sylhet divisions over the next 24 hours."
     },
     {
+      "title": "PM orders easier access to better healthcare for marginalised people",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-easier-access-better-healthcare-marginalised-people-1493416",
+      "pubDate": "Mon, 20 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/81a66c96-8bad-419b-8ce9-aae72d5ea562.jpg",
+      "snippet": "At the outset of the meeting, Tarique Rahman sought a detailed briefing from the health minister, state minister, secretary and other senior officials on the achievements made in the health sector during the five months since the current government a..."
+    },
+    {
       "title": "Saidur Rahman appointed press minister at Bangladesh mission in New Delhi",
       "link": "https://www.tbsnews.net/bangladesh/saidur-rahman-appointed-press-minister-bangladesh-mission-new-delhi-1493406",
       "pubDate": "Mon, 20 Jul 2026 21:35:00 +0600",
@@ -89,17 +122,6 @@
       "snippet": "The organisation urges the authorities to ensure a fair and speedy investigation, bring all those responsible to justice and guarantee Nadima's safety."
     },
     {
-      "title": "PM orders easier access to better healthcare for marginalised people",
-      "link": "https://www.tbsnews.net/bangladesh/pm-orders-easier-access-better-healthcare-marginalised-people-1493416",
-      "pubDate": "Mon, 20 Jul 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/81a66c96-8bad-419b-8ce9-aae72d5ea562.jpg",
-      "snippet": "At the outset of the meeting, Tarique Rahman sought a detailed briefing from the health minister, state minister, secretary and other senior officials on the achievements made in the health sector during the five months since the current government a..."
-    },
-    {
       "title": "Ice cream, pickles, cosmetics among 8 products ordered withdrawal over quality issues",
       "link": "https://www.tbsnews.net/bangladesh/ice-cream-pickles-cosmetics-among-8-products-ordered-withdrawal-over-quality-issues",
       "pubDate": "Mon, 20 Jul 2026 21:20:00 +0600",
@@ -111,7 +133,7 @@
       "snippet": "BSTI urges consumers to report complaints related to product quality, adulteration, fraud, misuse of BSTI certification mark."
     },
     {
-      "title": "Milestone air crash probe recommends overhauling airport zoning, urban planning, flight safety; none implemented",
+      "title": "Milestone air crash report suggests airport zoning overhaul, building controls",
       "link": "https://www.tbsnews.net/bangladesh/milestone-air-crash-probe-recommends-overhauling-airport-zoning-urban-planning-flight",
       "pubDate": "Mon, 20 Jul 2026 20:25:00 +0600",
       "category": "Bangladesh",
@@ -210,17 +232,6 @@
       "snippet": "Bangladesh once nearly eliminated measles. Now it faces one of its deadliest outbreaks in decades — 100,000+ cases, over 700 dead, mostly children too young to be vaccinated."
     },
     {
-      "title": "GDP growth slows to 2.22% in Q3 of FY26",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-q3-gdp-growth-slows-222-fy26-1493291",
-      "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/03/gdp-ezgif.com-webp-to-jpg-converter.jpg",
-      "snippet": "The latest quarterly national accounts show broad-based weakness across the economy during the January-March period."
-    },
-    {
       "title": "Connectivity must remain flagship of regional ambition: Shama Obaed",
       "link": "https://www.tbsnews.net/bangladesh/connectivity-must-remain-flagship-regional-ambition-shama-obaed-1493266",
       "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
@@ -232,15 +243,15 @@
       "snippet": "She says regional prosperity can only be sustained in an environment of peace, security"
     },
     {
-      "title": "PM takes responsibility for treatment of child with rare congenital disease ",
-      "link": "https://www.tbsnews.net/bangladesh/pm-takes-responsibility-treatment-child-rare-congenital-disease-1493256",
-      "pubDate": "Mon, 20 Jul 2026 18:25:00 +0600",
+      "title": "GDP growth slows to 2.22% in Q3 of FY26",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-q3-gdp-growth-slows-222-fy26-1493291",
+      "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/treatmetnt.png",
-      "snippet": "A five-member medical board, led by Dr Zahidul Islam, head of the Paediatric Cardiology Department at the hospital, reviewed the child's physical condition, medical records and diagnostic reports."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/03/gdp-ezgif.com-webp-to-jpg-converter.jpg",
+      "snippet": "The latest quarterly national accounts show broad-based weakness across the economy during the January-March period."
     },
     {
       "title": "Poverty Rising in Bangladesh: Growth, Inequality, and the Struggle to Sustain Progress",
@@ -252,17 +263,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
       "snippet": ""
-    },
-    {
-      "title": "Home minister directs BGB to intensify anti-smuggling, push-in efforts",
-      "link": "https://www.tbsnews.net/bangladesh/home-minister-directs-bgb-intensify-anti-smuggling-push-efforts-1493236",
-      "pubDate": "Mon, 20 Jul 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/home_minister_bgb.jpg",
-      "snippet": "The minister also lauded BGB’s rescue and relief operations during the recent floods, saying its humanitarian role would be further expanded."
     },
     {
       "title": "Iraq’s high stakes in the US–Iran crossfire",
@@ -650,17 +650,6 @@
       "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
     },
     {
-      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
-      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
-    },
-    {
       "title": "One dengue patient dies, 242 hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-242-hospitalised-24hrs-1491446",
       "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
@@ -670,6 +659,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
       "snippet": "So far, 33 dengue-related deaths have been reported this year."
+    },
+    {
+      "title": "Measles death toll reaches 784 as 4 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-784-4-more-children-die-24hrs-1491451",
+      "pubDate": "Sat, 18 Jul 2026 16:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "The country also recorded 699 new suspected measles cases during the reporting period, taking the cumulative number of suspected infections to 1,16,710."
     },
     {
       "title": "Cenbank adds 4 female participants to DU's Applied AI course after TBS report",
@@ -725,29 +725,7 @@
       "icon": "📊",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/02/06/vegetables.jpg",
       "snippet": "A visit to Karwan Bazar, New Market, and Hatirpool markets yesterday found that almost all essential food items were selling at higher prices than a week earlier."
-    },
-    {
-      "title": "Policy promises lift new investors' confidence amid wave of factory closures",
-      "link": "https://www.tbsnews.net/economy/industry/policy-promises-lift-new-investors-confidence-amid-wave-factory-closures-1491111",
-      "pubDate": "Sat, 18 Jul 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/13/rmg_rajib-dhar_1.png",
-      "snippet": "While industry leaders acknowledge that current investment cannot yet absorb the massive pool of displaced workers, optimism is rising."
-    },
-    {
-      "title": "Beza's flagship economic zone faces water uncertainty as Tk10,553cr pipeline plan stalls",
-      "link": "https://www.tbsnews.net/economy/industry/bezas-flagship-economic-zone-faces-water-uncertainty-tk10553cr-pipeline-plan-stalls",
-      "pubDate": "Sat, 18 Jul 2026 08:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/20/safe_water.jpg",
-      "snippet": "Authorities, investors yet to agree on price of pipeline water"
     }
   ],
-  "updatedAt": "2026-07-21T00:57:48.580Z"
+  "updatedAt": "2026-07-21T04:19:37.644Z"
 }
