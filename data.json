@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "US envoy, NCP discuss democratic reforms, trade agreement",
+      "link": "https://www.tbsnews.net/bangladesh/us-envoy-ncp-discuss-democratic-reforms-trade-agreement-1495001",
+      "pubDate": "Wed, 22 Jul 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/754046216_1686934595691954_6711719939361400739_n.png",
+      "snippet": "The two sides also discussed the implementation of the referendum’s outcome and reform initiatives under the July Charter."
+    },
+    {
+      "title": "17 more senior cops to face compulsory retirement over 'election irregularities, repression'",
+      "link": "https://www.tbsnews.net/bangladesh/17-more-senior-cops-face-compulsory-retirement-over-election-irregularities-repression",
+      "pubDate": "Wed, 22 Jul 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/1a100ef7-3cb0-4195-bd40-300e0e8e87d2.jpg",
+      "snippet": "Home ministry has reportedly sought approval for the proposed retirements."
+    },
+    {
+      "title": "Defence lawyers allowed to join tribunal’s ‘Aynaghar’ inspection",
+      "link": "https://www.tbsnews.net/bangladesh/court/defence-lawyers-allowed-join-tribunals-aynaghar-inspection-1494981",
+      "pubDate": "Wed, 22 Jul 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/20/international_crimes_tribunal.jpg",
+      "snippet": "A defence lawyer made the oral application during proceedings in a crimes against humanity case involving enforced disappearances and torture at the JIC. The tribunal accepted the request."
+    },
+    {
+      "title": "Govt to overhaul project implementation, strengthen accountability: Zonayed Saki",
+      "link": "https://www.tbsnews.net/bangladesh/govt-overhaul-project-implementation-strengthen-accountability-zonayed-saki-1494991",
+      "pubDate": "Wed, 22 Jul 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/zonayed_saki.jpg",
+      "snippet": "Bangladesh targets bureaucratic delays with sweeping overhaul of public projects."
+    },
+    {
+      "title": "DU to preserve July Uprising graffiti, restoration work begins 26 July",
+      "link": "https://www.tbsnews.net/bangladesh/du-preserve-july-uprising-graffiti-restoration-work-begins-26-july-1494961",
+      "pubDate": "Wed, 22 Jul 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/08/whatsapp_image_2024-08-08_at_11.47.50_am_1.jpeg",
+      "snippet": "The university has invited artists who painted the original graffiti after the July Uprising to take part in the restoration programme."
+    },
+    {
+      "title": "Philosophy of Bangladeshi nationalism is our inclusive national identity: Swapon ",
+      "link": "https://www.tbsnews.net/bangladesh/philosophy-bangladeshi-nationalism-our-inclusive-national-identity-swapon-1494916",
+      "pubDate": "Wed, 22 Jul 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/12ef36a3-aca9-4866-8bc4-986bb53f31fa.jpg",
+      "snippet": "He said the bravery, declaration of independence and leadership of Shaheed Ziaur Rahman during the Great War of Liberation are proven historical facts."
+    },
+    {
+      "title": "Nature Index: DU leads Bangladesh as research institution",
+      "link": "https://www.tbsnews.net/bangladesh/nature-index-du-leads-bangladesh-research-institution-1494896",
+      "pubDate": "Wed, 22 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/27/du_logo.png",
+      "snippet": "Among these papers, DU contributed the highest share with 21 published research articles, as announced in a press release issued today (22 July) by the Dhaka University Public Relations Office."
+    },
+    {
+      "title": "4 suffer burn injuries in Sylhet CNG filling station explosion",
+      "link": "https://www.tbsnews.net/bangladesh/4-suffer-burn-injuries-sylhet-cng-filling-station-explosion-1494846",
+      "pubDate": "Wed, 22 Jul 2026 16:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/arsen_fire.jpg",
+      "snippet": "Morning calm shattered as Sylhet CNG station blast left four injured."
+    },
+    {
+      "title": "Prime Minister’s Gold Cup: Teachers, students invited to join logo, mascot, and theme song contest",
+      "link": "https://www.tbsnews.net/bangladesh/prime-ministers-gold-cup-teachers-students-invited-join-logo-mascot-and-theme-song",
+      "pubDate": "Wed, 22 Jul 2026 15:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/pm_tarique_rahman.jpg",
+      "snippet": "The use of artificial intelligence (AI) in creating any entry is explicitly prohibited."
+    },
+    {
       "title": "Protest in Shyamnagar demands Satkhira-4 MP Nazrul Islam's resignation",
       "link": "https://www.tbsnews.net/bangladesh/protest-shyamnagar-demands-satkhira-4-mp-nazrul-islams-resignation-1494791",
       "pubDate": "Wed, 22 Jul 2026 15:45:00 +0600",
@@ -43,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
       "snippet": "The new rules further allow banks to issue dual-currency freelancer cards. Freelancers and service exporters will also be able to make wider use of Mobile Financial Service Providers (MFSPs) and Payment Service Providers (PSPs) to receive payments."
+    },
+    {
+      "title": "Shifting Winds: Bangladesh in an Age of Fragmented Interdependence",
+      "link": "https://www.tbsnews.net/thoughts/shifting-winds-bangladesh-age-fragmented-interdependence-1494776",
+      "pubDate": "Wed, 22 Jul 2026 15:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/global_map_tbs.png",
+      "snippet": ""
     },
     {
       "title": "Faqir Mahbub's 3-point proposal for an inclusive digital future in cyberspace",
@@ -96,7 +206,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/dhaka_ashulia_expressway.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/749440356_2047012102688673_5655553600672291243_n.png",
       "snippet": "The mega project began in September 2017 with a completion deadline of June 2022. The first revision extended the deadline until June 2026. Ecnec has now approved another four-year extension based on the actual progress of work and required modificat..."
     },
     {
@@ -144,94 +254,6 @@
       "snippet": "From the 2026-27 tax year, individual taxpayers who submit their returns between July and September will receive a 5% incentive on net tax payable, capped at Tk25,000"
     },
     {
-      "title": "Dhaka, Beijing discuss transport corridors, energy cooperation",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-beijing-discuss-transport-corridors-energy-cooperation-1494641",
-      "pubDate": "Wed, 22 Jul 2026 13:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/8464819.jpg",
-      "snippet": "They held an impromptu meeting with Berris Ekinci, Deputy Minister of Foreign Affairs of the Republic of Türkiye, on the sidelines of the ASEAN Regional Forum (ARF) Ministerial Meetings in Manila yesterday, according to the Ministry of Foreign Affair..."
-    },
-    {
-      "title": "PM forms committee to address textile sector's issues",
-      "link": "https://www.tbsnews.net/bangladesh/pm-forms-committee-address-textile-sectors-issues-1494626",
-      "pubDate": "Wed, 22 Jul 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/8473153.jpg",
-      "snippet": "The committee was formed during a meeting with leaders of the Bangladesh Textile Mills Association (BTMA) at the Prime Minister's Office in the Bangladesh Secretariat, said Prime Minister's Deputy Press Secretary Hasan Shiplu."
-    },
-    {
-      "title": "6 Russians, 2 Bangladeshis rescued after bus-lorry crash in Natore",
-      "link": "https://www.tbsnews.net/bangladesh/6-russians-2-bangladeshis-rescued-after-bus-lorry-crash-natore-1494631",
-      "pubDate": "Wed, 22 Jul 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/untitled-1.jpg",
-      "snippet": "The injured—six Russian nationals and two Bangladeshis—were taken to a nearby hospital for treatment."
-    },
-    {
-      "title": "Sagar-Runi murder: Court sets 27 Aug for probe report after 128th delay",
-      "link": "https://www.tbsnews.net/bangladesh/court/sagar-runi-murder-court-sets-27-aug-probe-report-after-128th-delay-1494616",
-      "pubDate": "Wed, 22 Jul 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/11/sagar_runi.png",
-      "snippet": "Dhaka Metropolitan Magistrate Ariful Islam set the new date after a hearing today (22 July) as the Police Bureau of Investigation (PBI) failed to submit the report, Dhaka Metropolitan Police Prosecution Division Sub-Inspector Mazharul Islam confirmed..."
-    },
-    {
-      "title": "Child abducted for ransom in Ctg, 3 arrested, including cousin",
-      "link": "https://www.tbsnews.net/bangladesh/child-abducted-ransom-ctg-3-arrested-including-cousin-1494601",
-      "pubDate": "Wed, 22 Jul 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/ctg_arrest.jpg",
-      "snippet": "A CNG-run auto-rickshaw used in the abduction was also seized during the drive."
-    },
-    {
-      "title": "Teesta nears danger level; rising waters spark flood fears in Lalmonirhat",
-      "link": "https://www.tbsnews.net/bangladesh/teesta-nears-danger-level-rising-waters-spark-flood-fears-lalmonirhat-1494581",
-      "pubDate": "Wed, 22 Jul 2026 12:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/teesta_river.jpg",
-      "snippet": "According to the Bangladesh Water Development Board (BWDB), the river's water level was recorded at 52.14 metres at the Dalia point at 9 am on today (22 July), against the danger level of 52.15 metres."
-    },
-    {
-      "title": "Rain likely across country in the next 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-across-country-next-24-hours-1494571",
-      "pubDate": "Wed, 22 Jul 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
-      "snippet": "The weather office also predicted heavy to very heavy rainfall at places in Barishal and Chattogram divisions."
-    },
-    {
-      "title": "UNGA to decide on Bangladesh's LDC graduation extension requests: Ecosoc ",
-      "link": "https://www.tbsnews.net/bangladesh/ecosoc-backs-bangladeshs-request-ldc-graduation-extension-1494576",
-      "pubDate": "Wed, 22 Jul 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/h.jpg",
-      "snippet": "The recommendation was made through a consensus decision adopted by Ecosoc member states at a meeting of the council on Tuesday (21 July), according to a message received here today (22 July)."
-    },
-    {
       "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
       "link": "https://www.tbsnews.net/tech/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-startup-1494561",
       "pubDate": "Wed, 22 Jul 2026 12:20:00 +0600",
@@ -241,17 +263,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/open_ai.jpg",
       "snippet": "OpenAI said the breakout was \"an unprecedented cyber incident, involving state-of-the-art cyber capabilities\" and that the company ⁠was reinforcing its safeguards."
-    },
-    {
-      "title": "Man stabbed to death in Hazaribagh",
-      "link": "https://www.tbsnews.net/bangladesh/crime/man-stabbed-death-hazaribagh-1494541",
-      "pubDate": "Wed, 22 Jul 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/stabbing.jpg",
-      "snippet": "The incident occurred around 2am on a road beside a temple in Shah Alam Goli, near Hazaribagh Park."
     },
     {
       "title": "Diabetic association, OIC's Comstech partner to work on diabetes, NCD prevention",
@@ -670,51 +681,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/texas_by_tasfik_2_0.png",
       "snippet": "The curfew was a day old; the internet, three days dead. Behind the blackout, the killing did not stop. And the country was left to carry a grief the government was trying to bury"
-    },
-    {
-      "title": "Govt prepares five-year trade plan to address post-LDC challenges: Commerce secretary",
-      "link": "https://www.tbsnews.net/economy/bangladesh-prepares-five-year-trade-plan-address-post-ldc-graduation-challenges-1492341",
-      "pubDate": "Sun, 19 Jul 2026 17:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ldc-graduation_0.png",
-      "snippet": "The commerce secretary stressed that preparing policies and research reports alone would not be sufficient, emphasizing that effective implementation would be the key to success."
-    },
-    {
-      "title": "College student dies after appendicitis surgery in Faridpur; probe committee formed",
-      "link": "https://www.tbsnews.net/bangladesh/health/college-student-dies-after-appendicitis-surgery-faridpur-probe-committee-formed",
-      "pubDate": "Sun, 19 Jul 2026 17:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/al_zara_hospital.jpg",
-      "snippet": "The deceased, 17-year-old Ayesha Afrin, was the daughter of expatriate Liton Matubbar of Kailasher Dangi village in Akoter Char union under Sadarpur upazila."
-    },
-    {
-      "title": "Ctg depositors demand immediate gazette on finance minister’s no ‘haircut’ pledge",
-      "link": "https://www.tbsnews.net/economy/banking/depositors-demand-gazette-finance-ministers-no-haircut-pledge-1492286",
-      "pubDate": "Sun, 19 Jul 2026 16:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/1784448440338_1.jpg",
-      "snippet": "Finance Minister Amir Khosru Mahmud Chowdhury told parliament on 8 July that depositors of troubled banks would receive their money back with interest and without any \"haircut\""
-    },
-    {
-      "title": "Measles: Death toll reaches 788 as 4 more children die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-788-4-more-children-die-24-hours-1492226",
-      "pubDate": "Sun, 19 Jul 2026 16:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "The latest fatalities were all classified as suspected measles deaths, taking the number of suspected deaths to 693, while the toll of laboratory-confirmed deaths remained unchanged at 95."
     }
   ],
-  "updatedAt": "2026-07-22T09:59:20.734Z"
+  "updatedAt": "2026-07-22T11:56:31.206Z"
 }
