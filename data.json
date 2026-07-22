@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Experts seek stronger workplace safeguards through changes to labour rules",
+      "link": "https://www.tbsnews.net/bangladesh/experts-seek-stronger-workplace-safeguards-through-changes-labour-rules-1495431",
+      "pubDate": "Thu, 23 Jul 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/meeting_on_harassment.jpg",
+      "snippet": "Stakeholders also urge whistleblower protection and stronger safeguards against workplace harassment through amendments to the Bangladesh Labour Rules."
+    },
+    {
+      "title": "UGC plans to connect overseas Bangladeshi academics with local universities",
+      "link": "https://www.tbsnews.net/bangladesh/education/ugc-plans-connect-overseas-bangladeshi-academics-local-universities-1495416",
+      "pubDate": "Wed, 22 Jul 2026 23:35:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ugc.jpg",
+      "snippet": "The initiative aims to bring Bangladeshi academics abroad and international scholars into teaching and research through a virtual platform as part of a wider digital transformation of higher education."
+    },
+    {
+      "title": "Samsung resumes Bangladesh production, plans local phone launch in January",
+      "link": "https://www.tbsnews.net/economy/industry/samsung-resumes-bangladesh-production-plans-local-phone-launch-january-1495421",
+      "pubDate": "Wed, 22 Jul 2026 23:35:00 +0600",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/samsung.jpg",
+      "snippet": "Production of Samsung refrigerators has already begun at the company’s factory in Shibpur, Narsingdi."
+    },
+    {
+      "title": "How Bangladeshi expatriates joined the July Uprising from afar",
+      "link": "https://www.tbsnews.net/features/panorama/how-bangladeshi-expatriates-joined-july-uprising-afar-1495436",
+      "pubDate": "Wed, 22 Jul 2026 23:05:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/eu.jpg",
+      "snippet": "As students bled and the internet was shut down in Bangladesh, expatriates around the world joined the movement in their own ways. Strangers worked together because they shared the same fear, anger and responsibility towards their homeland"
+    },
+    {
       "title": "Govt to launch nationwide door-to-door health screening: Health minister",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-launch-nationwide-door-door-health-screening-health-minister-1495386",
       "pubDate": "Wed, 22 Jul 2026 22:00:00 +0600",
@@ -252,17 +296,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/minister_faqir_mahbub_anam_spoke_at_silk_road_forum_in_xian_china_on_national_health_card_and_ai-driven_healthcare.-converted-from-webp.jpeg",
       "snippet": "The proposed National Health Card will enable nationwide access to patients' medical records, helping improve healthcare access and reduce urban-rural disparities."
-    },
-    {
-      "title": "Khalilur invites US Secretary Rubio to visit Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/khalilur-invites-us-secretary-rubio-visit-bangladesh-1495166",
-      "pubDate": "Wed, 22 Jul 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/us_ban.jpg",
-      "snippet": "Invitation underscores Dhaka's push to deepen engagement with Washington."
     },
     {
       "title": "Shifting winds: Bangladesh in an age of fragmented interdependence",
@@ -749,5 +782,5 @@
       "snippet": "Economists warn geopolitical tensions and domestic constraints continue to weigh on economy"
     }
   ],
-  "updatedAt": "2026-07-22T17:34:33.957Z"
+  "updatedAt": "2026-07-22T19:19:14.158Z"
 }
