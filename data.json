@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Govt to launch nationwide door-to-door health screening: Health minister",
+      "link": "https://www.tbsnews.net/bangladesh/health/govt-launch-nationwide-door-door-health-screening-health-minister-1495386",
+      "pubDate": "Wed, 22 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/23/sardar_sakhawat_husain.jpg",
+      "snippet": "The government will recruit 1 lakh health workers, 80% of them will be women."
+    },
+    {
+      "title": "Cabinet body clears Tk 7.34cr contract variation for RUET project",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-body-clears-tk-734cr-contract-variation-ruet-project-1495371",
+      "pubDate": "Wed, 22 Jul 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/ruet.jpg",
+      "snippet": "Construction costs rise as committee clears revised budget for RUET project."
+    },
+    {
       "title": "Ctg Wasa to launch one-stop digital billing service: Managing director",
       "link": "https://www.tbsnews.net/bangladesh/ctg-wasa-launch-one-stop-digital-billing-service-managing-director-1495366",
       "pubDate": "Wed, 22 Jul 2026 21:40:00 +0600",
@@ -67,7 +89,7 @@
       "snippet": "The tribunal also fined the convict Tk50,000 after finding him guilty in a case filed over the 2021 assault."
     },
     {
-      "title": "PM opposes govt role in housing business, backs PPP model",
+      "title": "Tarique against any govt role in housing business, backs PPP model",
       "link": "https://www.tbsnews.net/bangladesh/pm-opposes-government-role-housing-business-backs-ppp-model-1495301",
       "pubDate": "Wed, 22 Jul 2026 20:55:00 +0600",
       "category": "Bangladesh",
@@ -133,7 +155,7 @@
       "snippet": "Speakers at the rally described Chattogram Port as a strategic national asset vital to the country’s economy and national security."
     },
     {
-      "title": "Decision on third FSRU installation within a month: PM",
+      "title": "PM assures businesses of improving energy supply within a year",
       "link": "https://www.tbsnews.net/economy/industry/decision-third-fsru-installation-within-month-pm-1495271",
       "pubDate": "Wed, 22 Jul 2026 20:15:00 +0600",
       "category": "Economy",
@@ -207,7 +229,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/lng_supply_1.jpg",
-      "snippet": "“The supply shortfall has disrupted industrial production, affected electricity generation and caused gas shortages at CNG filling stations in different parts of the country,” says the division spokesperson."
+      "snippet": "Gas supply cut hits households, industries"
     },
     {
       "title": "Govt to retire three female cops over alleged misconduct during Khaleda’s arrest ",
@@ -243,17 +265,6 @@
       "snippet": "Invitation underscores Dhaka's push to deepen engagement with Washington."
     },
     {
-      "title": "Outgoing Navy chief calls on PM",
-      "link": "https://www.tbsnews.net/bangladesh/outgoing-navy-chief-calls-pm-1495116",
-      "pubDate": "Wed, 22 Jul 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/pm_navy_cheif.png",
-      "snippet": "The Prime Minister appreciated Admiral Nazmul Hassan's achievements during his tenure, commending his visionary leadership and contribution to the modernisation of the Bangladesh Navy, enhancement of its operational capabilities and efforts to furthe..."
-    },
-    {
       "title": "Shifting winds: Bangladesh in an age of fragmented interdependence",
       "link": "https://www.tbsnews.net/thoughts/shifting-winds-bangladesh-age-fragmented-interdependence-1495126",
       "pubDate": "Wed, 22 Jul 2026 18:50:00 +0600",
@@ -263,17 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/12/thoughts_4_9_2022_0_0_0.png",
       "snippet": "As great-power rivalry reshapes global politics, Bangladesh's greatest strategic advantage lies not in choosing sides but in building resilient institutions, diversifying partnerships and practising disciplined multi-alignment"
-    },
-    {
-      "title": "Tk 7cr money laundering case filed against Bestway Land Properties MD, 17 linked firms",
-      "link": "https://www.tbsnews.net/bangladesh/tk-7cr-money-laundering-case-filed-against-bestway-land-properties-md-17-linked-firms",
-      "pubDate": "Wed, 22 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/05/cid.png",
-      "snippet": "The investigation found that at least 37 customers paid a total of Tk 70.27 million for plots that were never handed over. The victims also failed to recover their money despite waiting for years."
     },
     {
       "title": "bKash deploys largest Bangla QR network nationwide to accelerate cashless payment",
@@ -298,15 +298,15 @@
       "snippet": "Since 15 March, a total of 1,03,078 patients with suspected measles have been hospitalised nationwide, of whom 99,294 have recovered, according to DGHS."
     },
     {
-      "title": "BB eases forex rules for freelancers, service exporters",
-      "link": "https://www.tbsnews.net/bangladesh/bb-eases-forex-rules-freelancers-service-exporters-1494751",
+      "title": "Cenbank eases forex rules for freelancers, service exporters",
+      "link": "https://www.tbsnews.net/bangladesh/cenbank-eases-forex-rules-freelancers-service-exporters-1494751",
       "pubDate": "Wed, 22 Jul 2026 15:15:00 +0600",
       "category": "Banking",
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
-      "snippet": "The new rules further allow banks to issue dual-currency freelancer cards. Freelancers and service exporters will also be able to make wider use of Mobile Financial Service Providers (MFSPs) and Payment Service Providers (PSPs) to receive payments."
+      "snippet": "The new rules further allow banks to issue dual-currency freelancer cards."
     },
     {
       "title": "Shifting Winds: Bangladesh in an Age of Fragmented Interdependence",
@@ -331,7 +331,7 @@
       "snippet": "According to an official statement, of the eight approved projects, three are new and five are revised."
     },
     {
-      "title": "Dhaka-Ashulia expressway cost jumps to Tk27,046cr, deadline pushed to 2030",
+      "title": "Price of delay: Dhaka-Ashulia expressway cost jumps to Tk27,046cr",
       "link": "https://www.tbsnews.net/bangladesh/infrastructure/dhaka-ashulia-expressway-cost-jumps-tk27046cr-deadline-pushed-2030-1494691",
       "pubDate": "Wed, 22 Jul 2026 14:15:00 +0600",
       "category": "Economy",
@@ -339,7 +339,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/749440356_2047012102688673_5655553600672291243_n.png",
-      "snippet": "The mega project began in September 2017 with a completion deadline of June 2022. The first revision extended the deadline until June 2026. Ecnec has now approved another four-year extension based on the actual progress of work and required modificat..."
+      "snippet": "New project deadline now 2030."
     },
     {
       "title": "Gold prices rise again in Bangladesh within 24 hours",
@@ -353,7 +353,7 @@
       "snippet": "Under the revised pricing, each bhori (11.664 grams) of 21-carat gold will now cost Tk 2,14,093, while 18-carat gold has been set at Tk 1,83,883 per bhori. Traditional gold will sell at Tk 1,50,232 per bhori, the notice said."
     },
     {
-      "title": "BB suspends assistant director over fraud, crypto transactions and online betting",
+      "title": "BB suspends assistant director over alleged fraud, crypto transactions, online betting",
       "link": "https://www.tbsnews.net/economy/banking/bb-suspends-assistant-director-over-fraud-crypto-transactions-and-online-betting",
       "pubDate": "Wed, 22 Jul 2026 13:55:00 +0600",
       "category": "Banking",
@@ -361,7 +361,7 @@
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/04/new_project_7_0.jpg",
-      "snippet": "During the suspension, he will receive a subsistence allowance in accordance with Section 21(a) of the Bangladesh Bank Administrative Instructions, 2003."
+      "snippet": "The official remains on the run as criminal investigation continues."
     },
     {
       "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
@@ -749,5 +749,5 @@
       "snippet": "Economists warn geopolitical tensions and domestic constraints continue to weigh on economy"
     }
   ],
-  "updatedAt": "2026-07-22T15:58:53.192Z"
+  "updatedAt": "2026-07-22T17:34:33.957Z"
 }
