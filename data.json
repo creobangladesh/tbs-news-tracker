@@ -1,6 +1,182 @@
 {
   "news": [
     {
+      "title": "Jamuna Bank profit jumps 22% to Tk378cr in H1",
+      "link": "https://www.tbsnews.net/economy/stocks/jamuna-bank-profit-jumps-22-tk378cr-h1-1495236",
+      "pubDate": "Wed, 22 Jul 2026 19:50:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/jamuna_bank.png",
+      "snippet": "During the first half, its consolidated earnings per share stood at Tk4.03, which was Tk3.31 a year ago."
+    },
+    {
+      "title": "Ctg Chamber seeks tighter security after piracy incidents at port anchorage",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-chamber-seeks-tighter-security-after-piracy-incidents-port-anchorage-1495211",
+      "pubDate": "Wed, 22 Jul 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
+      "snippet": "The chamber says continued security lapses at the country’s main seaport could damage Bangladesh’s reputation and make international trade more expensive."
+    },
+    {
+      "title": "Bangladesh condemns Houthi naval blockade against Saudi Arabia",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-condemns-houthi-naval-blockade-against-saudi-arabia-1495216",
+      "pubDate": "Wed, 22 Jul 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/ministry_of_foreign_affairs.jpg",
+      "snippet": "The Foreign Ministry said any disruption to shipping in the Red Sea could have serious economic consequences and urges all parties to pursue dialogue."
+    },
+    {
+      "title": "Rupali Bank incurs Tk640cr loss in H1",
+      "link": "https://www.tbsnews.net/economy/stocks/rupali-bank-incurs-tk640cr-loss-h1-1495221",
+      "pubDate": "Wed, 22 Jul 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/05/rupali_bank.jpg",
+      "snippet": "The bank says the substantial loss was primarily driven by a decline in interest income alongside a sharp increase in borrowing costs."
+    },
+    {
+      "title": "LNG terminal glitch cuts gas supply by 450 mmcfd nationwide: Energy division",
+      "link": "https://www.tbsnews.net/bangladesh/energy/lng-terminal-glitch-cuts-gas-supply-450-mmcfd-nationwide-energy-division-1495201",
+      "pubDate": "Wed, 22 Jul 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/lng_supply_1.jpg",
+      "snippet": "“The supply shortfall has disrupted industrial production, affected electricity generation and caused gas shortages at CNG filling stations in different parts of the country,” says the division spokesperson."
+    },
+    {
+      "title": "3 women cops to face compulsory retirement over ‘misconduct’ during Khaleda Zia's arrest",
+      "link": "https://www.tbsnews.net/bangladesh/3-women-cops-face-compulsory-retirement-over-misconduct-during-khaleda-zias-arrest",
+      "pubDate": "Wed, 22 Jul 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
+      "snippet": "Two of them \"dragged former three-time prime minister Begum Khaleda Zia out of her cantonment residence during the eviction.\""
+    },
+    {
+      "title": "Govt to launch 'National Health Card' to eliminate healthcare inequality: Faqir Mahbub",
+      "link": "https://www.tbsnews.net/bangladesh/health/govt-launch-national-health-card-eliminate-healthcare-inequality-faqir-mahbub",
+      "pubDate": "Wed, 22 Jul 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/minister_faqir_mahbub_anam_spoke_at_silk_road_forum_in_xian_china_on_national_health_card_and_ai-driven_healthcare.-converted-from-webp.jpeg",
+      "snippet": "The proposed National Health Card will enable nationwide access to patients' medical records, helping improve healthcare access and reduce urban-rural disparities."
+    },
+    {
+      "title": "Khalilur invites US Secretary Rubio to visit Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/khalilur-invites-us-secretary-rubio-visit-bangladesh-1495166",
+      "pubDate": "Wed, 22 Jul 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/us_ban.jpg",
+      "snippet": "Invitation underscores Dhaka's push to deepen engagement with Washington."
+    },
+    {
+      "title": "Outgoing Navy chief calls on PM",
+      "link": "https://www.tbsnews.net/bangladesh/outgoing-navy-chief-calls-pm-1495116",
+      "pubDate": "Wed, 22 Jul 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/pm_navy_cheif.png",
+      "snippet": "The Prime Minister appreciated Admiral Nazmul Hassan's achievements during his tenure, commending his visionary leadership and contribution to the modernisation of the Bangladesh Navy, enhancement of its operational capabilities and efforts to furthe..."
+    },
+    {
+      "title": "Shifting winds: Bangladesh in an age of fragmented interdependence",
+      "link": "https://www.tbsnews.net/thoughts/shifting-winds-bangladesh-age-fragmented-interdependence-1495126",
+      "pubDate": "Wed, 22 Jul 2026 18:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/12/thoughts_4_9_2022_0_0_0.png",
+      "snippet": "As great-power rivalry reshapes global politics, Bangladesh's greatest strategic advantage lies not in choosing sides but in building resilient institutions, diversifying partnerships and practising disciplined multi-alignment"
+    },
+    {
+      "title": "Tk 7cr money laundering case filed against Bestway Land Properties MD, 17 linked firms",
+      "link": "https://www.tbsnews.net/bangladesh/tk-7cr-money-laundering-case-filed-against-bestway-land-properties-md-17-linked-firms",
+      "pubDate": "Wed, 22 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/05/cid.png",
+      "snippet": "The investigation found that at least 37 customers paid a total of Tk 70.27 million for plots that were never handed over. The victims also failed to recover their money despite waiting for years."
+    },
+    {
+      "title": " No fuel crisis as diesel stock reaches 344,000 tonnes: Energy ministry",
+      "link": "https://www.tbsnews.net/bangladesh/no-fuel-crisis-diesel-stock-reaches-344000-tonnes-energy-ministry-1495106",
+      "pubDate": "Wed, 22 Jul 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/energy_ministry.jpg",
+      "snippet": "Government says fuel reserves remain robust despite recent supply concerns."
+    },
+    {
+      "title": "Jatrabari killings case: Ex-AL MP Monu, three others to appear before ICT on 3 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/court/jatrabari-killings-case-ex-al-mp-monu-three-others-appear-ict-3-aug-1495071",
+      "pubDate": "Wed, 22 Jul 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/kazi_monirul_islam_monu.jpg",
+      "snippet": "The case alleges crimes against humanity over the killings of 17 people in Jatrabari during the 2024 July Uprising."
+    },
+    {
+      "title": "Journalist sent to jail in cyber case for allegedly demanding money",
+      "link": "https://www.tbsnews.net/bangladesh/court/journalist-sent-jail-cyber-case-allegedly-demanding-money-1495051",
+      "pubDate": "Wed, 22 Jul 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/14/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "After hearing both sides, the court rejected Shafiq’s bail petition and ordered that he be sent to jail."
+    },
+    {
+      "title": "Govt promoting competition to improve civic services: Dhaka South administrator",
+      "link": "https://www.tbsnews.net/bangladesh/govt-promoting-competition-improve-civic-services-dhaka-south-administrator-1495036",
+      "pubDate": "Wed, 22 Jul 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/e2842860-fe9f-4a1b-b3f4-088745b1406a.jpg",
+      "snippet": "The administrator says the previous government had concentrated collection activities under a single institution, whereas the current administration believes in open competition."
+    },
+    {
+      "title": "bKash deploys largest Bangla QR network nationwide to accelerate cashless payment",
+      "link": "https://www.tbsnews.net/bangladesh/bkash-deploys-largest-bangla-qr-network-nationwide-accelerate-cashless-payment-1495011",
+      "pubDate": "Wed, 22 Jul 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/bangla_qr.png",
+      "snippet": "From neighbourhood grocery stores to pharmacies, restaurants, hotels, supermarkets, lifestyle brands and leading retail chains, customers can now conveniently pay by scanning Bangla QR codes deployed by bKash."
+    },
+    {
       "title": "US envoy, NCP discuss democratic reforms, trade agreement",
       "link": "https://www.tbsnews.net/bangladesh/us-envoy-ncp-discuss-democratic-reforms-trade-agreement-1495001",
       "pubDate": "Wed, 22 Jul 2026 17:40:00 +0600",
@@ -23,7 +199,7 @@
       "snippet": "Home ministry has reportedly sought approval for the proposed retirements."
     },
     {
-      "title": "Defence lawyers allowed to join tribunal’s ‘Aynaghar’ inspection",
+      "title": "Defence lawyers allowed to join tribunal's 'Aynaghar' inspection",
       "link": "https://www.tbsnews.net/bangladesh/court/defence-lawyers-allowed-join-tribunals-aynaghar-inspection-1494981",
       "pubDate": "Wed, 22 Jul 2026 17:30:00 +0600",
       "category": "Bangladesh",
@@ -67,68 +243,13 @@
       "snippet": "He said the bravery, declaration of independence and leadership of Shaheed Ziaur Rahman during the Great War of Liberation are proven historical facts."
     },
     {
-      "title": "Nature Index: DU leads Bangladesh as research institution",
-      "link": "https://www.tbsnews.net/bangladesh/nature-index-du-leads-bangladesh-research-institution-1494896",
-      "pubDate": "Wed, 22 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/27/du_logo.png",
-      "snippet": "Among these papers, DU contributed the highest share with 21 published research articles, as announced in a press release issued today (22 July) by the Dhaka University Public Relations Office."
-    },
-    {
-      "title": "4 suffer burn injuries in Sylhet CNG filling station explosion",
-      "link": "https://www.tbsnews.net/bangladesh/4-suffer-burn-injuries-sylhet-cng-filling-station-explosion-1494846",
-      "pubDate": "Wed, 22 Jul 2026 16:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/arsen_fire.jpg",
-      "snippet": "Morning calm shattered as Sylhet CNG station blast left four injured."
-    },
-    {
-      "title": "Prime Minister’s Gold Cup: Teachers, students invited to join logo, mascot, and theme song contest",
-      "link": "https://www.tbsnews.net/bangladesh/prime-ministers-gold-cup-teachers-students-invited-join-logo-mascot-and-theme-song",
-      "pubDate": "Wed, 22 Jul 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/pm_tarique_rahman.jpg",
-      "snippet": "The use of artificial intelligence (AI) in creating any entry is explicitly prohibited."
-    },
-    {
-      "title": "Protest in Shyamnagar demands Satkhira-4 MP Nazrul Islam's resignation",
-      "link": "https://www.tbsnews.net/bangladesh/protest-shyamnagar-demands-satkhira-4-mp-nazrul-islams-resignation-1494791",
-      "pubDate": "Wed, 22 Jul 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/received_1757312835461384.jpeg",
-      "snippet": "They said that his actions had disgraced the people of Shyamnagar and declared him persona non grata."
-    },
-    {
-      "title": "Energy minister seeks proposals to privatise power distribution",
-      "link": "https://www.tbsnews.net/bangladesh/energy/energy-minister-seeks-proposals-privatise-power-distribution-1494786",
-      "pubDate": "Wed, 22 Jul 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/23/electricity_mumitm-4200_0.jpg",
-      "snippet": "Govt also plans private petroleum imports, targets 10,000MW solar capacity by end of tenure"
-    },
-    {
       "title": "Measles: Death toll reaches 803 as 6 more children die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-803-6-more-children-die-1494761",
       "pubDate": "Wed, 22 Jul 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
       "snippet": "Since 15 March, a total of 1,03,078 patients with suspected measles have been hospitalised nationwide, of whom 99,294 have recovered, according to DGHS."
     },
@@ -136,10 +257,10 @@
       "title": "BB eases forex rules for freelancers, service exporters",
       "link": "https://www.tbsnews.net/bangladesh/bb-eases-forex-rules-freelancers-service-exporters-1494751",
       "pubDate": "Wed, 22 Jul 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
       "snippet": "The new rules further allow banks to issue dual-currency freelancer cards. Freelancers and service exporters will also be able to make wider use of Mobile Financial Service Providers (MFSPs) and Payment Service Providers (PSPs) to receive payments."
     },
@@ -155,70 +276,26 @@
       "snippet": ""
     },
     {
-      "title": "Faqir Mahbub's 3-point proposal for an inclusive digital future in cyberspace",
-      "link": "https://www.tbsnews.net/bangladesh/faqir-mahbubs-3-point-proposal-inclusive-digital-future-cyberspace-1494716",
-      "pubDate": "Wed, 22 Jul 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/1ccbb945-0658-4dca-a7a1-9692a26146a0.jpg",
-      "snippet": "He finally added, “Digital Public Goods: Recognize digital development as a global public good by making intellectual property (IP) frameworks and data architectures more open and accessible for the benefit of the international community.”"
-    },
-    {
       "title": "Ecnec approves 8 projects worth Tk14,041cr",
       "link": "https://www.tbsnews.net/economy/ecnec-approves-8-projects-worth-tk14041cr-1494721",
       "pubDate": "Wed, 22 Jul 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/752653247_2379820759208054_6391014064323624858_n.jpg",
       "snippet": "According to an official statement, of the eight approved projects, three are new and five are revised."
-    },
-    {
-      "title": "10,000 stranded as Teesta embankment breaches flood villages in Rangpur",
-      "link": "https://www.tbsnews.net/bangladesh/10000-stranded-teesta-embankment-breaches-flood-villages-rangpur-1494706",
-      "pubDate": "Wed, 22 Jul 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/05/teesta_river.jpg",
-      "snippet": "The breaches developed at the volunteer-built embankments in Ward No 8 of Nohali Union following a sudden rise in the Teesta's water level, allowing floodwater to enter nearby villages."
-    },
-    {
-      "title": "HC asks why bachelor's degree shouldn’t be mandatory for union chairman candidates",
-      "link": "https://www.tbsnews.net/bangladesh/hc-asks-why-bachelors-degree-shouldnt-be-mandatory-union-chairman-candidates-1494701",
-      "pubDate": "Wed, 22 Jul 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/04/25/hc_0.jpg",
-      "snippet": "The court issued the rule today (22 July) after a preliminary hearing on a writ petition filed by Supreme Court lawyers Kazi Ferdousul Hasan and Md Tanvir Ahmed Khan."
     },
     {
       "title": "Dhaka-Ashulia expressway cost jumps to Tk27,046cr, deadline pushed to 2030",
       "link": "https://www.tbsnews.net/bangladesh/infrastructure/dhaka-ashulia-expressway-cost-jumps-tk27046cr-deadline-pushed-2030-1494691",
       "pubDate": "Wed, 22 Jul 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/749440356_2047012102688673_5655553600672291243_n.png",
       "snippet": "The mega project began in September 2017 with a completion deadline of June 2022. The first revision extended the deadline until June 2026. Ecnec has now approved another four-year extension based on the actual progress of work and required modificat..."
-    },
-    {
-      "title": "High Court directs EC to register Bangladesh People's League in three months",
-      "link": "https://www.tbsnews.net/bangladesh/court/high-court-directs-ec-register-bangladesh-peoples-league-three-months-1494666",
-      "pubDate": "Wed, 22 Jul 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
-      "snippet": "The order was passed by a High Court bench of Justice Md Habibul Gani and Justice Syed Mohammad Tajrul Hossain."
     },
     {
       "title": "Gold prices rise again in Bangladesh within 24 hours",
@@ -241,17 +318,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/04/new_project_7_0.jpg",
       "snippet": "During the suspension, he will receive a subsistence allowance in accordance with Section 21(a) of the Bangladesh Bank Administrative Instructions, 2003."
-    },
-    {
-      "title": "NBR opens online income tax return filing for FY27, offers 5% early rebate",
-      "link": "https://www.tbsnews.net/nbr/nbr-launches-e-return-service-individual-taxpayers-fy2026-27-1494651",
-      "pubDate": "Wed, 22 Jul 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/10/nbr_1.jpg",
-      "snippet": "From the 2026-27 tax year, individual taxpayers who submit their returns between July and September will receive a 5% incentive on net tax payable, capped at Tk25,000"
     },
     {
       "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
@@ -659,29 +725,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/brac_university-measles.jpg",
       "snippet": "Prompt medical attention for every suspected measles case could significantly reduce complications and prevent unnecessary deaths among children, says Professor Dr Abid Hossain Molla."
-    },
-    {
-      "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
-      "link": "https://www.tbsnews.net/bangladesh/education/200-bagerhat-primary-schools-hold-classes-makeshift-sheds-abandoned-buildings",
-      "pubDate": "Sun, 19 Jul 2026 18:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bagerhat_primary_school.jpg",
-      "snippet": "50 schools in Bagerhat Sadar have no safe or permanent buildings."
-    },
-    {
-      "title": "20 July 2024: Killings in the dark and light",
-      "link": "https://www.tbsnews.net/features/panorama/20-july-2024-killings-dark-and-light-1492371",
-      "pubDate": "Sun, 19 Jul 2026 18:20:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/texas_by_tasfik_2_0.png",
-      "snippet": "The curfew was a day old; the internet, three days dead. Behind the blackout, the killing did not stop. And the country was left to carry a grief the government was trying to bury"
     }
   ],
-  "updatedAt": "2026-07-22T11:56:31.206Z"
+  "updatedAt": "2026-07-22T14:03:20.157Z"
 }
