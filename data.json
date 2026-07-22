@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Gas crisis stalls crores in investment, threatens industries, banks – experts warn",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-stalls-crores-investment-threatens-industries-banks-experts-warn",
+      "pubDate": "Thu, 23 Jul 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/gas_crisis.jpeg",
+      "snippet": "They call for urgent energy reforms."
+    },
+    {
+      "title": "Measles death toll crosses 800, experts blame vaccination gaps, weak response ",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-crosses-800-experts-blame-vaccination-gaps-weak-response",
+      "pubDate": "Thu, 23 Jul 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "Herd immunity not achieved as more than 40 lakh children remained unvaccinated."
+    },
+    {
       "title": "Experts seek stronger workplace safeguards through changes to labour rules",
       "link": "https://www.tbsnews.net/bangladesh/experts-seek-stronger-workplace-safeguards-through-changes-labour-rules-1495431",
       "pubDate": "Thu, 23 Jul 2026 00:15:00 +0600",
@@ -272,28 +294,17 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/lng_supply_1.jpg",
-      "snippet": "Gas supply cut hits households, industries"
-    },
-    {
-      "title": "Govt to retire three female cops over alleged misconduct during Khaleda’s arrest ",
-      "link": "https://www.tbsnews.net/bangladesh/3-women-cops-face-compulsory-retirement-over-misconduct-during-khaleda-zias-arrest",
-      "pubDate": "Wed, 22 Jul 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
-      "snippet": "Two of them \"dragged former three-time prime minister Begum Khaleda Zia out of her cantonment residence during the eviction.\""
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/p3_cng_crisis_mhn_8080.jpeg",
+      "snippet": "Gas supply cut hits households, industries."
     },
     {
       "title": "Govt to launch 'National Health Card' to eliminate healthcare inequality: Faqir Mahbub",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-launch-national-health-card-eliminate-healthcare-inequality-faqir-mahbub",
       "pubDate": "Wed, 22 Jul 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/minister_faqir_mahbub_anam_spoke_at_silk_road_forum_in_xian_china_on_national_health_card_and_ai-driven_healthcare.-converted-from-webp.jpeg",
       "snippet": "The proposed National Health Card will enable nationwide access to patients' medical records, helping improve healthcare access and reduce urban-rural disparities."
     },
@@ -782,5 +793,5 @@
       "snippet": "Economists warn geopolitical tensions and domestic constraints continue to weigh on economy"
     }
   ],
-  "updatedAt": "2026-07-22T19:19:14.158Z"
+  "updatedAt": "2026-07-22T20:38:03.591Z"
 }
