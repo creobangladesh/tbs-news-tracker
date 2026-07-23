@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "98.4% of mothers, children in Bangladesh lack health insurance: BBS",
+      "link": "https://www.tbsnews.net/bangladesh/health/984-mothers-children-bangladesh-lack-health-insurance-bbs-1496376",
+      "pubDate": "Fri, 24 Jul 2026 01:20:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/measles.jpeg",
+      "snippet": "The latest BBS MICS survey found that fewer than 2% of mothers and children in Bangladesh are covered by health insurance, highlighting the country's limited financial protection against healthcare costs."
+    },
+    {
+      "title": "BB governor urges new Al-Arafah Islami Bank board to step up loan recovery",
+      "link": "https://www.tbsnews.net/economy/banking/bb-governor-urges-new-al-arafah-islami-bank-board-step-loan-recovery-1496371",
+      "pubDate": "Fri, 24 Jul 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/12/bangladesh_bank_governor_mostaqur_rahman.png",
+      "snippet": "On 15 July, Bangladesh Bank restored the bank’s shareholder-directors to the board."
+    },
+    {
       "title": "3 of Bangladeshi family killed in Saudi road crash on way to Umrah",
       "link": "https://www.tbsnews.net/bangladesh/3-bangladeshi-family-killed-saudi-road-crash-way-umrah-1496361",
       "pubDate": "Fri, 24 Jul 2026 00:30:00 +0600",
@@ -12,7 +34,7 @@
       "snippet": "A Bangladeshi family travelling from Riyadh to Makkah to perform Umrah met with a fatal road accident after their car was reportedly struck from behind by a heavy vehicle."
     },
     {
-      "title": "Bangladesh president, backed by ousted PM Hasina, to resign on Friday: Reuters",
+      "title": "President Shahabuddin, former ally of ousted PM Hasina, to resign on Friday: Reuters",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-president-backed-ousted-pm-hasina-resign-friday-reuters-1496356",
       "pubDate": "Fri, 24 Jul 2026 00:10:00 +0600",
       "category": "Bangladesh",
@@ -155,7 +177,7 @@
       "snippet": "The speaker is expected to return from Thailand tomorrow (24 July), two days earlier than planned, amid speculation over President Mohammed Shahabuddin's possible resignation."
     },
     {
-      "title": "Long gas queues leave drivers stranded as LNG terminal fault cuts supply",
+      "title": "Hours lost in queues as gas crisis lingers",
       "link": "https://www.tbsnews.net/bangladesh/energy/long-gas-queues-leave-drivers-stranded-lng-terminal-fault-cuts-supply-1496216",
       "pubDate": "Thu, 23 Jul 2026 21:20:00 +0600",
       "category": "Bangladesh",
@@ -263,17 +285,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/cox_salahuddin_khosru.jpg",
       "snippet": "Home Minister Salahuddin Ahmed says a new master plan would be prepared based on the proposals submitted by the Ministry of Civil Aviation and Tourism."
-    },
-    {
-      "title": "Man gets life imprisonment for raping schoolgirl in Faridpur",
-      "link": "https://www.tbsnews.net/bangladesh/man-gets-life-imprisonment-raping-schoolgirl-faridpur-1496076",
-      "pubDate": "Thu, 23 Jul 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/750892992_1749398646305614_3065061806587372284_n.jpg",
-      "snippet": "The convict was also fined Tk1 lakh by a Faridpur court for assaulting the nine-year-old child in 2020."
     },
     {
       "title": "Trump’s UN wager and a global peace body losing its grip",
@@ -804,5 +815,5 @@
       "snippet": "The targets are outlined in the Country Programme Document 2026-2031, prepared by the commerce ministry with financial support from the World Trade Organisation (WTO)."
     }
   ],
-  "updatedAt": "2026-07-23T19:18:41.973Z"
+  "updatedAt": "2026-07-23T20:35:36.077Z"
 }
