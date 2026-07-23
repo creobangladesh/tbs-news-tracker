@@ -1,6 +1,160 @@
 {
   "news": [
     {
+      "title": "InterContinental Dhaka to host two-day wedding festival",
+      "link": "https://www.tbsnews.net/bangladesh/intercontinental-dhaka-host-two-day-wedding-festival-1495616",
+      "pubDate": "Thu, 23 Jul 2026 13:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/753702028_970888039325346_4906646097889108346_n.jpg",
+      "snippet": "The two-day festival will take place on 31 July and 1 August at the hotel’s Rupashi Bangla Grand Ballroom and Winter Garden."
+    },
+    {
+      "title": "Govt moves to bring ETPs online to curb Buriganga pollution",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-bring-etps-online-curb-buriganga-pollution-1495611",
+      "pubDate": "Thu, 23 Jul 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/1b2671b1-c523-4afa-87aa-0475f0028764.jpg",
+      "snippet": "Besides, the Bangladesh Inland Water Transport Authority (BIWTA) is carrying out regular dredging operations to increase the river's navigability by removing polluted sediment."
+    },
+    {
+      "title": "PM joins FICCI FDI Conference  amid efforts to improve investment climate",
+      "link": "https://www.tbsnews.net/bangladesh/pm-joins-ficci-fdi-conference-amid-efforts-improve-investment-climate-1495591",
+      "pubDate": "Thu, 23 Jul 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/2146226.jpg",
+      "snippet": "According to the organisers, closer engagement between investors and policymakers has become increasingly important as the country seeks to strengthen its investment climate and sustain economic growth in the post-LDC graduation period."
+    },
+    {
+      "title": "Chattogram freight transport leaders seek advance income tax withdrawal",
+      "link": "https://www.tbsnews.net/bangladesh/chattogram-freight-transport-leaders-seek-advance-income-tax-withdrawal-1495586",
+      "pubDate": "Thu, 23 Jul 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/1000300325.jpg",
+      "snippet": "Following the introduction of the council’s newly formed committee, its leaders placed an eight-point demand and submitted a memorandum to the chief adviser through journalists."
+    },
+    {
+      "title": "Cataract-related blindness could be eliminated in 5 years: MA Muhit",
+      "link": "https://www.tbsnews.net/bangladesh/cataract-related-blindness-could-be-eliminated-5-years-ma-muhit-1495571",
+      "pubDate": "Thu, 23 Jul 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/received_2087370361842280.jpeg",
+      "snippet": "He also highlighted the importance of using artificial intelligence and modern technology to deliver high-tech ophthalmic care to marginalised and economically disadvantaged communities as a fundamental civic right."
+    },
+    {
+      "title": "Bangladesh achieves first ventilator-assisted brainstem glioma radiotherapy success",
+      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-achieves-first-ventilator-assisted-brainstem-glioma-radiotherapy",
+      "pubDate": "Thu, 23 Jul 2026 12:30:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/evercare_ctg.jpg",
+      "snippet": "Delivering 30 radiotherapy sessions to a critically ill patient on mechanical ventilation marked a milestone for cancer care in Bangladesh."
+    },
+    {
+      "title": "Google Q2 revenue tops expectations as AI, ads drive strong growth",
+      "link": "https://www.tbsnews.net/tech/google-q2-revenue-tops-expectations-ai-ads-drive-strong-growth-1495566",
+      "pubDate": "Thu, 23 Jul 2026 12:30:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/google.jpg",
+      "snippet": "“Our AI investments are redefining what’s possible across every part of our business,” Alphabet CEO Sundar Pichai said in a statement."
+    },
+    {
+      "title": "KU students lock admin building, halt classes over hidden camera allegation in women's dorm washroom",
+      "link": "https://www.tbsnews.net/bangladesh/ku-students-lock-admin-building-halt-classes-over-hidden-camera-allegation-womens-dorm",
+      "pubDate": "Thu, 23 Jul 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
+      "snippet": "The protest followed an incident last night when students of Bijoy '24 Hall found a mobile phone set hidden inside a washroom in a female dormitory."
+    },
+    {
+      "title": "Rain likely across country, heavy falls forecast in four divisions",
+      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-across-country-heavy-falls-forecast-four-divisions-1495556",
+      "pubDate": "Thu, 23 Jul 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/rain.jpg",
+      "snippet": "The Met Office also predicted heavy to very heavy rainfall at places in Dhaka, Khulna, Barishal and Chattogram divisions."
+    },
+    {
+      "title": "EC drafts new UP polls code with AI curbs, stricter campaign rules",
+      "link": "https://www.tbsnews.net/bangladesh/ec-drafts-new-polls-code-ai-curbs-stricter-campaign-rules-1495526",
+      "pubDate": "Thu, 23 Jul 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/30/election_commission_6.jpg",
+      "snippet": "EC has formally allowed election campaigns through digital and social media, subject to a series of restrictions."
+    },
+    {
+      "title": "PM confers Vice Admiral rank badge on newly appointed Navy chief",
+      "link": "https://www.tbsnews.net/bangladesh/pm-confers-vice-admiral-rank-badge-newly-appointed-navy-chief-1495536",
+      "pubDate": "Thu, 23 Jul 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/6759218.jpg",
+      "snippet": "Tarique Rahman congratulated the new Navy Chief on his appointment, as stated in a press release issued by the Prime Minister's press wing."
+    },
+    {
+      "title": "Khalilur holds bilateral talks with Jaishankar at Asean forum ",
+      "link": "https://www.tbsnews.net/foreign-policy/khalilur-holds-bilateral-talks-jaishankar-asean-forum-1495521",
+      "pubDate": "Thu, 23 Jul 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/752177838_2197814147667923_7800237655736987732_n.jpg",
+      "snippet": "The meeting took place on the sidelines of the ASEAN Regional Forum in Manila as India stepped up diplomatic engagements with regional and global partners."
+    },
+    {
+      "title": "Zia assassination convict Mozzaffar produced before ICT in July Uprising case",
+      "link": "https://www.tbsnews.net/bangladesh/court/zia-assassination-convict-mozzaffar-produced-ict-july-uprising-case-1495511",
+      "pubDate": "Thu, 23 Jul 2026 11:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/received_4382002078725846.jpeg",
+      "snippet": "The prosecution is expected to submit an application seeking permission to show him arrested in the case and for questioning."
+    },
+    {
+      "title": "Is President Shahabuddin set to resign? ",
+      "link": "https://www.tbsnews.net/bangladesh/president-shahabuddin-set-resign-1495506",
+      "pubDate": "Thu, 23 Jul 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/president_shahabuddin_bss_1.jpg",
+      "snippet": "A senior BNP leader said the president's expected resignation would send a clear message that the government continues to monitor developments closely and will take a firm stance against activities that could undermine law and order"
+    },
+    {
       "title": "Beximco refuses to mortgage land, putting Tk3,000cr Sukuk at risk as maturity nears",
       "link": "https://www.tbsnews.net/bangladesh/beximco-refuses-mortgage-land-putting-tk3000cr-sukuk-risk-maturity-nears-1495496",
       "pubDate": "Thu, 23 Jul 2026 10:35:00 +0600",
@@ -8,7 +162,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/15/beximco-logo-tbs.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/beximco_2.png",
       "snippet": "The proposals were outlined in a report submitted by the ICB to the Bangladesh Securities and Exchange Commission on 30 June after Beximco declined to execute a mortgage deed over land associated with its solar projects."
     },
     {
@@ -133,94 +287,6 @@
       "snippet": "A country's democracy and state system become truly strong only when its local government system is effective and empowered, he says."
     },
     {
-      "title": "Former Atab leaders’ candidacy reinstated, voter list found flawed",
-      "link": "https://www.tbsnews.net/bangladesh/former-atab-leaders-candidacy-reinstated-voter-list-found-flawed-1495331",
-      "pubDate": "Wed, 22 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/13/atab.jpg",
-      "snippet": "FBCCI tribunal also identified significant procedural irregularities in the Appeal Board's handling of the nomination appeals."
-    },
-    {
-      "title": "From his father's funeral to the exam hall: Ekon's fight to keep going",
-      "link": "https://www.tbsnews.net/bangladesh/his-fathers-funeral-exam-hall-ekons-fight-keep-going-1495326",
-      "pubDate": "Wed, 22 Jul 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/5067cb74-f403-40aa-bb39-1d270fa20984.jpg",
-      "snippet": "He buried his father, worked the night shift, then sat for the HSC exam."
-    },
-    {
-      "title": "Cabinet body okays shorter period for fertiliser raw material imports",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-body-okays-shorter-period-fertiliser-raw-material-imports-1495321",
-      "pubDate": "Wed, 22 Jul 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
-      "snippet": "Committee endorses urgent procurement and infrastructure proposals in principle."
-    },
-    {
-      "title": "Man gets life in prison for raping minor girl in Chandpur",
-      "link": "https://www.tbsnews.net/bangladesh/man-gets-life-prison-raping-minor-girl-chandpur-1495291",
-      "pubDate": "Wed, 22 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/man_imprisoned_for_raping_minor_girl_in_chandpur-converted-from-webp.jpeg",
-      "snippet": "The tribunal also fined the convict Tk50,000 after finding him guilty in a case filed over the 2021 assault."
-    },
-    {
-      "title": "Tarique against any govt role in housing business, backs PPP model",
-      "link": "https://www.tbsnews.net/bangladesh/pm-opposes-government-role-housing-business-backs-ppp-model-1495301",
-      "pubDate": "Wed, 22 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/pm_rehab_meeting_22july.jpg",
-      "snippet": "Describing the housing industry as a key driver of the national economy, the prime minister said its sustainable development is essential for Bangladesh's broader economic progress."
-    },
-    {
-      "title": "Cabinet committee green lights Tk220cr projects for Rohingya livelihoods, Bhasan Char solar plant",
-      "link": "https://www.tbsnews.net/bangladesh/ccgp-gives-go-ahead-tk-220cr-projects-rohingya-livelihoods-bhasan-char-solar-plant",
-      "pubDate": "Wed, 22 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/rohinga_crisis.jpg",
-      "snippet": "Two projects secure funding for refugee support and island power infrastructure."
-    },
-    {
-      "title": "EC targets Oct for 1st phase of local govt polls, schedule in Aug",
-      "link": "https://www.tbsnews.net/bangladesh/ec-targets-oct-1st-phase-local-govt-polls-schedule-aug-1495286",
-      "pubDate": "Wed, 22 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/election_commission_img.jpg",
-      "snippet": "The commissioner said the EC is yet decide how many phases the elections will be accomplished, however aims to complete within the shortest possible time."
-    },
-    {
-      "title": "Satkhira-4 MP Nazrul among 5 sued over attempted murder of ex-driver; 1 arrested",
-      "link": "https://www.tbsnews.net/bangladesh/crime/satkhira-4-mp-nazrul-among-5-sued-over-attempted-murder-ex-driver-1-arrested",
-      "pubDate": "Wed, 22 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/gazi_nazrul_islam.png",
-      "snippet": "The driver alleged he was attacked after he protested against the MP’s alleged extramarital affair and over suspicion that he leaked the videos that went viral."
-    },
-    {
       "title": "Late-session sell-off drags DSEX as insurance margin row rattles investors",
       "link": "https://www.tbsnews.net/economy/stocks/late-session-sell-drags-dsex-insurance-margin-row-rattles-investors-1495276",
       "pubDate": "Wed, 22 Jul 2026 20:40:00 +0600",
@@ -230,17 +296,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
       "snippet": "Margin lending debate and global tensions dent confidence on Dhaka bourse."
-    },
-    {
-      "title": "Port Protection Committee stages torch procession against leasing Ctg Port terminals",
-      "link": "https://www.tbsnews.net/bangladesh/port-protection-committee-stages-torch-procession-against-leasing-ctg-port-terminals",
-      "pubDate": "Wed, 22 Jul 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/ctg_port_torch_procession.jpeg",
-      "snippet": "Speakers at the rally described Chattogram Port as a strategic national asset vital to the country’s economy and national security."
     },
     {
       "title": "PM assures businesses of improving energy supply within a year",
@@ -274,39 +329,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/jamuna_bank.png",
       "snippet": "During the first half, its consolidated earnings per share stood at Tk4.03, which was Tk3.31 a year ago."
-    },
-    {
-      "title": "Ctg Chamber seeks tighter security after piracy incidents at port anchorage",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-chamber-seeks-tighter-security-after-piracy-incidents-port-anchorage-1495211",
-      "pubDate": "Wed, 22 Jul 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
-      "snippet": "The chamber says continued security lapses at the country’s main seaport could damage Bangladesh’s reputation and make international trade more expensive."
-    },
-    {
-      "title": "Bangladesh condemns Houthi naval blockade against Saudi Arabia",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-condemns-houthi-naval-blockade-against-saudi-arabia-1495216",
-      "pubDate": "Wed, 22 Jul 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/ministry_of_foreign_affairs.jpg",
-      "snippet": "The Foreign Ministry said any disruption to shipping in the Red Sea could have serious economic consequences and urges all parties to pursue dialogue."
-    },
-    {
-      "title": "Rupali Bank incurs Tk640cr loss in H1",
-      "link": "https://www.tbsnews.net/economy/stocks/rupali-bank-incurs-tk640cr-loss-h1-1495221",
-      "pubDate": "Wed, 22 Jul 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/05/rupali_bank.jpg",
-      "snippet": "The bank says the substantial loss was primarily driven by a decline in interest income alongside a sharp increase in borrowing costs."
     },
     {
       "title": "Govt to launch 'National Health Card' to eliminate healthcare inequality: Faqir Mahbub",
@@ -736,51 +758,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae_1_0.png",
       "snippet": "The UAE central bank imposed restrictions on Janata Bank’s operations over a capital shortfall and ordered the bank to prepare for a wind-down of its existing operations unless the deficit is addressed."
-    },
-    {
-      "title": "Mortgage valuation disputes stall recovery of Tk85,000cr in default loans",
-      "link": "https://www.tbsnews.net/economy/banking/mortgage-valuation-disputes-stall-recovery-tk85000cr-default-loans-1492866",
-      "pubDate": "Mon, 20 Jul 2026 13:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
-      "snippet": "More than 2,150 writ petitions filed with the High Court in just over five years"
-    },
-    {
-      "title": "Public health risks rise after flood damages thousands of tube wells, toilets in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/health/public-health-risks-rise-after-flood-damage-thousands-tube-wells-toilets-ctg",
-      "pubDate": "Mon, 20 Jul 2026 12:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/740812294_939952482443947_516526457937535675_n.jpg",
-      "snippet": "According to the Civil Surgeon Office, 112 medical camps and 32 mobile medical teams treated 45,200 flood-affected people"
-    },
-    {
-      "title": "ADB warns Bangladeshis against fake loan scams using its name",
-      "link": "https://www.tbsnews.net/economy/banking/adb-warns-bangladeshis-against-fake-loan-scams-using-its-name-1492881",
-      "pubDate": "Mon, 20 Jul 2026 11:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/11/asian_development_bank_adb.jpg",
-      "snippet": "In a statement, ADB said it does not request personal financial information or ask for payments through mobile banking or any other channel in exchange for financial assistance."
-    },
-    {
-      "title": "From Gaza to the far-right, UK’s new PM faces major hurdles",
-      "link": "https://www.tbsnews.net/thoughts/gaza-far-right-uks-new-pm-faces-major-hurdles-1492836",
-      "pubDate": "Mon, 20 Jul 2026 11:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/burnham.jpg",
-      "snippet": "Andy Burnham takes over as UK prime minister amid Labour’s deep political turmoil, facing immediate challenges from public discontent, a resurgent opposition, and questions over his mandate"
     }
   ],
-  "updatedAt": "2026-07-23T04:50:56.765Z"
+  "updatedAt": "2026-07-23T07:32:38.494Z"
 }
