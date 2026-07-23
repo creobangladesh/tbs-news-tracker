@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Bangladesh needs $15b annual FDI by 2030 to sustain growth: Ficci",
+      "link": "https://www.tbsnews.net/economy/bangladesh-needs-15b-annual-fdi-2030-sustain-growth-ficci-1496336",
+      "pubDate": "Thu, 23 Jul 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
+      "snippet": "PM invites global investors to partner in Bangladesh’s economic transformation."
+    },
+    {
       "title": "PRI proposes inclusive system to unify digital payments, cut remittance costs",
       "link": "https://www.tbsnews.net/economy/pri-proposes-inclusive-system-unify-digital-payments-cut-remittance-costs-1496306",
       "pubDate": "Thu, 23 Jul 2026 22:10:00 +0600",
@@ -12,7 +23,7 @@
       "snippet": "According to the study, the system would be built on the open-source Mojaloop platform to enable instant, low-cost and interoperable transactions across banks, mobile financial service providers and other financial institutions."
     },
     {
-      "title": "12 police officers transferred, including seven Addl SPs and five ASPs",
+      "title": "12 police officers transferred, including 7 Addl SPs and 5 ASPs",
       "link": "https://www.tbsnews.net/bangladesh/12-police-officers-transferred-including-seven-addl-sps-and-five-asps-1496291",
       "pubDate": "Thu, 23 Jul 2026 22:05:00 +0600",
       "category": "Bangladesh",
@@ -254,18 +265,7 @@
       "snippet": "Gianni Infantino’s sudden emergence in the race to succeed António Guterres is more than a political curiosity. It is a sign of an international system in which influence, access and personal loyalty increasingly compete with diplomatic experience an..."
     },
     {
-      "title": "Budget success depends on effective implementation: Finance minister",
-      "link": "https://www.tbsnews.net/bangladesh/budget-success-depends-effective-implementation-finance-minister-1496006",
-      "pubDate": "Thu, 23 Jul 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/finance_minister_1.jpg",
-      "snippet": "The negative perception about bureaucracy among the public needs to be changed through efficient and people-oriented service delivery, he says."
-    },
-    {
-      "title": "Cenbank issues master circular on EDF, tightens eligibility for overdue borrowers",
+      "title": "Cenbank tightens EDF eligibility for overdue borrowers",
       "link": "https://www.tbsnews.net/economy/cenbank-issues-master-circular-edf-tightens-eligibility-overdue-borrowers-1495966",
       "pubDate": "Thu, 23 Jul 2026 18:05:00 +0600",
       "category": "Economy",
@@ -364,15 +364,15 @@
       "snippet": "“Our AI investments are redefining what’s possible across every part of our business,” Alphabet CEO Sundar Pichai said in a statement."
     },
     {
-      "title": "Pubali Bank to acquire Bengal Group's 26-storey Swiss Tower for Tk800cr  ",
-      "link": "https://www.tbsnews.net/economy/stocks/pubali-bank-acquire-bengal-groups-26-storey-swiss-tower-tk800cr-1495481",
+      "title": "Pubali Bank to buy troubled Bengal Group's 26-storey Swissôtel building for Tk800cr",
+      "link": "https://www.tbsnews.net/economy/banking/pubali-bank-buy-troubled-bengal-groups-26-storey-swissotel-building-tk800cr-1495481",
       "pubDate": "Thu, 23 Jul 2026 09:25:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/bengal.jpg",
-      "snippet": "According to the bank, the property is located at 208, Tejgaon Gulshan Link Road. The transaction remains subject to approval from Bangladesh Bank and other relevant regulatory authorities."
+      "snippet": "Lender plans to relocate its head office; Bengal Group expects the sale to ease its financial strain."
     },
     {
       "title": "Measles death toll crosses 800, experts blame vaccination gaps, weak response ",
@@ -793,5 +793,5 @@
       "snippet": "Several commercial banks purchased remittance dollars from exchange houses yesterday at Tk123.75 per dollar, about 10 paisa higher than in early July."
     }
   ],
-  "updatedAt": "2026-07-23T16:26:02.384Z"
+  "updatedAt": "2026-07-23T17:55:28.513Z"
 }
