@@ -1,6 +1,182 @@
 {
   "news": [
     {
+      "title": "Chinese ambassador calls on BB Governor; talks focus on trade, investment and digital payment",
+      "link": "https://www.tbsnews.net/bangladesh/chinese-ambassador-calls-bb-governor-talks-focus-trade-investment-and-digital-payment",
+      "pubDate": "Thu, 23 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/chinese_envoy_meeting_with_bb_governor_23july.jpg",
+      "snippet": "During the meeting, both sides exchanged views on further strengthening bilateral economic and trade relations between Bangladesh and China."
+    },
+    {
+      "title": "Rail blockade by RU students causes Tk35 lakh revenue loss: Railway",
+      "link": "https://www.tbsnews.net/bangladesh/rail-blockade-ru-students-causes-tk35-lakh-revenue-loss-railway-1496116",
+      "pubDate": "Thu, 23 Jul 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/06/bangladesh_railway_0.png",
+      "snippet": "Bangladesh Railway apologised for passenger suffering, saying around 20,000 travellers were affected due to the blockade."
+    },
+    {
+      "title": "Cabinet clears law to establish Bogura Development Authority",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-clears-law-establish-bogura-development-authority-1496121",
+      "pubDate": "Thu, 23 Jul 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/prime_minister_tarique_rahman_chairs_the_14th_meeting_of_the_current_cabinet_at_the_secretariat_today_23_july._photo_pid.png",
+      "snippet": "According to the proposed law, a statutory body named “Bogura Development Authority” will be established, comprised of a chairman, full-time members and representatives from various agencies. Its jurisdiction will cover Bogura City Corporation and ad..."
+    },
+    {
+      "title": "3 remanded over alleged proxy recruitment scam at public administration ministry",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-remanded-over-alleged-proxy-recruitment-scam-public-administration-ministry",
+      "pubDate": "Thu, 23 Jul 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/751134556_1704022707490695_1970173874201534630_n_0.jpg",
+      "snippet": "Investigators allege the suspects tried to secure office assistant jobs by using proxy candidates to sit the recruitment examinations on their behalf."
+    },
+    {
+      "title": "Dengue death toll reaches 39 as 1 more patient dies in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-39-one-more-patient-dies-24hrs-1496101",
+      "pubDate": "Thu, 23 Jul 2026 20:00:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
+      "snippet": "450 new patients were admitted to hospitals across the country"
+    },
+    {
+      "title": "New master plan on the cards to transform Cox's Bazar into modern tourism hub",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-new-master-plan-transform-coxs-bazar-modern-tourism-hub-1496091",
+      "pubDate": "Thu, 23 Jul 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/cox_salahuddin_khosru.jpg",
+      "snippet": "Home Minister Salahuddin Ahmed says a new master plan would be prepared based on the proposals submitted by the Ministry of Civil Aviation and Tourism."
+    },
+    {
+      "title": "Man gets life imprisonment for raping schoolgirl in Faridpur",
+      "link": "https://www.tbsnews.net/bangladesh/man-gets-life-imprisonment-raping-schoolgirl-faridpur-1496076",
+      "pubDate": "Thu, 23 Jul 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/750892992_1749398646305614_3065061806587372284_n.jpg",
+      "snippet": "The convict was also fined Tk1 lakh by a Faridpur court for assaulting the nine-year-old child in 2020."
+    },
+    {
+      "title": "Man sentenced to death for rape, murder of 9-year-old in Cumilla",
+      "link": "https://www.tbsnews.net/bangladesh/court/man-sentenced-death-rape-murder-9-year-old-cumilla-1496071",
+      "pubDate": "Thu, 23 Jul 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/67566df0-8221-4f8c-a13a-2e68303cb56d.jpg",
+      "snippet": "The trial concluded in 19 working days, with the convict having confessed to the rape and murder in a statement before a magistrate."
+    },
+    {
+      "title": "State minister asks BIWTA to step up revenue drive, improve services",
+      "link": "https://www.tbsnews.net/bangladesh/state-minister-asks-biwta-step-revenue-drive-improve-services-1496066",
+      "pubDate": "Thu, 23 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/d34f49de-288a-4de7-9f36-5fce6f3dfb91.png",
+      "snippet": "Razib Ahsan also instructed BIWTA to introduce phased automation of cargo loading and unloading at river ports, strengthen coordination with relevant stakeholders to improve vessel safety, and identify new sources of revenue for the Port Division."
+    },
+    {
+      "title": "6,165 candidates pass 50th BCS written test",
+      "link": "https://www.tbsnews.net/bangladesh/6165-candidates-pass-50th-bcs-written-test-1496051",
+      "pubDate": "Thu, 23 Jul 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/01/bpsc-dailybangladesh-2202090616.jpg",
+      "snippet": "The written examination was held from 9 April to 7 May in Dhaka and seven other divisional cities."
+    },
+    {
+      "title": "Trump’s UN wager and a global peace body losing its grip",
+      "link": "https://www.tbsnews.net/features/big-picture/trumps-un-wager-and-global-peace-body-losing-its-grip-1496046",
+      "pubDate": "Thu, 23 Jul 2026 18:25:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/169_2.png",
+      "snippet": "Gianni Infantino’s sudden emergence in the race to succeed António Guterres is more than a political curiosity. It is a sign of an international system in which influence, access and personal loyalty increasingly compete with diplomatic experience an..."
+    },
+    {
+      "title": "Budget success depends on effective implementation: Finance minister",
+      "link": "https://www.tbsnews.net/bangladesh/budget-success-depends-effective-implementation-finance-minister-1496006",
+      "pubDate": "Thu, 23 Jul 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/finance_minister_1.jpg",
+      "snippet": "The negative perception about bureaucracy among the public needs to be changed through efficient and people-oriented service delivery, he says."
+    },
+    {
+      "title": "Dhaka eyes deeper ties with Washington with Special Envoy Sergio Gor's planned visit",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-eyes-deeper-ties-washington-special-envoy-sergio-gors-planned-visit-1496011",
+      "pubDate": "Thu, 23 Jul 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ee01a68b-ebb1-49ef-98e0-6e15c5361298.jpg",
+      "snippet": "Sergio Gor is likely to arrive in Dhaka on July 30 on a three-day visit, a diplomatic source told UNB, noting that he will try to understand Bangladesh's foreign policy priorities."
+    },
+    {
+      "title": "Jamaat notifies EC, speaker about Satkhira-4 MP Nazrul's expulsion, seeks steps",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-notifies-ec-speaker-about-satkhira-4-mp-nazruls-expulsion-seeks-steps-1496061",
+      "pubDate": "Thu, 23 Jul 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/jamaat_mp_gazi_nazrul_0.jpg",
+      "snippet": "The party says the expelled lawmaker no longer qualifies to remain an MP under the Constitution and the Representation of the People Order following findings of moral turpitude."
+    },
+    {
+      "title": "Cenbank issues master circular on EDF, tightens eligibility for overdue borrowers",
+      "link": "https://www.tbsnews.net/economy/cenbank-issues-master-circular-edf-tightens-eligibility-overdue-borrowers-1495966",
+      "pubDate": "Thu, 23 Jul 2026 18:05:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
+      "snippet": "Manufacturer-exporters who settled EDF liabilities through funded facilities will remain ineligible for fresh loans until their overdue export proceeds are repatriated or exempted by the Discount Committee."
+    },
+    {
+      "title": "Ministry warns against fake Facebook accounts impersonating Info Minister Swapon",
+      "link": "https://www.tbsnews.net/bangladesh/ministry-warns-against-fake-facebook-accounts-impersonating-info-minister-swapon-1495951",
+      "pubDate": "Thu, 23 Jul 2026 18:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ministry_warns_against_fake_facebook_accounts_impersonating_info_minister_swapon-converted-from-webp.jpeg",
+      "snippet": "It also called on them to report such accounts to the authorities concerned."
+    },
+    {
       "title": "24 July 2024: When fear became routine",
       "link": "https://www.tbsnews.net/features/panorama/24-july-2024-when-fear-became-routine-1495936",
       "pubDate": "Thu, 23 Jul 2026 17:55:00 +0600",
@@ -10,6 +186,17 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/20240722_rajibdhar_9657.jpg",
       "snippet": "While victims continued to die from their injuries, security operations expanded, offices resumed under curfew restrictions, and the return of internet connectivity began to reveal the scale of the massacre"
+    },
+    {
+      "title": "Probes into July Uprising crimes may finish within a year: ICT chief prosecutor",
+      "link": "https://www.tbsnews.net/bangladesh/court/probes-july-uprising-crimes-may-finish-within-year-ict-chief-prosecutor-1495956",
+      "pubDate": "Thu, 23 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/aminul_islam_img.jpg",
+      "snippet": "The ICT is prioritising investigations into the July Uprising killings as it works to bring those responsible to justice, says the chief prosecutor."
     },
     {
       "title": "Khalilur seeks Singapore support for Asean, RCEP aspirations",
@@ -78,158 +265,26 @@
       "snippet": "The celebrations will feature exhibitions, live cooking shows and other events across the country to promote Bangladesh’s tourism, culture and culinary heritage."
     },
     {
-      "title": "No villager should die for lack of treatment: Dr Zubaida",
-      "link": "https://www.tbsnews.net/bangladesh/no-villager-should-die-lack-treatment-dr-zubaida-1495861",
-      "pubDate": "Thu, 23 Jul 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/01/zubaida_rahman.jpg",
-      "snippet": "Bangladesh currently has only 0.83 physicians per 1,000 people, meaning one doctor often has to serve between 1,200 and 1,800 patients, with the situation being even worse in rural areas."
-    },
-    {
-      "title": "Child rape-murder suspect assaulted again at Sylhet court premises ",
-      "link": "https://www.tbsnews.net/bangladesh/child-rape-murder-suspect-assaulted-again-sylhet-court-premises-1495851",
-      "pubDate": "Thu, 23 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/752786491_2499232093892311_2091647447641517133_n_1.jpg",
-      "snippet": "The incident occurred around 10am when police brought 30-year-old Zakir Hossain from Sylhet Central Jail to the Sylhet Women and Children Repression Prevention Tribunal in a prison van."
-    },
-    {
       "title": "UGC unveils draft five-year higher education reform plan",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-unveils-draft-five-year-higher-education-reform-plan-1495856",
       "pubDate": "Thu, 23 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
       "snippet": "The draft strategy for 2026-2030 outlines priorities including improving graduate employability, strengthening university-industry links, advancing digital transformation and attracting international students."
-    },
-    {
-      "title": "EC awaits parliament reference before acting on expelled Jamaat MP",
-      "link": "https://www.tbsnews.net/bangladesh/ec-awaits-parliament-reference-acting-expelled-jamaat-mp-1495836",
-      "pubDate": "Thu, 23 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/22/ec-masud.jpg",
-      "snippet": "The election commissioner said the EC has not yet received any reference from Parliament in this regard."
-    },
-    {
-      "title": "Ctg NCP leader arrested in rape case over promise of marriage",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-ncp-leader-arrested-rape-case-filed-promise-marriage-1495826",
-      "pubDate": "Thu, 23 Jul 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/23/arrest-tbs.jpg",
-      "snippet": "The complainant, an HSC second-year student, alleged that the accused raped her after promising marriage and later cut off communication."
-    },
-    {
-      "title": "After years of neglect, rescued elephant Badsha Bahadur gets a second chance",
-      "link": "https://www.tbsnews.net/bangladesh/after-years-neglect-rescued-elephant-badsha-bahadur-gets-second-chance-1495841",
-      "pubDate": "Thu, 23 Jul 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/a9d494ae-7c4c-4739-9197-dfd52b17b671.jpg",
-      "snippet": "After spending decades performing in circuses, his health deteriorated significantly due to age and prolonged neglect."
-    },
-    {
-      "title": "Govt extends passport issue, re-issue timeframe for expatriates till Dec 31",
-      "link": "https://www.tbsnews.net/bangladesh/govt-extends-passport-issue-re-issue-timeframe-expatriates-till-dec-31-1495801",
-      "pubDate": "Thu, 23 Jul 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/homemini.jpg",
-      "snippet": "“This special privilege according to the new decision will be effective till December 31”, said a notification issued by the Ministry of Home Affairs on Tuesday (21 July)."
-    },
-    {
-      "title": "Ex-JCD leader stabbed dead in Bogura",
-      "link": "https://www.tbsnews.net/bangladesh/crime/ex-jcd-leader-stabbed-dead-bogura-1495821",
-      "pubDate": "Thu, 23 Jul 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/unb.jpg",
-      "snippet": "Police said Atiqur Rahman Sagor was fatally stabbed in an alleged attack by rivals in Bogura early Thursday and efforts are underway to arrest those involved."
-    },
-    {
-      "title": "Exim Bank ex-chairman Nazrul denied bail in Tk857 crore embezzlement case",
-      "link": "https://www.tbsnews.net/bangladesh/court/exim-bank-ex-chairman-nazrul-denied-bail-tk857-crore-embezzlement-case-1495786",
-      "pubDate": "Thu, 23 Jul 2026 16:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/nazrul_nassa.png",
-      "snippet": "Dhaka Metropolitan Senior Special Judge Md Shahjahan Kabir passed the order after hearing arguments from both sides, confirmed ACC lawyer Tarikul Islam."
-    },
-    {
-      "title": "Govt sends 17 senior police officials into compulsory retirement",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/govt-sends-17-senior-police-officials-compulsory-retirement-1495781",
-      "pubDate": "Thu, 23 Jul 2026 16:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/1a100ef7-3cb0-4195-bd40-300e0e8e87d2.jpg",
-      "snippet": "The retired officials include DIGs, additional DIGs, a joint police commissioner and a police superintendent serving in various police units."
-    },
-    {
-      "title": "Mother, daughter among 3 British-Bangladeshis drown in UK beach",
-      "link": "https://www.tbsnews.net/bangladesh/mother-daughter-among-3-british-bangladeshis-drown-uk-beach-1495846",
-      "pubDate": "Thu, 23 Jul 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/15db0e41-b47b-474b-a06b-178dbab16d1a.jpg",
-      "snippet": "Family member said no decision has yet been made on whether the bodies will be brought back to Bangladesh for burial."
     },
     {
       "title": "Measles: Death toll rises to 805 as 2 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/death-toll-rises-805-2-more-children-die-24hrs-1495776",
       "pubDate": "Thu, 23 Jul 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
       "snippet": "The number of suspected measles deaths has risen to 710, while laboratory-confirmed deaths now stand at 95."
-    },
-    {
-      "title": "Govt unaware of any decision by president to resign: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-unaware-any-decision-president-resign-home-minister-1495761",
-      "pubDate": "Thu, 23 Jul 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/26/img-20240926-wa0012.jpg",
-      "snippet": "According to Salahuddin Ahmed, claims of President Mohammed Shahabuddin resigning are unconfirmed rumours without official verification."
-    },
-    {
-      "title": "TIB report on rising crime in capital does not match police data: DMP commissioner",
-      "link": "https://www.tbsnews.net/bangladesh/crime/tib-report-rising-crime-capital-does-not-match-police-data-dmp-commissioner-1495766",
-      "pubDate": "Thu, 23 Jul 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/mosleh_uddin.jpg",
-      "snippet": "He said police presence had been increased in crime-prone areas."
     },
     {
       "title": "HSC exams under Ctg board to resume 27 July",
@@ -240,7 +295,7 @@
       "bg": "#fff3e0",
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/06/whatsapp_image_2022-11-06_at_11.47.22_am.jpeg",
-      "snippet": "Remaining examinations under the Chattogram Education Board, as well as Madrasah and Technical Education Boards in its jurisdiction, will continue as per the existing schedule, while postponed papers will be rescheduled later."
+      "snippet": "In a press release issued today, a revised schedule for the examinations postponed due to flooding will be announced separately."
     },
     {
       "title": "CPA seeks details of rain-damaged cargo after rejecting liability claims",
@@ -725,51 +780,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
       "snippet": "However, the blue-chip DS30 index edged down slightly to 2,208 points, reflecting a selective approach by investors who preferred to stay on the sidelines ahead of potential regulatory shifts."
-    },
-    {
-      "title": "DSHE directs all schools, colleges to form sports committees for PM's Gold Cup Football 2026",
-      "link": "https://www.tbsnews.net/bangladesh/education/dshe-directs-all-schools-colleges-form-sports-committees-pms-gold-cup-football",
-      "pubDate": "Mon, 20 Jul 2026 18:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/30/dshe.jpg",
-      "snippet": "The committees will be responsible for overseeing preparations and related activities for the tournament."
-    },
-    {
-      "title": "The silent return of a killer: Bangladesh's measles crisis",
-      "link": "https://www.tbsnews.net/thoughts/silent-return-killer-bangladeshs-measles-crisis-1493286",
-      "pubDate": "Mon, 20 Jul 2026 18:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/photo-2026-07-13-11-21-49.jpg",
-      "snippet": "Bangladesh once nearly eliminated measles. Now it faces one of its deadliest outbreaks in decades — 100,000+ cases, over 700 dead, mostly children too young to be vaccinated."
-    },
-    {
-      "title": "GDP growth slows to 2.22% in Q3 of FY26",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-q3-gdp-growth-slows-222-fy26-1493291",
-      "pubDate": "Mon, 20 Jul 2026 18:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/03/gdp-ezgif.com-webp-to-jpg-converter.jpg",
-      "snippet": "The latest quarterly national accounts show broad-based weakness across the economy during the January-March period."
-    },
-    {
-      "title": "Poverty Rising in Bangladesh: Growth, Inequality, and the Struggle to Sustain Progress",
-      "link": "https://www.tbsnews.net/thoughts/poverty-rising-bangladesh-growth-inequality-and-struggle-sustain-progress-1493241",
-      "pubDate": "Mon, 20 Jul 2026 18:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
-      "snippet": ""
     }
   ],
-  "updatedAt": "2026-07-23T12:09:58.559Z"
+  "updatedAt": "2026-07-23T14:41:08.000Z"
 }
