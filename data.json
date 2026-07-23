@@ -1,6 +1,171 @@
 {
   "news": [
     {
+      "title": "24 July 2024: When fear became routine",
+      "link": "https://www.tbsnews.net/features/panorama/24-july-2024-when-fear-became-routine-1495936",
+      "pubDate": "Thu, 23 Jul 2026 17:55:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/20240722_rajibdhar_9657.jpg",
+      "snippet": "While victims continued to die from their injuries, security operations expanded, offices resumed under curfew restrictions, and the return of internet connectivity began to reveal the scale of the massacre"
+    },
+    {
+      "title": "Khalilur seeks Singapore support for Asean, RCEP aspirations",
+      "link": "https://www.tbsnews.net/foreign-policy/khalilur-seeks-singapore-support-asean-rcep-aspirations-1495931",
+      "pubDate": "Thu, 23 Jul 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/khalilur_seeks_singapore_support_for_asean_rcep_aspirations-converted-from-webp.jpeg",
+      "snippet": "Bangladesh has sought Singapore's support for its Asean and RCEP ambitions, while urging continued backing to resolve the Rohingya crisis."
+    },
+    {
+      "title": "Salman Shah murder: Probe report now deferred to 30 August",
+      "link": "https://www.tbsnews.net/bangladesh/court/salman-shah-murder-probe-report-now-deferred-30-august-1495921",
+      "pubDate": "Thu, 23 Jul 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/06/salman_shah.png",
+      "snippet": "The other accused in the case are Samira’s mother Latifa Haque Lucy, businessman Aziz Mohammad Bhai, actor Don, David, Javed, Faruk, Ruby, A Sattar, Saju, and Rezvi Ahmed alias Farhad."
+    },
+    {
+      "title": "FM calls for stronger regional cooperation, sustainable solution to Rohingya crisis at Asean forum",
+      "link": "https://www.tbsnews.net/foreign-policy/fm-calls-stronger-regional-cooperation-sustainable-solution-rohingya-crisis-asean",
+      "pubDate": "Thu, 23 Jul 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/khalirur_rahman_0.jpg",
+      "snippet": "Khalilur Rahman urges collective efforts to ensure the safe, voluntary and dignified repatriation of the Rohingya to Myanmar's Rakhine State."
+    },
+    {
+      "title": "Modi invites Tarique to Brics Summit in New Delhi",
+      "link": "https://www.tbsnews.net/foreign-policy/india-invites-pm-tarique-brics-summit-new-delhi-1495896",
+      "pubDate": "Thu, 23 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/tarique_modi.jpg",
+      "snippet": "Dhaka says it expects peace and stability in the region and hopes India will address issues through democratic means."
+    },
+    {
+      "title": "Swapon stresses need for authority to determine journalist status",
+      "link": "https://www.tbsnews.net/bangladesh/swapon-stresses-need-authority-determine-journalist-status-1495891",
+      "pubDate": "Thu, 23 Jul 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/press.jpg",
+      "snippet": "Minister urges inclusive, legally grounded decisions on press accreditation."
+    },
+    {
+      "title": "Govt plans to celebrate World Tourism Day with nationwide events",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-celebrate-world-tourism-day-nationwide-events-1495876",
+      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/tourism_meeting.jpg",
+      "snippet": "The celebrations will feature exhibitions, live cooking shows and other events across the country to promote Bangladesh’s tourism, culture and culinary heritage."
+    },
+    {
+      "title": "No villager should die for lack of treatment: Dr Zubaida",
+      "link": "https://www.tbsnews.net/bangladesh/no-villager-should-die-lack-treatment-dr-zubaida-1495861",
+      "pubDate": "Thu, 23 Jul 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/01/zubaida_rahman.jpg",
+      "snippet": "Bangladesh currently has only 0.83 physicians per 1,000 people, meaning one doctor often has to serve between 1,200 and 1,800 patients, with the situation being even worse in rural areas."
+    },
+    {
+      "title": "Child rape-murder suspect assaulted again at Sylhet court premises ",
+      "link": "https://www.tbsnews.net/bangladesh/child-rape-murder-suspect-assaulted-again-sylhet-court-premises-1495851",
+      "pubDate": "Thu, 23 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/752786491_2499232093892311_2091647447641517133_n_1.jpg",
+      "snippet": "The incident occurred around 10am when police brought 30-year-old Zakir Hossain from Sylhet Central Jail to the Sylhet Women and Children Repression Prevention Tribunal in a prison van."
+    },
+    {
+      "title": "UGC unveils draft five-year higher education reform plan",
+      "link": "https://www.tbsnews.net/bangladesh/education/ugc-unveils-draft-five-year-higher-education-reform-plan-1495856",
+      "pubDate": "Thu, 23 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
+      "snippet": "The draft strategy for 2026-2030 outlines priorities including improving graduate employability, strengthening university-industry links, advancing digital transformation and attracting international students."
+    },
+    {
+      "title": "EC awaits parliament reference before acting on expelled Jamaat MP",
+      "link": "https://www.tbsnews.net/bangladesh/ec-awaits-parliament-reference-acting-expelled-jamaat-mp-1495836",
+      "pubDate": "Thu, 23 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/22/ec-masud.jpg",
+      "snippet": "The election commissioner said the EC has not yet received any reference from Parliament in this regard."
+    },
+    {
+      "title": "Ctg NCP leader arrested in rape case over promise of marriage",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-ncp-leader-arrested-rape-case-filed-promise-marriage-1495826",
+      "pubDate": "Thu, 23 Jul 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/23/arrest-tbs.jpg",
+      "snippet": "The complainant, an HSC second-year student, alleged that the accused raped her after promising marriage and later cut off communication."
+    },
+    {
+      "title": "After years of neglect, rescued elephant Badsha Bahadur gets a second chance",
+      "link": "https://www.tbsnews.net/bangladesh/after-years-neglect-rescued-elephant-badsha-bahadur-gets-second-chance-1495841",
+      "pubDate": "Thu, 23 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/a9d494ae-7c4c-4739-9197-dfd52b17b671.jpg",
+      "snippet": "After spending decades performing in circuses, his health deteriorated significantly due to age and prolonged neglect."
+    },
+    {
+      "title": "Govt extends passport issue, re-issue timeframe for expatriates till Dec 31",
+      "link": "https://www.tbsnews.net/bangladesh/govt-extends-passport-issue-re-issue-timeframe-expatriates-till-dec-31-1495801",
+      "pubDate": "Thu, 23 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/homemini.jpg",
+      "snippet": "“This special privilege according to the new decision will be effective till December 31”, said a notification issued by the Ministry of Home Affairs on Tuesday (21 July)."
+    },
+    {
+      "title": "Ex-JCD leader stabbed dead in Bogura",
+      "link": "https://www.tbsnews.net/bangladesh/crime/ex-jcd-leader-stabbed-dead-bogura-1495821",
+      "pubDate": "Thu, 23 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/unb.jpg",
+      "snippet": "Police said Atiqur Rahman Sagor was fatally stabbed in an alleged attack by rivals in Bogura early Thursday and efforts are underway to arrest those involved."
+    },
+    {
       "title": "Exim Bank ex-chairman Nazrul denied bail in Tk857 crore embezzlement case",
       "link": "https://www.tbsnews.net/bangladesh/court/exim-bank-ex-chairman-nazrul-denied-bail-tk857-crore-embezzlement-case-1495786",
       "pubDate": "Thu, 23 Jul 2026 16:05:00 +0600",
@@ -23,7 +188,18 @@
       "snippet": "The retired officials include DIGs, additional DIGs, a joint police commissioner and a police superintendent serving in various police units."
     },
     {
-      "title": "Death toll rises to 805 as 2 more children die in 24hrs",
+      "title": "Mother, daughter among 3 British-Bangladeshis drown in UK beach",
+      "link": "https://www.tbsnews.net/bangladesh/mother-daughter-among-3-british-bangladeshis-drown-uk-beach-1495846",
+      "pubDate": "Thu, 23 Jul 2026 15:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/15db0e41-b47b-474b-a06b-178dbab16d1a.jpg",
+      "snippet": "Family member said no decision has yet been made on whether the bodies will be brought back to Bangladesh for burial."
+    },
+    {
+      "title": "Measles: Death toll rises to 805 as 2 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/death-toll-rises-805-2-more-children-die-24hrs-1495776",
       "pubDate": "Thu, 23 Jul 2026 15:55:00 +0600",
       "category": "Bangladesh",
@@ -59,23 +235,12 @@
       "title": "HSC exams under Ctg board to resume 27 July",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-under-chattogram-board-resume-27-july-1495751",
       "pubDate": "Thu, 23 Jul 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/06/whatsapp_image_2022-11-06_at_11.47.22_am.jpeg",
       "snippet": "Remaining examinations under the Chattogram Education Board, as well as Madrasah and Technical Education Boards in its jurisdiction, will continue as per the existing schedule, while postponed papers will be rescheduled later."
-    },
-    {
-      "title": "RAB arrests listed mugger accused in 29 cases in Karwan Bazar",
-      "link": "https://www.tbsnews.net/bangladesh/crime/rab-arrests-listed-mugger-accused-29-cases-karwan-bazar-1495741",
-      "pubDate": "Thu, 23 Jul 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/751622365_1604598858037810_1467640089147812550_n.jpg",
-      "snippet": "According to RAB, Mintu is accused in 29 cases, including several filed under the Arms Act, and is listed by law enforcement agencies as a mugger and a top drug dealer."
     },
     {
       "title": "CPA seeks details of rain-damaged cargo after rejecting liability claims",
@@ -89,136 +254,15 @@
       "snippet": "The port on Tuesday (21 July) issued a notice asking C&F agents to submit details of import and export cargo damaged by the flooding at port yards."
     },
     {
-      "title": "Can the top bureaucrat in talks be the next president?",
-      "link": "https://www.tbsnews.net/bangladesh/can-top-bureaucrat-talks-be-next-president-1495731",
-      "pubDate": "Thu, 23 Jul 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/11/image-167478-1704946338.jpg",
-      "snippet": "According to sub-article 4(b), a person shall not be qualified for election as President if he is not qualified for election as a member of Parliament."
-    },
-    {
-      "title": "Preliminary registration of Hajj to begin 27 July",
-      "link": "https://www.tbsnews.net/bangladesh/preliminary-registration-hajj-begin-27-july-1495711",
-      "pubDate": "Thu, 23 Jul 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/12/hajj_returnees.jpg",
-      "snippet": "During registration, pilgrims will also have to choose their district for Hajj training and vaccination, the type of Hajj and their preferred package."
-    },
-    {
-      "title": "Govt moves to dismiss 9 cops convicted in crimes against humanity cases",
-      "link": "https://www.tbsnews.net/bangladesh/govt-moves-dismiss-9-cops-convicted-crimes-against-humanity-cases-1495706",
-      "pubDate": "Thu, 23 Jul 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/28/bangladesh_police_logo.jpg",
-      "snippet": "The Ministry of Home Affairs has initiated the process after receiving an official notification from Police Headquarters following the court's verdict."
-    },
-    {
-      "title": "Protest in Shyamnagar demanding Satkhira-4 MP Nazrul’s resignation intensifies",
-      "link": "https://www.tbsnews.net/bangladesh/protest-shyamnagar-demanding-satkhira-4-mp-nazruls-resignation-intensifies-1495696",
-      "pubDate": "Thu, 23 Jul 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/742759968_1336010225266554_9065443665481784768_n.jpg",
-      "snippet": "People took to the streets at 12pm today (23 July) under the banner of the Conscious Citizens’ Society, staging demonstrations across several areas of the upazila."
-    },
-    {
-      "title": "11-party alliance seeks faster July Uprising crime trials",
-      "link": "https://www.tbsnews.net/bangladesh/11-party-alliance-seeks-faster-july-uprising-crime-trials-1495671",
-      "pubDate": "Thu, 23 Jul 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/whatsapp_image_2026-07-23_at_15.48.46.jpg",
-      "snippet": "The alliance submitted a seven-point memorandum to ICT Chief Prosecutor Md Aminul Islam today (23 July)."
-    },
-    {
-      "title": "Beyond RMG: Bangladesh's leading export earners FY26",
-      "link": "https://www.tbsnews.net/infograph/numbers/beyond-rmg-bangladeshs-leading-export-earners-fy26-1495656",
-      "pubDate": "Thu, 23 Jul 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/rmg.png",
-      "snippet": ""
-    },
-    {
       "title": "PM invites global investors to partner in Bangladesh's economic transformation",
       "link": "https://www.tbsnews.net/economy/pm-invites-global-investors-partner-bangladeshs-economic-transformation-1495676",
       "pubDate": "Thu, 23 Jul 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/pm.jpg",
       "snippet": "The prime minister promises reforms to attract long-term investment and private sector growth."
-    },
-    {
-      "title": "InterContinental Dhaka to host two-day wedding festival",
-      "link": "https://www.tbsnews.net/bangladesh/intercontinental-dhaka-host-two-day-wedding-festival-1495616",
-      "pubDate": "Thu, 23 Jul 2026 13:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/753702028_970888039325346_4906646097889108346_n.jpg",
-      "snippet": "The two-day festival will take place on 31 July and 1 August at the hotel’s Rupashi Bangla Grand Ballroom and Winter Garden."
-    },
-    {
-      "title": "Govt moves to bring ETPs online to curb Buriganga pollution",
-      "link": "https://www.tbsnews.net/bangladesh/govt-moves-bring-etps-online-curb-buriganga-pollution-1495611",
-      "pubDate": "Thu, 23 Jul 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/1b2671b1-c523-4afa-87aa-0475f0028764.jpg",
-      "snippet": "Besides, the Bangladesh Inland Water Transport Authority (BIWTA) is carrying out regular dredging operations to increase the river's navigability by removing polluted sediment."
-    },
-    {
-      "title": "PM joins FICCI FDI Conference  amid efforts to improve investment climate",
-      "link": "https://www.tbsnews.net/bangladesh/pm-joins-ficci-fdi-conference-amid-efforts-improve-investment-climate-1495591",
-      "pubDate": "Thu, 23 Jul 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/2146226.jpg",
-      "snippet": "According to the organisers, closer engagement between investors and policymakers has become increasingly important as the country seeks to strengthen its investment climate and sustain economic growth in the post-LDC graduation period."
-    },
-    {
-      "title": "Chattogram freight transport leaders seek advance income tax withdrawal",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-freight-transport-leaders-seek-advance-income-tax-withdrawal-1495586",
-      "pubDate": "Thu, 23 Jul 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/1000300325.jpg",
-      "snippet": "Following the introduction of the council’s newly formed committee, its leaders placed an eight-point demand and submitted a memorandum to the chief adviser through journalists."
-    },
-    {
-      "title": "Cataract-related blindness could be eliminated in 5 years: MA Muhit",
-      "link": "https://www.tbsnews.net/bangladesh/cataract-related-blindness-could-be-eliminated-5-years-ma-muhit-1495571",
-      "pubDate": "Thu, 23 Jul 2026 12:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/received_2087370361842280.jpeg",
-      "snippet": "He also highlighted the importance of using artificial intelligence and modern technology to deliver high-tech ophthalmic care to marginalised and economically disadvantaged communities as a fundamental civic right."
     },
     {
       "title": "Bangladesh achieves first ventilator-assisted brainstem glioma radiotherapy success",
@@ -241,17 +285,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/google.jpg",
       "snippet": "“Our AI investments are redefining what’s possible across every part of our business,” Alphabet CEO Sundar Pichai said in a statement."
-    },
-    {
-      "title": "KU students lock admin building, halt classes over hidden camera allegation in women's dorm washroom",
-      "link": "https://www.tbsnews.net/bangladesh/ku-students-lock-admin-building-halt-classes-over-hidden-camera-allegation-womens-dorm",
-      "pubDate": "Thu, 23 Jul 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
-      "snippet": "The protest followed an incident last night when students of Bijoy '24 Hall found a mobile phone set hidden inside a washroom in a female dormitory."
     },
     {
       "title": "Pubali Bank to acquire Bengal Group's 26-storey Swiss Tower for Tk800cr  ",
@@ -287,7 +320,7 @@
       "snippet": "The initiative aims to bring Bangladeshi academics abroad and international scholars into teaching and research through a virtual platform as part of a wider digital transformation of higher education."
     },
     {
-      "title": "Samsung resumes Bangladesh production, plans local phone launch in January",
+      "title": "Fair Electronics to resume Samsung smartphone production in Bangladesh after 18-month hiatus",
       "link": "https://www.tbsnews.net/economy/industry/samsung-resumes-bangladesh-production-plans-local-phone-launch-january-1495421",
       "pubDate": "Wed, 22 Jul 2026 23:35:00 +0600",
       "category": "Industry",
@@ -295,7 +328,7 @@
       "bg": "#fff3e0",
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/samsung.jpg",
-      "snippet": "Production of Samsung refrigerators has already begun at the company’s factory in Shibpur, Narsingdi."
+      "snippet": "Samsung-branded refrigerators are already being produced at Fair Electronics' factory in Narsingdi, while washing machine production is set to begin in September."
     },
     {
       "title": "How Bangladeshi expatriates joined the July Uprising from afar",
@@ -736,51 +769,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
       "snippet": ""
-    },
-    {
-      "title": "Iraq’s high stakes in the US–Iran crossfire",
-      "link": "https://www.tbsnews.net/thoughts/iraqs-high-stakes-us-iran-crossfire-1493231",
-      "pubDate": "Mon, 20 Jul 2026 18:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/qvwh3emq2jkjlkcjrq3gpci2gu.png",
-      "snippet": "Caught between Washington's financial leverage and Tehran's energy influence, Iraq remains trapped in a fragile balancing act, with its oil wealth, electricity supply and political sovereignty increasingly shaped by rival external powers."
-    },
-    {
-      "title": "Dengue death toll reaches 37 as 3 more patients die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-37-3-more-patients-die-24hrs-1493171",
-      "pubDate": "Mon, 20 Jul 2026 17:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
-      "snippet": "So far, the total number of dengue cases recorded in the country this year has risen to 10,857."
-    },
-    {
-      "title": "Private sector employees deserve a safety net: A policy blueprint for Bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/private-sector-employees-deserve-safety-net-policy-blueprint-bangladesh-1493176",
-      "pubDate": "Mon, 20 Jul 2026 17:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/private_sector.jpg",
-      "snippet": "Bangladesh's private sector generates 72% of GDP and the bulk of its direct taxes, yet almost none of its workers enjoy a coherent, legally binding safety net. This is a blueprint for that protection — from wage boards and portable pensions to unempl..."
-    },
-    {
-      "title": "DCCI urges NBR to prevent business harassment in withholding tax monitoring",
-      "link": "https://www.tbsnews.net/nbr/dcci-urges-nbr-prevent-business-harassment-withholding-tax-monitoring-1493156",
-      "pubDate": "Mon, 20 Jul 2026 17:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/01/dcci_pic.jpg",
-      "snippet": "The chamber expressed concern that the enforcement process should not create undue difficulties for compliant businesses."
     }
   ],
-  "updatedAt": "2026-07-23T10:23:02.413Z"
+  "updatedAt": "2026-07-23T12:09:58.559Z"
 }
