@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "3 of Bangladeshi family killed in Saudi road crash on way to Umrah",
+      "link": "https://www.tbsnews.net/bangladesh/3-bangladeshi-family-killed-saudi-road-crash-way-umrah-1496361",
+      "pubDate": "Fri, 24 Jul 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
+      "snippet": "A Bangladeshi family travelling from Riyadh to Makkah to perform Umrah met with a fatal road accident after their car was reportedly struck from behind by a heavy vehicle."
+    },
+    {
+      "title": "Bangladesh president, backed by ousted PM Hasina, to resign on Friday: Reuters",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-president-backed-ousted-pm-hasina-resign-friday-reuters-1496356",
+      "pubDate": "Fri, 24 Jul 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/shahabuddin_president.jpg",
+      "snippet": "One source says Shahabuddin informed Tarique on Tuesday and a formal announcement would be made ​on Friday."
+    },
+    {
+      "title": "Cenbank moves to scrap 'haircut' on deposits at five merged Islamic banks",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-moves-scrap-haircut-deposits-five-merged-islamic-banks-1496346",
+      "pubDate": "Fri, 24 Jul 2026 00:10:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/10/five_banks.jpg",
+      "snippet": "Depositors to receive profits at their original contractual rates for 2024 and 2025"
+    },
+    {
+      "title": "Bangladesh ramps up anti-money laundering reforms before global review",
+      "link": "https://www.tbsnews.net/economy/bangladesh-ramps-anti-money-laundering-reforms-global-review-1496341",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/11/money_laundering.png",
+      "snippet": "Authorities aim to complete national risk assessments in five key areas by December before an Asia Pacific Group team reviews Bangladesh's preparedness in August."
+    },
+    {
+      "title": "President says resignation question 'embarrassing' while Salahuddin says govt 'unaware' of such decision",
+      "link": "https://www.tbsnews.net/bangladesh/president-says-resignation-question-embarrassing-while-salahuddin-says-govt-unaware-such",
+      "pubDate": "Thu, 23 Jul 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/president_home_minister.png",
+      "snippet": "Asked about reports of a phone conversation with Hasina, Shahabuddin said, “Only when someone has lost their mind will they come up with such concocted stuff. It is baseless, baseless and baseless. Totally baseless.”"
+    },
+    {
       "title": "Bangladesh needs $15b annual FDI by 2030 to sustain growth: Ficci",
       "link": "https://www.tbsnews.net/economy/bangladesh-needs-15b-annual-fdi-2030-sustain-growth-ficci-1496336",
       "pubDate": "Thu, 23 Jul 2026 23:30:00 +0600",
@@ -221,39 +276,6 @@
       "snippet": "The convict was also fined Tk1 lakh by a Faridpur court for assaulting the nine-year-old child in 2020."
     },
     {
-      "title": "Man sentenced to death for rape, murder of 9-year-old in Cumilla",
-      "link": "https://www.tbsnews.net/bangladesh/court/man-sentenced-death-rape-murder-9-year-old-cumilla-1496071",
-      "pubDate": "Thu, 23 Jul 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/67566df0-8221-4f8c-a13a-2e68303cb56d.jpg",
-      "snippet": "The trial concluded in 19 working days, with the convict having confessed to the rape and murder in a statement before a magistrate."
-    },
-    {
-      "title": "State minister asks BIWTA to step up revenue drive, improve services",
-      "link": "https://www.tbsnews.net/bangladesh/state-minister-asks-biwta-step-revenue-drive-improve-services-1496066",
-      "pubDate": "Thu, 23 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/d34f49de-288a-4de7-9f36-5fce6f3dfb91.png",
-      "snippet": "Razib Ahsan also instructed BIWTA to introduce phased automation of cargo loading and unloading at river ports, strengthen coordination with relevant stakeholders to improve vessel safety, and identify new sources of revenue for the Port Division."
-    },
-    {
-      "title": "6,165 candidates pass 50th BCS written test",
-      "link": "https://www.tbsnews.net/bangladesh/6165-candidates-pass-50th-bcs-written-test-1496051",
-      "pubDate": "Thu, 23 Jul 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/01/bpsc-dailybangladesh-2202090616.jpg",
-      "snippet": "The written examination was held from 9 April to 7 May in Dhaka and seven other divisional cities."
-    },
-    {
       "title": "Trump’s UN wager and a global peace body losing its grip",
       "link": "https://www.tbsnews.net/features/big-picture/trumps-un-wager-and-global-peace-body-losing-its-grip-1496046",
       "pubDate": "Thu, 23 Jul 2026 18:25:00 +0600",
@@ -371,8 +393,8 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/bengal.jpg",
-      "snippet": "Lender plans to relocate its head office; Bengal Group expects the sale to ease its financial strain."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/swissotel_dhaka.png",
+      "snippet": "Lender plans to relocate its head office; Bengal Group expects sale to ease its financial strain."
     },
     {
       "title": "Measles death toll crosses 800, experts blame vaccination gaps, weak response ",
@@ -780,18 +802,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/17/ldc_graduate.jpg",
       "snippet": "The targets are outlined in the Country Programme Document 2026-2031, prepared by the commerce ministry with financial support from the World Trade Organisation (WTO)."
-    },
-    {
-      "title": "Why dollar rate is rising again",
-      "link": "https://www.tbsnews.net/economy/banking/why-dollar-rate-rising-again-1493501",
-      "pubDate": "Tue, 21 Jul 2026 00:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
-      "snippet": "Several commercial banks purchased remittance dollars from exchange houses yesterday at Tk123.75 per dollar, about 10 paisa higher than in early July."
     }
   ],
-  "updatedAt": "2026-07-23T17:55:28.513Z"
+  "updatedAt": "2026-07-23T19:18:41.973Z"
 }
