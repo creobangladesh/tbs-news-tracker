@@ -1,7 +1,139 @@
 {
   "news": [
     {
-      "title": "Chinese ambassador calls on BB Governor; talks focus on trade, investment and digital payment",
+      "title": "PRI proposes inclusive system to unify digital payments, cut remittance costs",
+      "link": "https://www.tbsnews.net/economy/pri-proposes-inclusive-system-unify-digital-payments-cut-remittance-costs-1496306",
+      "pubDate": "Thu, 23 Jul 2026 22:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/pri.jpg",
+      "snippet": "According to the study, the system would be built on the open-source Mojaloop platform to enable instant, low-cost and interoperable transactions across banks, mobile financial service providers and other financial institutions."
+    },
+    {
+      "title": "12 police officers transferred, including seven Addl SPs and five ASPs",
+      "link": "https://www.tbsnews.net/bangladesh/12-police-officers-transferred-including-seven-addl-sps-and-five-asps-1496291",
+      "pubDate": "Thu, 23 Jul 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
+      "snippet": "The transfers were made through three separate notifications issued by the inspector general of police"
+    },
+    {
+      "title": "Higher import duty slashes fish imports through Benapole, raises revenue concerns",
+      "link": "https://www.tbsnews.net/bangladesh/higher-import-duty-slashes-fish-imports-through-benapole-raises-revenue-concerns-1496271",
+      "pubDate": "Thu, 23 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/26/benapole.jpg",
+      "snippet": "Traders say the higher duties could reduce fish supplies, push up prices in the domestic market and ultimately lower government revenue if imports continue to decline."
+    },
+    {
+      "title": "Bangladesh to host first national semiconductor summit as deep-tech ambitions gather pace",
+      "link": "https://www.tbsnews.net/tech/bangladesh-host-first-national-semiconductor-summit-deep-tech-ambitions-gather-pace-1496281",
+      "pubDate": "Thu, 23 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/semiconductor.jpg",
+      "snippet": "PM Tarique Rahman is expected to inaugurate two-day summit on 25 July"
+    },
+    {
+      "title": "HC confirms death sentences of five in Khulna father-daughter murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/hc-confirms-death-sentences-five-khulna-father-daughter-murder-case-1496256",
+      "pubDate": "Thu, 23 Jul 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/29/death_sentence_0.jpg",
+      "snippet": "Bank official Parveen Sultana and her father Ilias Chowdhury were murdered in Lobonchora"
+    },
+    {
+      "title": "Premier Bank posts Tk388cr H1 loss",
+      "link": "https://www.tbsnews.net/economy/stocks/premier-bank-posts-tk388cr-h1-loss-1496246",
+      "pubDate": "Thu, 23 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/29/premier_bank.png",
+      "snippet": "The bank’s net operating cash flow per share improved to Tk9.75 in the first half of 2026, compared with a negative Tk7.64 during the same period last year."
+    },
+    {
+      "title": "Over 15 million people face acute food insecurity in Bangladesh: Report",
+      "link": "https://www.tbsnews.net/bangladesh/over-15-million-people-face-acute-food-insecurity-bangladesh-report-1496251",
+      "pubDate": "Thu, 23 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
+      "snippet": "A new national food security analysis warns that 15.3 million people are currently experiencing acute food insecurity, with the number projected to rise to 18.1 million by the end of 2026 without timely intervention."
+    },
+    {
+      "title": "Speaker likely to return early from Thailand amid speculation over president's resignation",
+      "link": "https://www.tbsnews.net/bangladesh/speaker-likely-return-early-thailand-amid-speculation-over-presidents-resignation-1496236",
+      "pubDate": "Thu, 23 Jul 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/president_mohammed_shahabuddin_speaker_hafiz_uddin_ahmad-converted-from-webp.jpeg",
+      "snippet": "The speaker is expected to return from Thailand tomorrow (24 July), two days earlier than planned, amid speculation over President Mohammed Shahabuddin's possible resignation."
+    },
+    {
+      "title": "Long gas queues leave drivers stranded as LNG terminal fault cuts supply",
+      "link": "https://www.tbsnews.net/bangladesh/energy/long-gas-queues-leave-drivers-stranded-lng-terminal-fault-cuts-supply-1496216",
+      "pubDate": "Thu, 23 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/no_cng_gas1.jpg",
+      "snippet": "FSRU repairs under way, operations expected to resume soon."
+    },
+    {
+      "title": "Bida converts $400m of $1.5b investment pipeline",
+      "link": "https://www.tbsnews.net/economy/bida-converts-400m-15bn-investment-pipeline-1496186",
+      "pubDate": "Thu, 23 Jul 2026 21:20:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/28/bida_logo_new.jpg",
+      "snippet": "China’s Hengli Group, through its subsidiary Lead Bangladesh Textile Technology Co Ltd, is investing nearly $35 million at the Bangladesh Special Economic Zone (BSEZ) in Araihazar to establish an advanced textile manufacturing facility."
+    },
+    {
+      "title": "Shama sees greater Saudi trade, investment, workforce opportunities",
+      "link": "https://www.tbsnews.net/bangladesh/shama-sees-greater-saudi-trade-investment-workforce-opportunities-1496166",
+      "pubDate": "Thu, 23 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/shama_obaed.png",
+      "snippet": "Shama commended SABCCI's efforts and reaffirmed the ministry's continued support for strengthening Bangladesh-Saudi economic relations."
+    },
+    {
+      "title": "Gas shortage leaves vehicles queuing for hours at Brahmanbaria filling stations",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-shortage-leaves-vehicles-queuing-hours-brahmanbaria-filling-stations-1496156",
+      "pubDate": "Thu, 23 Jul 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/752177790_1679182666630521_2407820384837054596_n.jpg",
+      "snippet": "A gas shortage and low pressure at CNG filling stations have forced drivers to queue for hours, reducing the number of trips they can make each day."
+    },
+    {
+      "title": "Chinese ambassador calls on BB governor; talks focus on trade, investment and digital payment",
       "link": "https://www.tbsnews.net/bangladesh/chinese-ambassador-calls-bb-governor-talks-focus-trade-investment-and-digital-payment",
       "pubDate": "Thu, 23 Jul 2026 20:30:00 +0600",
       "category": "Bangladesh",
@@ -133,28 +265,6 @@
       "snippet": "The negative perception about bureaucracy among the public needs to be changed through efficient and people-oriented service delivery, he says."
     },
     {
-      "title": "Dhaka eyes deeper ties with Washington with Special Envoy Sergio Gor's planned visit",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-eyes-deeper-ties-washington-special-envoy-sergio-gors-planned-visit-1496011",
-      "pubDate": "Thu, 23 Jul 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ee01a68b-ebb1-49ef-98e0-6e15c5361298.jpg",
-      "snippet": "Sergio Gor is likely to arrive in Dhaka on July 30 on a three-day visit, a diplomatic source told UNB, noting that he will try to understand Bangladesh's foreign policy priorities."
-    },
-    {
-      "title": "Jamaat notifies EC, speaker about Satkhira-4 MP Nazrul's expulsion, seeks steps",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-notifies-ec-speaker-about-satkhira-4-mp-nazruls-expulsion-seeks-steps-1496061",
-      "pubDate": "Thu, 23 Jul 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/jamaat_mp_gazi_nazrul_0.jpg",
-      "snippet": "The party says the expelled lawmaker no longer qualifies to remain an MP under the Constitution and the Representation of the People Order following findings of moral turpitude."
-    },
-    {
       "title": "Cenbank issues master circular on EDF, tightens eligibility for overdue borrowers",
       "link": "https://www.tbsnews.net/economy/cenbank-issues-master-circular-edf-tightens-eligibility-overdue-borrowers-1495966",
       "pubDate": "Thu, 23 Jul 2026 18:05:00 +0600",
@@ -164,17 +274,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
       "snippet": "Manufacturer-exporters who settled EDF liabilities through funded facilities will remain ineligible for fresh loans until their overdue export proceeds are repatriated or exempted by the Discount Committee."
-    },
-    {
-      "title": "Ministry warns against fake Facebook accounts impersonating Info Minister Swapon",
-      "link": "https://www.tbsnews.net/bangladesh/ministry-warns-against-fake-facebook-accounts-impersonating-info-minister-swapon-1495951",
-      "pubDate": "Thu, 23 Jul 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ministry_warns_against_fake_facebook_accounts_impersonating_info_minister_swapon-converted-from-webp.jpeg",
-      "snippet": "It also called on them to report such accounts to the authorities concerned."
     },
     {
       "title": "24 July 2024: When fear became routine",
@@ -188,84 +287,7 @@
       "snippet": "While victims continued to die from their injuries, security operations expanded, offices resumed under curfew restrictions, and the return of internet connectivity began to reveal the scale of the massacre"
     },
     {
-      "title": "Probes into July Uprising crimes may finish within a year: ICT chief prosecutor",
-      "link": "https://www.tbsnews.net/bangladesh/court/probes-july-uprising-crimes-may-finish-within-year-ict-chief-prosecutor-1495956",
-      "pubDate": "Thu, 23 Jul 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/aminul_islam_img.jpg",
-      "snippet": "The ICT is prioritising investigations into the July Uprising killings as it works to bring those responsible to justice, says the chief prosecutor."
-    },
-    {
-      "title": "Khalilur seeks Singapore support for Asean, RCEP aspirations",
-      "link": "https://www.tbsnews.net/foreign-policy/khalilur-seeks-singapore-support-asean-rcep-aspirations-1495931",
-      "pubDate": "Thu, 23 Jul 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/khalilur_seeks_singapore_support_for_asean_rcep_aspirations-converted-from-webp.jpeg",
-      "snippet": "Bangladesh has sought Singapore's support for its Asean and RCEP ambitions, while urging continued backing to resolve the Rohingya crisis."
-    },
-    {
-      "title": "Salman Shah murder: Probe report now deferred to 30 August",
-      "link": "https://www.tbsnews.net/bangladesh/court/salman-shah-murder-probe-report-now-deferred-30-august-1495921",
-      "pubDate": "Thu, 23 Jul 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/06/salman_shah.png",
-      "snippet": "The other accused in the case are Samira’s mother Latifa Haque Lucy, businessman Aziz Mohammad Bhai, actor Don, David, Javed, Faruk, Ruby, A Sattar, Saju, and Rezvi Ahmed alias Farhad."
-    },
-    {
-      "title": "FM calls for stronger regional cooperation, sustainable solution to Rohingya crisis at Asean forum",
-      "link": "https://www.tbsnews.net/foreign-policy/fm-calls-stronger-regional-cooperation-sustainable-solution-rohingya-crisis-asean",
-      "pubDate": "Thu, 23 Jul 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/khalirur_rahman_0.jpg",
-      "snippet": "Khalilur Rahman urges collective efforts to ensure the safe, voluntary and dignified repatriation of the Rohingya to Myanmar's Rakhine State."
-    },
-    {
-      "title": "Modi invites Tarique to Brics Summit in New Delhi",
-      "link": "https://www.tbsnews.net/foreign-policy/india-invites-pm-tarique-brics-summit-new-delhi-1495896",
-      "pubDate": "Thu, 23 Jul 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/tarique_modi.jpg",
-      "snippet": "Dhaka says it expects peace and stability in the region and hopes India will address issues through democratic means."
-    },
-    {
-      "title": "Swapon stresses need for authority to determine journalist status",
-      "link": "https://www.tbsnews.net/bangladesh/swapon-stresses-need-authority-determine-journalist-status-1495891",
-      "pubDate": "Thu, 23 Jul 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/press.jpg",
-      "snippet": "Minister urges inclusive, legally grounded decisions on press accreditation."
-    },
-    {
-      "title": "Govt plans to celebrate World Tourism Day with nationwide events",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-celebrate-world-tourism-day-nationwide-events-1495876",
-      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/tourism_meeting.jpg",
-      "snippet": "The celebrations will feature exhibitions, live cooking shows and other events across the country to promote Bangladesh’s tourism, culture and culinary heritage."
-    },
-    {
-      "title": "UGC unveils draft five-year higher education reform plan",
+      "title": "UGC drafts 5-year roadmap to transform higher education",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-unveils-draft-five-year-higher-education-reform-plan-1495856",
       "pubDate": "Thu, 23 Jul 2026 16:40:00 +0600",
       "category": "Education",
@@ -769,18 +791,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
       "snippet": "Several commercial banks purchased remittance dollars from exchange houses yesterday at Tk123.75 per dollar, about 10 paisa higher than in early July."
-    },
-    {
-      "title": "Large-cap support helps DSEX end flat as insurance stocks continue to bleed",
-      "link": "https://www.tbsnews.net/economy/stocks/large-cap-support-helps-dsex-end-flat-insurance-stocks-continue-bleed-1493456",
-      "pubDate": "Mon, 20 Jul 2026 22:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
-      "snippet": "However, the blue-chip DS30 index edged down slightly to 2,208 points, reflecting a selective approach by investors who preferred to stay on the sidelines ahead of potential regulatory shifts."
     }
   ],
-  "updatedAt": "2026-07-23T14:41:08.000Z"
+  "updatedAt": "2026-07-23T16:26:02.384Z"
 }
