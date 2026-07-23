@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Beximco refuses to mortgage land, putting Tk3,000cr Sukuk at risk as maturity nears",
+      "link": "https://www.tbsnews.net/bangladesh/beximco-refuses-mortgage-land-putting-tk3000cr-sukuk-risk-maturity-nears-1495496",
+      "pubDate": "Thu, 23 Jul 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/15/beximco-logo-tbs.jpg",
+      "snippet": "The proposals were outlined in a report submitted by the ICB to the Bangladesh Securities and Exchange Commission on 30 June after Beximco declined to execute a mortgage deed over land associated with its solar projects."
+    },
+    {
+      "title": "Pubali Bank to acquire Bengal Group's 26-storey Swiss Tower for Tk800cr  ",
+      "link": "https://www.tbsnews.net/economy/stocks/pubali-bank-acquire-bengal-groups-26-storey-swiss-tower-tk800cr-1495481",
+      "pubDate": "Thu, 23 Jul 2026 09:25:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/bengal.jpg",
+      "snippet": "According to the bank, the property is located at 208, Tejgaon Gulshan Link Road. The transaction remains subject to approval from Bangladesh Bank and other relevant regulatory authorities."
+    },
+    {
       "title": "Gas crisis stalls crores in investment, threatens industries, banks – experts warn",
       "link": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-stalls-crores-investment-threatens-industries-banks-experts-warn",
       "pubDate": "Thu, 23 Jul 2026 01:00:00 +0600",
@@ -195,7 +217,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/jamaat_mp_gazi_nazrul_0.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/gazi_nazrul_islam.png",
       "snippet": "The driver alleged he was attacked after he protested against the MP’s alleged extramarital affair and over suspicion that he leaked the videos that went viral."
     },
     {
@@ -285,17 +307,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/05/rupali_bank.jpg",
       "snippet": "The bank says the substantial loss was primarily driven by a decline in interest income alongside a sharp increase in borrowing costs."
-    },
-    {
-      "title": "LNG terminal glitch cuts gas supply by 450 mmcfd nationwide: Energy division",
-      "link": "https://www.tbsnews.net/bangladesh/energy/lng-terminal-glitch-cuts-gas-supply-450-mmcfd-nationwide-energy-division-1495201",
-      "pubDate": "Wed, 22 Jul 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/p3_cng_crisis_mhn_8080.jpeg",
-      "snippet": "Gas supply cut hits households, industries."
     },
     {
       "title": "Govt to launch 'National Health Card' to eliminate healthcare inequality: Faqir Mahbub",
@@ -769,29 +780,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/burnham.jpg",
       "snippet": "Andy Burnham takes over as UK prime minister amid Labour’s deep political turmoil, facing immediate challenges from public discontent, a resurgent opposition, and questions over his mandate"
-    },
-    {
-      "title": "Drug pricing deadlock stalls hundreds of new medicines, strands investment",
-      "link": "https://www.tbsnews.net/bangladesh/health/drug-pricing-deadlock-stalls-hundreds-new-medicines-strands-investment-1492781",
-      "pubDate": "Mon, 20 Jul 2026 09:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/26/pharma_mumitm-2299.jpg",
-      "snippet": "Hundreds of new medicines remain stuck without pricing approval, leaving patients waiting while companies see investments frozen"
-    },
-    {
-      "title": "Import growth stalls in FY26 on subdued industrial demand",
-      "link": "https://www.tbsnews.net/economy/banking/import-growth-stalls-fy26-subdued-industrial-demand-1492766",
-      "pubDate": "Mon, 20 Jul 2026 08:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/16/india-june-import-decline.jpg",
-      "snippet": "Economists warn geopolitical tensions and domestic constraints continue to weigh on economy"
     }
   ],
-  "updatedAt": "2026-07-23T01:05:33.693Z"
+  "updatedAt": "2026-07-23T04:50:56.765Z"
 }
