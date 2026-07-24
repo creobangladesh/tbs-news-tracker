@@ -1,7 +1,84 @@
 {
   "news": [
     {
-      "title": "BERC Chairman for securing energy security by achieving renewable targets with aggressive natural gas exploration",
+      "title": "NCP demands arrest, trial of Shahabuddin",
+      "link": "https://www.tbsnews.net/bangladesh/politics/ncp-demands-arrest-trial-shahabuddin-1496981",
+      "pubDate": "Fri, 24 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/751882791_2632732843846885_7654400428154934095_n.jpg",
+      "snippet": "The party alleged that Mohammed Shahabuddin should not be allowed a \"safe exit\" following his resignation and called on the government to take immediate legal action against him."
+    },
+    {
+      "title": "From Dhaka to Delhi, why Gen Z movements are about jobs, not ideology",
+      "link": "https://www.tbsnews.net/features/panorama/dhaka-delhi-why-gen-z-movements-are-about-jobs-not-ideology-1496976",
+      "pubDate": "Fri, 24 Jul 2026 20:55:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/cjp_protest_in_india.png",
+      "snippet": "Strip away the flags, the slogans and the satire, and a single thread runs through Delhi's Jantar Mantar, Dhaka's July streets, Kathmandu's burning ministries and Lima's university gates: a generation that did everything it was told to — study, get a..."
+    },
+    {
+      "title": "Bangladesh earn direct quarter-final spot at Asian Games cricket",
+      "link": "https://www.tbsnews.net/sports/bangladesh-earn-direct-quarter-final-spot-asian-games-cricket-1496966",
+      "pubDate": "Fri, 24 Jul 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bangladesh_cricket.jpg",
+      "snippet": "Bangladesh will open their campaign against China, while defending champions India face hosts Japan. Sri Lanka meet Malaysia, and Pakistan take on Thailand."
+    },
+    {
+      "title": "Bomb-like object found under Motijheel metro station safely neutralised: Police",
+      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-found-under-motijheel-metro-station-safely-neutralised-1496951",
+      "pubDate": "Fri, 24 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/bomb_like_object.jpg",
+      "snippet": "Pedestrians alerted police after spotting a suspicious umbrella beneath the station."
+    },
+    {
+      "title": "BNP expels union leader after 'obscene' video goes viral",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-expels-union-leader-after-obscene-video-goes-viral-1496956",
+      "pubDate": "Fri, 24 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/12/image-3273-1625475763.jpg",
+      "snippet": "He was expelled from the party after district leaders said allegations of moral misconduct against him were found to be true."
+    },
+    {
+      "title": "25 July 2024: Crocodile tears pour gasoline on the fire of the uprising ",
+      "link": "https://www.tbsnews.net/features/panorama/25-july-2024-crocodile-tears-pour-gasoline-fire-uprising-1496961",
+      "pubDate": "Fri, 24 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/pm_0.png",
+      "snippet": "As hospitals filled with young protesters maimed by gunfire and the death toll continued to rise, Sheikh Hasina's public tears for a vandalised metro station instead of the victims became a defining moment that further fuelled the July Uprising"
+    },
+    {
+      "title": "BNP, Democracy International review progress on organisational strengthening",
+      "link": "https://www.tbsnews.net/bangladesh/bnp-democracy-international-review-progress-organisational-strengthening-1496941",
+      "pubDate": "Fri, 24 Jul 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/bnp_and_di.png",
+      "snippet": "According to DI, significant progress has been achieved in institutionalising training programmes, increasing women's participation in party committees, resolving internal conflicts and expanding public engagement activities."
+    },
+    {
+      "title": "BERC chairman for securing energy security by achieving renewable targets with aggressive natural gas exploration",
       "link": "https://www.tbsnews.net/bangladesh/berc-chairman-securing-energy-security-achieving-renewable-targets-aggressive-natural-gas",
       "pubDate": "Fri, 24 Jul 2026 19:35:00 +0600",
       "category": "Bangladesh",
@@ -10,6 +87,28 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/jalal.jpg",
       "snippet": "\"We currently have excess generation capacity in the power sector. Unfortunately, this surplus has become a burden rather than an asset. Including captive generation, the country's installed capacity is approximately 34,000 MW, which is nearly 100% h..."
+    },
+    {
+      "title": "Do we have the right to silence?",
+      "link": "https://www.tbsnews.net/thoughts/do-we-have-right-silence-1496896",
+      "pubDate": "Fri, 24 Jul 2026 19:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/tbs_photo_1.jpg",
+      "snippet": "As Bangladesh's cities grow louder, noise pollution is increasingly affecting public health, productivity and quality of life"
+    },
+    {
+      "title": "Bangla QR: A historic opportunity to build a cash-lite Bangladesh",
+      "link": "https://www.tbsnews.net/thoughts/bangla-qr-historic-opportunity-build-cash-lite-bangladesh-1496891",
+      "pubDate": "Fri, 24 Jul 2026 19:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/15_thoughts_new.png",
+      "snippet": "Around the world, enduring digital payment systems have been built on common infrastructure that enables competition and innovation. Bangla QR has the potential to become such an infrastructure, but its success will depend on expanding access, creati..."
     },
     {
       "title": "Kayser Kamal now acting speaker",
@@ -175,72 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/khandakar_muktadir.jpg",
       "snippet": "The existing tariff rate will remain in force after midnight, although under a different name, says Commerce Minister Khandakar Abdul Muktadir."
-    },
-    {
-      "title": "Newly appointed navy chief pays tribute at Shikha Anirban ",
-      "link": "https://www.tbsnews.net/bangladesh/newly-appointed-navy-chief-pays-tribute-shikha-anirban-1496626",
-      "pubDate": "Fri, 24 Jul 2026 13:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/753550594_1563759805533929_281360196198008675_n.jpg",
-      "snippet": "The navy chief arrived at Naval Headquarters, where he was received by the Principal Staff Officers"
-    },
-    {
-      "title": "Unaware of any plan for president's resignation, Speaker Hafiz says after returning home ",
-      "link": "https://www.tbsnews.net/bangladesh/speaker-cuts-thailand-visit-short-returns-home-2-days-early-1496616",
-      "pubDate": "Fri, 24 Jul 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/24-07-26-speaker_airport-4.jpg",
-      "snippet": "'I was outside the country, so I have no knowledge of who may or may not resign. Perhaps I will know now,' says Parliament Speaker Hafiz Uddin Ahmad."
-    },
-    {
-      "title": "Fakhrul urges people to ignore 'rumours' over president's resignation",
-      "link": "https://www.tbsnews.net/bangladesh/fakhrul-urges-people-ignore-rumours-over-presidents-resignation-1496591",
-      "pubDate": "Fri, 24 Jul 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/15/fakhrul.png",
-      "snippet": "His comments came amid widespread speculations that the President may step down in a day or two, citing ill health."
-    },
-    {
-      "title": "Fakhrul vows democratic reforms, economic recovery",
-      "link": "https://www.tbsnews.net/bangladesh/fakhrul-vows-democratic-reforms-economic-recovery-1496581",
-      "pubDate": "Fri, 24 Jul 2026 12:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/mirza_fakhrul.jpg",
-      "snippet": "He further emphasised regional cooperation, saying Prime Minister Tarique Rahman has pledged to attract greater international participation in Bangladesh's economic development."
-    },
-    {
-      "title": "Ctg salt factory fire: Death toll rises to 5 as another with 65% burns passes away",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-salt-factory-fire-death-toll-rises-5-another-65-burns-passes-away-1496571",
-      "pubDate": "Fri, 24 Jul 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/05/death.jpg",
-      "snippet": "Mahmudul Haque was the latest to die from injuries sustained in the fire."
-    },
-    {
-      "title": "Faridpur BNP leader expelled for 'moral turpitude' after viral video",
-      "link": "https://www.tbsnews.net/bangladesh/faridpur-bnp-leader-expelled-moral-turpitude-after-viral-video-1496551",
-      "pubDate": "Fri, 24 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/img_8341.jpeg",
-      "snippet": "The expelled leader is Md Obaidur Rahman, organising secretary of Aliabad union unit of BNP in Sadar upazila."
     },
     {
       "title": "7 teachers transferred after overseeing HSC exams at waterlogged Cumilla college",
@@ -813,40 +846,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/24/bsec_1.jpg",
       "snippet": "According to BSEC data, the total provisioning deficit against negative equity and unrealised losses stood at Tk9,367 crore as of May."
-    },
-    {
-      "title": "Teachers should educate students as their own children: Milon",
-      "link": "https://www.tbsnews.net/bangladesh/education/teachers-should-educate-students-their-own-children-milon-1494246",
-      "pubDate": "Tue, 21 Jul 2026 21:25:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/bss.jpg",
-      "snippet": "The minister also said coordinated efforts by teachers, parents and education officials are essential to improving primary education, while the government plans to expand teacher training and student welfare programmes."
-    },
-    {
-      "title": "Govt returns non-teaching staff recruitment power to MPO school, college governing bodies",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-returns-non-teaching-staff-recruitment-power-mpo-school-college-governing",
-      "pubDate": "Tue, 21 Jul 2026 20:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/edu.jpg",
-      "snippet": "The education ministry scrapped the deputy commissioner (DC)-led committee system and restored the previous recruitment process for non-teaching MPO posts."
-    },
-    {
-      "title": "JU temporarily expels 8 students over ragging allegations",
-      "link": "https://www.tbsnews.net/bangladesh/education/ju-temporarily-expels-8-students-over-ragging-allegations-1494216",
-      "pubDate": "Tue, 21 Jul 2026 20:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/ju.jpg",
-      "snippet": "Freshers allegedly faced mental harassment and intimidation during a late-night incident."
     }
   ],
-  "updatedAt": "2026-07-24T13:45:34.716Z"
+  "updatedAt": "2026-07-24T15:25:43.384Z"
 }
