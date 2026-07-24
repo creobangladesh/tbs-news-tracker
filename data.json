@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "BERC Chairman for securing energy security by achieving renewable targets with aggressive natural gas exploration",
+      "link": "https://www.tbsnews.net/bangladesh/berc-chairman-securing-energy-security-achieving-renewable-targets-aggressive-natural-gas",
+      "pubDate": "Fri, 24 Jul 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/jalal.jpg",
+      "snippet": "\"We currently have excess generation capacity in the power sector. Unfortunately, this surplus has become a burden rather than an asset. Including captive generation, the country's installed capacity is approximately 34,000 MW, which is nearly 100% h..."
+    },
+    {
+      "title": "Kayser Kamal now acting speaker",
+      "link": "https://www.tbsnews.net/bangladesh/kayser-kamal-now-acting-speaker-1496881",
+      "pubDate": "Fri, 24 Jul 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/kaisar_kamal.jpg",
+      "snippet": "With Speaker Hafiz assuming the role of acting president following Shahabuddin's resignation, Deputy Speaker Kayser will discharge the duties of speaker."
+    },
+    {
+      "title": "Bangladesh to work closely for stronger Asean: FM",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-work-closely-stronger-asean-fm-1496871",
+      "pubDate": "Fri, 24 Jul 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fm_khalilur_tac.jpeg",
+      "snippet": "The foreign minister also outlined ways to address emerging threats posed by AI-enabled cybercrime as well as misinformation and disinformation spread through social media."
+    },
+    {
+      "title": "Stray elephant returns to forest after entering Ctg's Banshkhali locality",
+      "link": "https://www.tbsnews.net/bangladesh/stray-elephant-returns-forest-after-entering-ctgs-banshkhali-locality-1496851",
+      "pubDate": "Fri, 24 Jul 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/stray_elephant_ctg.jpg",
+      "snippet": "The elephant entered the Chandpur Bazar area of Pukuria Union along the upazila's main road around 11pm, triggering panic among residents, pedestrians and motorists."
+    },
+    {
+      "title": "Trump imposes forced labor tariffs, drawing protests from trading partners",
+      "link": "https://www.tbsnews.net/world/trump-imposes-forced-labor-tariffs-drawing-protests-trading-partners-1496856",
+      "pubDate": "Fri, 24 Jul 2026 18:30:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/us_tarrif_war.png",
+      "snippet": "\"The EU notes positively the fact that this outcome is in line with the U.S. tariff commitments agreed under the EU-US ​Joint Statement,\" a European Commission spokesperson said, adding it provided \"positive momentum\" to continue the work on explorin..."
+    },
+    {
+      "title": "'Suffering from autonomic neuropathy': What Shahabuddin wrote in his resignation letter",
+      "link": "https://www.tbsnews.net/bangladesh/no-longer-able-discharge-responsibilities-what-shahabuddin-wrote-his-resignation-letter",
+      "pubDate": "Fri, 24 Jul 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/shahabuddin_president.jpg",
+      "snippet": "Citing multiple health complications and physical and mental incapacity, he resigned in accordance with Article 50(3) of the Constitution."
+    },
+    {
+      "title": "Speaker Hafiz becomes acting president of Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/speaker-hafiz-serve-acting-president-1496826",
+      "pubDate": "Fri, 24 Jul 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/speaker_hafiz.jpg",
+      "snippet": "According to the Constitution, a new president must be elected within 90 days."
+    },
+    {
       "title": "Measles outbreak: Death toll reaches 810 as 5 more die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-810-5-more-die-24-hours-1496736",
       "pubDate": "Fri, 24 Jul 2026 16:50:00 +0600",
@@ -31,7 +108,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/president_shahabuddin_bss_1.jpg",
-      "snippet": "Speaker of the National Parliament Hafiz Uddin Ahmad will hold an emergency press conference at 5pm today."
+      "snippet": "The speaker will now act as president until a new head of state is elected."
     },
     {
       "title": "Ducsu launches 'female zone' at TSC cafeteria, sparks criticism  ",
@@ -169,56 +246,12 @@
       "title": "7 teachers transferred after overseeing HSC exams at waterlogged Cumilla college",
       "link": "https://www.tbsnews.net/bangladesh/education/7-teachers-transferred-after-overseeing-hsc-exams-waterlogged-cumilla-college",
       "pubDate": "Fri, 24 Jul 2026 11:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/1000187327.jpg",
       "snippet": "Under the order, the seven teachers have been asked to be released from their current workplace by 29 July."
-    },
-    {
-      "title": "Heavy rainfall likely in 3 divisions",
-      "link": "https://www.tbsnews.net/bangladesh/heavy-rainfall-likely-3-divisions-1496526",
-      "pubDate": "Fri, 24 Jul 2026 11:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/messenger_creation_e64dd676-0c31-4510-ac08-42e81e4dedb6.jpeg",
-      "snippet": "Cox's Bazar recorded the highest rainfall in the country, with 83mm in the 24 hours until 6am today."
-    },
-    {
-      "title": "BGB foils BSF attempt to push in 8 people through Kushtia border",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-foils-bsf-attempt-push-8-people-through-kushtia-border-1496511",
-      "pubDate": "Fri, 24 Jul 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/unnamed.jpg",
-      "snippet": "The incident occurred at around 5:10am in the border area under the jurisdiction of the Joypur Border Outpost (BOP) of the Kushtia Battalion (47 BGB)."
-    },
-    {
-      "title": "Govt appoints heads of 12 agencies, boards and corporations on contract  ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-heads-12-agencies-boards-and-corporations-contract-1496486",
-      "pubDate": "Fri, 24 Jul 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/ministry_of_public_administration.jpg",
-      "snippet": "Eleven appointees get grade-2 status for one-year terms."
-    },
-    {
-      "title": "Even I am a victim: BTMA president exposes unchecked extortion in industries ",
-      "link": "https://www.tbsnews.net/bangladesh/crime/even-i-am-victim-btma-president-exposes-unchecked-extortion-industries-1496396",
-      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fabric_wastage_extortion_p1_24072026.jpg",
-      "snippet": "Even Showkat Aziz Russell, president of the Bangladesh Textile Mills Association (BTMA), said he had personally fallen victim to extortion."
     },
     {
       "title": "24 July 2024: When fear became routine",
@@ -235,10 +268,10 @@
       "title": "Trade deficit widens 24% as exports fall and capital imports slump",
       "link": "https://www.tbsnews.net/economy/trade-deficit-widens-24-exports-fall-and-capital-imports-slump-1496436",
       "pubDate": "Fri, 24 Jul 2026 09:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
       "snippet": "The external trade is presenting a stark, two-way picture. On one hand, a slowdown in industrial raw material and capital machinery imports points to sluggish domestic manufacturing; on the other, export earnings have failed to meet expectations. Con..."
     },
@@ -252,6 +285,28 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/img_8336_0.jpeg",
       "snippet": "Worth $1.5 billion to expand advanced semiconductor ‌packaging and test capacity in the US, as the chip industry races to build out AI infrastructure."
+    },
+    {
+      "title": "Bangladesh’s liver disease pattern shifts as fatty liver cases rise",
+      "link": "https://www.tbsnews.net/bangladesh/health/bangladeshs-liver-disease-pattern-shifts-fatty-liver-cases-rise-1496391",
+      "pubDate": "Fri, 24 Jul 2026 09:00:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fatty_liver.jpg",
+      "snippet": "Hepatitis B cases fell from 51.1% to 44.4% over the decade"
+    },
+    {
+      "title": "98.4% of mothers, children in Bangladesh lack health insurance: BBS",
+      "link": "https://www.tbsnews.net/bangladesh/health/984-mothers-children-bangladesh-lack-health-insurance-bbs-1496376",
+      "pubDate": "Fri, 24 Jul 2026 01:20:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/measles.jpeg",
+      "snippet": "The latest BBS MICS survey found that fewer than 2% of mothers and children in Bangladesh are covered by health insurance, highlighting the country's limited financial protection against healthcare costs."
     },
     {
       "title": "BB governor urges new Al-Arafah Islami Bank board to step up loan recovery",
@@ -331,6 +386,17 @@
       "snippet": "China’s Hengli Group, through its subsidiary Lead Bangladesh Textile Technology Co Ltd, is investing nearly $35 million at the Bangladesh Special Economic Zone (BSEZ) in Araihazar to establish an advanced textile manufacturing facility."
     },
     {
+      "title": "Dengue death toll reaches 39 as 1 more patient dies in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-39-one-more-patient-dies-24hrs-1496101",
+      "pubDate": "Thu, 23 Jul 2026 20:00:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
+      "snippet": "450 new patients were admitted to hospitals across the country"
+    },
+    {
       "title": "Trump’s UN wager and a global peace body losing its grip",
       "link": "https://www.tbsnews.net/features/big-picture/trumps-un-wager-and-global-peace-body-losing-its-grip-1496046",
       "pubDate": "Thu, 23 Jul 2026 18:25:00 +0600",
@@ -364,6 +430,17 @@
       "snippet": "The draft strategy for 2026-2030 outlines priorities including improving graduate employability, strengthening university-industry links, advancing digital transformation and attracting international students."
     },
     {
+      "title": "Measles: Death toll rises to 805 as 2 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/death-toll-rises-805-2-more-children-die-24hrs-1495776",
+      "pubDate": "Thu, 23 Jul 2026 15:55:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
+      "snippet": "The number of suspected measles deaths has risen to 710, while laboratory-confirmed deaths now stand at 95."
+    },
+    {
       "title": "HSC exams under Ctg board to resume 27 July",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-under-chattogram-board-resume-27-july-1495751",
       "pubDate": "Thu, 23 Jul 2026 15:30:00 +0600",
@@ -395,6 +472,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/pm.jpg",
       "snippet": "The prime minister promises reforms to attract long-term investment and private sector growth."
+    },
+    {
+      "title": "Bangladesh achieves first ventilator-assisted brainstem glioma radiotherapy success",
+      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-achieves-first-ventilator-assisted-brainstem-glioma-radiotherapy",
+      "pubDate": "Thu, 23 Jul 2026 12:30:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/evercare_ctg.jpg",
+      "snippet": "Delivering 30 radiotherapy sessions to a critically ill patient on mechanical ventilation marked a milestone for cancer care in Bangladesh."
     },
     {
       "title": "Google Q2 revenue tops expectations as AI, ads drive strong growth",
@@ -760,5 +848,5 @@
       "snippet": "Freshers allegedly faced mental harassment and intimidation during a late-night incident."
     }
   ],
-  "updatedAt": "2026-07-24T11:42:42.695Z"
+  "updatedAt": "2026-07-24T13:45:34.716Z"
 }
