@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Fakhrul urges people to ignore 'rumours' over President's resignation",
+      "link": "https://www.tbsnews.net/bangladesh/fakhrul-urges-people-ignore-rumours-over-presidents-resignation-1496591",
+      "pubDate": "Fri, 24 Jul 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/15/fakhrul.png",
+      "snippet": "His comments came amid widespread speculations that the President may step down in a day or two, citing ill health."
+    },
+    {
+      "title": "Fakhrul vows democratic reforms, economic recovery",
+      "link": "https://www.tbsnews.net/bangladesh/fakhrul-vows-democratic-reforms-economic-recovery-1496581",
+      "pubDate": "Fri, 24 Jul 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/mirza_fakhrul.jpg",
+      "snippet": "He further emphasised regional cooperation, saying Prime Minister Tarique Rahman has pledged to attract greater international participation in Bangladesh's economic development."
+    },
+    {
+      "title": "Ctg salt factory fire: Death toll rises to 5 as another with 65% burns passes away",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-salt-factory-fire-death-toll-rises-5-another-65-burns-passes-away-1496571",
+      "pubDate": "Fri, 24 Jul 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/05/death.jpg",
+      "snippet": "Mahmudul Haque was the latest to die from injuries sustained in the fire."
+    },
+    {
+      "title": "Faridpur BNP leader expelled for 'moral turpitude' after viral video",
+      "link": "https://www.tbsnews.net/bangladesh/faridpur-bnp-leader-expelled-moral-turpitude-after-viral-video-1496551",
+      "pubDate": "Fri, 24 Jul 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/img_8341.jpeg",
+      "snippet": "The expelled leader is Md Obaidur Rahman, organising secretary of Aliabad union unit of BNP in Sadar upazila."
+    },
+    {
+      "title": "7 teachers transferred after overseeing HSC exams at waterlogged Cumilla college",
+      "link": "https://www.tbsnews.net/bangladesh/education/7-teachers-transferred-after-overseeing-hsc-exams-waterlogged-cumilla-college",
+      "pubDate": "Fri, 24 Jul 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/1000187327.jpg",
+      "snippet": "Under the order, the seven teachers have been asked to be released from their current workplace by 29 July."
+    },
+    {
+      "title": "Heavy rainfall likely in 3 divisions",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rainfall-likely-3-divisions-1496526",
+      "pubDate": "Fri, 24 Jul 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/messenger_creation_e64dd676-0c31-4510-ac08-42e81e4dedb6.jpeg",
+      "snippet": "Cox's Bazar recorded the highest rainfall in the country, with 83mm in the 24 hours until 6am today."
+    },
+    {
+      "title": "BGB foils BSF attempt to push in 8 people through Kushtia border",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-foils-bsf-attempt-push-8-people-through-kushtia-border-1496511",
+      "pubDate": "Fri, 24 Jul 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/unnamed.jpg",
+      "snippet": "The incident occurred at around 5:10am in the border area under the jurisdiction of the Joypur Border Outpost (BOP) of the Kushtia Battalion (47 BGB)."
+    },
+    {
+      "title": "Govt appoints heads of 12 agencies, boards and corporations on contract  ",
+      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-heads-12-agencies-boards-and-corporations-contract-1496486",
+      "pubDate": "Fri, 24 Jul 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/ministry_of_public_administration.jpg",
+      "snippet": "Eleven appointees get grade-2 status for one-year terms."
+    },
+    {
       "title": "Even I am a victim: BTMA president exposes unchecked extortion in industries ",
       "link": "https://www.tbsnews.net/bangladesh/crime/even-i-am-victim-btma-president-exposes-unchecked-extortion-industries-1496396",
       "pubDate": "Fri, 24 Jul 2026 10:00:00 +0600",
@@ -10,6 +98,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fabric_wastage_extortion_p1_24072026.jpg",
       "snippet": "Even Showkat Aziz Russell, president of the Bangladesh Textile Mills Association (BTMA), said he had personally fallen victim to extortion."
+    },
+    {
+      "title": "24 July 2024: When fear became routine",
+      "link": "https://www.tbsnews.net/features/panorama/24-july-2024-when-fear-became-routine-1495936",
+      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/20240722_rajibdhar_9657.jpg",
+      "snippet": "While victims continued to die from their injuries, security operations expanded, offices resumed under curfew restrictions, and the return of internet connectivity began to reveal the scale of the massacre"
     },
     {
       "title": "Trade deficit widens 24% as exports fall and capital imports slump",
@@ -188,50 +287,6 @@
       "snippet": "Bank official Parveen Sultana and her father Ilias Chowdhury were murdered in Lobonchora"
     },
     {
-      "title": "Premier Bank posts Tk388cr H1 loss",
-      "link": "https://www.tbsnews.net/economy/stocks/premier-bank-posts-tk388cr-h1-loss-1496246",
-      "pubDate": "Thu, 23 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/29/premier_bank.png",
-      "snippet": "The bank’s net operating cash flow per share improved to Tk9.75 in the first half of 2026, compared with a negative Tk7.64 during the same period last year."
-    },
-    {
-      "title": "Over 15 million people face acute food insecurity in Bangladesh: Report",
-      "link": "https://www.tbsnews.net/bangladesh/over-15-million-people-face-acute-food-insecurity-bangladesh-report-1496251",
-      "pubDate": "Thu, 23 Jul 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
-      "snippet": "A new national food security analysis warns that 15.3 million people are currently experiencing acute food insecurity, with the number projected to rise to 18.1 million by the end of 2026 without timely intervention."
-    },
-    {
-      "title": "Speaker likely to return early from Thailand amid speculation over president's resignation",
-      "link": "https://www.tbsnews.net/bangladesh/speaker-likely-return-early-thailand-amid-speculation-over-presidents-resignation-1496236",
-      "pubDate": "Thu, 23 Jul 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/president_mohammed_shahabuddin_speaker_hafiz_uddin_ahmad-converted-from-webp.jpeg",
-      "snippet": "The speaker is expected to return from Thailand tomorrow (24 July), two days earlier than planned, amid speculation over President Mohammed Shahabuddin's possible resignation."
-    },
-    {
-      "title": "Hours lost in queues as gas crisis lingers",
-      "link": "https://www.tbsnews.net/bangladesh/energy/long-gas-queues-leave-drivers-stranded-lng-terminal-fault-cuts-supply-1496216",
-      "pubDate": "Thu, 23 Jul 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/no_cng_gas1.jpg",
-      "snippet": "FSRU repairs under way, operations expected to resume soon."
-    },
-    {
       "title": "Bida converts $400m of $1.5b investment pipeline",
       "link": "https://www.tbsnews.net/economy/bida-converts-400m-15bn-investment-pipeline-1496186",
       "pubDate": "Thu, 23 Jul 2026 21:20:00 +0600",
@@ -241,50 +296,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/28/bida_logo_new.jpg",
       "snippet": "China’s Hengli Group, through its subsidiary Lead Bangladesh Textile Technology Co Ltd, is investing nearly $35 million at the Bangladesh Special Economic Zone (BSEZ) in Araihazar to establish an advanced textile manufacturing facility."
-    },
-    {
-      "title": "Shama sees greater Saudi trade, investment, workforce opportunities",
-      "link": "https://www.tbsnews.net/bangladesh/shama-sees-greater-saudi-trade-investment-workforce-opportunities-1496166",
-      "pubDate": "Thu, 23 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/shama_obaed.png",
-      "snippet": "Shama commended SABCCI's efforts and reaffirmed the ministry's continued support for strengthening Bangladesh-Saudi economic relations."
-    },
-    {
-      "title": "Gas shortage leaves vehicles queuing for hours at Brahmanbaria filling stations",
-      "link": "https://www.tbsnews.net/bangladesh/energy/gas-shortage-leaves-vehicles-queuing-hours-brahmanbaria-filling-stations-1496156",
-      "pubDate": "Thu, 23 Jul 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/752177790_1679182666630521_2407820384837054596_n.jpg",
-      "snippet": "A gas shortage and low pressure at CNG filling stations have forced drivers to queue for hours, reducing the number of trips they can make each day."
-    },
-    {
-      "title": "Chinese ambassador calls on BB governor; talks focus on trade, investment and digital payment",
-      "link": "https://www.tbsnews.net/bangladesh/chinese-ambassador-calls-bb-governor-talks-focus-trade-investment-and-digital-payment",
-      "pubDate": "Thu, 23 Jul 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/chinese_envoy_meeting_with_bb_governor_23july.jpg",
-      "snippet": "During the meeting, both sides exchanged views on further strengthening bilateral economic and trade relations between Bangladesh and China."
-    },
-    {
-      "title": "Rail blockade by RU students causes Tk35 lakh revenue loss: Railway",
-      "link": "https://www.tbsnews.net/bangladesh/rail-blockade-ru-students-causes-tk35-lakh-revenue-loss-railway-1496116",
-      "pubDate": "Thu, 23 Jul 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/06/bangladesh_railway_0.png",
-      "snippet": "Bangladesh Railway apologised for passenger suffering, saying around 20,000 travellers were affected due to the blockade."
     },
     {
       "title": "Dengue death toll reaches 39 as 1 more patient dies in 24hrs",
@@ -318,17 +329,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
       "snippet": "Manufacturer-exporters who settled EDF liabilities through funded facilities will remain ineligible for fresh loans until their overdue export proceeds are repatriated or exempted by the Discount Committee."
-    },
-    {
-      "title": "24 July 2024: When fear became routine",
-      "link": "https://www.tbsnews.net/features/panorama/24-july-2024-when-fear-became-routine-1495936",
-      "pubDate": "Thu, 23 Jul 2026 17:55:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/20240722_rajibdhar_9657.jpg",
-      "snippet": "While victims continued to die from their injuries, security operations expanded, offices resumed under curfew restrictions, and the return of internet connectivity began to reveal the scale of the massacre"
     },
     {
       "title": "UGC drafts 5-year roadmap to transform higher education",
@@ -769,62 +769,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/77961178_906.jpg",
       "snippet": "Oil and gas producers in the Gulf are seeking alternatives to the Strait of Hormuz as traffic again comes under fire. But is Iran also turning its attention to the pipelines meant to bypass the waterway?"
-    },
-    {
-      "title": "Do nations need investment summits at home and abroad?",
-      "link": "https://www.tbsnews.net/thoughts/do-nations-need-investment-summits-home-and-abroad-1493726",
-      "pubDate": "Tue, 21 Jul 2026 12:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/07/ahsan_h_mansur_-_investment_summit.jpg",
-      "snippet": "Bangladesh's investment problem is no longer a lack of promotion but a lack of reform. Unless the country tackles regulatory uncertainty, corruption and the high cost of doing business, it will continue to lose investors to regional competitors"
-    },
-    {
-      "title": "Bangladesh urgently needs bonds, not bank loans",
-      "link": "https://www.tbsnews.net/thoughts/bangladesh-urgently-needs-bonds-not-bank-loans-1493721",
-      "pubDate": "Tue, 21 Jul 2026 12:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/19/bond-market-in-bangladesh-not-so-vibrant-but-promising.jpg",
-      "snippet": "As concessional financing declines, Bangladesh must build a deep bond market and expand Sukuk to mobilise domestic savings, reduce reliance on banks, and finance long-term developmen"
-    },
-    {
-      "title": "Ctg HSC exams not resuming on 27 July, viral notice fake: Inter-education board panel",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-ctg-not-resuming-27-july-viral-notice-fake-inter-education-board",
-      "pubDate": "Tue, 21 Jul 2026 12:10:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/27/hsc_results.jpeg",
-      "snippet": "Social media posts on the matter are misleading, the panel says in an urgent clarification."
-    },
-    {
-      "title": "India approves its first dengue vaccine",
-      "link": "https://www.tbsnews.net/world/south-asia/india-approves-its-first-dengue-vaccine-1493631",
-      "pubDate": "Tue, 21 Jul 2026 11:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
-      "snippet": "“This is the first dengue vaccine approved in the country for the prevention of dengue,” an official statement said"
-    },
-    {
-      "title": "Govt sets ambitious post-LDC targets as investment languishes",
-      "link": "https://www.tbsnews.net/economy/govt-sets-ambitious-post-ldc-targets-investment-languishes-1493556",
-      "pubDate": "Tue, 21 Jul 2026 11:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/17/ldc_graduate.jpg",
-      "snippet": "The targets are outlined in the Country Programme Document 2026-2031, prepared by the commerce ministry with financial support from the World Trade Organisation (WTO)."
     }
   ],
-  "updatedAt": "2026-07-24T04:22:31.153Z"
+  "updatedAt": "2026-07-24T07:07:27.283Z"
 }
