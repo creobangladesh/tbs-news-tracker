@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Measles outbreak: Death toll reaches 810 as 5 more die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-810-5-more-die-24-hours-1496736",
+      "pubDate": "Fri, 24 Jul 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
+      "snippet": "With the latest update, the number of suspected measles deaths rose to 715, while laboratory-confirmed measles deaths reached 95."
+    },
+    {
+      "title": "Sub-inspector stabbed in Mohammadpur, receives 43 stitches  ",
+      "link": "https://www.tbsnews.net/bangladesh/sub-inspector-stabbed-mohammadpur-receives-43-stitches-1496721",
+      "pubDate": "Fri, 24 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/20/mohammadpur.jpg",
+      "snippet": "Despite being injured, the police officer chased the attacker but failed to catch him."
+    },
+    {
+      "title": "President Shahabuddin resigns",
+      "link": "https://www.tbsnews.net/bangladesh/president-resigning-speaker-brief-media-parliament-5pm-1496726",
+      "pubDate": "Fri, 24 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/president_shahabuddin_bss_1.jpg",
+      "snippet": "Speaker of the National Parliament Hafiz Uddin Ahmad will hold an emergency press conference at 5pm today."
+    },
+    {
       "title": "Ducsu launches 'female zone' at TSC cafeteria, sparks criticism  ",
       "link": "https://www.tbsnews.net/bangladesh/education/ducsu-launches-female-zone-tsc-cafeteria-sparks-criticism-1496706",
       "pubDate": "Fri, 24 Jul 2026 15:30:00 +0600",
@@ -221,48 +254,15 @@
       "snippet": "Worth $1.5 billion to expand advanced semiconductor ‌packaging and test capacity in the US, as the chip industry races to build out AI infrastructure."
     },
     {
-      "title": "Bangladesh’s liver disease pattern shifts as fatty liver cases rise",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladeshs-liver-disease-pattern-shifts-fatty-liver-cases-rise-1496391",
-      "pubDate": "Fri, 24 Jul 2026 09:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fatty_liver.jpg",
-      "snippet": "Hepatitis B cases fell from 51.1% to 44.4% over the decade"
-    },
-    {
-      "title": "98.4% of mothers, children in Bangladesh lack health insurance: BBS",
-      "link": "https://www.tbsnews.net/bangladesh/health/984-mothers-children-bangladesh-lack-health-insurance-bbs-1496376",
-      "pubDate": "Fri, 24 Jul 2026 01:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/measles.jpeg",
-      "snippet": "The latest BBS MICS survey found that fewer than 2% of mothers and children in Bangladesh are covered by health insurance, highlighting the country's limited financial protection against healthcare costs."
-    },
-    {
       "title": "BB governor urges new Al-Arafah Islami Bank board to step up loan recovery",
       "link": "https://www.tbsnews.net/economy/banking/bb-governor-urges-new-al-arafah-islami-bank-board-step-loan-recovery-1496371",
       "pubDate": "Fri, 24 Jul 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/12/bangladesh_bank_governor_mostaqur_rahman.png",
       "snippet": "On 15 July, Bangladesh Bank restored the bank’s shareholder-directors to the board."
-    },
-    {
-      "title": "3 of Bangladeshi family killed in Saudi road crash on way to Umrah",
-      "link": "https://www.tbsnews.net/bangladesh/3-bangladeshi-family-killed-saudi-road-crash-way-umrah-1496361",
-      "pubDate": "Fri, 24 Jul 2026 00:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
-      "snippet": "A Bangladeshi family travelling from Riyadh to Makkah to perform Umrah met with a fatal road accident after their car was reportedly struck from behind by a heavy vehicle."
     },
     {
       "title": "Cenbank moves to scrap 'haircut' on deposits at five merged Islamic banks",
@@ -331,17 +331,6 @@
       "snippet": "China’s Hengli Group, through its subsidiary Lead Bangladesh Textile Technology Co Ltd, is investing nearly $35 million at the Bangladesh Special Economic Zone (BSEZ) in Araihazar to establish an advanced textile manufacturing facility."
     },
     {
-      "title": "Dengue death toll reaches 39 as 1 more patient dies in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-39-one-more-patient-dies-24hrs-1496101",
-      "pubDate": "Thu, 23 Jul 2026 20:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
-      "snippet": "450 new patients were admitted to hospitals across the country"
-    },
-    {
       "title": "Trump’s UN wager and a global peace body losing its grip",
       "link": "https://www.tbsnews.net/features/big-picture/trumps-un-wager-and-global-peace-body-losing-its-grip-1496046",
       "pubDate": "Thu, 23 Jul 2026 18:25:00 +0600",
@@ -375,17 +364,6 @@
       "snippet": "The draft strategy for 2026-2030 outlines priorities including improving graduate employability, strengthening university-industry links, advancing digital transformation and attracting international students."
     },
     {
-      "title": "Measles: Death toll rises to 805 as 2 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/death-toll-rises-805-2-more-children-die-24hrs-1495776",
-      "pubDate": "Thu, 23 Jul 2026 15:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
-      "snippet": "The number of suspected measles deaths has risen to 710, while laboratory-confirmed deaths now stand at 95."
-    },
-    {
       "title": "HSC exams under Ctg board to resume 27 July",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-under-chattogram-board-resume-27-july-1495751",
       "pubDate": "Thu, 23 Jul 2026 15:30:00 +0600",
@@ -417,17 +395,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/pm.jpg",
       "snippet": "The prime minister promises reforms to attract long-term investment and private sector growth."
-    },
-    {
-      "title": "Bangladesh achieves first ventilator-assisted brainstem glioma radiotherapy success",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-achieves-first-ventilator-assisted-brainstem-glioma-radiotherapy",
-      "pubDate": "Thu, 23 Jul 2026 12:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/evercare_ctg.jpg",
-      "snippet": "Delivering 30 radiotherapy sessions to a critically ill patient on mechanical ventilation marked a milestone for cancer care in Bangladesh."
     },
     {
       "title": "Google Q2 revenue tops expectations as AI, ads drive strong growth",
@@ -793,5 +760,5 @@
       "snippet": "Freshers allegedly faced mental harassment and intimidation during a late-night incident."
     }
   ],
-  "updatedAt": "2026-07-24T09:54:50.191Z"
+  "updatedAt": "2026-07-24T11:42:42.695Z"
 }
