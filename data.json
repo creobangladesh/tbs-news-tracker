@@ -1,7 +1,95 @@
 {
   "news": [
     {
-      "title": "Fakhrul urges people to ignore 'rumours' over President's resignation",
+      "title": "Ducsu launches 'female zone' at TSC cafeteria, sparks criticism  ",
+      "link": "https://www.tbsnews.net/bangladesh/education/ducsu-launches-female-zone-tsc-cafeteria-sparks-criticism-1496706",
+      "pubDate": "Fri, 24 Jul 2026 15:30:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/female_zone_posing.jpg",
+      "snippet": "Many students have questioned why such an initiative was prioritised before addressing long-standing demands of women students regarding sanitation, washroom conditions and security at the TSC."
+    },
+    {
+      "title": "Investment-led production with job creation holds key to Bangladesh's next growth phase: PM's Adviser",
+      "link": "https://www.tbsnews.net/bangladesh/investment-led-production-job-creation-holds-key-bangladeshs-next-growth-phase-pms",
+      "pubDate": "Fri, 24 Jul 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/titumir.png",
+      "snippet": "He said the government inherited a fragile fiscal situation but now has both the political mandate and responsibility to pursue transformative reforms."
+    },
+    {
+      "title": "BSF push-in attempt through Chapainawabganj border foiled",
+      "link": "https://www.tbsnews.net/bangladesh/bsf-push-attempt-through-chapainawabganj-border-foiled-1496686",
+      "pubDate": "Fri, 24 Jul 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/india_bangladesh_forced_migration.png",
+      "snippet": "12 BSF Battalion's Tilashan Camp allegedly tried to push the seven men into Bangladesh around 6:30am"
+    },
+    {
+      "title": "President Shahabuddin may resign today or tomorrow: Reports",
+      "link": "https://www.tbsnews.net/bangladesh/politics/president-shahabuddin-may-resign-today-or-tomorrow-reports-1496666",
+      "pubDate": "Fri, 24 Jul 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/20/9798158.jpg",
+      "snippet": "Under the Constitution, a president has to submit the resignation letter to the speaker, who serves as acting president until a new president is elected."
+    },
+    {
+      "title": "Bangladesh, IOM sign EU-funded project to strengthen climate mobility response",
+      "link": "https://www.tbsnews.net/bangladesh/migration/bangladesh-iom-sign-eu-funded-project-strengthen-climate-mobility-response",
+      "pubDate": "Fri, 24 Jul 2026 14:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/10/migrationsymp_hero_940x529.jpg",
+      "snippet": "The three-year initiative, titled \"Promoting a Comprehensive Approach to Climate Mobility in South Asian Countries\", seeks to strengthen governance and institutional capacity on climate mobility while supporting regional cooperation on climate-relate..."
+    },
+    {
+      "title": "New US tariff is a replacement, not an additional levy: Commerce minister",
+      "link": "https://www.tbsnews.net/bangladesh/new-us-tariff-replacement-not-additional-levy-commerce-minister-1496646",
+      "pubDate": "Fri, 24 Jul 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/khandakar_muktadir.jpg",
+      "snippet": "The existing tariff rate will remain in force after midnight, although under a different name, says Commerce Minister Khandakar Abdul Muktadir."
+    },
+    {
+      "title": "Newly appointed navy chief pays tribute at Shikha Anirban ",
+      "link": "https://www.tbsnews.net/bangladesh/newly-appointed-navy-chief-pays-tribute-shikha-anirban-1496626",
+      "pubDate": "Fri, 24 Jul 2026 13:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/753550594_1563759805533929_281360196198008675_n.jpg",
+      "snippet": "The navy chief arrived at Naval Headquarters, where he was received by the Principal Staff Officers"
+    },
+    {
+      "title": "Unaware of any plan for president's resignation, Speaker Hafiz says after returning home ",
+      "link": "https://www.tbsnews.net/bangladesh/speaker-cuts-thailand-visit-short-returns-home-2-days-early-1496616",
+      "pubDate": "Fri, 24 Jul 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/24-07-26-speaker_airport-4.jpg",
+      "snippet": "'I was outside the country, so I have no knowledge of who may or may not resign. Perhaps I will know now,' says Parliament Speaker Hafiz Uddin Ahmad."
+    },
+    {
+      "title": "Fakhrul urges people to ignore 'rumours' over president's resignation",
       "link": "https://www.tbsnews.net/bangladesh/fakhrul-urges-people-ignore-rumours-over-presidents-resignation-1496591",
       "pubDate": "Fri, 24 Jul 2026 12:50:00 +0600",
       "category": "Bangladesh",
@@ -177,17 +265,6 @@
       "snippet": "A Bangladeshi family travelling from Riyadh to Makkah to perform Umrah met with a fatal road accident after their car was reportedly struck from behind by a heavy vehicle."
     },
     {
-      "title": "President Shahabuddin, former ally of ousted PM Hasina, to resign today: Reuters",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-president-backed-ousted-pm-hasina-resign-friday-reuters-1496356",
-      "pubDate": "Fri, 24 Jul 2026 00:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/shahabuddin_president.jpg",
-      "snippet": "One source says Shahabuddin informed Tarique on Tuesday and a formal announcement would be made ​on Friday."
-    },
-    {
       "title": "Cenbank moves to scrap 'haircut' on deposits at five merged Islamic banks",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-moves-scrap-haircut-deposits-five-merged-islamic-banks-1496346",
       "pubDate": "Fri, 24 Jul 2026 00:10:00 +0600",
@@ -210,24 +287,13 @@
       "snippet": "Authorities aim to complete national risk assessments in five key areas by December before an Asia Pacific Group team reviews Bangladesh's preparedness in August."
     },
     {
-      "title": "President says resignation question 'embarrassing' while Salahuddin says govt 'unaware' of such decision",
-      "link": "https://www.tbsnews.net/bangladesh/president-says-resignation-question-embarrassing-while-salahuddin-says-govt-unaware-such",
-      "pubDate": "Thu, 23 Jul 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/president_home_minister.png",
-      "snippet": "Asked about reports of a phone conversation with Hasina, Shahabuddin said, “Only when someone has lost their mind will they come up with such concocted stuff. It is baseless, baseless and baseless. Totally baseless.”"
-    },
-    {
       "title": "Bangladesh needs $15b annual FDI by 2030 to sustain growth: Ficci",
       "link": "https://www.tbsnews.net/economy/bangladesh-needs-15b-annual-fdi-2030-sustain-growth-ficci-1496336",
       "pubDate": "Thu, 23 Jul 2026 23:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
       "snippet": "PM invites global investors to partner in Bangladesh’s economic transformation."
     },
@@ -243,48 +309,15 @@
       "snippet": "According to the study, the system would be built on the open-source Mojaloop platform to enable instant, low-cost and interoperable transactions across banks, mobile financial service providers and other financial institutions."
     },
     {
-      "title": "12 police officers transferred, including 7 Addl SPs and 5 ASPs",
-      "link": "https://www.tbsnews.net/bangladesh/12-police-officers-transferred-including-seven-addl-sps-and-five-asps-1496291",
-      "pubDate": "Thu, 23 Jul 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
-      "snippet": "The transfers were made through three separate notifications issued by the inspector general of police"
-    },
-    {
-      "title": "Higher import duty slashes fish imports through Benapole, raises revenue concerns",
-      "link": "https://www.tbsnews.net/bangladesh/higher-import-duty-slashes-fish-imports-through-benapole-raises-revenue-concerns-1496271",
-      "pubDate": "Thu, 23 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/26/benapole.jpg",
-      "snippet": "Traders say the higher duties could reduce fish supplies, push up prices in the domestic market and ultimately lower government revenue if imports continue to decline."
-    },
-    {
       "title": "Bangladesh to host first national semiconductor summit as deep-tech ambitions gather pace",
       "link": "https://www.tbsnews.net/tech/bangladesh-host-first-national-semiconductor-summit-deep-tech-ambitions-gather-pace-1496281",
       "pubDate": "Thu, 23 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/semiconductor.jpg",
       "snippet": "PM Tarique Rahman is expected to inaugurate two-day summit on 25 July"
-    },
-    {
-      "title": "HC confirms death sentences of five in Khulna father-daughter murder case",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-confirms-death-sentences-five-khulna-father-daughter-murder-case-1496256",
-      "pubDate": "Thu, 23 Jul 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/29/death_sentence_0.jpg",
-      "snippet": "Bank official Parveen Sultana and her father Ilias Chowdhury were murdered in Lobonchora"
     },
     {
       "title": "Bida converts $400m of $1.5b investment pipeline",
@@ -758,18 +791,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/ju.jpg",
       "snippet": "Freshers allegedly faced mental harassment and intimidation during a late-night incident."
-    },
-    {
-      "title": "Iran’s oil supply threat extends beyond Strait of Hormuz ",
-      "link": "https://www.tbsnews.net/features/panorama/irans-oil-supply-threat-extends-beyond-strait-hormuz-1493796",
-      "pubDate": "Tue, 21 Jul 2026 13:25:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/77961178_906.jpg",
-      "snippet": "Oil and gas producers in the Gulf are seeking alternatives to the Strait of Hormuz as traffic again comes under fire. But is Iran also turning its attention to the pipelines meant to bypass the waterway?"
     }
   ],
-  "updatedAt": "2026-07-24T07:07:27.283Z"
+  "updatedAt": "2026-07-24T09:54:50.191Z"
 }
